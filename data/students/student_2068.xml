@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2068</studentId>
+  <studentName>NICHOLAUS MRIMI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UNYANYEMBE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0765-0061-2000</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAZENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0131-0567-2003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+225719895415</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HABIBA YUSUF</kinName>
+      <relationship>SPAUSE</relationship>
+      <postalAddress>300 TUKUYU</postalAddress>
+      <physicalAddress>TUKUYU</physicalAddress>
+      <fax/>
+      <telephone>0260325310</telephone>
+      <mobile>0766820664</mobile>
+      <email>geniusplus2010@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

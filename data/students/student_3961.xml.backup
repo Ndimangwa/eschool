@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3961</studentId>
+  <studentName>Stephano M Herman</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Benjamin W Mkapa High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0960/0503/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Benjamin W Mkapa High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0960/0749/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Isaac</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>p.o.box 15029</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0653063169</telephone>
+      <mobile>0653063169</mobile>
+      <email>Mkananayo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

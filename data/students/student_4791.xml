@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4791</studentId>
+  <studentName>amedeusi .f lemunge</studentName>
+  <accademicHistory><institution><institutionName>MAKUMIRA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>P0329.0057.2013</indexNumber><award>CSEE</award><grade>3.27</grade><startYear>2011</startYear><endYear>2013</endYear></institution><institution><institutionName>EDMUND RICE SINON SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0629.0597.2016</indexNumber><award>ACSEE</award><grade>3.16</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>BETTY FRANCES KIMARIO</sponsorName><payerId>3</payerId><postalAddress>PO BOX 1749 ARUSHA</postalAddress><physicalAddress>ARUMERU</physicalAddress><fax>+255754406399</fax><telephone>0754406399</telephone><mobile>0715406399</mobile><email>Adrian_fances@yahoo.com</email><financedItem>tution fees</financedItem><extraInformation>none</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BETTY FRANCES KIMARIO</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 1749 ARUSHA</postalAddress><physicalAddress>ARUMERU</physicalAddress><fax>+255754406399</fax><telephone>0754406399</telephone><mobile>0715406399</mobile><email>Adrian_fances@yahoo.com</email><extraInformation>none</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>adem&#xE9;is frances lemunge</accountName><bankAccount>408100158666</bankAccount><bankName>NBC</bankName><branchName>CLOCK TOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>775734b5ac30def0215a8750846c95b2</isaacompletechecksum></student>

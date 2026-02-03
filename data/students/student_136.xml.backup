@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>136</studentId>
+  <studentName>ALEX ALEX MBAWALA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KALEMBO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1483/0072</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIDUGALA LUTHERAN SEMINARY</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0167/0573</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.0 BOX 76068 Daresalaam</postalAddress>
+      <physicalAddress>Sam Nujoma ROAD Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOYCE NGWAHI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>PO BOX 363 SONGEA</postalAddress>
+      <physicalAddress>SONGEA</physicalAddress>
+      <fax/>
+      <telephone>02725353006</telephone>
+      <mobile>0755194205</mobile>
+      <email>joycengwahi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

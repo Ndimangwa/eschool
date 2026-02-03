@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3159</studentId>
+  <studentName>JULIETH GODFRIEND MBISE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ANWARITE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0269-0029</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187-0623</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o .BOX 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>0043227772</mobile>
+      <email>info@helb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mbise</kinName>
+      <relationship>mbise</relationship>
+      <postalAddress>P.O .BOX 10</postalAddress>
+      <physicalAddress>kiteto</physicalAddress>
+      <fax/>
+      <telephone>0784873534</telephone>
+      <mobile>0784873534</mobile>
+      <email>juliethmbise15@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

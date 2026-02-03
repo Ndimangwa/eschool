@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5232</studentId>
+  <studentName>LUSUBILO E SHITENTE</studentName>
+  <accademicHistory><institution><institutionName>ILUNGA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2672.0157.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 3</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>TUKUYU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1043.0627.2015</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DSM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>+255222772432</telephone><mobile>+255222700286</mobile><email>Info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ERICK MADABI SHITENTE</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 42</postalAddress><physicalAddress>shitentelusubilo@gmail.com</physicalAddress><fax/><telephone>0765958209</telephone><mobile>0765958209</mobile><email>shitentelusubilo@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>LUSUBILO ERICK SHITENTE</accountName><bankAccount>0152327164300</bankAccount><bankName>CRDB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8e8e875d0861e7bbef03d18a343909d2</isaacompletechecksum></student>

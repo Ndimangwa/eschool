@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4328</studentId>
+  <studentName>JOHN MASSESA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWANZA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0333/0191</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TAMBAZA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0347/0695</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFAKARA MEDICAL TRAINING CENTRE</institutionName>
+      <specialization>CLINICAL OFFICER</specialization>
+      <levelId>8</levelId>
+      <indexNumber>08742</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JORAM MASSESA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O.BOX 416</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0766906676</telephone>
+      <mobile>0766906676</mobile>
+      <email>jojo@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

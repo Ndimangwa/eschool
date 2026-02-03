@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>167</studentId>
+  <studentName>Frank k. Chacha</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Dar-es Salaam Teachers college centre</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P.0728-0070</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tambaza Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0347/0684</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WBUCHS</institutionName>
+      <specialization>Medical Doctor</specialization>
+      <levelId>15</levelId>
+      <indexNumber>SAUT/BUCHS/MD/1039</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Bugando Medical Centre</employerName>
+      <postalAddress>Box 1370</postalAddress>
+      <physicalAddress>Box 1370.Mwanza</physicalAddress>
+      <telephone>+255284061015</telephone>
+      <email>infobmc@bugandomedicalcentre.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MOHSW</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 9083</postalAddress>
+      <physicalAddress>Box 9083 .....Dar-Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222120261</sponsorfax>
+      <mobile>+255222120267</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Ferdinand Chacha</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>BOX 1755</postalAddress>
+      <physicalAddress>Box 1755.Mwanza</physicalAddress>
+      <fax/>
+      <telephone>+255754263347</telephone>
+      <mobile>+255784263347</mobile>
+      <email>cfbuiders2011@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

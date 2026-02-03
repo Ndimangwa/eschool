@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>408</studentId>
+  <studentName>MIRIAM HAMISI MVUNTA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TALA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>301308/018</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>EASTERN AFRICA STATISTICAL TRAINING CENTRE</institutionName>
+      <specialization>STATISTICS</specialization>
+      <levelId>8</levelId>
+      <indexNumber>EASTC/347/2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MZUMBE UNIVERSITY</institutionName>
+      <specialization>BSC. APPLIED STATISTICS</specialization>
+      <levelId>15</levelId>
+      <indexNumber>8833/T.08</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KCMU-COLLEGE</employerName>
+      <postalAddress>P.O BOX 2240</postalAddress>
+      <physicalAddress>KCMC</physicalAddress>
+      <telephone>+255272753616</telephone>
+      <email>info@kcmu.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>THRIVE CONSORTIUM</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 2240 MOSHI</postalAddress>
+      <physicalAddress>KCMC</physicalAddress>
+      <fax/>
+      <sponsorfax>+255272753616</sponsorfax>
+      <mobile>+255272753616</mobile>
+      <email>info@thrive.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PETER VALERIAN MMBANDO</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>P.O BOX 345-DSM</postalAddress>
+      <physicalAddress>UBUNGO</physicalAddress>
+      <fax/>
+      <telephone>+255714517750</telephone>
+      <mobile>+255714517750</mobile>
+      <email>mrmansuit@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

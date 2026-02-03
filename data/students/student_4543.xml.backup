@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4543</studentId>
+  <studentName>NGIRINSHUTI  JEAN  PAUL</studentName>
+  <accademicHistory><institution><institutionName>GROUPE SCOLAIRE MATER DEI NYANZA</institutionName><specialization>Biology and Chemistry</specialization><levelId>8</levelId><indexNumber>EA100316</indexNumber><award>Advanced certificate of secondary educate</award><grade>Certificate of secondary education</grade><startYear>1993</startYear><endYear>1999</endYear></institution><institution><institutionName>UNIVERSITY OF RWANDA</institutionName><specialization>GENERAL MEDICINE</specialization><levelId>8</levelId><indexNumber>E17066</indexNumber><award>BACHELOR   DEGREE</award><grade>SATISFACTION</grade><startYear>2002</startYear><endYear>2008</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>HVP GATAGARA</employerName><postalAddress>P.O BOX 1134 KIGALI</postalAddress><physicalAddress>RWANDA - NYANZA</physicalAddress><fax/><telephone>+250788300988</telephone><mobile>+250788300988</mobile><email>kmisago@yahoo.fr</email><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HVP GATAGARA</sponsorName><payerId>10</payerId><postalAddress>PO BOX 1134 KIGALI</postalAddress><physicalAddress>RWANDA/NYANZA</physicalAddress><fax/><telephone>+250788300988</telephone><mobile>+250788300988</mobile><email>Kmisago@yahoo.fr</email><financedItem>FULL SPONSORSHIP</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>NGIRINSHUTI  JEAN  PAUL</accountName><bankAccount>00085-0611068-26 BK</bankAccount><bankName>BANK OF KIGALI</bankName><branchName>RUHANGO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b786b3722318d7ea8b644ed286b423f3</isaacompletechecksum></student>

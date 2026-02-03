@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>395</studentId>
+  <studentName>CONSOLATA REUBEN KYENGU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOWAK GIRLS</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0241/0015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA GIRLS </institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0276/0588</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education student loan body</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 dar ea salaam</postalAddress>
+      <physicalAddress>255222772432</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HAPPY KYENGU</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>321 tabora</postalAddress>
+      <physicalAddress>0767106158</physicalAddress>
+      <fax/>
+      <telephone>0756211678</telephone>
+      <mobile>+255767106158</mobile>
+      <email>happykyengu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

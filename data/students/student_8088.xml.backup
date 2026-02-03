@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8088</studentId>
+  <studentName>CHRISTINA WENGA</studentName>
+  <accademicHistory><institution><institutionName>TUKUYU DAY SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0332.0024.2013</indexNumber><award>CERTIFICATE FOR SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>CHRISTINA WENGA</sponsorName><payerId>3</payerId><postalAddress>Morogoro</postalAddress><physicalAddress>PO Box 644</physicalAddress><fax/><telephone/><mobile>+255716798194</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHRISTINA WENGA</kinName><relationship>GRANDMOTHER</relationship><postalAddress>MOROGORO</postalAddress><physicalAddress>PO Box 644</physicalAddress><fax/><telephone>+255716798194</telephone><mobile>+255716798194</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>CHRISTINA WENGA</accountName><bankAccount>0152422346100</bankAccount><bankName>CRDB BANK</bankName><branchName>TUKUYU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b81384c7ded65fb2930770c13d30874f</isaacompletechecksum></student>

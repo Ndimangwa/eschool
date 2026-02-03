@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5268</studentId>
+  <studentName>MUSSAE A SIMBA</studentName>
+  <accademicHistory><institution><institutionName>ROYAL SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S4568.0019.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 3</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0485.0906.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 4.19</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cdb04377e549935e285a7630929dd848</isaacompletechecksum></student>

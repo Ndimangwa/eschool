@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6562</studentId>
+  <studentName>Majidah Hamza Makame</studentName>
+  <accademicHistory><institution><institutionName>New World International School</institutionName><specialization>Science, PCB</specialization><levelId>8</levelId><indexNumber>E0120.1154.2016</indexNumber><award>General Certificate of Secondary Education</award><grade>7</grade><startYear>2015</startYear><endYear>2016</endYear></institution><institution><institutionName>New World International School</institutionName><specialization>science and business</specialization><levelId>4</levelId><indexNumber>E0120.2014.2014</indexNumber><award>International General Certificate of Secondary Education</award><grade>aaaabb</grade><startYear>2013</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Fatma Hamza Makame</sponsorName><payerId>11</payerId><postalAddress>Kigamboni, P.O.BOX 36066</postalAddress><physicalAddress>Moshi</physicalAddress><fax/><telephone/><mobile>0762175162</mobile><email>fatmahamza911@yahoo.com</email><financedItem>Tuition Fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>N/A</accountName><bankAccount>N/A</bankAccount><bankName>N/A</bankName><branchName>N/A</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>57204518d29c79718da2d396af9118cf</isaacompletechecksum></student>

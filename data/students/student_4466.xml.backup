@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4466</studentId>
+  <studentName>MSC. MIDWIFERY</studentName>
+  <accademicHistory><institution><institutionName>ASHIRA SECONDARY SCHOOL</institutionName><specialization>ARTS SUBJECTS</specialization><levelId>4</levelId><indexNumber>S0201.0122.1993</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>1990</startYear><endYear>1993</endYear></institution><institution><institutionName>KCMC SCHOOL OF NURSING</institutionName><specialization>NURSING</specialization><levelId>13</levelId><indexNumber>02370</indexNumber><award>DIPLOMA IN NURSING</award><grade>GRADE B+</grade><startYear>1994</startYear><endYear>1998</endYear></institution><institution><institutionName>KCMU COLLEGE</institutionName><specialization>NURSING</specialization><levelId>15</levelId><indexNumber>K0112</indexNumber><award>DEGREE OF BSC IN NURSING</award><grade>GRADE B+</grade><startYear>2006</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>GSF/KCMC</employerName><postalAddress>MOSHI</postalAddress><physicalAddress>SOKOINE ROAD MOSHI</physicalAddress><fax>+255272754381</fax><telephone>+255272754377</telephone><mobile/><email>kcmcadmin@kcmc.ac.tz</email><startYear>2002</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>KCRI</sponsorName><payerId>8</payerId><postalAddress>MOSHI</postalAddress><physicalAddress>SOKOINE ROAD MOSHI</physicalAddress><fax>+255272753368</fax><telephone>+255272754201</telephone><mobile/><email>kcriadmin@kcri.ac.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JULITHA</kinName><relationship>SISTER</relationship><postalAddress>SISTER</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>+255766648700</telephone><mobile>+255766648700</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ROSEMARY MICHAEL MALYA</accountName><bankAccount>40301605259</bankAccount><bankName>NMB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4609dc3d499ef862dcee6898606d7bb0</isaacompletechecksum></student>

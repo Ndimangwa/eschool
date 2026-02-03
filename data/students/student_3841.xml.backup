@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3841</studentId>
+  <studentName>elizabeth mabula</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JANGWANI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0204/0068</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0276/0577</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255775088748</sponsorfax>
+      <mobile>0025522277432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>anna musa</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>42235 dar es salaam</postalAddress>
+      <physicalAddress>42235 dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0713842565</telephone>
+      <mobile>0713842565</mobile>
+      <email>annamusa2003@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

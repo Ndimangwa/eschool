@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2797</studentId>
+  <studentName>ANDREW ELIASIKIA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DODOMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0306.0111.2003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147.0726.2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILOSA CLINICAL OFFICERS TRAINING CENTER</institutionName>
+      <specialization>ORDINARY DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>34776</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>TANGA CITY COUNCIL</employerName>
+      <postalAddress>BOX  178</postalAddress>
+      <physicalAddress>00 2552644141</physicalAddress>
+      <telephone>002552644141</telephone>
+      <email>tcc.tanga@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552227724323</sponsorfax>
+      <mobile>002552227724323</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GEOFRAY KIDEE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>SLP 178</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <telephone>002550712966410</telephone>
+      <mobile>002550712966410</mobile>
+      <email>geofraykidee@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ELIASIKIA, ANDREW</accountName><bankAccount>0152327970000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4261ed1a3d58c036257e916037701d00</isaacompletechecksum></student>

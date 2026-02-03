@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5360</studentId>
+  <studentName>ribson mlaki</studentName>
+  <accademicHistory><institution><institutionName>Pugu secondary school</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0147.0788.2016</indexNumber><award>advanced certificate of secondary education</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a82a6eebbc77a89fe4ad77c30542ea2b</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3858</studentId>
+  <studentName>NICKSON BENEDICT KINYAMAGOHA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CITY SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0806.0326.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUKUYU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1043.0635.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MALSELA LYAMKUYU</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>32 ULANGA , MOROGORO</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>0753319856</telephone>
+      <mobile>0753319856</mobile>
+      <email>nksonkgh@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KINYAMAGOHA, NICKSON BENEDICT</accountName><bankAccount>0152315393700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f1c5c57739797420914e8049e73db1c7</isaacompletechecksum></student>

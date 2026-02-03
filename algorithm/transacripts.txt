@@ -1,0 +1,19 @@
+@-header,compilationTime_!_2001:09:08:10:09:17
+@-header,fileType_!_transcript
+@-header,fileTypeCode_!_md5
+@-header,courseId_!_##
+@-header,courseName_!_##
+@-header,totalRequiredPoints_!_##
+@-header,totalEarnedPoints_!_##
+@-header,maximumGPA_!_## 
+@-header,GPA_!_##
+@-header,graduationYear_!_##
+@-business-logic-begin
+//[]transactionId,semester,,,,subjectName,subjectCode,rawMarks,gradeId,gradeName,gradePoint,totalUnits
+@-business-logic-end
+
+
+//Store this file in data/transcripts/transcript_studentid.csv
+Objects
+TranscriptFile
+TranscriptDataLine

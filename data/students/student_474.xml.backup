@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>474</studentId>
+  <studentName>Pooja Ramesh Divecha</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>shaaban robert secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0342/0044</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>shaaban robert </institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0342/0510</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>sam najuma road</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Sarda Ramesh Divecha</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>6394</postalAddress>
+      <physicalAddress>faru street jangwani</physicalAddress>
+      <fax/>
+      <telephone>00255716962702</telephone>
+      <mobile>00255716962702</mobile>
+      <email>pdivecha@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

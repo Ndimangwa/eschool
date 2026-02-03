@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1453</studentId>
+  <studentName>ELVIS B MEELA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UMBWE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0160/0034</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150/0566</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SAAAM , TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH MEELA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>7459</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255759668181</telephone>
+      <mobile>+255759668181</mobile>
+      <email>meelaelvis@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

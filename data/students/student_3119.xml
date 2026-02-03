@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3119</studentId>
+  <studentName>jesca sael nkya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>marangu secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0388.0043.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>nganza girls high school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0216.0721.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, DAR ES SALAAM</postalAddress>
+      <physicalAddress>dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GADIEL ELIAISARIA MREMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1218</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255754476083</telephone>
+      <mobile>00255754476083</mobile>
+      <email>jescasael@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NKYA, JESCA SAEL</accountName><bankAccount>0152432063700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5ed382f08bdffae7be47e29a6dc5b38a</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5729</studentId>
+  <studentName>HAPPY ARON NGODA</studentName>
+  <accademicHistory><institution><institutionName>WELLA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4123.0019.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0209.0544.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>OCTAVIAN ARON NGODA</sponsorName><payerId>3</payerId><postalAddress>BOX 05</postalAddress><physicalAddress>KIBAIGWA</physicalAddress><fax/><telephone/><mobile>0652656721</mobile><email>octavianngoda@gmail.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>OCTAVIAN ARON NGODA</accountName><bankAccount>0152328000100</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>38f3e2e0a1bc98d72403dc8b1503cb93</isaacompletechecksum></student>

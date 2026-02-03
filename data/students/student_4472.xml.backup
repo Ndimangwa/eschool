@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4472</studentId>
+  <studentName>JAY BHARAT LODHIA</studentName>
+  <accademicHistory><institution><institutionName>INTERNATIONAL SCHOOL MOSHI</institutionName><specialization>SCIENCES</specialization><levelId>4</levelId><indexNumber>E0018776484.2007</indexNumber><award>IGCSE</award><grade>A-</grade><startYear>2005</startYear><endYear>2007</endYear></institution><institution><institutionName>INTERNATIONAL SCHOOL MOSHI</institutionName><specialization>SCIENCES</specialization><levelId>8</levelId><indexNumber>D000032016.2009</indexNumber><award>DIPLOMA</award><grade>B+</grade><startYear>2007</startYear><endYear>2009</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>MD</specialization><levelId>15</levelId><indexNumber>K180036.2014</indexNumber><award>DEGREE</award><grade>B.</grade><startYear>2009</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>JAFFERY CHARITABLE MEDICAL SERVICES</employerName><postalAddress>P.O.BOX 109 MOSHI</postalAddress><physicalAddress>GHALA STREET MOSHI</physicalAddress><fax/><telephone>0788202691</telephone><mobile>0684036307</mobile><email>jcmsmoshi@gmail.com</email><startYear>2015</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>JAY BHARAT LODHIA</sponsorName><payerId>1</payerId><postalAddress>P.O.BOX 143 MOSHI</postalAddress><physicalAddress>MANKINGA STREET MOSHI</physicalAddress><fax/><telephone>0272752659</telephone><mobile>0754271004</mobile><email>jaylodhia06@gmail.com</email><financedItem>MMED TUITION FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BHARAT BACHU LODHIA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 143 MOSHI</postalAddress><physicalAddress>MANKINGA STREET MOSHI</physicalAddress><fax/><telephone>0272752659</telephone><mobile>0754271004</mobile><email>jaylodhia06@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JAY BHARAT LODHIA</accountName><bankAccount>40310027891</bankAccount><bankName>NATIONAL MICROFINANCE BANK</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e0c0cd1defaa745d7e4c4b7a07ae439e</isaacompletechecksum></student>

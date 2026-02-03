@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2201</studentId>
+  <studentName>ASHA MOHAMEDI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>USAGARA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0345-0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHEZA SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>14772</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ANGLICAN CHURCH DIOCESE OF TANGA</employerName>
+      <postalAddress>PRIVATE BAG</postalAddress>
+      <physicalAddress>MUHEZA</physicalAddress>
+      <telephone>00754282161</telephone>
+      <email>muhezaddh@kaributanga.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MOHAMEDI AKIDA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 81, PANGANI</postalAddress>
+      <physicalAddress>PANGANI</physicalAddress>
+      <fax/>
+      <telephone>00717018448</telephone>
+      <mobile>002557178448</mobile>
+      <email>ashamswahili@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

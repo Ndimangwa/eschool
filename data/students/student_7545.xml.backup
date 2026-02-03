@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7545</studentId>
+  <studentName>ABDUL J MBEGU</studentName>
+  <accademicHistory><institution><institutionName>TEMEKE HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1722.0088.2014</indexNumber><award>DIVISION TWO</award><grade>3.4</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SHINUNA KIWANGA</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 21276 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0718081810</telephone><mobile/><email>abdulmbegu91@gmail.com</email><financedItem>SHE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ABDUL JUMA MBEGU</accountName><bankAccount>20910004864</bankAccount><bankName>NMB</bankName><branchName>MUHIMBILI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8878cc818b0859780dcfc028f96f47fa</isaacompletechecksum></student>

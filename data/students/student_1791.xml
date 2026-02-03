@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1791</studentId>
+  <studentName>HENRY GILBERT WAMBUA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SAINT MARY'S MBALIZI SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0179-0021</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158-0713</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>+25522272432</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANNA MWOMBEKI</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>p.o.box 4-KYELA-MBEYA</postalAddress>
+      <physicalAddress>p.O.BOX 4-KYELA MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0755436976</telephone>
+      <mobile>0755436976</mobile>
+      <email>mwombekianna@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

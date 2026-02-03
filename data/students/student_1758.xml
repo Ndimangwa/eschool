@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1758</studentId>
+  <studentName>VICTOR MALETO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Forodhani Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0311/0299</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Moshi Technical High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0135/0646</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JANETH MALETO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>70212</postalAddress>
+      <physicalAddress>Dar-Es-Salaam</physicalAddress>
+      <fax/>
+      <telephone>00255784232769</telephone>
+      <mobile>0784232769</mobile>
+      <email>jmaleto@yahoo.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

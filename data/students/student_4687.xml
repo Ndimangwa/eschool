@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4687</studentId>
+  <studentName>FILEMON JOSHUA DARABE</studentName>
+  <accademicHistory><institution><institutionName>DR OLSEN SECONDARY SCHOOL</institutionName><specialization>CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0000.0947.0036</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>1998</startYear><endYear>2001</endYear></institution><institution><institutionName>PUGU SECONDARY SCHOOL</institutionName><specialization>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>8</levelId><indexNumber>S0000.0147.0680</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2002</startYear><endYear>2004</endYear></institution><institution><institutionName>HUBERT KAIRUKI MEMORIAL UNIVERSITY</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>S0000.0000.0356</indexNumber><award>DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>2006</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>RAS ARUSHA</employerName><postalAddress>BOX 3092</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH</sponsorName><payerId>5</payerId><postalAddress>BOX 90</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email/><financedItem>EDUCATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PASCALINA SALLY</kinName><relationship>WIFE</relationship><postalAddress>BOX 3092</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>0769498429</telephone><mobile>0769498429</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FILEMON JOSHUA DARABE</accountName><bankAccount>40810009217</bankAccount><bankName>NMB</bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6f5b210403a24a293923b8456c0f563c</isaacompletechecksum></student>

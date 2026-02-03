@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4718</studentId>
+  <studentName>SAID MTORO MBOGAKWAGA</studentName>
+  <accademicHistory><institution><institutionName>FEZA BOYS' SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0189.0062.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>FEZA BOYS' SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0189.0574.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>PLOT NO. 8 BLOCK NO. 46; SAM NUJOMA ROAD</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>SCHOOL FEE</financedItem><extraInformation>www.heslb.go.tz</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MTORO SAIDI MBOGAKWAGA</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 60173</postalAddress><physicalAddress>TABATA KIMANGA DAR ES SALAAM</physicalAddress><fax></fax><telephone>+255754434422</telephone><mobile>+255754434422</mobile><email>saidmtoro2@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SAID MTORO MBOGAKWAGA</accountName><bankAccount>0152454363900</bankAccount><bankName>CRDB</bankName><branchName>TABATA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>df180210b81f91f1b65d9923f51bb877</isaacompletechecksum></student>

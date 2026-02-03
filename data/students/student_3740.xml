@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3740</studentId>
+  <studentName>JOSEPH CHEDIEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>OLD TANGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1633.0195.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MKUU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0544.0693.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD(HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CHEDIEL MDEE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.Box 1492</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <telephone>0717693535</telephone>
+      <mobile>0717693535</mobile>
+      <email>jozemdee@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>CHEDIEL, JOSEPH</accountName><bankAccount>0152284949300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f6bc5a223c0f8aeaf742fe08d5605479</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1320</studentId>
+  <studentName>Nabila F Ally</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>mkwakwani secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0672-0105</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kilakala secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206-0566</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552227724323</sponsorfax>
+      <mobile>002552227724323</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Fuad ally awadh</kinName>
+      <relationship>father</relationship>
+      <postalAddress>15180</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0658033321</telephone>
+      <mobile>0658033321</mobile>
+      <email>nabilafuad92@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

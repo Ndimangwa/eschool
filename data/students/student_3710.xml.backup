@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3710</studentId>
+  <studentName>JEROME FLORIAN KAYANDA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKOLE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2894/0082</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JITEGEMEE (JKT) HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0496/0584</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FLORIAN KAYANDA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 1671</postalAddress>
+      <physicalAddress>DODOMA MJINI</physicalAddress>
+      <fax/>
+      <telephone>0784959720</telephone>
+      <mobile>0784959720</mobile>
+      <email>kayandaflorian@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

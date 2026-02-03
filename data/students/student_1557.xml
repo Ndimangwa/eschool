@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1557</studentId>
+  <studentName>JEREMIAH JOHN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MOSHI SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0134/0071</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134/0555</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>0025522772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHN</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>156</postalAddress>
+      <physicalAddress>HIDET</physicalAddress>
+      <fax/>
+      <telephone>0787955601</telephone>
+      <mobile>00255787955601</mobile>
+      <email>jeremyhera@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

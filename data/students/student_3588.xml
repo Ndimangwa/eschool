@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3588</studentId>
+  <studentName>BILALI J KIKWEGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYASAKA ISLAMIC SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1665-0092</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147-0655</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+225222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JUMANNE KIKWEGA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 11 KAHAMA</postalAddress>
+      <physicalAddress>KAHAMA</physicalAddress>
+      <fax/>
+      <telephone>0755699825</telephone>
+      <mobile>0755699825</mobile>
+      <email>kikwegahussein@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

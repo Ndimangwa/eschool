@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2821</studentId>
+  <studentName>NOEL G. MDENDE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KYENGEGE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2646.0071.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TARAKEA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0818.0614.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANTON   LUTHER</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>p.o box538 SINGIDA</postalAddress>
+      <physicalAddress>IRAMBA</physicalAddress>
+      <fax/>
+      <telephone>+255784771828</telephone>
+      <mobile>+255752939083</mobile>
+      <email>antoniluther30@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MDENDE, NOEL G</accountName><bankAccount>0152327716100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2353ab52f79a211501d5fb0285711932</isaacompletechecksum></student>

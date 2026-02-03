@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5111</studentId>
+  <studentName>EPIFANIA PROCHES SHAYO</studentName>
+  <accademicHistory><institution><institutionName>PRECIOUS BLOOD GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0295.0015.2013</indexNumber><award>CSE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>IFUNDA GIRLS HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0276.0646.2016</indexNumber><award>ACSE</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MARY DAMAS BURETTA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 253 IFAKARA</postalAddress><physicalAddress>KILOMBERO </physicalAddress><fax/><telephone/><mobile>0784389111</mobile><email>madabu66@gmail.com</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MARY DAMAS BURETTA</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 253 IFAKARA</postalAddress><physicalAddress>KILOMBERO </physicalAddress><fax></fax><telephone>0784389111</telephone><mobile>0784389111</mobile><email>madabu66@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EPIFANIA PROCHES SHAYO</accountName><bankAccount>0152201470900</bankAccount><bankName>CRDB BANK</bankName><branchName>MBUYUNI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4af7d480287625c284ec99cff29fa697</isaacompletechecksum></student>

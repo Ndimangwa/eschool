@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>108</studentId>
+  <studentName>Johnson Underson</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Makumira sec </institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0329/0085</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Bagamoyo sec</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0351/0626</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Hellena Underson</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O.BOX 842,Arusha</postalAddress>
+      <physicalAddress>Tengeru Arusha</physicalAddress>
+      <fax/>
+      <telephone>0716112307</telephone>
+      <mobile>0716112307</mobile>
+      <email>Hellenunderson@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

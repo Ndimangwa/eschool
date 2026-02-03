@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7618</studentId>
+  <studentName>ANTONY MAKSA KOBELO</studentName>
+  <accademicHistory><institution><institutionName>KISARAWE JUNIORY SEMINARY</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S0181.0051.2014</indexNumber><award>CREDITY</award><grade>2.3</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>KILANGALANGA SECONDARY</institutionName><specialization>SCIENCE PCB</specialization><levelId>8</levelId><indexNumber>S0870.0507.2017</indexNumber><award>DIVISION THREE</award><grade>16</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>CALIST MSIMBE MAKSA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX.15098</postalAddress><physicalAddress>DAR.ES.SALAAM</physicalAddress><fax>0713212367</fax><telephone>0713212367</telephone><mobile>0713212367</mobile><email>Vijimambo2005@yahoo.com</email><financedItem>Tuition fee</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>STEVINA MSIMBE</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX.15098</postalAddress><physicalAddress>DAR.ES.SALAAM</physicalAddress><fax>0655887869</fax><telephone>0655887869</telephone><mobile>0655887869</mobile><email>vijimambo2005@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ANTONY MAKSA</accountName><bankAccount>23010007879</bankAccount><bankName>NMB</bankName><branchName>AIRPORT</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a05c8d84942835d67fd4665d6d726c69</isaacompletechecksum></student>

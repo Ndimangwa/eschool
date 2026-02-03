@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>230</studentId>
+  <studentName>CHOGERO CHECHE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NSUMBA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0144.0027.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA</institutionName>
+      <specialization>CBA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0103.0540.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>  76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ABITO CHECHE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O BOX 08 MWANZA</postalAddress>
+      <physicalAddress>P.O BOX 88 KWIMBA</physicalAddress>
+      <fax/>
+      <telephone>0755685411</telephone>
+      <mobile>0755685411</mobile>
+      <email>chogerocheche@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>CHECHE, CHOGERO</accountName><bankAccount> 0152328027200 </bankAccount><bankName> CRDB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b9b0bf8faf47a6d49abf6ac668edaf00</isaacompletechecksum></student>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>502</studentId>
+  <studentName>ANGELIKA FELICIAN MASAO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Tabora Girls Secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0220-0009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Weruweru High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0221-0504</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WEIL BUGANDO UNIVERSITY</institutionName>
+      <specialization>MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>SAUTI/BUCHS/MD/1740/05</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SELF</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.BOX.9742</postalAddress>
+      <physicalAddress>LONGUO B</physicalAddress>
+      <fax/>
+      <sponsorfax>+255767431212</sponsorfax>
+      <mobile>+255767431212</mobile>
+      <email>angy@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EUSEBIOUS WILLIAM MARO</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>P.O.BOX.9742 </postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255756207305</telephone>
+      <mobile>+255756207305</mobile>
+      <email>sebywilly@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

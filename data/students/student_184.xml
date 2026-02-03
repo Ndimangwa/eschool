@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>184</studentId>
+  <studentName>PROSPER A KILEMWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ROSMINI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0692/0078</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.JOSEPHS CATHEDRAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4692/0671</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Students Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road, Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AUGUSTINE MOHAMED KILEMWA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 2289 MOROGORO</postalAddress>
+      <physicalAddress>KOLA B, KICHANGANI</physicalAddress>
+      <fax/>
+      <telephone>+255755545343</telephone>
+      <mobile>+255715545343</mobile>
+      <email>akilemwa@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7344</studentId>
+  <studentName>SIBOMANA AKILI CLOVIS</studentName>
+  <accademicHistory><institution><institutionName>MAENDELEO SECONDARY SCHOOL</institutionName><specialization>SOCIAL</specialization><levelId>4</levelId><indexNumber>E0007.0852.2006</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>1999</startYear><endYear>2006</endYear></institution><institution><institutionName>GOMA UNIVERSITY</institutionName><specialization>BIOMEDICAL SCIENCES</specialization><levelId>13</levelId><indexNumber>E680.0072.2010</indexNumber><award>DIPLOMA IN BIOMEDICAL SCIENCES</award><grade>DIVISION TWO</grade><startYear>2007</startYear><endYear>2010</endYear></institution><institution><institutionName>GOMA UNIVERSITY</institutionName><specialization>GENERAL MEDICINE</specialization><levelId>15</levelId><indexNumber>E0680.0092.2015</indexNumber><award>MD</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>AKILI KIBINGO</sponsorName><payerId>3</payerId><postalAddress>B.P 746 GOMA</postalAddress><physicalAddress>GOMA DRC</physicalAddress><fax/><telephone>+243997134631</telephone><mobile>+243997134631</mobile><email>sibo.akili.sa@gmail.com</email><financedItem>tuition fee and other university charges</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>FRANK DUBI</accountName><bankAccount>01J2085914500</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1cacc282be49eea7fb5c830993badd29</isaacompletechecksum></student>

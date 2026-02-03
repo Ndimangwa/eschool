@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>340</studentId>
+  <studentName>COLMAN KIBO SHIRIMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MSOLWA ST GASPARE BENTON SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S729/0041/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LILIAN KIBO HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S3536/514/2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KIBO K.S.MERINYO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>76358</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0784607417</telephone>
+      <mobile>0784607417</mobile>
+      <email>colman2311@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

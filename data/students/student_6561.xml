@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6561</studentId>
+  <studentName>Elisamia R Maro</studentName>
+  <accademicHistory><institution><institutionName>KCMUCo</institutionName><specialization>BSc Nursing</specialization><levelId>15</levelId><indexNumber>S3418.0099.2010</indexNumber><award>Yes</award><grade>Three</grade><startYear>2014</startYear><endYear>2018</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c2aa7db6b7197cbcb700d100ca0f135e</isaacompletechecksum></student>

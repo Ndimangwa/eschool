@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5440</studentId>
+  <studentName>INNOCENT J SANGA</studentName>
+  <accademicHistory><institution><institutionName>META SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0443.0219.2012</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR-ES-SALAAM</postalAddress><physicalAddress>DAR ES SALAAM - TANZANIA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JACKSON SABRO SANGA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 831 MBEYA</postalAddress><physicalAddress>MBEYA</physicalAddress><fax></fax><telephone>0786118118</telephone><mobile>0756584884</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>INNOCENT JACKSON SANGA</accountName><bankAccount>0152327163500</bankAccount><bankName>CRDB BANK </bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0f9ef804d62dc6d8c39e75e6449d1c91</isaacompletechecksum></student>

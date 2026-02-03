@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3545</studentId>
+  <studentName>JOVINA JAPHECE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RUGAMBWA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0218.0098.2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TARAKEA SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0818.0527.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC-MOSHI</institutionName>
+      <specialization>DIPLOMA IN PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>37334</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>07222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JAPHECE ALIGAWESA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>02</postalAddress>
+      <physicalAddress>KARAGWE</physicalAddress>
+      <fax/>
+      <telephone>00255786192381</telephone>
+      <mobile>0786192381</mobile>
+      <email>risperali@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JAPHECE, JOVINA</accountName><bankAccount>0152327974900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3fc2ba36a3b04ea1cb20aab09a430c14</isaacompletechecksum></student>

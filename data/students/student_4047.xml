@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4047</studentId>
+  <studentName>JOHN CHALE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DODOMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.306/88</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAZENGO HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.1002/536</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI UNIVERSITY</institutionName>
+      <specialization>HEALTH LABORATORY SCIENCES</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K  0054</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI UNIVERSITY MAKUMIRA</institutionName>
+      <specialization>PARASITOLOGY AND ENTOMOLOGY</specialization>
+      <levelId>17</levelId>
+      <indexNumber>K  16   0010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH AND SOCIAL WELFARE</employerName>
+      <postalAddress>BOX 9083</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>0272756754</telephone>
+      <email>ps@moh.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH &amp; SOCIAL WELFARE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 9083</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00272756754</sponsorfax>
+      <mobile>00272756754</mobile>
+      <email>ps@moh.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DR TEREZA MGOGWE</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>BOX 9083</postalAddress>
+      <physicalAddress>BUMBULI</physicalAddress>
+      <fax/>
+      <telephone>0787488273</telephone>
+      <mobile>0787488273</mobile>
+      <email>mgogwe2@live.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,233 @@
+@-header,flags_!_0,,,,,,,,,,,,,
+@-header,studentId_!_527,,,,,,,,,,,,,
+@-header,dateOfBirth_!_1986:1:13:00:00:00,,,,,,,,,,,,,
+@-header,sexId_!_1,,,,,,,,,,,,,
+@-header,sexName_!_Male,,,,,,,,,,,,,
+@-header,profileId_!_1,,,,,,,,,,,,,
+@-header,profileName_!_Kilimanjaro Christian Medical University College,,,,,,,,,,,,,
+@-header,profileCity_!_Moshi,,,,,,,,,,,,,
+@-header,profilePostalAddress_!_P.O Box 2240, Moshi,,,,,,,,,,,,,
+@-header,profileWebsite_!_www.kcmuco.ac.tz,,,,,,,,,,,,,
+@-header,profileCountryId_!_227,,,,,,,,,,,,,
+@-header,profileCountryName_!_Tanzania,,,,,,,,,,,,,
+@-header,systemName_!_University Management Information System,,,,,,,,,,,,,
+@-header,postalAddress_!_104 singida,,,,,,,,,,,,,
+@-header,physicalAddress_!_104 singida,,,,,,,,,,,,,
+@-header,countryId_!_227,,,,,,,,,,,,,
+@-header,countryName_!_Tanzania,,,,,,,,,,,,,
+@-header,registrationNumber_!_TUMA/KCMUCo/BScPhysio.2014/2015/TZ/0140,,,,,,,,,,,,,
+@-header,fullname_!_Jonas Manai,,,,,,,,,,,,,
+@-header,firstname_!_Jonas,,,,,,,,,,,,,
+@-header,middlename_!_Vicent,,,,,,,,,,,,,
+@-header,lastname_!_Manai,,,,,,,,,,,,,
+@-header,compilationTime_!_2018:01:08:11:45:13,,,,,,,,,,,,,
+@-header,fileType_!_transcript,,,,,,,,,,,,,
+@-header,courseId_!_40,,,,,,,,,,,,,
+@-header,courseCode_!_BscPhysio.E,,,,,,,,,,,,,
+@-header,courseName_!_Bachelor of Science in Physiotherapy(Equivalent),,,,,,,,,,,,,
+@-header,duration_!_3,,,,,,,,,,,,,
+@-header,levelId_!_15,,,,,,,,,,,,,
+@-header,levelName_!_Bachelor Degree,,,,,,,,,,,,,
+@-header,levelCode_!_8,,,,,,,,,,,,,
+@-header,departmentId_!_4,,,,,,,,,,,,,
+@-header,departmentName_!_Faculty of Rehabilitation Medicine,,,,,,,,,,,,,
+@-header,admissionYearId_!_6,,,,,,,,,,,,,
+@-header,admissionYearName_!_2014/2015,,,,,,,,,,,,,
+@-header,admissionYearNumber_!_6,,,,,,,,,,,,,
+@-header,currentBatchId_!_6,,,,,,,,,,,,,
+@-header,currentBatchName_!_2014/2015,,,,,,,,,,,,,
+@-header,currentBatchNumber_!_6,,,,,,,,,,,,,
+@-header,lastResultsCummulativeSemester_!_6,,,,,,,,,,,,,
+@-header,currentCummulativeSemester_!_6,,,,,,,,,,,,,
+@-header,allSemestersIncluded_!_1,,,,,,,,,,,,,
+@-header,numberOfSemestersPerYear_!_2,,,,,,,,,,,,,
+@-header,graduated_!_0,,,,,,,,,,,,,
+@-header,grade_0_id_!_1,,,,,,,,,,,,,
+@-header,grade_0_name_!_A,,,,,,,,,,,,,
+@-header,grade_0_point_!_5,,,,,,,,,,,,,
+@-header,grade_0_lowestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_0_highestMarks_!_101,,,,,,,,,,,,,
+@-header,grade_0_extraInformation_!_Excellent,,,,,,,,,,,,,
+@-header,grade_1_id_!_2,,,,,,,,,,,,,
+@-header,grade_1_name_!_B+,,,,,,,,,,,,,
+@-header,grade_1_point_!_4,,,,,,,,,,,,,
+@-header,grade_1_lowestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_1_highestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_1_extraInformation_!_Very Good,,,,,,,,,,,,,
+@-header,grade_2_id_!_3,,,,,,,,,,,,,
+@-header,grade_2_name_!_B,,,,,,,,,,,,,
+@-header,grade_2_point_!_3,,,,,,,,,,,,,
+@-header,grade_2_lowestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_2_highestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_2_extraInformation_!_Good,,,,,,,,,,,,,
+@-header,grade_3_id_!_4,,,,,,,,,,,,,
+@-header,grade_3_name_!_C,,,,,,,,,,,,,
+@-header,grade_3_point_!_2,,,,,,,,,,,,,
+@-header,grade_3_lowestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_3_highestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,grade_4_id_!_5,,,,,,,,,,,,,
+@-header,grade_4_name_!_D,,,,,,,,,,,,,
+@-header,grade_4_point_!_1,,,,,,,,,,,,,
+@-header,grade_4_lowestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_4_highestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_4_extraInformation_!_Supplimentary,,,,,,,,,,,,,
+@-header,grade_5_id_!_6,,,,,,,,,,,,,
+@-header,grade_5_name_!_E,,,,,,,,,,,,,
+@-header,grade_5_point_!_0,,,,,,,,,,,,,
+@-header,grade_5_lowestMarks_!_0,,,,,,,,,,,,,
+@-header,grade_5_highestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_5_extraInformation_!_Supplimentary,,,,,,,,,,,,,
+@-header,grade_6_id_!_7,,,,,,,,,,,,,
+@-header,grade_6_name_!_I,,,,,,,,,,,,,
+@-header,grade_6_point_!_0,,,,,,,,,,,,,
+@-header,grade_6_lowestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_highestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_extraInformation_!_Incomplete,,,,,,,,,,,,,
+@-header,award_0_id_!_1,,,,,,,,,,,,,
+@-header,award_0_name_!_First Class,,,,,,,,,,,,,
+@-header,award_0_lowestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_0_highestGPA_!_5.1,,,,,,,,,,,,,
+@-header,award_0_extraInformation_!_First Class,,,,,,,,,,,,,
+@-header,award_1_id_!_2,,,,,,,,,,,,,
+@-header,award_1_name_!_Upper Second,,,,,,,,,,,,,
+@-header,award_1_lowestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_1_highestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_1_extraInformation_!_Upper Second,,,,,,,,,,,,,
+@-header,award_2_id_!_3,,,,,,,,,,,,,
+@-header,award_2_name_!_Lower Second,,,,,,,,,,,,,
+@-header,award_2_lowestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_2_highestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_2_extraInformation_!_Lower Second,,,,,,,,,,,,,
+@-header,award_3_id_!_4,,,,,,,,,,,,,
+@-header,award_3_name_!_Pass,,,,,,,,,,,,,
+@-header,award_3_lowestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_3_highestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,award_4_id_!_5,,,,,,,,,,,,,
+@-header,award_4_name_!_No Award,,,,,,,,,,,,,
+@-header,award_4_lowestGPA_!_0.0,,,,,,,,,,,,,
+@-header,award_4_highestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_4_extraInformation_!_No Award,,,,,,,,,,,,,
+@-header,sem_1_awardId_!_4,,,,,,,,,,,,,
+@-header,sem_1_awardName_!_Pass,,,,,,,,,,,,,
+@-header,sem_1_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_1_totalModulePoints_!_160,,,,,,,,,,,,,
+@-header,sem_1_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_1_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_1_gpa_!_2.6,,,,,,,,,,,,,
+@-header,sem_2_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_2_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_2_totalUnits_!_58,,,,,,,,,,,,,
+@-header,sem_2_totalModulePoints_!_168,,,,,,,,,,,,,
+@-header,sem_2_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_2_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_2_gpa_!_2.8,,,,,,,,,,,,,
+@-header,sem_3_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_3_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_3_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_3_totalModulePoints_!_167,,,,,,,,,,,,,
+@-header,sem_3_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_3_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_3_gpa_!_2.7,,,,,,,,,,,,,
+@-header,sem_4_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_4_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_4_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_4_totalModulePoints_!_172,,,,,,,,,,,,,
+@-header,sem_4_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_4_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_4_gpa_!_2.8,,,,,,,,,,,,,
+@-header,sem_5_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_5_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_5_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_5_totalModulePoints_!_187,,,,,,,,,,,,,
+@-header,sem_5_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_5_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_5_gpa_!_3.1,,,,,,,,,,,,,
+@-header,sem_6_awardId_!_4,,,,,,,,,,,,,
+@-header,sem_6_awardName_!_Pass,,,,,,,,,,,,,
+@-header,sem_6_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_6_totalModulePoints_!_148,,,,,,,,,,,,,
+@-header,sem_6_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_6_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_6_gpa_!_2.4,,,,,,,,,,,,,
+@-header,gpa_!_2.7,,,,,,,,,,,,,
+@-header,awardId_!_3,,,,,,,,,,,,,
+@-header,awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,cleared_!_,,,,,,,,,,,,,
+@-header,filename_!_transcript_527.csv,,,,,,,,,,,,,
+@-business-logic-begin,,,,,,,,,,,,,,
+385,1,6,2014/2015,0,,,Anatomy Level 1 ,KBAN1102 ,,57,4,C,2,12
+386,1,6,2014/2015,0,,,Physiology Level 1 ,KBPH1103,,68,3,B,3,8
+389,1,6,2014/2015,0,,,Parasitology & Entomology,KBPE1104,,65,3,B,3,4
+391,1,6,2014/2015,0,,,Microbiology&                 Immunology  ,KBMI1105,,51,4,C,2,4
+393,1,6,2014/2015,0,,,Biochemistry Level 1,KBBC1106,,56,4,C,2,4
+395,1,6,2014/2015,0,,,Clinical Science Level 1,KBCS1107,,61,3,B,3,6
+397,1,6,2014/2015,0,,,Physical Education level 1,KBPE1108,,57,4,C,2,6
+399,1,6,2014/2015,0,,,Nursing and first Aid,KBFI1109,,63,3,B,3,4
+440,1,6,2014/2015,0,,,	Psychology,KBBS1101-1,,77,2,B+,4,3
+441,1,6,2014/2015,0,,,Sociology & anthropology,PT 102	,,63,3,B,3,3
+442,1,6,2014/2015,0,,,	Ethics,PT 103,,75,2,B+,4,3
+443,1,6,2014/2015,0,,,	Communication & study skills,PT 104,,63,3,B,3,3
+452,2,6,2014/2015,0,,,	Anatomy Level 2 ,PT 205,,57,4,C,2,8
+453,2,6,2014/2015,0,,,	Physiology Level 2,PT 206,,76,2,B+,4,7
+454,2,6,2014/2015,0,,,	Kinesiology & Biomechanics,PP 202,,58,4,C,2,5
+455,2,6,2014/2015,0,,,Medical Exercise Therapy level 1,PP 203	,,63,3,B,3,6
+456,2,6,2014/2015,0,,,Basic Parasitology & Entomology Level 2,PT 207	,,61,3,B,3,4
+457,2,6,2014/2015,0,,,	Microbiology & Immunology Level 2,PT 208	,,61,3,B,3,4
+458,2,6,2014/2015,0,,,	Biochemistry Level 2,PT 209,,72,2,B+,4,3
+459,2,6,2014/2015,0,,,	Clinical Science Level 2,PT 210,,67,3,B,3,6
+460,2,6,2014/2015,0,,,	Physical Education Level 2,PP 201,,59,4,C,2,3
+461,2,6,2014/2015,0,,,	Clinical reasoning,PT 212,,64,3,B,3,3
+462,2,6,2014/2015,0,,,Physical Assessment,PT 213	,,56,4,C,2,3
+463,2,6,2014/2015,0,,,	Pharmacology,PT 214,,55,4,C,2,3
+464,2,6,2014/2015,0,,,	Public Health/Community Health,PT 215,,80,1,A,5,3
+465,3,7,2015/2016,0,,,	General Surgery,PT 316,,61,3,B,3,5
+466,3,7,2015/2016,0,,,Musculoskeletal condition Level 1,PT 317	,,60,3,B,3,7
+467,3,7,2015/2016,0,,,Cardio respiratory conditions,PT 319	,,64,3,B,3,7
+468,3,7,2015/2016,0,,,Pediatric conditions,PT 320,,57,4,C,2,7
+469,3,7,2015/2016,0,,,	Manual Therapy,PT 321,,62,3,B,3,7
+470,3,7,2015/2016,0,,,	Soft Tissue Manipulation,PT 322,,62,3,B,3,7
+471,3,7,2015/2016,0,,,	Clinical Practice Level 1 ,PP 304,,57,4,C,2,4
+472,3,7,2015/2016,0,,,Electrotherapy & Thermotherapy ,PT 324	,,65,3,B,3,3
+473,3,7,2015/2016,0,,,	Ergonomics,PT 325,,70,2,B+,4,4
+474,3,7,2015/2016,0,,,	Radiology,PT 326,,53,4,C,2,4
+647,3,7,2015/2016,0,,,	Adult Neurological conditions,PT 318,,61,3,B,3,3
+649,3,7,2015/2016,0,,,Foundation of  Faith,KBFOF 301,,51,4,C,2,2
+475,4,7,2015/2016,0,,,	Psychiatry,PT 427,,65,3,B,3,6
+476,4,7,2015/2016,0,,,	Musculoskeletal condition Level 2,PT 417,,63,3,B,3,6
+477,4,7,2015/2016,0,,,Adult Neurological conditions,PT 418	,,67,3,B,3,6
+478,4,7,2015/2016,0,,,	Cardio respiratory conditions,PT 419,,74,2,B+,4,8
+479,4,7,2015/2016,0,,,	Pediatric conditions,PT 420,,62,3,B,3,8
+480,4,7,2015/2016,0,,,	Pain management,PT 428,,55,4,C,2,9
+481,4,7,2015/2016,0,,,	Clinical Practice Level 2,PP 404,,53,4,C,2,9
+482,4,7,2015/2016,0,,,Research Methods Level 1,PT 429	,,69,3,B,3,6
+648,4,7,2015/2016,0,,,DEVELOPMENT STUDIES,PT 301,,70,2,B+,4,2
+483,5,8,2016/2017,0,,,	Obstetrics and Gynecology,PT 530,,60,3,B,3,3
+484,5,8,2016/2017,0,,,	Urology,PT 531,,67,3,B,3,3
+485,5,8,2016/2017,0,,,Advanced Musculoskeletal Physiotherapy,PT 517	,,51,4,C,2,4
+486,5,8,2016/2017,0,,,	Advanced Neurological Physiotherapy,PT 518,,67,3,B,3,4
+487,5,8,2016/2017,0,,,	Advanced Cardio respiratory conditions,PT 519,,61,3,B,3,4
+488,5,8,2016/2017,0,,,	Advanced Pediatric conditions,PT 520,,69,3,B,3,4
+489,5,8,2016/2017,0,,,Research Methods Level 2,PT 529	,,53,4,C,2,3
+490,5,8,2016/2017,0,,,Elderly Care,PT 532	,,68,3,B,3,4
+491,5,8,2016/2017,0,,,	Field work Placement,PP 505,,71,2,B+,4,4
+492,5,8,2016/2017,0,,,Orthopedic Technology and Rehabilitation,PT 533	,,60,3,B,3,2
+493,5,8,2016/2017,0,,,	Administration & Management,PT 534,,81,1,A,5,5
+494,5,8,2016/2017,0,,,	Statistics,PT 635,,57,4,C,2,4
+672,5,8,2016/2017,0,,,Physiotherapy in Paediatrics threory,KBPD 4102,,67,3,B,3,4
+674,5,8,2016/2017,0,,,Physiotherapy in Internal Medicine  theory,KBIM 4201,,60,3,B,3,4
+676,5,8,2016/2017,0,,,Physiotherapy in General Surgery  theory,KBSG 4104,,76,2,B+,4,4
+678,5,8,2016/2017,0,,,Physiotherapy in Orthopaedics  theory,KBOT 406,,65,3,B,3,4
+495,6,8,2016/2017,0,,,	Research Project,PP 606,,68,3,B,3,8
+496,6,8,2016/2017,0,,,Clinical Practice Level 3,PP 604	,,53,4,C,2,5
+497,6,8,2016/2017,0,,,	Statistics,PT 635,,51,4,C,2,7
+667,6,8,2016/2017,0,,,Physiotherapy in Paediatrics (Clinical Practice),KBPD4102,,50,4,C,2,5
+668,6,8,2016/2017,0,,,Physiotherapy in Internal Medicine (Clinical Practical),KBIM 4103,,65,3,B,3,5
+669,6,8,2016/2017,0,,,Physiotherapy in General Surgery (Practical),KBSG4104,,62,3,B,3,5
+670,6,8,2016/2017,0,,,Physiotherapy in Orthopaedics  (Clinical Practical),KBOT4105,,50,4,C,2,5
+673,6,8,2016/2017,0,,,Physiotherapy in Paediatrics threory,KBPD 4203,,54,4,C,2,5
+675,6,8,2016/2017,0,,,Physiotherapy in Internal Medicine  theory,KBIM 4101,,55,4,C,2,5
+677,6,8,2016/2017,0,,,Physiotherapy in General Surgery  theory,KBSG 4201,,64,3,B,3,5
+679,6,8,2016/2017,0,,,Physiotherapy in Orthopaedics  theory,KBOT 407,,67,3,B,3,5
+@-business-logic-end,,,,,,,,,,,,,,

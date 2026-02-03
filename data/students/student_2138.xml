@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2138</studentId>
+  <studentName>CLaude Mushi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kabojja Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>ug008/0015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kabojja International Secondary School</institutionName>
+      <specialization>BCM/IT</specialization>
+      <levelId>8</levelId>
+      <indexNumber>ug008/0072</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>High education students loarn board(heslb)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>6759</postalAddress>
+      <physicalAddress>dar-Es-Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222114511</sponsorfax>
+      <mobile>0222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Claytone Godwin Mushi</kinName>
+      <relationship>Twin brother</relationship>
+      <postalAddress>P.o Box 11481</postalAddress>
+      <physicalAddress>Dar-Es-Salaam</physicalAddress>
+      <fax/>
+      <telephone>0763280790</telephone>
+      <mobile>0689045026</mobile>
+      <email>claynelly@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

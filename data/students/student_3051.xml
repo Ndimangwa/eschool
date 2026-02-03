@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3051</studentId>
+  <studentName>KENNETH T BAGANDANSHWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DODOMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0306.0221.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4213.0566.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>MWENGE,DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>THEONEST BAGANDANSHWA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 1923 DODOMA</postalAddress>
+      <physicalAddress>KIGAMBONI,DODOMA</physicalAddress>
+      <fax/>
+      <telephone>0262321234</telephone>
+      <mobile>0754696243</mobile>
+      <email>tbagandanshwa@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>BAGANDANSHWA, KENNETH T</accountName><bankAccount>0152434539600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d398a386166524d1cc03eb9b73cba798</isaacompletechecksum></student>

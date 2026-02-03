@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6511</studentId>
+  <studentName>MICHAEL S MWAKASEGE</studentName>
+  <accademicHistory><institution><institutionName>BENJAMIN W MKAPA HIGH SCHOOL</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>S0960.0277.2013</indexNumber><award>CSEE</award><grade>DIV ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>BENJAMIN W MKAPA HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0960.0886.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,dar es salaam</postalAddress><physicalAddress>sam nujoma Road,Mwenge,dar es salaam</physicalAddress><fax>+225222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>school fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>IBRAHIM S MWAKASEGE</kinName><relationship>UNCLE</relationship><postalAddress>P.O.BOX 7560,dar es salaam</postalAddress><physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress><fax></fax><telephone>0713296569</telephone><mobile>0713296569</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MICHAEL S MWAKASEGE</accountName><bankAccount>0152358583700</bankAccount><bankName>CRDB</bankName><branchName>PUGU ROAD</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cca8d3174a31b1060b82418262d2d5f0</isaacompletechecksum></student>

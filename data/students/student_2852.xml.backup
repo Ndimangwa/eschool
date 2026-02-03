@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2852</studentId>
+  <studentName>YOHANA MAJALIWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SENGEREMA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0185/0033/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110/0651/2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>00222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>THEREZA ANDREA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX.137</postalAddress>
+      <physicalAddress>GEITA</physicalAddress>
+      <fax/>
+      <telephone>+255682842986</telephone>
+      <mobile>0682842986</mobile>
+      <email>andreathereza@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

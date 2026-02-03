@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3073</studentId>
+  <studentName>Benson Robert Kigula</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mazombe  Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2700.0038.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Iyunga Technical Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0112.0514.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Robert Kigula</kinName>
+      <relationship>Sophia Mgalilwa</relationship>
+      <postalAddress>PO.BOX16</postalAddress>
+      <physicalAddress>MAZOMBE</physicalAddress>
+      <fax/>
+      <telephone>002550653227627</telephone>
+      <mobile>0787810616</mobile>
+      <email>kigulabenson@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KIGULA, BENSON ROBERT</accountName><bankAccount>0152326897100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>eff6ad1abd872cd095ae7059b7a03f3c</isaacompletechecksum></student>

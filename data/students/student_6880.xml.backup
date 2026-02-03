@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6880</studentId>
+  <studentName>EDITH C MBOGGO</studentName>
+  <accademicHistory><institution><institutionName>VISITATION GIRLS SECONDARY SCHOOL</institutionName><specialization>FORM FOUR</specialization><levelId>4</levelId><indexNumber>S0263.0016.2007</indexNumber><award>CSEE</award><grade>DIVISION ONE </grade><startYear>2004</startYear><endYear>2007</endYear></institution><institution><institutionName>KCMC</institutionName><specialization>PHYSIOTHERAPY</specialization><levelId>12</levelId><indexNumber>S0003.7323.2013</indexNumber><award>DIPLOMA</award><grade>PASS</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MOHSW</employerName><postalAddress>P O BOX 9083</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>+255252503456</telephone><mobile/><email>info@mzrh.go.tz</email><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>GRACE MBOGGO</sponsorName><payerId>3</payerId><postalAddress>P O BOX 6560</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>+255754403884</telephone><mobile/><email>gnmboggo@gmail.com</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>EDITH CHARLES MBOGGO</accountName><bankAccount>40310022444</bankAccount><bankName>NMB</bankName><branchName>MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>676b04fbaedc91b928a09abc2dad3634</isaacompletechecksum></student>

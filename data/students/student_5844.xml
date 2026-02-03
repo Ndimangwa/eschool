@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5844</studentId>
+  <studentName>Ramadhani Mohamed Temba</studentName>
+  <accademicHistory><institution><institutionName>Edmund rice secondary school</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>S0629.0629.2015</indexNumber><award>certificate </award><grade>merit 3</grade><startYear>2013</startYear><endYear>2015</endYear></institution><institution><institutionName>MAKOLE SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S2894.0114.2012</indexNumber><award>certificate</award><grade>division two point 21</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>54066533417a95e54f54b6e30981a6a0</isaacompletechecksum></student>

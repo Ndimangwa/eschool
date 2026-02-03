@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3457</studentId>
+  <studentName>CHRISTOPHER ISRAEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TUKUYU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1043/0098</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NJOMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0143/0098</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Loanboard</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76268 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISRAEL MWIHOMEKE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 75 TUKUYU</postalAddress>
+      <physicalAddress>TUKUYU</physicalAddress>
+      <fax/>
+      <telephone>00255767158942</telephone>
+      <mobile>00255767158942</mobile>
+      <email>christophermwihomeke@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

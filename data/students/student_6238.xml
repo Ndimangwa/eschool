@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6238</studentId>
+  <studentName>JUMA KH KHAMIS</studentName>
+  <accademicHistory><institution><institutionName>KIEMBESAMAKI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1298.0142.2009</indexNumber><award>CSEE</award><grade>TWO</grade><startYear>2006</startYear><endYear>2009</endYear></institution><institution><institutionName>MAZIZINI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S3000.0555.2012</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>THREE</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>COLLEGE OF HEALTH SCIENCE-ZANZIBAR</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>DCM.O29.2012</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>UPPER SECOND CLASS</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>401235525e595e1dfafd913daa75d440</isaacompletechecksum></student>

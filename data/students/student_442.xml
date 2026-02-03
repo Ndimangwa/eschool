@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>442</studentId>
+  <studentName>JACKSON FRANCIS MALUGALA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>USAGARA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0345-152</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DAR ES SALAAM INSTITUTE OF TECHNOLOGY</institutionName>
+      <specialization>FTC COMPUTER ENGINEERING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U001-1013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DAR ES SALAAM INSTITUTE OF TECHNOLOGY</institutionName>
+      <specialization>COMPUTER ENGINEERING (DATA ANALYST)</specialization>
+      <levelId>15</levelId>
+      <indexNumber>050202P029</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>IFAKARA HEALTH INSTITUTE</employerName>
+      <postalAddress>box 53,ifakara</postalAddress>
+      <physicalAddress>off mlabani passage, ifakara</physicalAddress>
+      <telephone>0022771714</telephone>
+      <email>ifakara@ihi.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>IRISH AID TANZANIA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>embassy dar es swam</postalAddress>
+      <physicalAddress>IRISH EMBASSY, MASAKI DAR ES SAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0004082000</sponsorfax>
+      <mobile>0004082881</mobile>
+      <email>irishaid@dfa.ie</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mustafa malugala</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>box 187,ifakara</postalAddress>
+      <physicalAddress>ifakara</physicalAddress>
+      <fax/>
+      <telephone>0784432371</telephone>
+      <mobile>0784432371</mobile>
+      <email>techfort.secondary@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

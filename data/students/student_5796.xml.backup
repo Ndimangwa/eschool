@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5796</studentId>
+  <studentName>MUSSA CHATILA SEMIYONO</studentName>
+  <accademicHistory><institution><institutionName>KWEDIZINGA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3316.0050.2013</indexNumber><award>CSE</award><grade>THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MAHIWA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0812.0656.2016</indexNumber><award>CSE</award><grade>TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM.TANZANIA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem>tuition fee and accomodation</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MUSSA CHATILA SEMIYONO</accountName><bankAccount>0152327148500</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3898088be30b03036fa028ea87611f8a</isaacompletechecksum></student>

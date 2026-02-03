@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6261</studentId>
+  <studentName>SARAH BUSONGO</studentName>
+  <accademicHistory><institution><institutionName>ST JOSEPH GIRLS' SEMINARY</institutionName><specialization>SECONDARY SCHOOL CERTIFICATE</specialization><levelId>4</levelId><indexNumber>S0240.0041.2008</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>HURUMA GIRLS' HIGH SCHOOL</institutionName><specialization>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>8</levelId><indexNumber>S0256.0521.2012</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>Division THREE</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>SENGEREMA HEALTH TRAINING INSTITUTE</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>CMT6.SNGR.15.139</indexNumber><award>CLINICAL MEDICINE</award><grade>PASS</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2089b4951bbfc365b18134f96825e631</isaacompletechecksum></student>

@@ -1,0 +1,9 @@
+https://www.google.com/#q=list+of+colleges+and+universities+in+Tanzania
+
+http://www.sjut.ac.tz/ ---- Proposal for
+http://www.uob.ac.tz/cgi-sys/suspendedpage.cgi
+http://www.etu.ac.tz/
+
+
+wkhtmlToPdf --- linux [Html to Pdf]
+phpXML

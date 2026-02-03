@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7869</studentId>
+  <studentName>MELITA MOINGET OLEKUNEY</studentName>
+  <accademicHistory><institution><institutionName>EDEN GARDEN SECONDARY SCHOOL</institutionName><specialization>O-LEVEL SCIENCE</specialization><levelId>4</levelId><indexNumber>S1449.0049.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SCOLASTICA SECONDARY SCHOOL</institutionName><specialization>A-LEVEL PCB</specialization><levelId>8</levelId><indexNumber>S1522.0571.2016</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MOINGET OLEKUNEY</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 145 HAI-KILIMANJARO</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax/><telephone>0754450510</telephone><mobile/><email>olekuney@hotmail.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MOINGET OLEKUNEY</kinName><relationship>PARENT</relationship><postalAddress>P O BOX 145 HAI-KILIMANJARO</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax/><telephone>0754450510</telephone><mobile/><email>olekuney@hotmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MELITA MOINGET OLEKUNEY</accountName><bankAccount>4313323000561274</bankAccount><bankName>STANBIC BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c9b6e76d34be5aa0b5112b8ade8ab98f</isaacompletechecksum></student>

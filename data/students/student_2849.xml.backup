@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2849</studentId>
+  <studentName>ZERRA ISRAEL CHEYO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIDUGALA LUTHERAN SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0167-0090</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110-0642</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DARESSALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISRAEL ALINANINE CHEYO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>169</postalAddress>
+      <physicalAddress>NJOMBE</physicalAddress>
+      <fax/>
+      <telephone>0765631813</telephone>
+      <mobile>0765631813</mobile>
+      <email>zerracheyo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

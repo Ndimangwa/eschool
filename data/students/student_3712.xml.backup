@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3712</studentId>
+  <studentName>EMMANUEL J MASESA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MUKIDOMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1626/0070</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BWIRU BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0104/0533</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po.box 76068 sam nujoma</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JAPHET ALLY MASESSA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO.BOX 384 ,GEITA</postalAddress>
+      <physicalAddress>GEITA,TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>002550272753616</telephone>
+      <mobile>0754029213</mobile>
+      <email>masessajaphet@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

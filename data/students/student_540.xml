@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>540</studentId>
+  <studentName>RAJABU HASSAN MROKI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MPWAWA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0138.0069.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110.0635.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>da es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222660937</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>sharifa rajabu mjema</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>07</postalAddress>
+      <physicalAddress>same</physicalAddress>
+      <fax/>
+      <telephone>0755466561</telephone>
+      <mobile>0789292542</mobile>
+      <email>rhmroki@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MROKI, RAJABU HASSAN</accountName><bankAccount>0152469928400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9391efb9ab42906ea3a1b5e4af0abe94</isaacompletechecksum></student>

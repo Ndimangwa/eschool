@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3594</studentId>
+  <studentName>REBECCA NDOYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWANZA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0333/0131</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0276/0619</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>PP.O.BOX76068DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@hesib.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MAGDALENA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 349 MWANZA</postalAddress>
+      <physicalAddress>P.OBOX349</physicalAddress>
+      <fax/>
+      <telephone>0757760222</telephone>
+      <mobile>00255757760222</mobile>
+      <email>magdalena2015@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

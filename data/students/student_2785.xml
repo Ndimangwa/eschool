@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2785</studentId>
+  <studentName>JACKLINE ERICK</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>J.K.NYERERE SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1038.0022.2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LONGIDO SECONDARY</institutionName>
+      <specialization>CBN</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0857.0543.2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WILFRIDA URIO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>30</postalAddress>
+      <physicalAddress>KILIMANJARO</physicalAddress>
+      <fax/>
+      <telephone>+255758159964</telephone>
+      <mobile>+255758159964</mobile>
+      <email>fridabeneurio@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ERICK, JACKLINE</accountName><bankAccount>0152326896600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6e5328bb930459fddcef670a2fbaed64</isaacompletechecksum></student>

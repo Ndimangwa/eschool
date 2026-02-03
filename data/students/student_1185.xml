@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1185</studentId>
+  <studentName>FRANK JOSEPHAT</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BUKOBA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0123/0124</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155/0551</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068  Dar</postalAddress>
+      <physicalAddress>PO BOX 76068  Dar</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YOHANA ZABLON</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>PO BOX 2240 MOSHI</postalAddress>
+      <physicalAddress>PO BOX 2240 MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00255768939401</telephone>
+      <mobile>00255768939401</mobile>
+      <email>zablonyohana@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

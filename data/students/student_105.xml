@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>105</studentId>
+  <studentName>Vickfarajaeli Zebedayo Daudi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Lutheran Junior Seminary-Morogoro</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0107-0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lutheran Junior Seminary-Morogoro</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0107-O530</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>The Hubert Kairuki Memorial University</institutionName>
+      <specialization>Doctor of Medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>No.232</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Haydom Lutheran Hospital</employerName>
+      <postalAddress> 9000</postalAddress>
+      <physicalAddress>Haydom,Manyara</physicalAddress>
+      <telephone>+255272533194</telephone>
+      <email>post@haydom.co.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Haydom Lutheran hospital</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9000</postalAddress>
+      <physicalAddress>Haydom,Manyara</physicalAddress>
+      <fax/>
+      <sponsorfax>+255272533194</sponsorfax>
+      <mobile>+255272533195</mobile>
+      <email>post@haydom.co.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Amon Aggrey Ndeki</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>9000</postalAddress>
+      <physicalAddress>Haydom,Manyara</physicalAddress>
+      <fax/>
+      <telephone>+255764978852</telephone>
+      <mobile>+255764747757</mobile>
+      <email>amonaggrey@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4774</studentId>
+  <studentName>JAMES PENFORD MASINGA</studentName>
+  <accademicHistory><institution><institutionName>ST.MATTHEWS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1071.0426.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>2</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST.MARY'S DULUTI SECONDARY</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S3646.0542.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>CONSOLATA MGENI CHRISANT</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 55949</postalAddress><physicalAddress>UDSM</physicalAddress><fax/><telephone>0713256253</telephone><mobile>0783256253</mobile><email>mgenick14@gmail.com</email><financedItem>SCHOOL FEES</financedItem><extraInformation>BASIC NEEDS</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CONSOLATA MGENI</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 55949</postalAddress><physicalAddress>UDSM</physicalAddress><fax></fax><telephone>0713256253</telephone><mobile>07872562563</mobile><email>mgenick14@gmail.com</email><extraInformation>ACCOUNTANT</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JAMES PENFORD MASINGA</accountName><bankAccount>0152088846400</bankAccount><bankName>CRDB BANK</bankName><branchName>UDSM</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c4ff0eb9d53d3f0c5505ef5c69f2ee83</isaacompletechecksum></student>

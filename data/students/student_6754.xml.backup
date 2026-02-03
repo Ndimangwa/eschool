@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6754</studentId>
+  <studentName>MELCHIZEDECK.H.MACHA</studentName>
+  <accademicHistory><institution><institutionName>SANU SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0168.0041.2013</indexNumber><award>DIVISION ONE</award><grade>BBBBBBB+B+B+B+</grade><startYear>2009</startYear><endYear>2013</endYear></institution><institution><institutionName>URU SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0165.0562.2016</indexNumber><award>DIVISION TWO</award><grade>DDC</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HELADEUS MACHA</sponsorName><payerId>3</payerId><postalAddress>PO.Box3838</postalAddress><physicalAddress>DAR ES SAALAM</physicalAddress><fax/><telephone/><mobile>0754599552</mobile><email>machah@yahoo.com</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MELCHIZEDECK HONEST MACHA</accountName><bankAccount>0152326848300</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>41559dfe100eb9ade0f6180c8daf953f</isaacompletechecksum></student>

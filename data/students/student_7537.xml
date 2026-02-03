@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7537</studentId>
+  <studentName>abdul j mbegu</studentName>
+  <accademicHistory><institution><institutionName>TEMEKE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1722.0088.2014</indexNumber><award>DIVISION TWO</award><grade>3.4</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>AMBAZA HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0347.0567.2017</indexNumber><award>DIVISION THREE</award><grade>13</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cb403361cfa5335a3f1fdca848116b62</isaacompletechecksum></student>

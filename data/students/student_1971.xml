@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1971</studentId>
+  <studentName>FIDELIS HIGGA MTUNZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Consolata seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0174-0004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SCHOOL OF PHYSIOTHERAPY KCMC</institutionName>
+      <specialization>DIPLOMA OF PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>16927</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FELIX FABIAN MTUNZI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>71047</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255713445251</telephone>
+      <mobile>+255713445251</mobile>
+      <email>mtunzifelix@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

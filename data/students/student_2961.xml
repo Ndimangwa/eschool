@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2961</studentId>
+  <studentName>STELLA  MGEMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DAR ES SALAAM SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1045.0124.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KONDOA  GIRLS HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0229.0624.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RICHARD J MGEMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 9191</postalAddress>
+      <physicalAddress>PO BOX 9191</physicalAddress>
+      <fax/>
+      <telephone>0656327059</telephone>
+      <mobile>0656327059</mobile>
+      <email>stellamgema.sm@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MGEMA, STELLA</accountName><bankAccount>0152043611601</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5d530d6fcf59fa91f635a678e22a33c2</isaacompletechecksum></student>

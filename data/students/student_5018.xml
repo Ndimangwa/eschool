@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5018</studentId>
+  <studentName>JIMMYSON ALEXANDER MASINGA</studentName>
+  <accademicHistory><institution><institutionName>MWANZA ALLIANCE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4645.0017.2013</indexNumber><award>CERTFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TABORA BOYS HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0155.0529.2016</indexNumber><award>CERTIFICATE OF ADVANCED LEVEL</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HSLEB</sponsorName><payerId>2</payerId><postalAddress>P.O. BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255754880388</mobile><email>info@heslb.go.tz</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LEAH OGUTU</kinName><relationship>MOTHER</relationship><postalAddress>MWANZA 120</postalAddress><physicalAddress>MWANZA</physicalAddress><fax></fax><telephone>0755382766</telephone><mobile>0755382766</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JIMMYSON MASINGA 0152207522700</accountName><bankAccount>JIMMYSON ALXANDER MASINGA</bankAccount><bankName>CRDB</bankName><branchName>BUZURUGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5dbc2d43d5f6c2f44d534158779b42ba</isaacompletechecksum></student>

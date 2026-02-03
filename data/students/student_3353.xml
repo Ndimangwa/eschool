@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3353</studentId>
+  <studentName>MEDARD M JOSEPH</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYASAKA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3043.0147.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PAMBA SECONDAY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0546.0543.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>STEPHEN JOSEPH</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1975MWANZA</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0768188853</telephone>
+      <mobile>0768479842</mobile>
+      <email>steve@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JOSEPH, MEDARD M</accountName><bankAccount>0152356836400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d3f4e66f4d9fb53686fa99a6271ee1b7</isaacompletechecksum></student>

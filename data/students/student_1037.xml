@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1037</studentId>
+  <studentName>Kanamugire Chacha David</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Senior Chief Koinange High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>205207/075</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Shaaban Roberts Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0342-0551</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Grant</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068 DSM</postalAddress>
+      <physicalAddress>Plot 8 Block 46 Sam Nujoma Road</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@helb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Lucy B. Muhoni</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O. BOX 196 Musoma</postalAddress>
+      <physicalAddress>Nyabisare</physicalAddress>
+      <fax/>
+      <telephone>0776496129</telephone>
+      <mobile>0776496129</mobile>
+      <email>kanamud@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

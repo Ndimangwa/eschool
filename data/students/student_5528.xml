@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5528</studentId>
+  <studentName>DANIEL J MASALAGO</studentName>
+  <accademicHistory><institution><institutionName>UZOGORE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3350.0009.2011</indexNumber><award>CSE</award><grade>DIVISION THREE</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOSEPH TUNGU</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 896</postalAddress><physicalAddress>SHINYANGA</physicalAddress><fax>0769596461</fax><telephone>0769596461</telephone><mobile>0769596461</mobile><email>danieljoeph160@yahoo.com</email><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</accountName><bankAccount>017101001339</bankAccount><bankName>NBC</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>61ba950aad6bc25fc22359a8978fbde1</isaacompletechecksum></student>

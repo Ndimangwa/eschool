@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3275</studentId>
+  <studentName>andrew lelo mboya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>st francis de sales junior seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0180.0003.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kibaha secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119.0550.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 dar es salaam tz</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mathew mboya</kinName>
+      <relationship>father</relationship>
+      <postalAddress>22 mango moshi</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>0754447786</telephone>
+      <mobile>0754447786</mobile>
+      <email>mathewkimati@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MBOYA, ANDREW LELO</accountName><bankAccount>0152326673700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1241a26ce92f2da1d3d324c06deb4700</isaacompletechecksum></student>

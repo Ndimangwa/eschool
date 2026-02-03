@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1626</studentId>
+  <studentName>THERESIA B. TEMU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0485/0106</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485/1127</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AGNES MOSHI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>360 UOMBONI MOSHI</postalAddress>
+      <physicalAddress>360 UOMBONI MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+225719895415</telephone>
+      <mobile>+225752969079</mobile>
+      <email>tedytemu@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

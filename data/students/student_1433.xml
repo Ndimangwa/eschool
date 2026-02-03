@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1433</studentId>
+  <studentName>JIDA J SAID</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIWANJA CHA NDEGE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0958/0025</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DODOMA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0306/0553</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>hesLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552227724323</sponsorfax>
+      <mobile>002552227724323</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Yasin Said</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>2240</postalAddress>
+      <physicalAddress>Dodoma</physicalAddress>
+      <fax/>
+      <telephone>0687871381</telephone>
+      <mobile>0687871381</mobile>
+      <email>yasin.saidi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

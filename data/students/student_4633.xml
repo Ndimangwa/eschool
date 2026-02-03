@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4633</studentId>
+  <studentName>MOSES STANLEY MADEJE</studentName>
+  <accademicHistory><institution><institutionName>AZANIA SECONDARY SCHOOL</institutionName><specialization>CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0101.0310.1993</indexNumber><award>CERTIFICATE</award><grade>DIV II</grade><startYear>1990</startYear><endYear>1993</endYear></institution><institution><institutionName>OLD MOSHI HIGH SCHOOL</institutionName><specialization>CERTIFICATE IN ADVANCED SECONDARY SCHOOL EDUCATION</specialization><levelId>8</levelId><indexNumber>S0134.0634.1996</indexNumber><award>ADVANCED CERTIFICATE</award><grade>DIV II</grade><startYear>1994</startYear><endYear>1996</endYear></institution><institution><institutionName>MUHIMBILI UNIVERSITY COLLEGE OF HEALTH SCIENCES</institutionName><specialization>DIPLOMA IN MED LAB TECHNOLOGY</specialization><levelId>12</levelId><indexNumber>27254/DMLS/T.99</indexNumber><award>DIPLOMA</award><grade>B+</grade><startYear>1999</startYear><endYear>2002</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName><specialization>HEALTH LABORATORY SCIENCE</specialization><levelId>15</levelId><indexNumber>TU/BSC.HLS/0041</indexNumber><award>BACHELOR DEGREE</award><grade>B+</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MOSES MADEJE</sponsorName><payerId>1</payerId><postalAddress>P.O BOX 1897 MOSHI</postalAddress><physicalAddress>KCMC MOSHI</physicalAddress><fax/><telephone>+255754644994</telephone><mobile>+255754644994</mobile><email>mmadeje2012@hotmail.com</email><financedItem>ALL REQUIREMENTS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ESTHER MADEJE</kinName><relationship>WIFE</relationship><postalAddress>P.O BOX 1897 MOSHI</postalAddress><physicalAddress>KCMC MOSHI</physicalAddress><fax></fax><telephone>+255754394873</telephone><mobile>+255754394873</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NMB 40302528641</accountName><bankAccount>NMB BANK</bankAccount><bankName>MADEJE S. M</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2652363d5680445209cf124524c56b4e</isaacompletechecksum></student>

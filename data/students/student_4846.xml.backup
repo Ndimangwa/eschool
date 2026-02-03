@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4846</studentId>
+  <studentName>MARIAM YAHYA MSALALI</studentName>
+  <accademicHistory><institution><institutionName>BAOBAB SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1599.0072.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>BAOBAB SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S1599.0601.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>YAHYA MOHAMED MSALALI</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 46</postalAddress><physicalAddress>DODOMA</physicalAddress><fax/><telephone>0716377502</telephone><mobile>0754825522</mobile><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ASHA SAID</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 46</postalAddress><physicalAddress>DODOMA</physicalAddress><fax/><telephone>0654291772</telephone><mobile>0784208473</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MARIAM YAHYA MSALALI</accountName><bankAccount>000000</bankAccount><bankName>CRDB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>315f24f80d5746f26ca340d141bf02a4</isaacompletechecksum></student>

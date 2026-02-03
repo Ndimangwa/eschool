@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1147</studentId>
+  <studentName>THOMAS D MAFURU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BUSERESERE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1153/0121</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TARIME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0352.0715</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>TANZANIA MINISTRY OF HEALTH AND SOCIAL WELFARE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9083 DAR-ER-SALAAM</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222120261</sponsorfax>
+      <mobile>00255222120261</mobile>
+      <email>info@mohsw.gov.ir</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HAMIDA IDDI</kinName>
+      <relationship>MY MOTHER</relationship>
+      <postalAddress>450  MUSOMA MARA</postalAddress>
+      <physicalAddress>MUSOMA MARA</physicalAddress>
+      <fax/>
+      <telephone>00255766183478</telephone>
+      <mobile>0766183478</mobile>
+      <email>hamidaiddi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

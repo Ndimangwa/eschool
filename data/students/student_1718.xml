@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1718</studentId>
+  <studentName>BENJAMIN ADAMU KITELEKE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CARMEL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2506-0030</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>S0119-0589</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>KIBAHA SECONDARY SCHOOL</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068 Dar es Salaam</postalAddress>
+      <physicalAddress>TIDO COMPLEX,KIMWELI MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JANETH KITELEKE</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>Box 2240 MOSHI</postalAddress>
+      <physicalAddress>MALOLO, KILOSA</physicalAddress>
+      <fax/>
+      <telephone>00255789429875</telephone>
+      <mobile>00255789429875</mobile>
+      <email>janethkiteleke@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

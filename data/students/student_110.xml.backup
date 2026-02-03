@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>110</studentId>
+  <studentName>FATMA S MASOUD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ZANZIBAR COMMERCIAL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1119-0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NURSING TRAINING CENTRE-BUGANDO</institutionName>
+      <specialization>NURSE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>34309</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Sam Nujoma road Mwenge DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552266936</sponsorfax>
+      <mobile>002552266936</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>OMAR MASOUD SALIM</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>P. O. Box 2095</postalAddress>
+      <physicalAddress>ZANZIBAR</physicalAddress>
+      <fax/>
+      <telephone>00255777412039</telephone>
+      <mobile>00255715412039</mobile>
+      <email>issaoar@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

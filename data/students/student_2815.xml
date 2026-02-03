@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2815</studentId>
+  <studentName>SHARIFA RAMADHANI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBASILA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0316.0168.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WERUWERU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0221.0698.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RAMADHANI MOHAMMED</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>20378</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255715885809</telephone>
+      <mobile>+255715885809</mobile>
+      <email>ramadhanisharifa42@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>RAMADHANI, SHARIFA</accountName><bankAccount>0152327968100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e3b20c6b6b6e7c16311b63bb8f13bf2b</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6718</studentId>
+  <studentName>YARED J BENJAMINI</studentName>
+  <accademicHistory><institution><institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0155.0099.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>BAGAMOYO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0351.0623.2015</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOB MUDE</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 102</postalAddress><physicalAddress>KIBAIGWA</physicalAddress><fax>0629286042</fax><telephone>0764272114</telephone><mobile>0764272114</mobile><email>mudebenja@gmail.com</email><extraInformation>NIL</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NIL</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0d3c1e562116beafae3764552a35d837</isaacompletechecksum></student>

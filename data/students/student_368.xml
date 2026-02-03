@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>368</studentId>
+  <studentName>FRANK I. OLOTU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1187-0078</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0540</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TU-KCM-COLLEGE</institutionName>
+      <specialization>PHYSIOTHERAPY</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/BSC.PH/TZ/0027</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>THRiVE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 6984</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0753177570</sponsorfax>
+      <mobile>0753177570</mobile>
+      <email>masaiol@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BAVO ISSAYA OLOTU</kinName>
+      <relationship>YOUNG BROTHER</relationship>
+      <postalAddress>P.O.BOX 6984</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0756706227</telephone>
+      <mobile>0756706227</mobile>
+      <email>bavooisy@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

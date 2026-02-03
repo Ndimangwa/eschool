@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6738</studentId>
+  <studentName>ALPHA EUGENE OLOMI</studentName>
+  <accademicHistory><institution><institutionName>ST AMEDEUS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4405.0002.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>1</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST AMEDEUS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S4405.0503.2016</indexNumber><award>CERTIFICATE IN ADVANCED SECONDARY EDUCATION</award><grade>2</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2a15e6a62616d2cb99d3108f0996ae56</isaacompletechecksum></student>

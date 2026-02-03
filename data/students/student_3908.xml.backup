@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3908</studentId>
+  <studentName>ADAM DOTTO LAZARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>QUEEN OF APOSTLES -USHIROMBO SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1646.0002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158.0673</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>INFO@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GINGILA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>179</postalAddress>
+      <physicalAddress>KAHAMA</physicalAddress>
+      <fax/>
+      <telephone>0784348236</telephone>
+      <mobile>+255784348236</mobile>
+      <email>adlagy7@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

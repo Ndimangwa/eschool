@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7563</studentId>
+  <studentName>SUNDAY E MLAY</studentName>
+  <accademicHistory><institution><institutionName>THE VOICE SECONDARY SCHOOL</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber> S5112.0015.2014</indexNumber><award>CERTIFICTE OF SECONDARY EDUCATION</award><grade>MERIT OF 2.9</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ELIEN JORAM MLAY</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 4 LOLIONDO, ARUSHA</postalAddress><physicalAddress>P.O.BOX 4 LOLIONDO,ARUSHA</physicalAddress><fax/><telephone>+225767566496</telephone><mobile>+225765403961</mobile><email/><financedItem>HE</financedItem><extraInformation>HE IS A PAESENT</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELIEN JORAM MLAY</kinName><relationship>PARENT</relationship><postalAddress>P.O.BOX 4 LOLIONDO, ARUSHA</postalAddress><physicalAddress>P.O.BOX 4 LOLIONDO,ARUSHA</physicalAddress><fax/><telephone>+225767566496</telephone><mobile>+225765403961</mobile><email/><extraInformation>HE IS A PAESENT</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SUNDAY ELIEN MLAY</accountName><bankAccount>41110002313</bankAccount><bankName>NMB</bankName><branchName>LOLIONDO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d65c04e98dacdd86b81934228897addd</isaacompletechecksum></student>

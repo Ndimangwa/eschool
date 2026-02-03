@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>192</studentId>
+  <studentName>RUKIA RAJAB BAKAR</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LUMUMBA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P0326/0205</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE AGA KHAN UNIVERSITY</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TB 260/05</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE AGA KHAN UNIVERSITY</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TB 260/05</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>PUBLIC HEALTH</specialization>
+      <levelId>17</levelId>
+      <indexNumber>KCMC/MPH/T/116</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MOH-COLLEGE OF HEALTH SCIENCES ZANZIBAR </employerName>
+      <postalAddress>1898</postalAddress>
+      <physicalAddress>MBWENI ZANZIBAR</physicalAddress>
+      <telephone>00255777410889</telephone>
+      <email>drhajimwita@hotmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>BUILDING STRONGER UNIVERSITY- SUZA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>146 ZANZIBAR</postalAddress>
+      <physicalAddress>TUNGUU ZANZIBAR</physicalAddress>
+      <fax/>
+      <sponsorfax>002552233337</sponsorfax>
+      <mobile>002552233337</mobile>
+      <email>dvc@suza.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JUMA BADRU SHAIBU</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>575 ZANZIBAR</postalAddress>
+      <physicalAddress>FUONI ZANZIBAR</physicalAddress>
+      <fax/>
+      <telephone>00255777499967</telephone>
+      <mobile>00255777499967</mobile>
+      <email>jb_shaib@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

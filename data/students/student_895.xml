@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>895</studentId>
+  <studentName>BEATRICE SELEMAN MHINA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAZINDE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO808-0001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KARATU HIGH SCHOOL</institutionName>
+      <specialization>CBA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO364</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>20053</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>PRESIDENT OFFICE</employerName>
+      <postalAddress>9173</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <telephone>02252668680</telephone>
+      <email>josesk75@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PRESIDENT OFFICE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9173</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>02252668680</sponsorfax>
+      <mobile>02252668680</mobile>
+      <email>josesk75@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH MREMA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>116</postalAddress>
+      <physicalAddress>DAESALAAM</physicalAddress>
+      <fax/>
+      <telephone>0775048096</telephone>
+      <mobile>0768270460</mobile>
+      <email>sakwerajoseph@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

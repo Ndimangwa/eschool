@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2550</studentId>
+  <studentName>ipyana paul kunjumu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mazinde Juu Sec. School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0233-0020</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Loyola Sec School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.800.0533</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box76068</postalAddress>
+      <physicalAddress>dar es salaam Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mary kunjumu</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>223</postalAddress>
+      <physicalAddress>tanga</physicalAddress>
+      <fax/>
+      <telephone>+255763181260</telephone>
+      <mobile>00255763181260</mobile>
+      <email>marykunjumu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

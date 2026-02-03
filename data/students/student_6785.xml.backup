@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6785</studentId>
+  <studentName>Anna Paul Kanje</studentName>
+  <accademicHistory><institution><institutionName>Mjimpya secondary school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S2257.0010.2012</indexNumber><award>CSEE</award><grade>DIVISION THREE</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0485.0570.2015</indexNumber><award>ACSEE</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX76068</postalAddress><physicalAddress>P.O.BOX76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Happiness Harison Saria</accountName><bankAccount>0152326677300</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b32435f479aaaf438ee9ecafad9c641b</isaacompletechecksum></student>

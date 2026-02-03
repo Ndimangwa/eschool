@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2781</studentId>
+  <studentName>AZIZI HUSSEIN ITUKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>REGINALD MENGI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2258.0142.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KARATU SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0364.0534.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PILLI ALLY GHULIKU</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>169</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0712084328</telephone>
+      <mobile>0712084328</mobile>
+      <email>azizituka@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ITUKA, AZIZI HUSSEIN</accountName><bankAccount>0152327975100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2928d9b78d05447958d78e0fca113a5d</isaacompletechecksum></student>

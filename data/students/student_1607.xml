@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1607</studentId>
+  <studentName>DEOGRATIUS T. GITARDA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ARUSHA DAY SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0781-0147</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0529</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ANNE T. GITARDA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>6137</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0272507301</sponsorfax>
+      <mobile>0754301202</mobile>
+      <email>annegitarda@yahoo.com.au</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANNE T. GITARDA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>6137</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0272507301</telephone>
+      <mobile>0754301202</mobile>
+      <email>annegitarda@yahoo.com.au</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

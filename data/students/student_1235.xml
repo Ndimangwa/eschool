@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1235</studentId>
+  <studentName>Elizabeth H. Ntapara</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Visitation Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0263-0021</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St. Maria Goreth Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187-0555</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Herbert Ntapara</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>69</postalAddress>
+      <physicalAddress>KIA_KILIMANJARO</physicalAddress>
+      <fax/>
+      <telephone>0754560972</telephone>
+      <mobile>0658560972</mobile>
+      <email>ntapara@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

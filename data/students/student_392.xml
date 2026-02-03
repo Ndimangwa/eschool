@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>392</studentId>
+  <studentName>ELIHAIKA JEROBOAM MINJA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DARAJAN SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1075-0018</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211-0678</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,dar-es-saiaam</postalAddress>
+      <physicalAddress>Plot no8,block no46,Sam nujoma Road</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JEREMIAH JEROBOAM MINJA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>1,MARANGU</postalAddress>
+      <physicalAddress>MARANGU</physicalAddress>
+      <fax/>
+      <telephone>0767896475</telephone>
+      <mobile>0767896475</mobile>
+      <email>jemiy2010@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

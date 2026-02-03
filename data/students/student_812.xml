@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>812</studentId>
+  <studentName>Jane Nyairabu Muniko</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>St Teresa Kehancha Sec School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>E0015.2330.2003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kolandoto School of Nursing</institutionName>
+      <specialization>Diploma</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED</employerName>
+      <postalAddress>Box 571 Korogwe</postalAddress>
+      <physicalAddress>Box 571 Korogwe</physicalAddress>
+      <telephone>0713835588</telephone>
+      <email>awam@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DED</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 571 Korogwe</postalAddress>
+      <physicalAddress>Box 571 Korogwe</physicalAddress>
+      <fax/>
+      <sponsorfax>0713835588</sponsorfax>
+      <mobile>0713835588</mobile>
+      <email>awam@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Nyange Lina David</kinName>
+      <relationship>Sister</relationship>
+      <postalAddress>Box 519 Makumira</postalAddress>
+      <physicalAddress>Box 519 Makumira</physicalAddress>
+      <fax/>
+      <telephone>0785018820</telephone>
+      <mobile>0785018820</mobile>
+      <email>nyangelina@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JANE NYAIRABU MUNIKO</accountName><bankAccount>0152266833400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d2ca938a6625f949b9256619ce3239e9</isaacompletechecksum></student>

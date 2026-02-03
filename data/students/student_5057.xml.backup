@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5057</studentId>
+  <studentName>David Mwemezi Nathan</studentName>
+  <accademicHistory><institution><institutionName>KCMUCo</institutionName><specialization>MD</specialization><levelId>8</levelId><indexNumber>S0184.0547.2013</indexNumber><award>Four</award><grade>B</grade><startYear>2011</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3f1e1c4464801b5d9c49dbf03baf5109</isaacompletechecksum></student>

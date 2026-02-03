@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6309</studentId>
+  <studentName>PETER M KUCHIBA</studentName>
+  <accademicHistory><institution><institutionName>THAQAAFA SECONDARY SCHOOL CENTRE</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>P0823.0167.2006</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>2006</startYear><endYear>2006</endYear></institution><institution><institutionName>BISHOP DURNING HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1600.0819.2009</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2007</startYear><endYear>2008</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>LAB TECHNOLOGIST</specialization><levelId>12</levelId><indexNumber>K 16 0012</indexNumber><award>DIPLOMA IN HEALTH LAB SCIENCE</award><grade>B+</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DED NYANG'HWALE</employerName><postalAddress>BOX 352</postalAddress><physicalAddress>NYANG'HWALE GEITA</physicalAddress><fax/><telephone/><mobile>+255767633499</mobile><email/><startYear>2013</startYear><endYear>2047</endYear><extraInformation>Government employment</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>LAPF -Pension Fund</sponsorName><payerId>5</payerId><postalAddress>BOX 1501</postalAddress><physicalAddress>DODOMA TANZANIA</physicalAddress><fax/><telephone>+255262321952</telephone><mobile/><email>info@lapf.or.tz</email><financedItem>tuition and examination fee,special faculty requirements</financedItem><extraInformation>Loan through my monthly salary</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>PETER KUCHIBA MAGAGA</accountName><bankAccount>0152232155200</bankAccount><bankName>CRDB BANK </bankName><branchName>GEITA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f2f86c4baedc9252e0ac1062de18045b</isaacompletechecksum></student>

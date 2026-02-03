@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>34</studentId>
+  <studentName>doroth l minza</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>bukumbi secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0235.0018.2002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mwanza secoy school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0333.0503.2005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>moshi municipal counsil</employerName>
+      <postalAddress>318</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <telephone>0025527275437</telephone>
+      <email>smpmoshi@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>sam nujoma road,mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>george germinous sizya</kinName>
+      <relationship>husband</relationship>
+      <postalAddress>474ushirika</postalAddress>
+      <physicalAddress>moshi ushirika</physicalAddress>
+      <fax/>
+      <telephone>0715300580</telephone>
+      <mobile>0756300580</mobile>
+      <email>george_germinous@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MINZA, DOROTH</accountName><bankAccount>40308102999 </bankAccount><bankName> NMB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>64c3b52afd55318e70ef35f659ae447e</isaacompletechecksum></student>

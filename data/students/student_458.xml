@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>458</studentId>
+  <studentName>ELICHILIA R SHAO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MLAMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO508-0031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCM-COLLEGE</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0172</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCM-COLLEGE</institutionName>
+      <specialization>MEDUCAL MICROBIOLOGY, IMMUNOLOGY WITH MOLECULAR BIOLOGY</specialization>
+      <levelId>17</levelId>
+      <indexNumber>TU/KCMUC.MMIM/TZ/006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Prof Raimos Olomi</employerName>
+      <postalAddress>3010 </postalAddress>
+      <physicalAddress>kcmc moshi</physicalAddress>
+      <telephone>002550272753766</telephone>
+      <email>kcmcadm@ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Elichilia R shao</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3010</postalAddress>
+      <physicalAddress>kcmc</physicalAddress>
+      <fax/>
+      <sponsorfax>00225784491622</sponsorfax>
+      <mobile>00225784491622</mobile>
+      <email>elichilia2004@yahoo.co.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Eliaichi A Mlay</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>3010</postalAddress>
+      <physicalAddress>kcmc moshi</physicalAddress>
+      <fax/>
+      <telephone>002552727748587</telephone>
+      <mobile>0025527278491622</mobile>
+      <email>eliaichimlay@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

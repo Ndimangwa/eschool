@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5076</studentId>
+  <studentName>GEOFREY O KAYOMBO</studentName>
+  <accademicHistory><institution><institutionName>ST.MARYS ULETE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3483.0039.2013</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>UWATA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S3905.0546.2016</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>RAINARD KAYOMBO</sponsorName><payerId>3</payerId><postalAddress>CHIMALA MBEYA 24</postalAddress><physicalAddress>CHIMALA MBEYA 24</physicalAddress><fax/><telephone>0753391589</telephone><mobile>0753391589</mobile><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AGUSTINA MLELWA</kinName><relationship>MOTHER</relationship><postalAddress>CHIMALA MBEYA 24</postalAddress><physicalAddress>CHIMALA MBEYA 24</physicalAddress><fax></fax><telephone>0764934497</telephone><mobile>0764934497</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GEOFREY O KAYOMBO</accountName><bankAccount>0152577212100</bankAccount><bankName>CRDB</bankName><branchName>MWANJELWA MBEYA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6cfc188839bf62b05c5718505d400fc5</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>399</studentId>
+  <studentName>andrew issamulah charles</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>runzewe</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0752.0039.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>lugoba</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0549.0599.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>high education students loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>issamulah kidendey</kinName>
+      <relationship>father</relationship>
+      <postalAddress>p.o box 846</postalAddress>
+      <physicalAddress>kahama shinyanga</physicalAddress>
+      <fax/>
+      <telephone>00255752487898</telephone>
+      <mobile>00255752487898</mobile>
+      <email>bobakbs@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>CHARLES, ANDREW ISSAMULAH</accountName><bankAccount> 0152328142100 </bankAccount><bankName> CRDB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c8ece0600bc39f0ddeb19e83869151c0</isaacompletechecksum></student>

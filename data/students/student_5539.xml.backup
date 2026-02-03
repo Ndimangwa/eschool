@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5539</studentId>
+  <studentName>HUSSEINA ZULFIKAR AKBERALI</studentName>
+  <accademicHistory><institution><institutionName>AL MADRASA TUS</institutionName><specialization>O LEVEL</specialization><levelId>4</levelId><indexNumber>S1002.0003.2012</indexNumber><award>O LEVEL CERTIFICATE </award><grade>DIVISION TWO</grade><startYear>2008</startYear><endYear>2012</endYear></institution><institution><institutionName>AL MUNTAZIR ISLAMIC SEMINARY</institutionName><specialization>A LEVEL</specialization><levelId>8</levelId><indexNumber>S0437.0518.2015</indexNumber><award>A LEVEL CERTIFICATE </award><grade>CREDIT</grade><startYear>2014</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JUZER ZULFIKAR </sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 105</postalAddress><physicalAddress>CHANGOMBE</physicalAddress><fax/><telephone>0713534606</telephone><mobile>0713534606</mobile><email>Jakberali@gmail.com</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>JUZER ZULFIKAR AKBERALI</accountName><bankAccount>0152415866800</bankAccount><bankName>CRDB</bankName><branchName>KARIAKOO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>88cefbc9d2e426b55cbcd93dbc852299</isaacompletechecksum></student>

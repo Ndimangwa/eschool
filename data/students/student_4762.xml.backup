@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4762</studentId>
+  <studentName>FRIJENIA GASPARY SUMBAI</studentName>
+  <accademicHistory><institution><institutionName>PALLOTI GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0245.0023.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIA DE MATTIAS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S4207.0533.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GASIANO GASPARY SUMBAI</kinName><relationship>BROTHER</relationship><postalAddress>P.O BOX 35050</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>0719103922</telephone><mobile>0719103922</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FRIJENIA GASPARY SUMBAI</accountName><bankAccount>00000000</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI TOWN</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e1f95cdbb3e58356d7a71628211eed4c</isaacompletechecksum></student>

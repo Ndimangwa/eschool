@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3026</studentId>
+  <studentName>EGNO NALZIS NDUNGURU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BOMBAMBILI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.3242/0126</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NDANDA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0338/0761</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan boad</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,mwenge daressalaam</postalAddress>
+      <physicalAddress>mwenge dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>francis NALZIS NDUNGURU</kinName>
+      <relationship>brOTHER</relationship>
+      <postalAddress>574 litembo mbinga</postalAddress>
+      <physicalAddress>mbinga ruvuma</physicalAddress>
+      <fax/>
+      <telephone>0764037054</telephone>
+      <mobile>0716539739</mobile>
+      <email>francisndunguru02@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

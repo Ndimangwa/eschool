@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3599</studentId>
+  <studentName>ROSWITER CASSIAN LYOMBO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LOYOLA HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0800.0056.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOYOLA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0800.0560.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>P.O.BOX 76068 dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+225222772432</mobile>
+      <email>info@hesib.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AGHATHA KAZIMOTO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 3533 DSM</postalAddress>
+      <physicalAddress>P.O.BOX 3533 DSM</physicalAddress>
+      <fax/>
+      <telephone>0717298517</telephone>
+      <mobile>0022717298517</mobile>
+      <email>roswiterlyombo@gmil.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LYOMBO, ROSWITER CASSIAN</accountName><bankAccount>20310011609</bankAccount><bankName>NMB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ac9ac5c1323fa5a1f78330bdc0aaeed0</isaacompletechecksum></student>

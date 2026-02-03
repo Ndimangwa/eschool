@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2236</studentId>
+  <studentName>monica sekundi kessy</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>majengo secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0485/0047</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>majengo secondary school</institutionName>
+      <specialization>hgl</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0485/527</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kcmc school of nursing</institutionName>
+      <specialization>diploma in nursing</specialization>
+      <levelId>8</levelId>
+      <indexNumber>21482</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>moshi municipal council</employerName>
+      <postalAddress>p. o. box 318</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <telephone>0752295692</telephone>
+      <email>kessymonica924@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>0025522669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>khalphani ramadhani mdee</kinName>
+      <relationship>husband</relationship>
+      <postalAddress>p.o.box8834</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>0754812136</telephone>
+      <mobile>0715812136</mobile>
+      <email>luzingemdee@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

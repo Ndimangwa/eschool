@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3140</studentId>
+  <studentName>WINIFRIDA J MALLOSA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0248.0087.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.JOSEPH'S CATHEDRAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4692.0550.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76O68</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JONAS MALLOSA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX159</postalAddress>
+      <physicalAddress>NZEGA</physicalAddress>
+      <fax/>
+      <telephone>0784884340</telephone>
+      <mobile>0784884340</mobile>
+      <email>Jonasmalosa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MALLOSA, WINIFRIDA J</accountName><bankAccount>0152318419800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>90318e8d2729c4852c7142a43cf7c001</isaacompletechecksum></student>

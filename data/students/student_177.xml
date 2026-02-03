@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>177</studentId>
+  <studentName>ELIZABETH KOKUBANZA DANSTAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LORETO GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0249/0020</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.1187/0556</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P .O.BOX 76068,DAR</postalAddress>
+      <physicalAddress>SAM NUJOMA ROAD,MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPHINE KOKUSHUBIRA RWECHUNGURA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 361 BUKOBA</postalAddress>
+      <physicalAddress>RWAMISHENYE-BUKOBA</physicalAddress>
+      <fax/>
+      <telephone>0713507154</telephone>
+      <mobile>0785471432</mobile>
+      <email>josephine.rwechungura@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

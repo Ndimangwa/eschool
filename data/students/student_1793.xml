@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1793</studentId>
+  <studentName>JUDITH VEDASTO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PEACE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1689.0042.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOYOLA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO800/0551</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VEDASTO MWIJAGE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 321</postalAddress>
+      <physicalAddress>BUKOBA</physicalAddress>
+      <fax/>
+      <telephone>0756433312</telephone>
+      <mobile>0788433312</mobile>
+      <email>vedasto_mwijage@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

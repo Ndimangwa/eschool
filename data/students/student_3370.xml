@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3370</studentId>
+  <studentName>SAID  HASSAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BAGAMOYO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.351/111</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0158-520</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF DAR ES SALAAM</institutionName>
+      <specialization>DIPLOMA IN ENVIRONMENTAL HEALTH</specialization>
+      <levelId>8</levelId>
+      <indexNumber>12223/DEHS/T.91</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF DAR-ES SALAAM</institutionName>
+      <specialization>BACHELOR OF  ARTS IN SOCIOLOGY</specialization>
+      <levelId>15</levelId>
+      <indexNumber>P.45273/T.2003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>TPDF</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 9203 DAR ES SALAAM</postalAddress>
+      <physicalAddress>UPANGA DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552150556</sponsorfax>
+      <mobile>002552150556</mobile>
+      <email>signalcentremmj@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ZUWENA HASSAN MHINA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>MH MBEYA BOX 6364 MBEYA</postalAddress>
+      <physicalAddress>MBALIZI MBEYA</physicalAddress>
+      <fax/>
+      <telephone>002552560059</telephone>
+      <mobile>0713129916</mobile>
+      <email>nyumayo1977@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

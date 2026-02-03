@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8015</studentId>
+  <studentName>EVANS A. SANGA</studentName>
+  <accademicHistory><institution><institutionName>TANZANIA ADVENTIST SECONDARY SCHOOL</institutionName><specialization>O LEVEL</specialization><levelId>4</levelId><indexNumber>S1198.0038.2007</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2004</startYear><endYear>2007</endYear></institution><institution><institutionName>ALPHA HIGH SCHOOL</institutionName><specialization>A LEVEL</specialization><levelId>8</levelId><indexNumber>S2549.0593.2010</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2008</startYear><endYear>2010</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>K19 0043</indexNumber><award>DEGREE  DOCTOR OF MEDICINE</award><grade>B+</grade><startYear>2011</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>KCMC GSF</employerName><postalAddress>P.O. Box 3010</postalAddress><physicalAddress>MOSHI</physicalAddress><fax>+255272754381</fax><telephone>+255272754377</telephone><mobile/><email>kcmcadmin@kcmc.ac.tz</email><startYear>2016</startYear><endYear>2018</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>GSF/ GPAS</sponsorName><payerId>10</payerId><postalAddress>P.O. Box 3010</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>+255272754377</telephone><mobile/><email>kcmcadmin@kcmc.ac.tz</email><financedItem>school fees only</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AZINA SANGA</kinName><relationship>FATHER</relationship><postalAddress>P.O. Box 6427</postalAddress><physicalAddress>MBEYA</physicalAddress><fax></fax><telephone>+255754860679</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EVANS A. SANGA</accountName><bankAccount>0152327962800</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b95219a37c96e1e2c5a45bb8e47b84df</isaacompletechecksum></student>

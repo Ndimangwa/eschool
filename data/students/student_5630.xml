@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5630</studentId>
+  <studentName>STANLEY KALOKORA SPERATUS</studentName>
+  <accademicHistory><institution><institutionName>KAIZIREGE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4631.0032.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DISTINCTION</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MZUMBE SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0140.0551.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.Box 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>SPERATUS ANDREA MWESIGA</kinName><relationship>FATHER</relationship><postalAddress>P.O.Box 1045</postalAddress><physicalAddress>BUKOBA</physicalAddress><fax/><telephone>+255764147747</telephone><mobile>+255764147747</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>STANLEY KALOKOLA SPERATUS</accountName><bankAccount>0152327148600</bankAccount><bankName>CRDB BANK </bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cee8e483106f7f9cd6c54f5f9a8f796d</isaacompletechecksum></student>

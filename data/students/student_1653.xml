@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1653</studentId>
+  <studentName>saitoti samwel molel</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>lutheran junior seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0107/0049</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>agape lutheran junior seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0184/0562</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>samwel lesseyo mollel</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>19 mlandizi</postalAddress>
+      <physicalAddress>mlandizi kibaha</physicalAddress>
+      <fax/>
+      <telephone>+255756297636</telephone>
+      <mobile>+255756297636</mobile>
+      <email>msamwelmollel@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

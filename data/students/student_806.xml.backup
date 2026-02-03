@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>806</studentId>
+  <studentName>NEEMA  EMILY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SHIBOLYA  SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3899-OO38</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUGALO SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0325-0553</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX  76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EMILY SHABALENGA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 945</postalAddress>
+      <physicalAddress>GALIJEMBE MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0784073044</telephone>
+      <mobile>0784073044</mobile>
+      <email>neemaemily6@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

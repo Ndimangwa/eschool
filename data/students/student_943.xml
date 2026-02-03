@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>943</studentId>
+  <studentName>NYAKAHO PROSPERY MACHAGE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DODOMA SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0 604-043</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUGALO TRAINING CENTER</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>04/018</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>WILSON JACOB</employerName>
+      <postalAddress>box 1054</postalAddress>
+      <physicalAddress>LINDI</physicalAddress>
+      <telephone>0754648975</telephone>
+      <email>nymachange@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NYAKAHO PROSPER MACHAGE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 1054</postalAddress>
+      <physicalAddress>lindi</physicalAddress>
+      <fax/>
+      <sponsorfax>0769502970</sponsorfax>
+      <mobile>0769502970</mobile>
+      <email>nymachange@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WILSON JACOB NYAMANGA</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>box 1054</postalAddress>
+      <physicalAddress>LINDI</physicalAddress>
+      <fax/>
+      <telephone>0754648975</telephone>
+      <mobile>0754648975</mobile>
+      <email>nymachange@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

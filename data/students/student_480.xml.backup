@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>480</studentId>
+  <studentName>Nengai Maliaki Mosses</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Sangiti Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0663/00033</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibosho Girls Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0205/0570</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>sophia philipo sablaki</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p. o. box 1391</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>0753843029</sponsorfax>
+      <mobile>0753843029</mobile>
+      <email>nengaimoses@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>sophia philipo sablaki</kinName>
+      <relationship>parent</relationship>
+      <postalAddress>p. o. box 1391</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <telephone>0753843029</telephone>
+      <mobile>0753843029</mobile>
+      <email>nengaimoses@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

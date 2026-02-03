@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>827</studentId>
+  <studentName>lwitiko kadenge</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kinyala secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0794-0198</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>tosamaganga secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0158-0775</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>rotina dankeni bufugo</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>box 99 tukuyu</postalAddress>
+      <physicalAddress>tukuyu</physicalAddress>
+      <fax/>
+      <telephone>0768296467</telephone>
+      <mobile>0768296467</mobile>
+      <email>lwikadenge@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

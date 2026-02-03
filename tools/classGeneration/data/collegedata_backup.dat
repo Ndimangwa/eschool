@@ -1,0 +1,757 @@
+College Plus 2016 03 06
+/*
+All Time should be an Instance of DateTime
+Check data type list and listObject
+*/
+PHPTimezone 
+{
+	class: PHPTimezone 
+	table: pHPTimezone 
+	column: zoneId; type: text; property: zoneId; role: primary 
+	column: zoneName; type: text; property: zoneName; role: value
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+DaysOfAWeek 
+{
+	class: DaysOfAWeek
+	table: daysOfAWeek
+	column: dayId; type: text; property: dayId; role: primary 
+	column: dayName; type: text; property: dayName; role: value
+	column: dayAbbreviation; type: text; property: dayAbbreviation; role: others
+	column: offsetValue; type: text; property: offsetValue; role: others 
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+MonthOfAYear 
+{
+	class: MonthOfAYear
+	table: monthOfAYear
+	column: monthId; type: text; property: monthId; role: primary
+	column: monthName; type: text; property: monthName; role: value
+	column: monthAbbreviation; type: text; property: monthAbbreviation; role: others
+	column: monthNumber; type: text; property: monthNumber; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Theme
+{
+	class: Theme 
+	table: themes 
+	column: themeId; type: text; property: themeId; role: primary
+	column: themeName; type: text; property: themeName; role: value
+	column: themeFolder; type: text; property: themeFolder; role: others 
+	column: themeBackgroundColor; type: text; property: themeBackgroundColor; role: others 
+	column: themeBackgroundImage; type: text; property: themeBackgroundImage; role: others 
+	column: themeFontFace; type: text; property: themeFontFace; role: others 
+	column: themeFontSize; type: text; property: themeFontSize; role: others 
+	column: themeFontColor; type: text; property: themeFontColor; role: others 
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Country 
+{
+	class: Country 
+	table: country
+	column: countryId; type: text; property: countryId; role: primary 
+	column: countryName; type: text; property: countryName; role: value 
+	column: abbreviation; type: text; property: abbreviation; role: others 
+	column: code; type: text; property: code; role: others 
+	column: timezone; type: text; property: timezone; role: others 
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Profile 
+{
+	class: Profile 
+	table: profile
+	column: profileId; type: text; property: profileId; role: primary 
+	column: profileName; type: text; property: profileName; role: value
+	column: systemName; type: text; property: systemName; role: others
+	column: logo; type: text; property: logo; role: others
+	column: telephoneList; type: list; property: telephoneList; role: others
+	column: emailList; type: list; property: emailList; role: others
+	column: otherCommunication; type: list; property: otherCommunication; role: others
+	column: postalAddress; type: text; property: postalAddress; role: others
+	column: website; type: text; property: website; role: others
+	column: faxList; type: list; property: faxList; role: others
+	column: city; type: text; property: city; role: others
+	column: countryId; type: object; property: country, Country; role: others
+	column: pHPTimezoneId; type: object; property: PHPTimezone, PHPTimezone; role: others
+	column: dob; type: object; property: DOB, DateAndTime; role: others
+	column: currentAccademicYear; type: text; property: currentAccademicYear; role: others 
+	column: beginOfTheYearDate; type: object; property: beginOfTheYearDate, DateAndTime; role: others
+	column: nextGraduationYear; type: text; property: nextGraduationYear; role: others
+	column: nextSemester; type: text; property: nextSemester; role: others
+	column: numberOfSemestersPerYear; type: text; property: numberOfSemestersPerYear; role: others
+	column: gpsCoordinate; type: text; property: GPSCoordinate; role: others
+	column: themeId; type: object; property: theme, Theme; role: others
+	column: firstDayOfAWeekId; type: object; property: firstDayOfAWeek, DaysOfAWeek; role: others
+	column: xmlFile; type: text; property: XMLFile; role: others
+	column: xmlFileChecksum; type: text; property: XMLFileChecksum; role: others
+	column: serverIpAddress; type: text; property: serverIPAddress; role: others
+	column: localAreaNetworkMask; type: text; property: localAreaNetworkMask; role: others
+	column: maxNumberOfReturnedSearchRecords; type: text; property: maximumNumberOfReturnedSearchRecords; role: others
+	column: maxNumberOfDisplayedRowsPerPage; type: text; property: maximumNumberOfDisplayedRowsPerPage; role: others
+	column: applicationCounter; type: text; property: applicationCounter; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+EducationLevel
+{
+	class: EducationLevel
+	table: educationLevel 
+	column: levelId; type: text; property: levelId; role: primary 
+	column: levelName; type: text; property: levelName; role: value 
+	column: levelCode; type: text; property: levelCode; role: value 
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Department 
+{
+	class: Department
+	table: departments
+	column: departmentId; type: text; property: departmentId; role: primary 
+	column: departmentName; type: text; property: departmentName; role: value 
+	column: departmentCode; type: text; property: departmentCode; role: others 
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Course
+{
+	class: Course 
+	table: course 
+	column: courseId; type: text; property: courseId; role: primary 
+	column: courseName; type: text; property: courseName; role: value 
+	column: duration; type: text; property: duration; role: others 
+	column: courseCode; type: text; property: courseCode; role: others
+	column: departmentId; type: object; property: department, Department; role: others 
+	column: nextRegistrationNumber; type: text; property: nextRegistrationNumber; role: others 
+	column: registrationNumberWidth; type: text; property: registrationNumberWidth; role: others 
+	column: nextExaminationNumber; type: text; property: nextExaminationNumber; role: others 
+	column: examinationNumberWidth; type: text; property: examinationNumberWidth; role: others 
+	column: levelId; type: object; property: educationLevel, EducationLevel; role: others 
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Subject
+{
+	class: Subject 
+	table: subject 
+	column: subjectId; type: text; property: subjectId; role: primary 
+	column: subjectName; type: text; property: subjectName; role: value
+	column: subjectCode; type: text; property: subjectCode; role: others
+	column: lectureHours; type: text; property: lectureHours; role: others
+	column: lectureUnits; type: text; property: lectureUnits; role: others
+	column: practicalHours; type: text; property: practicalHours; role: others
+	column: practicalUnits; type: text; property: practicalUnits; role: others 
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+CourseAndSubjectTransaction
+{
+	class: CourseAndSubjectTransaction
+	table: courseAndSubjectTransaction
+	column: transactionId; type: text; property: transactionId; role: primary 
+	column: courseId; type: object; property: course, Course; role: others
+	column: subjectId; type: object; property: subject, Subject; role: others
+	column: year; type: text; property: year; role: others
+	column: semester; type: text; property: semester; role: others
+	column: compulsory; type: boolean; property: compulsory; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+SecurityQuestion
+{
+	class: SecurityQuestion
+	table: securityQuestion
+	column: questionId; type: text; property: questionId; role: primary 
+	column: questionName; type: text; property: questionName; role: value
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+UserType 
+{
+	class: UserType 
+	table: userType 
+	column: typeId; type: text; property: typeId; role: primary
+	column: typeName; type: text; property: typeName; role: value
+	column: typeCode; type: text; property: typeCode; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+UserStatus 
+{
+	class: UserStatus
+	table: userStatus 
+	column: statusId; type: text; property: statusId; role: primary
+	column: statusName; type: text; property: statusName; role: value
+	column: statusCode; type: text; property: statusCode; role: others
+	column: alive; type: boolean; property: alive; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Sex 
+{
+	class: Sex 
+	table: sex 
+	column: sexId; type: text; property: sexId; role: primary
+	column: sexName; type: text; property: sexName; role: value
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Marital 
+{
+	class: Marital
+	table: marital
+	column: maritalId; type: text; property: maritalId; role: primary
+	column: maritalName; type: text; property: maritalName; role: value
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Group
+{
+	class: Group 
+	table: groups 
+	column: groupId; type: text; property: groupId; role: primary
+	column: staticGroupId; type: text; property: staticGroupId; role: others
+	column: groupName; type: text; property: groupName; role: value
+	column: pId; type: object; property: parentGroup, Group; role: others
+	column: year; type: text; property: year; role: others
+	column: semester; type: text; property: semester; role: others
+	column: courseId; type: object; property: course, Course; role: others
+	column: context; type: text; property: context; role: others
+	column: rootGroup; type: boolean; property: rootGroup; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+JobTitle
+{
+	class: JobTitle 
+	table: jobTitle 
+	column: jobId; type: text; property: jobId; role: primary
+	column: jobName; type: text; property: jobName; role: value
+	column: context; type: text; property: context; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Religion
+{
+	class: Religion
+	table: religion 
+	column: religionId; type: text; property: religionId; role: primary
+	column: religionName; type: text; property: religionName; role: value
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Denomination
+{
+	class: Denomination 
+	table: denomination
+	column: denominationId; type: text; property: denominationId; role: primary
+	column: denominationName; type: text; property: denominationName; role: value
+	column: religionId; type: object; property: religion, Religion; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Login
+{
+	class: Login 
+	table: login
+	column: loginId; type: text; property: loginId; role: primary
+	column: loginName; type: text; property: loginName; role: value
+	column: firstname; type: text; property: firstname; role: others
+	column: middlename; type: text; property: middlename; role: others
+	column: lastname; type: text; property: lastname; role: others
+	column: fullname; type: text; property: fullname; role: others
+	column: statusId; type: object; property: userStatus, UserStatus; role: others
+	column: dob; type: object; property: DOB, DateAndTime; role: others
+	column: sexId; type: object; property: sex, Sex; role: others
+	column: maritalId; type: object; property: marital, Marital; role: others
+	column: jobId; type: object; property: jobTitle, JobTitle; role: others
+	column: groupId; type: object; property: group, Group; role: others
+	column: context; type: text; property: context; role: others
+	column: typeId; type: object; property: userType, UserType; role: others
+	column: email; type: text; property: email; role: others
+	column: phone; type: text; property: phone; role: others
+	column: photo; type: text; property: photo; role: others
+	column: password; type: text; property: password; role: others
+	column: root; type: boolean; property: root; role: others
+	column: lastLoginTime; type: object; property: lastLoginTime, DateAndTime; role: others
+	column: admissionTime; type: object; property: admissionTime, DateAndTime; role: others
+	column: qnSecurity1; type: object; property: firstSecurityQuestion, SecurityQuestion; role: others
+	column: ansSecurity1; type: text; property: firstSecurityAnswer; role: others
+	column: qnSecurity2; type: object; property: secondSecurityQuestion, SecurityQuestion; role: others
+	column: ansSecurity2; type: text; property: secondSecurityAnswer; role: others
+	column: themeId; type: object; property: theme, Theme; role: others
+	column: firstDayOfAWeekId; type: object; property: firstDayOfAWeek, DaysOfAWeek; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+User
+{
+	class: User 
+	table: users 
+	column: userId; type: text; property: userId; role: primary
+	column: loginId; type: object; property: login, Login; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+CourseInstructor 
+{
+	class: CourseInstructor
+	table: courseInstructors
+	column: instructorId; type: text; property: instructorId; role: primary
+	column: loginId; type: object; property: login, Login; role: others
+	column: courseAndSubjectTransactionIdList; type: listObject; property: courseAndSubjectTransactionIdList, CourseAndSubjectTransaction; role: others
+	column: departmentId; type: object; property: department, Department; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Student
+{
+	class: Student 
+	table: students
+	column: studentId; type: text; property: studentId; role: primary
+	column: loginId; type: object; property: login, Login; role: others
+	column: occupation; type: text; property: occupation; role: others
+	column: registrationNumber; type: text; property: registrationNumber; role: others
+	column: citizenshipId; type: object; property: citizenship, Country; role: others
+	column: nativeplace; type: text; property: nativeplace; role: others
+	column: disability; type: text; property: disability; role: others
+	column: denominationId; type: object; property: denomination, Denomination; role: others
+	column: postalAddress; type: text; property: postalAddress; role: others
+	column: employed; type: boolean; property: employed; role: others
+	column: courseId; type: object; property: course, Course; role: others
+	column: referenceNumber; type: text; property: referenceNumber; role: others
+	column: registrationTime; type: object; property: registrationTime, DateAndTime; role: others
+	column: applicationCounter; type: text; property: applicationCounter; role: others
+	column: xmlFile; type: text; property: XMLFile; role: others
+	column: xmlFileChecksum; type: text; property: XMLFileChecksum; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+ExaminationGroup
+{
+	class: ExaminationGroup
+	table: examinationGroup
+	column: groupId; type: text; property: groupId; role: primary
+	column: groupName; type: text; property: groupName; role: value
+	column: groupClosed; type: boolean; property: groupClosed; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Examination 
+{
+	class: Examination
+	table: examination 
+	column: examinationId; type: text; property: examinationId; role: primary
+	column: examinationName; type: text; property: examinationName; role: value
+	column: examinationCode; type: text; property: examinationCode; role: others
+	column: examinationWeight; type: text; property: examinationWeight; role: others
+	column: groupId; type: object; property: group, ExaminationGroup; role: others
+	column: pExaminationId; type: object; property: parentExamination, Examination; role: others
+	column: isprimary; type: boolean; property: primary; role: others
+	column: supplimentary; type: boolean; property: supplimentary; role: others
+	column: sequenceNumber; type: text; property: sequenceNumber; role: others
+	column: startTime; type: object; property: startTime, DateAndTime; role: others
+	column: endTime; type: object; property: endTime, DateAndTime; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+ExaminationNumberScope 
+{
+	class: ExaminationNumberScope 
+	table: examinationNumberScope 
+	column: scopeId; type: text; property: scopeId; role: primary
+	column: scopeName; type: text; property: scopeName; role: value
+	column: scopeCode; type: text; property: scopeCode; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+ExaminationNumber
+{
+	class: ExaminationNumber
+	table: examinationNumber 
+	column: numberId; type: text; property: numberId; role: primary
+	column: examinationId; type: object; property: examination, Examination; role: others
+	column: examinationGroupId; type: object; property: examinationGroup, ExaminationGroup; role: others
+	column: studentId; type: object; property: student, Student; role: others
+	column: scopeId; type: object; property: scope, ExaminationNumberScope; role: others
+	column: examinationNumber; type: text; property: examinationNumber; role: value
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Grade
+{
+	class: Grade 
+	table: grades
+	column: gradeId; type: text; property: gradeId; role: primary
+	column: gradeName; type: text; property: gradeName; role: value
+	column: gradePoint; type: text; property: gradePoint; role: others
+	column: lowestMarks; type: text; property: lowestMarks; role: others
+	column: highestMarks; type: text; property: highestMarks; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Results
+{
+	class: Results 
+	table: results 
+	column: resultsId; type: text; property: resultsId; role: primary
+	column: resultsName; type: text; property: resultsName; role: value
+	column: resultsValid; type: boolean; property: resultsValid; role: others
+	column: groupId; type: object; property: examinationGroup, ExaminationGroup; role: others
+	column: resultsCalculationTimeout; type: text; property: resultsCalculationTimeout; role: others
+	column: beginOfCalculationTime; type: object; property: beginOfCalculationTime, DateAndTime; role: others
+	column: endOfCalculationTime; type: object; property: endOfCalculationTime, DateAndTime; role: others
+	column: rawMarksCSVFile; type: text; property: rawMarksCSVFile; role: others
+	column: rawMarksCSVFileChecksum; type: text; property: rawMarksCSVFileChecksum; role: others
+	column: gradedMarksCSVFile; type: text; property: gradedMarksCSVFile; role: others
+	column: gradedMarksCSVFileChecksum; type: text; property: gradedMarksCSVFileChecksum; role: others
+	column: displayResultsEnable; type: boolean; property: displayResultsEnable; role: others
+	column: displayResultsSummaryEnable; type: text; property: displayResultsSummaryEnable; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Currency
+{
+	class: Currency
+	table: currency
+	column: currencyId; type: text; property: currencyId; role: primary
+	column: currencyName; type: text; property: currencyName; role: value
+	column: currencyCode; type: text; property: currencyCode; role: others
+	column: countryId; type: object; property: country, Country; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+FeeStructure
+{
+	class: FeeStructure
+	table: feeStructure
+	column: structureId; type: text; property: structureId; role: primary
+	column: courseId; type: object; property: course, Course; role: others
+	column: year; type: text; property: year; role: others
+	column: validFrom; type: object; property: validFrom, DateAndTime; role: others
+	column: amount; type: text; property: amount; role: others
+	column: currencyId; type: object; property: currency, Currency; role: others
+	column: citizen; type: boolean; property: citizen; role: others
+	column: invoicePrefix; type: text; property: invoicePrefix; role: others
+	column: paymentPrefix; type: text; property: paymentPrefix; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+FeeInvoice
+{
+	class: FeeInvoice
+	table: feeInvoices
+	column: invoiceId; type: text; property: invoiceId; role: primary
+	column: invoiceNumber; type: text; property: invoiceNumber; role: value
+	column: generationTime; type: object; property: generationTime, DateAndTime; role: others
+	column: structureIdList; type: listObject; property: structureIdList, FeeStructure; role: others
+	column: studentId; type: object; property: student, Student; role: others
+	column: amount; type: text; property: amount; role: others
+	column: currencyId; type: object; property: currency, Currency; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+FeePayer
+{
+	class: FeePayer 
+	table: feePayer
+	column: payerId; type: text; property: payerId; role: primary
+	column: payerName; type: text; property: payerName; role: value
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+FeePayment
+{
+	class: FeePayment
+	table: feePayments
+	column: paymentId; type: text; property: paymentId; role: primary
+	column: invoiceId; type: object; property: invoice, FeeInvoice; role: others
+	column: payerId; type: object; property: payer, FeePayer; role: others
+	column: paymentNumber; type: text; property: paymentNumber; role: value
+	column: paymentTime; type: object; property: paymentTime, DateAndTime; role: others
+	column: sequenceNumber; type: text; property: sequenceNumber; role: others
+	column: amount; type: text; property: amount; role: others
+	column: currencyId; type: object; property: currency, Currency; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Venue
+{
+	class: Venue 
+	table: venue
+	column: venueId; type: text; property: venueId; role: primary
+	column: venueName; type: text; property: venueName; role: value
+	column: venueCode; type: text; property: venueCode; role: others
+	column: capacity; type: text; property: capacity; role: others
+	column: numberOfConcurrentAllocations; type: text; property: numberOfConcurrentAllocations; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Timetable
+{
+	class: Timetable 
+	table: timetable
+	column: ttId; type: text; property: timetableId; role: primary
+	column: ttName; type: text; property: activityName; role: value
+	column: venueId; type: object; property: venue, Venue; role: others
+	column: instructorList; type: listobject; property: instructorList, Login; role: others
+	column: groupList; type: text; property: groupList; role: others
+	column: subjectList; type: listObject; property: subjectList, Subject; role: others
+	column: validFrom; type: object; property: validFrom, DateAndTime; role: others
+	column: validTo; type: object; property: validTo, DateAndTime; role: others
+	column: startTime; type: object; property: startTime, DateAndTime; role: others
+	column: endTime; type: object; property: endTime, DateAndTime; role: others
+	column: dayOfAWeekId; type: object; property: dayOfAWeek, DaysOfAWeek; role: others
+	column: textColor; type: text; property: textColor; role: others
+	column: backgroundColor; type: text; property: backgroundColor; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Schedule 
+{
+	class: Schedule 
+	table: schedule
+	column: scheduleId; type: text; property: scheduleId; role: primary
+	column: scheduleName; type: text; property: activityName; role: value
+	column: venueId; type: object; property: venue, Venue; role: others
+	column: instructorList; type: listobject; property: instructorList, Login; role: others
+	column: groupList; type: text; property: groupList; role: others
+	column: startTime; type: object; property: startTime, DateAndTime; role: others
+	column: endTime; type: object; property: endTime, DateAndTime; role: others
+	column: textColor; type: text; property: textColor; role: others
+	column: backgroundColor; type: text; property: backgroundColor; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Holiday
+{
+	class: Holiday 
+	table: holiday
+	column: holidayId; type: text; property: holidayId; role: primary
+	column: holidayName; type: text; property: holidayName; role: value
+	column: holidayTime; type: object; property: holidayTime, DateAndTime; role: others
+	column: textColor; type: text; property: textColor; role: others
+	column: backgroundColor; type: text; property: backgroundColor; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Attendance
+{
+	class: Attendance 
+	table: attendance 
+	column: attendanceId; type: text; property: attendanceId; role: primary
+	column: attendanceName; type: text; property: attendanceName; role: value
+	column: monthId; type: object; property: attendanceMonth, MonthOfAYear; role: others
+	column: year; type: text; property: year; role: others
+	column: attendanceCSVFile; type: text; property: attendanceCSVFile; role: others
+	column: attendanceCSVFileChecksum; type: text; property: attendanceCSVFileChecksum; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+LeaveType
+{
+	class: LeaveType
+	table: leaveType 
+	column: typeId; type: text; property: typeId; role: primary
+	column: typeName; type: text; property: typeName; role: value
+	column: minDaysNotice; type: text; property: minimumNumberOfDaysPriorNotice; role: others
+	column: maxDaysAllocatedPerYear; type: text; property: maximumNumberOfDaysAllocatedPerYear; role: others
+	column: maxContinuousDaysPerLeave; type: text; property: maximumNumberOfContinuousDaysPerLeave; role: others
+	column: numberOfTimesThisLeaveCanBeTakenInAYear; type: text; property: numberOfTimesThisLeaveCanBeTakenInAYear; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+LeaveApprovalSchemaGroup
+{
+	class: LeaveApprovalSchemaGroup
+	table: leaveApprovalSchemaGroup
+	column: groupId; type: text; property: groupId; role: primary
+	column: jobId; type: object; property: jobTitle, JobTitle; role: others
+	column: typeId; type: object; property: leaveType, LeaveType; role: others
+	column: groupName; type: text; property: groupName; role: value
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+LeaveApprovalSchema
+{
+	class: LeaveApprovalSchema
+	table: leaveApprovalSchema 
+	column: schemaId; type: text; property: schemaId; role: primary
+	column: schemaName; type: text; property: schemaName; role: value
+	column: groupId; type: object; property: schemaGroup, LeaveApprovalSchemaGroup; role: others
+	column: sequenceNumber; type: text; property: sequenceNumber; role: others
+	column: jobId; type: object; property: jobTitle, JobTitle; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+LeaveApplication
+{
+	class: LeaveApplication
+	table: leaveApplication
+	column: leaveId; type: text; property: leaveId; role: primary
+	column: loginId; type: object; property: login, Login; role: others
+	column: groupId; type: object; property: schemaGroup, LeaveApprovalSchemaGroup; role: others
+	column: leaveName; type: text; property: leaveName; role: value
+	column: timeOfApplication; type: object; property: timeOfApplication, DateAndTime; role: others
+	column: leaveApprovalSchemaList; type: text; property: leaveApprovalSchemaList; role: others
+	column: timeOfApproval; type: object; property: timeOfApproval, DateAndTime; role: others
+	column: startTime; type: object; property: startTime, DateAndTime; role: others
+	column: endTime; type: object; property: endTime, DateAndTime; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+MessageType
+{
+	class: MessageType
+	table: messageType
+	column: typeId; type: text; property: typeId; role: primary
+	column: typeName; type: text; property: typeName; role: value
+	column: typeCode; type: text; property: typeCode; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+MessagePolicyType 
+{
+	class: MessagePolicyType 
+	table: messagePolicyType
+	column: typeId; type: text; property: typeId; role: primary
+	column: typeName; type: text; property: typeName; role: value
+	column: typeCode; type: text; property: typeCode; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+ResultsChangingSchemaGroup
+{
+	class: ResultsChangingSchemaGroup
+	table: resultsChangingSchemaGroup
+	column: groupId; type: text; property: groupId; role: primary
+	column: groupName; type: text; property: groupName; role: value
+	column: courseId; type: object; property: course, Course; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+ResultsChangingSchema
+{
+	class: ResultsChangingSchema
+	table: resultsChangingSchema 
+	column: schemaId; type: text; property: schemaId; role: primary
+	column: schemaName; type: text; property: schemaName; role: value
+	column: groupId; type: object; property: schemaGroup, ResultsChangingSchemaGroup; role: others
+	column: sequenceNumber; type: text; property: sequenceNumber; role: others
+	column: jobId; type: object; property: jobTitle, JobTitle; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+ResultsChangeLog 
+{
+	class: ResultsChangeLog
+	table: resultsChangeLog 
+	column: logId; type: text; property: logId; role: primary
+	column: studentId; type: object; property: student, Student; role: others
+	column: resultsId; type: object; property: results, Results; role: others
+	column: groupId; type: object; property: schemaGroup, ResultsChangingSchemaGroup; role: others
+	column: logName; type: text; property: logName; role: value
+	column: originalMarksList; type: list; property: originalMarksList; role: others
+	column: finalMarksList; type: list; property: finalMarksList; role: others
+	column: reason; type: text; property: reason; role: others
+	column: timeOfApplication; type: object; property: timeOfApplication, DateAndTime; role: others
+	column: changeApprovalSchemaList; type: text; property: changeApprovalSchemaList; role: others
+	column: timeOfApproval; type: object; property: timeOfApproval, DateAndTime; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+EntryCriteria
+{
+	class: EntryCriteria
+	table: entryCriteria
+	column: criteriaId; type: text; property: criteriaId; role: primary
+	column: courseId; type: object; property: course, Course; role: others
+	column: levelCodeList; type: list; property: levelCodeList; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+GeneralApprovalSchema
+{
+	class: GeneralApprovalSchema
+	table: generalApprovalSchema
+	column: schemaId; type: text; property: schemaId; role: primary
+	column: schemaName; type: text; property: schemaName; role: value
+	column: schemaCode; type: text; property: schemaCode; role: others
+	column: policyId; type: object; property: systemPolicy, SystemPolicy; role: others
+	column: jobIdList; type: listobject; property: listOfJobTitles, JobTitle; role: others
+	column: schemaValidity; type: text; property: schemaValidity; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+GeneralApprovalData
+{
+	class: GeneralApprovalData
+	table: generalApprovalData
+	column: dataId; type: text; property: dataId; role: primary
+	column: dataName; type: text; property: reason; role: value
+	column: loginId; type: object; property: login, Login; role: others
+	column: schemaId; type: object; property: approvalSchema, GeneralApprovalSchema; role: others
+	column: sequenceNumber; type: text; property: sequenceNumber; role: others
+	column: loginIdList; type: listobject; property: listOfLogins, Login; role: others
+	column: timeOfRequest; type: object; property: timeOfRequest, DateAndTime; role: others
+	column: timeOfLastApproval; type: object; property: timeOfLastApproval, DateAndTime; role: others
+	column: extraFilter; type: text; property: extraFilter; role: others
+	column: extraInformation; type: text; property: extraInformation; role: others
+	column: flags; type: text; property: flags; role: others
+}
+Ended_Successful

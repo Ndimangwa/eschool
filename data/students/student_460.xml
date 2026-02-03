@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>460</studentId>
+  <studentName>LAILA SOUD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIFUNGILO GIRLS</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0224.0049.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIFUNGILO GIRLS</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0224.0529.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068-Dar-es-salam</postalAddress>
+      <physicalAddress>76068-Dar es salam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222777433</sponsorfax>
+      <mobile>002552772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SOUD HAMID</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1071-TANGA</postalAddress>
+      <physicalAddress>1071-TANGA</physicalAddress>
+      <fax/>
+      <telephone>0713326769</telephone>
+      <mobile>0713326769</mobile>
+      <email>soudetzgm@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SOUD, LAILA</accountName><bankAccount>0152327648500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>16dba4e56461d89cdc9e76ea1f457983</isaacompletechecksum></student>

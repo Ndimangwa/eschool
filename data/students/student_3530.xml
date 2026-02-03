@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3530</studentId>
+  <studentName>Michael Fred Mboya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Makongo secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0731/0354</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ilboru secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0110/0618</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Muhimbili university of health</institutionName>
+      <specialization>Medical doctor</specialization>
+      <levelId>15</levelId>
+      <indexNumber>MD001884</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Mororgoro-D.E.D</employerName>
+      <postalAddress>p.o box 1884</postalAddress>
+      <physicalAddress>Morogoro</physicalAddress>
+      <telephone>0756398275</telephone>
+      <email>maganga@yaho.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>private-Michael fred mboya</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p o box 25437</postalAddress>
+      <physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255714414012</sponsorfax>
+      <mobile>00255714414012</mobile>
+      <email>michaelf600@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Bumija Mboya</kinName>
+      <relationship>uncle</relationship>
+      <postalAddress>p o box 25437</postalAddress>
+      <physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>0655309403</telephone>
+      <mobile>0655309403</mobile>
+      <email>bumijamboya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

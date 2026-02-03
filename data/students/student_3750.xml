@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3750</studentId>
+  <studentName>BARAKA GIDEON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LWANDAI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0584.0067.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KWIRO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0123.0604.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box76068Dar es salaam</postalAddress>
+      <physicalAddress>kiweri complex msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>002555222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GIDEON FRANCIS NGOTONYINGI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>box 45 TANGA</postalAddress>
+      <physicalAddress>soni</physicalAddress>
+      <fax/>
+      <telephone>00255658010592</telephone>
+      <mobile>00255658010592</mobile>
+      <email>saanane@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>GIDEON, BARAKA</accountName><bankAccount>0152327978700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2a733857efe31395793e1d39f5cf6a67</isaacompletechecksum></student>

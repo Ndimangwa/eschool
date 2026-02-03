@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5791</studentId>
+  <studentName>EVAREST SAMWEL LOTHA</studentName>
+  <accademicHistory><institution><institutionName>ENYOITO SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S1125.0145.2011</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISON ONE</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>99eb3d88e0d2b9252e80076c2defc42b</isaacompletechecksum></student>

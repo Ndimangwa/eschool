@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>846</studentId>
+  <studentName>MWANASHA B NYANGASA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MLALO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0747-0018</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MKWAWA SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0137-0829</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHEZA NURSING TRAINING CENTRE</institutionName>
+      <specialization>GENERAL NURSING AND MIDWIFERY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>24311</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ministry of health</employerName>
+      <postalAddress>2240 KCMC</postalAddress>
+      <physicalAddress>2240KCMC</physicalAddress>
+      <telephone>00255784737438</telephone>
+      <email>nyangasathebest@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>heslb dar</postalAddress>
+      <physicalAddress>heslb dar</physicalAddress>
+      <fax/>
+      <sponsorfax>002557850000</sponsorfax>
+      <mobile>00255784000</mobile>
+      <email>board@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Said bakari nyangasa</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>2285 tanga</postalAddress>
+      <physicalAddress>2285 tanga</physicalAddress>
+      <fax/>
+      <telephone>002550784352500</telephone>
+      <mobile>0022550784352500</mobile>
+      <email>nyangasa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

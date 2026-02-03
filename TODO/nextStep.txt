@@ -1,0 +1,32 @@
+Today
+1. Briefcase Compilation
+2. Briefcase PDF report generation 
+3. User Guide Manual 
+4. Request from Glory
+
+1. Adjust Subjects according to Curriculumn
+2. Add Join Another NTA Level  and the story goes on
+
+//Check with Paper Definition add managepaper policies 
+
+Today
+1. Add Publish results for briefcase and briefcase Group 
+2. Download Briefcase Group results 
+3. Enable Students to be able to see their briefcase/briefcase Group Results 
+4. Review Upload of Results in the Results Manager
+
+DataLine
+
+
+--Emergency for Loan Board Support November, 04 2016
+1. Upload Bank details for student from Mongi & Robert, form four index number too [FileFactory might help]
+2. Enable Columns for Bank Details , Form four index number 
+	[
+	Add more headers in the CSV returned column
+		1. propertytype: object , which will use loadAllData functionality, type  flags [input check arrays 16 bits], you may add 
+			custom tooltip text for each flag bit 
+		2
+	]
+	@Classname/propertyname,propertytype,namespaceTag,xmlcontainer, repeat, propertyclass [if propertytype is object, then propertyclass should be set]
+		//The propertytype = object will be written manually , to cover xml data especially for student,
+		as well as xmlcontainer , the outer container example indexNumber, the outer container might be accademicInstitution

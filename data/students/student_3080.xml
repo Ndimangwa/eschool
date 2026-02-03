@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3080</studentId>
+  <studentName>RADHIA MUSTAFA MOHAMED</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>HURUMA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0256.0036.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WERUWERU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0221.0689.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.O.Box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARIAM HASSAN KISSENGO</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>PO BOX 913</postalAddress>
+      <physicalAddress>PO BOX 913</physicalAddress>
+      <fax/>
+      <telephone>0756514120</telephone>
+      <mobile>0654748475</mobile>
+      <email>hassanmariam@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MOHAMED, RADHIA MUSTAFA</accountName><bankAccount>0152218757300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5aa91e5fc28a12d37161d30f22ca5129</isaacompletechecksum></student>

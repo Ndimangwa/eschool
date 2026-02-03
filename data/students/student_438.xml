@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>438</studentId>
+  <studentName>Peter Martin Kivumbi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Esacs Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1195-0042</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mzumbe Secondary School</institutionName>
+      <specialization>HGL</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0140-0680</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Unirvisty Of Dar es salaam</institutionName>
+      <specialization>B.A in Political Science and Philosophy</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2007-04-00134</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Pamoja Tunaweza Women Center</employerName>
+      <postalAddress>8434, Moshi</postalAddress>
+      <physicalAddress>Plot 277, Ushirika St, Rau, MOshi</physicalAddress>
+      <telephone>0272751121</telephone>
+      <email>pamojatunawezacentre@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Pamoja Tunaweza Women Center</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>8434, Moshi</postalAddress>
+      <physicalAddress>Plot 277, Ushirika St, Rau, Moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>0272751121</sponsorfax>
+      <mobile>0769537735</mobile>
+      <email>pamojatunawezacentre@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Paul Martin Kivumbi</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>7893, Dar es salaam</postalAddress>
+      <physicalAddress>Tangi Bovu, Mbezi Beach</physicalAddress>
+      <fax/>
+      <telephone>0222602570</telephone>
+      <mobile>0712227798</mobile>
+      <email>paul@strategistz.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

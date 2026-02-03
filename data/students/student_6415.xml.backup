@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6415</studentId>
+  <studentName>Anna John Emmanuel</studentName>
+  <accademicHistory><institution><institutionName>Huruma nursing training centre</institutionName><specialization>nursing</specialization><levelId>12</levelId><indexNumber>29153</indexNumber><award>DIPLOMA IN NURSING </award><grade>PASS</grade><startYear>2010</startYear><endYear>2011</endYear></institution><institution><institutionName>KARATU SECONDARY SCHOOL CENTRE</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>P1370.0003.2015</indexNumber><award>CERTIFICATE OF SECONDARY EDCATION</award><grade>DIVISION FOUR</grade><startYear>2005</startYear><endYear>2007</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MKURUGENZI MTENDAJI WA WILAYA YA KARATU</employerName><postalAddress>P.O.BOX 190 KARATU, ARUSHA</postalAddress><physicalAddress>KARATU</physicalAddress><fax>0272534300</fax><telephone>0272534047</telephone><mobile>0753049700</mobile><email>karatucouncil@yahoo.com</email><startYear>2008</startYear><endYear>2016</endYear><extraInformation>none</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>Anna John Emmanuel</sponsorName><payerId>1</payerId><postalAddress>P.O.BOX 190 KARATU, ARUSHA</postalAddress><physicalAddress>KARATU,BASHAY</physicalAddress><fax/><telephone/><mobile>0756293108</mobile><email>annajohnemanuel@gmail.com</email><financedItem>TUITION FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ANNA JOHN EMMANUEL </accountName><bankAccount>40908000257</bankAccount><bankName>NMB</bankName><branchName>KARATU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d276971fcc5082f7098a2fb83cd4a9f4</isaacompletechecksum></student>

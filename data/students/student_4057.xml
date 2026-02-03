@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4057</studentId>
+  <studentName>NELSON  ANDREA  NAMAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DR. OLSEN SECONDARY SCHOOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0947.0189.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA  SECONDARY  SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0103.0732.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DARESSALAAM,TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heselb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANDREA NATHANAELI NAMAN</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>9021</postalAddress>
+      <physicalAddress>MANYARA</physicalAddress>
+      <fax/>
+      <telephone>0787939096</telephone>
+      <mobile>00255787939096</mobile>
+      <email>namanandrea@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NAMAN, NELSON ANDREA</accountName><bankAccount>0152326921500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f30dd45616b27404ceeaff62363967fa</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6917</studentId>
+  <studentName>INOCENT ISARIA MREMA</studentName>
+  <accademicHistory><institution><institutionName>TEMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3082.0017.2014</indexNumber><award>CSEE</award><grade>GPA1.1</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ISARIA MREMA</sponsorName><payerId>3</payerId><postalAddress>PO.BOX 8294</postalAddress><physicalAddress>MBOKOMU</physicalAddress><fax>+255674997201</fax><telephone>0719162840</telephone><mobile>0674997201</mobile><email>inomrema750@gmail.com</email><financedItem>FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>INOCENT ISARIA MREMA</accountName><bankAccount>1011203040000</bankAccount><bankName>NMB</bankName><branchName>CLOK TOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4ac051164ee93f8ebe46fc74754ebcc3</isaacompletechecksum></student>

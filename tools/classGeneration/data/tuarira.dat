@@ -1,0 +1,41 @@
+School
+{
+	class: School 
+	table: school
+	column: schoolId; type: text; property: schoolId; role: primary
+}
+Sex
+{
+	class: Sex 
+	table: sex
+	column: sexId; type: text; property: sexId; role: primary
+}
+Mmbaga
+{
+	class: Mmbaga
+	table: mmbaga
+	column: mmbagaId; type: text; property: mmbagaId; role: others
+}
+Mhina
+{
+	class: Mhina 
+	table: mhina
+	column: mhinaId; type: text; property: mhina; role: others
+	column: father; type: object; property: father, Mmbaga; role: others
+}
+Tuarira
+{
+	class: Tuarira 
+	table: tuarira
+	column: tuariraId; type: text; property: tuariraId; role: primary 
+	column: height; type: text; property: height; role: others  
+	column: weight; type: text; property: weight; role: others
+	column: color; type: text; property: color; role: others
+	column: father; type: object; property: father, Mhina; role: others
+	column: grandFather; type: object; property: grandFather, Mmbaga; role: others
+	column: uzito; type: text; property: uzito; role: others
+	column: hobbies; type: list; property: hobbies; role: others
+	column: sexId; type: object; property: sex, Sex; role: others
+	column: schools; type: listObject; property: schools, School; role: others
+}
+End

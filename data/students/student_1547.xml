@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1547</studentId>
+  <studentName>JOHN NJEGITE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PANDAHILL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0867/0113</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119/0609</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>MSASANIDAR</physicalAddress>
+      <fax/>
+      <sponsorfax>0025552269036</sponsorfax>
+      <mobile>0025552269036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RENATUS NJEGITE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>p.o.box.2215 MBEYA</postalAddress>
+      <physicalAddress>MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0754361225</telephone>
+      <mobile>0718299204</mobile>
+      <email>njegiter@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

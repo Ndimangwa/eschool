@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1783</studentId>
+  <studentName>Michael Mapunda</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PANDAHILL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0867/0099/2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibaha secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119/0652/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Raphael Mapunda</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>Dar es salaam</postalAddress>
+      <physicalAddress>Temeke</physicalAddress>
+      <fax/>
+      <telephone>+255713626556</telephone>
+      <mobile>+255713626556</mobile>
+      <email>yungtip29@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

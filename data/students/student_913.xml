@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>913</studentId>
+  <studentName>HERIKI ERNEST</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NDURUMA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0919.0038.2001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HAYDOM</institutionName>
+      <specialization>NURSE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH</employerName>
+      <postalAddress>p.o.box 11478</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <telephone>00255222120261</telephone>
+      <email>info@mhsw.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION LOAN BODY</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ERNEST GIDION</kinName>
+      <relationship>further</relationship>
+      <postalAddress>P.O.BOX 276</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0754898811</telephone>
+      <mobile>0754898811</mobile>
+      <email>erickernest318@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ERNEST, HERIKI</accountName><bankAccount>0152327718300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>59772a0363f3e011d6274f3512563ab5</isaacompletechecksum></student>

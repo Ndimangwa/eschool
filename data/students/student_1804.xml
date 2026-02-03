@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1804</studentId>
+  <studentName>DORICA CHARLES BURENGELO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SHAABAN ROBERT SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0342/0021/2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SHAABAN ROBERT SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0342/0512/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, DAR ES SALAAM</postalAddress>
+      <physicalAddress>Sam Nujoma road, Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARGARETH BURENGELO</kinName>
+      <relationship>AUNTIE</relationship>
+      <postalAddress>20513 DAR ES SALAAM</postalAddress>
+      <physicalAddress>Upanga, Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>00255785233338</telephone>
+      <mobile>00255785233338</mobile>
+      <email>margareth.f.burengelo.@tz.ey.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

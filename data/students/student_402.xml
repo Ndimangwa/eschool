@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>402</studentId>
+  <studentName>Nyiraneza Sabine Esperance</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>GS kibogora</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>30764Bch</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>GS NYAMASHEKE</institutionName>
+      <specialization>BCH</specialization>
+      <levelId>8</levelId>
+      <indexNumber>3076BCH016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>GS NYANASHEKE</institutionName>
+      <specialization>BCH</specialization>
+      <levelId>8</levelId>
+      <indexNumber>3076BCH</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NATIONAL UNIVERSITY OF RWANDA</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>03/14775</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>RWANDA EDUCATION BOAD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2687 kigali</postalAddress>
+      <physicalAddress>kigali</physicalAddress>
+      <fax/>
+      <sponsorfax>+250788309821</sponsorfax>
+      <mobile>+250788309821</mobile>
+      <email>info@reb.rw</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISHIMWE ELIACHIM</kinName>
+      <relationship>SPOUSE</relationship>
+      <postalAddress>2687 kigali</postalAddress>
+      <physicalAddress>kigali</physicalAddress>
+      <fax/>
+      <telephone>+250788301807</telephone>
+      <mobile>+250788301807</mobile>
+      <email>ishimelia@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

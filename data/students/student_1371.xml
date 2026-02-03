@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1371</studentId>
+  <studentName>ISMAIL ADAM</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>USAGARA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0103-0613</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345-0211</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ADAM ALLY</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>TANGA 683</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222166600</sponsorfax>
+      <mobile>0655808511</mobile>
+      <email>adamchuwa@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KHADIJA  ADAM CHUWA</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>TANGA 683</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255222166600</telephone>
+      <mobile>0658500055</mobile>
+      <email>khadijachuwa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

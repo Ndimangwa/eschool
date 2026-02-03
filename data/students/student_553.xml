@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>553</studentId>
+  <studentName>MESHACK PETRO LEVI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>THAQAAFA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0823.0212.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150.0701.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068 Dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LEVI PETRO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>Box 11905 Mwanza</postalAddress>
+      <physicalAddress>Mwanza</physicalAddress>
+      <fax/>
+      <telephone>0754438542</telephone>
+      <mobile>0754438542</mobile>
+      <email>levintagala@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LEVI, MESHACK PETRO</accountName><bankAccount>0152352171700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5e6cf334dcb9a69b2a1884ba33278c3a</isaacompletechecksum></student>

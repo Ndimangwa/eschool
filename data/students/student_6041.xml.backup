@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6041</studentId>
+  <studentName>MWINYIJUMA MBUGUNI</studentName>
+  <accademicHistory><institution><institutionName>DODOMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0306.0194.1999</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>1996</startYear><endYear>1999</endYear></institution><institution><institutionName>MAZENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0131.0566.2002</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2000</startYear><endYear>2002</endYear></institution><institution><institutionName>THE MEDICAL TRAINING CETRE - LUGALO</institutionName><specialization>SCIENCE</specialization><levelId>12</levelId><indexNumber>35527</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>3.8</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>TANZANIA PEOPLE'S DEFENCE FORCES</employerName><postalAddress>P. O. BOX 9203</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2003</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>WITNESS ADAM MWANJONDE</sponsorName><payerId>1</payerId><postalAddress>P. O. BOX 1421</postalAddress><physicalAddress>DODOMA</physicalAddress><fax/><telephone/><mobile>0713764010</mobile><email>mwanjonde16@gmail.com</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MWINYIJUMA SULEIMAN MBUGUNI</accountName><bankAccount>70408000032</bankAccount><bankName>NATIONAL MICROFINANCE BANK</bankName><branchName>NACHINGWEA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cfb4621c2f70beef499b6f2c2a751677</isaacompletechecksum></student>

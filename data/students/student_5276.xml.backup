@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5276</studentId>
+  <studentName>JOJET JOSEPHAT NYONYI</studentName>
+  <accademicHistory><institution><institutionName>ANWARITE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S0269.0024.2013</indexNumber><award>CERTFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1 </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>FEZA GIRLS HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0298.0525.2016</indexNumber><award>ADVANCED  CERTIFCATE OF SECONDARY EDUCATION</award><grade>DIVISION 1 </grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068, DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION AND STIPEND</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DAFROSSA CYRIL LYIMO</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 72323 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0715565568</telephone><mobile>0762120412</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JOJET J LUJARA</accountName><bankAccount>0152219633600</bankAccount><bankName>CRDB BANK</bankName><branchName>TEGETA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>862d500515109c8a5d8fcbf9b98dc3db</isaacompletechecksum></student>

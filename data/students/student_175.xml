@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>175</studentId>
+  <studentName>HADIKWA S. NDAGALA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DODOMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0306/0035/P0345/0009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>COASTAL SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1174/0571</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DODOMA CHRISTIN MEDICAL CENTRE</employerName>
+      <postalAddress>P.O Box 658 DODOMA</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <telephone>0262321515</telephone>
+      <email>dcmctrust@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DODOMA CHRISTIAN MEDICAL CENTRE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box.658</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <sponsorfax>0262321515</sponsorfax>
+      <mobile>0713237660</mobile>
+      <email>dcmctrust@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BARAKA DAVID MWIYOHA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>P.O.Box 62 </postalAddress>
+      <physicalAddress>MVUMI DODOMA</physicalAddress>
+      <fax/>
+      <telephone>07322961171</telephone>
+      <mobile>0767094640</mobile>
+      <email>barakamwiyoha@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

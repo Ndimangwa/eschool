@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1514</studentId>
+  <studentName>ABRAHAM F. MARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOLILA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO322/060</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MINAKI HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S133/635</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MORE HOUSE SCHOOL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>GU10 3AP</postalAddress>
+      <physicalAddress>LONDON</physicalAddress>
+      <fax/>
+      <sponsorfax>01252792303</sponsorfax>
+      <mobile>01252792303</mobile>
+      <email>schooloffice@morehouseschool.co.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ERICK LWIMBO</kinName>
+      <relationship>COUSIN</relationship>
+      <postalAddress>2240</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0769287701</telephone>
+      <mobile>0769287701</mobile>
+      <email>lwimboerick@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

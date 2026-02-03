@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1959</studentId>
+  <studentName>Godfrey Mgaya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ellys Seconday School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2455/0159</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibaha Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119/0601</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es Salaam</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mgaya Matiku</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>360 Musoma</postalAddress>
+      <physicalAddress>musoma</physicalAddress>
+      <fax/>
+      <telephone>0755930579</telephone>
+      <mobile>0755930579</mobile>
+      <email>hamisimagessa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

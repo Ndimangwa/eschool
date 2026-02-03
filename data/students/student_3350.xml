@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3350</studentId>
+  <studentName>YABANI ABDI MKUNJI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AYA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1037.0085.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147.0781.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ABDI IDDI MKUNJI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 47</postalAddress>
+      <physicalAddress>KONDOA</physicalAddress>
+      <fax/>
+      <telephone>0782906174</telephone>
+      <mobile>0782906174</mobile>
+      <email>abdmkunji@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MKUNJI, YABANI ABDI</accountName><bankAccount>0152261362100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1b34da7791004c12551bb18b6c180d0d</isaacompletechecksum></student>

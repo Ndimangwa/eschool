@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>550</studentId>
+  <studentName>Mercy Elinisa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. FRANCIS GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0239/0052</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0248/0555</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>P.O.BOX 76068 DSM </physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Joyce Joseph Ndesamburo</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O.BOX 32005 DSM</postalAddress>
+      <physicalAddress>P.O.BOX 32005 DSM</physicalAddress>
+      <fax/>
+      <telephone>+255754815404</telephone>
+      <mobile>0754815404</mobile>
+      <email>joydesa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

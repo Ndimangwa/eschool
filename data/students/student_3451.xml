@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3451</studentId>
+  <studentName>KENETH L MARANDU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>st mary's duluti secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3646.0055.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>consolata seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0174.0527.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>education students loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068-DAR ES SALAAM</postalAddress>
+      <physicalAddress>76068-DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LADISLAUS L MARANDU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>12091-ARUSHA</postalAddress>
+      <physicalAddress>12091-ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0755699003</telephone>
+      <mobile>0755699003</mobile>
+      <email>kladisluas66@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MARANDU, KENETH L</accountName><bankAccount>0152327973800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>083ae94309ed6e32b4c586688e16deb4</isaacompletechecksum></student>

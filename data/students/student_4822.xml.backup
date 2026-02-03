@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4822</studentId>
+  <studentName>MILTON ABEL KIPONDA</studentName>
+  <accademicHistory><institution><institutionName>MTITU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1868.0050.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ILEJE SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0581.0713.2016</indexNumber><award>ADVANCED CERTIFICATE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO.BOX 76068 </postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES</financedItem><extraInformation>www.heslb.go.tz</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>VERONICA KUNZUGALA</kinName><relationship>MOTHER</relationship><postalAddress>PO.BOX 121</postalAddress><physicalAddress>IRINGA</physicalAddress><fax></fax><telephone>0765801517</telephone><mobile>0765801517</mobile><email></email><extraInformation>PEASANT</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MILTON ABEL KIPONDA</accountName><bankAccount>00000</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e83017139bfd9704383cb4ec4675b29b</isaacompletechecksum></student>

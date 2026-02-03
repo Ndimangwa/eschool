@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3502</studentId>
+  <studentName>anamaria anatory</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>pasiansi secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s1706/0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>nganza secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0216/0693</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>editha anatory</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2330 mwanza</postalAddress>
+      <physicalAddress>2330 mwanza</physicalAddress>
+      <fax/>
+      <sponsorfax>0714114957</sponsorfax>
+      <mobile>0714114957</mobile>
+      <email>edithaanatory@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>editha anatory</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>2330 mwanza</postalAddress>
+      <physicalAddress>2330 mwanza</physicalAddress>
+      <fax/>
+      <telephone>0714114957</telephone>
+      <mobile>0714114957</mobile>
+      <email>edithaanatory@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

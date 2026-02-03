@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6903</studentId>
+  <studentName>Imran Hussein Versi</studentName>
+  <accademicHistory><institution><institutionName>Al muntazir Islamic Seminary</institutionName><specialization>Form four</specialization><levelId>8</levelId><indexNumber>S0032.3555.2009</indexNumber><award>Extra curriculars</award><grade>A,B,C</grade><startYear>2009</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>60f17e65308a7a208402f1a56c16557a</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8002</studentId>
+  <studentName>PENDAEL MZONGE</studentName>
+  <accademicHistory><institution><institutionName>MPWAPWA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0138.0168.2003</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 0NE</grade><startYear>2000</startYear><endYear>2003</endYear></institution><institution><institutionName>MAZENGO HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0131.0529.2006</indexNumber><award>Advanced Certificate of Secondary Education</award><grade>DIVISION ONE</grade><startYear>2004</startYear><endYear>2006</endYear></institution><institution><institutionName>MUHUMBILI UNIVERSITY OF HEALTH AND ALLIED SCIENCE</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>2006.04.06410</indexNumber><award>DOCTOR OF MEDICINE</award><grade>UNCLASSIFIED</grade><startYear>2006</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e860ff3589c71ac50fbb105b95902c49</isaacompletechecksum></student>

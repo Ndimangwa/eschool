@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6829</studentId>
+  <studentName>AMANI O TOWO</studentName>
+  <accademicHistory><institution><institutionName>MWIKA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0782.0151.2013</indexNumber><award>Certificate of secondary education</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0485.0640.2016</indexNumber><award>Advanced certificate of secondary education </award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P. O. BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>Tuition fee </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HUBERT JOHN TOWO</kinName><relationship>GURDIAN</relationship><postalAddress>P.O.BOX 7</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0783033009</telephone><mobile>0672101614</mobile><email>towojh@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>AMANI O TOWO</accountName><bankAccount>0152554297100</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>843cc1749dd02c4a9ad0407891f24c59</isaacompletechecksum></student>

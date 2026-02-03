@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3830</studentId>
+  <studentName>DICKSON A SWAI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MOSHONO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1316.0200.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KWIRO BOYS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0123.0584.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>KIMWERI COMPLEX MSASANI</physicalAddress>
+      <fax/>
+      <sponsorfax>00222669036</sponsorfax>
+      <mobile>002555222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANTHON</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>BOX128 ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA TOWN</physicalAddress>
+      <fax/>
+      <telephone>0752831277</telephone>
+      <mobile>+255752831277</mobile>
+      <email>maryswai2011@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SWAI  DICKSON ,A</accountName><bankAccount>0152326908000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>36ee08f8aedf65f2205213f9050844e5</isaacompletechecksum></student>

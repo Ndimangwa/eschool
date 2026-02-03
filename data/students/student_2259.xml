@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2259</studentId>
+  <studentName>EMMERENSIANA BENARD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NDANDA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0338-0019</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NDANDA NURSING SCHOOL</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>11929</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED NANYUMBU</employerName>
+      <postalAddress>246</postalAddress>
+      <physicalAddress>NANYUMBU</physicalAddress>
+      <telephone>00255783450050</telephone>
+      <email>dednanyumbu@pmoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522669036</sponsorfax>
+      <mobile>0025522669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>COSTANSIA LUKANGA</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>12</postalAddress>
+      <physicalAddress>NDANDA</physicalAddress>
+      <fax/>
+      <telephone>0784435468</telephone>
+      <mobile>0784435468</mobile>
+      <email>cben1@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

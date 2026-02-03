@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>317</studentId>
+  <studentName>EMANUEL Y MAYO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DR.OLSEN SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0947-0142</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0134-0531</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YESAYA I MAYO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>104</postalAddress>
+      <physicalAddress>9009</physicalAddress>
+      <fax/>
+      <telephone>00255787464018</telephone>
+      <mobile>00255787464018</mobile>
+      <email>emanuelyesaya@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

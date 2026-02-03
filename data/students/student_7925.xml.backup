@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7925</studentId>
+  <studentName>FATUMA  JUMAA MSWAZI</studentName>
+  <accademicHistory><institution><institutionName>WAMA NAKAYAMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S5000.0023.2013</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>WAMA NAKAYAMA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S5000.0519.2016</indexNumber><award>PASS</award><grade>DIVISION TWO.10</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068,DAR ES SALAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>FATUMA JUMAA MSWAZI</accountName><bankAccount>O152212567900</bankAccount><bankName>CRDB BANK </bankName><branchName>DAR-ESALAAM</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1df71acc563d263036e6d9e1f64ce2b7</isaacompletechecksum></student>

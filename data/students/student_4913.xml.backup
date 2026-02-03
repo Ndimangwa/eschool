@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4913</studentId>
+  <studentName>nazareth pendolake mfinanga</studentName>
+  <accademicHistory><institution><institutionName>Mother teresa of calcuta secondary schooll</institutionName><specialization>sciense</specialization><levelId>4</levelId><indexNumber>S3822.0066.2013</indexNumber><award>certificate of secondary school</award><grade>division  two</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ifakara girls secondary school</institutionName><specialization>SCIENSE</specialization><levelId>4</levelId><indexNumber>S0370.0750.2016</indexNumber><award>advance certificate secondary school</award><grade>division three</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>PENDOLAKE JOEL MFINANGA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 765656DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0754478134</telephone><mobile>0754478134</mobile><email>kangaroo@kangarootz.com</email><financedItem>father</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ANNA MFINANGA</kinName><relationship>MOTHER</relationship><postalAddress>P.o.box 76565</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0656994093</telephone><mobile>0656994093</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NAZARETH PENDOLAKE MFINANGA</accountName><bankAccount>JUMBO ACCOUNT </bankAccount><bankName>CRDB</bankName><branchName>HOLLAND HOUSE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f74613eb33fe2058d5f331f60e7fbb04</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5516</studentId>
+  <studentName>ISAYA MWANJALA</studentName>
+  <accademicHistory><institution><institutionName>ST.AGGREY CHANJI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4071.0056.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SONGEA BOYS </institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0153.0715.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8410ba473aea8fe5e923dddc31f90934</isaacompletechecksum></student>

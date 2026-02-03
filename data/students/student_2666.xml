@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2666</studentId>
+  <studentName>Pamela, Tafadzwa Kamuteku, Samoyo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Chinhoyi High School, Zimbabwe</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>Z8120/0167</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Chinhoyi High School, Zimbabwe</institutionName>
+      <specialization>MBC</specialization>
+      <levelId>8</levelId>
+      <indexNumber>080120/5050</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Ryazan State I. P. Pavlov Medical University</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>BCT4964045</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Jessica Winnie Nyarirangwe</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Leicester, LE4 2JZ, UK</postalAddress>
+      <physicalAddress>Leicester, LE4 2JZ, UK</physicalAddress>
+      <fax/>
+      <sponsorfax>+441162350719</sponsorfax>
+      <mobile>+447542508237</mobile>
+      <email>jessynyary@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Jessica Winnie Nyarirangwe</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>Leicester, LE4 2JZ, UK</postalAddress>
+      <physicalAddress>Leicester, LE4 2JZ, UK</physicalAddress>
+      <fax/>
+      <telephone>+441162350719</telephone>
+      <mobile>+447542508237</mobile>
+      <email>jessynyary@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

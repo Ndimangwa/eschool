@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5920</studentId>
+  <studentName>CESILIA STEPHAN KIMARO</studentName>
+  <accademicHistory><institution><institutionName>MABOGINI SECONDAR SCHOOL</institutionName><specialization>DIPLOMA</specialization><levelId>4</levelId><indexNumber>S2431.0003.2008</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATIONS</award><grade>DIVISION 4</grade><startYear>2004</startYear><endYear>2008</endYear></institution><institution><institutionName>KIBOSHO SCHOOL OF NURSING</institutionName><specialization>DIPLOMA </specialization><levelId>12</levelId><indexNumber>30831</indexNumber><award>DIPLOMA IN NURSING</award><grade>4.6</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>KIBOSHO SCHOOL OF NURSING </institutionName><specialization>DIPLOMA</specialization><levelId>12</levelId><indexNumber>30831</indexNumber><award>DIPLOMA IN NURSING</award><grade>4.6</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>KCMC</employerName><postalAddress>P.0.B0X 3010</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>CESILIA S KIMARO</sponsorName><payerId>1</payerId><postalAddress>P.O.BOX 3010 MOSHI</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0658663642</telephone><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>STEPHAN KIMARO</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 3041 MOSHI</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0658399687</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin><nextOfKin><kinName>REGINA KIMARO</kinName><relationship>SISTER</relationship><postalAddress>P.O.BOX 3010 MOSHI</postalAddress><physicalAddress> MOSHI</physicalAddress><fax></fax><telephone>0712728055</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>CESILIA STEPHAN KIMARO</accountName><bankAccount>NMB</bankAccount><bankName>NMB</bankName><branchName>NEW ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e19567d90be01231ea26bb1fded4a474</isaacompletechecksum></student>

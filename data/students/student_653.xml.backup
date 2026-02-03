@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>653</studentId>
+  <studentName>PRICILA MICHAEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKONGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0731-0147</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JANGWANI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0204-0527</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DSM</postalAddress>
+      <physicalAddress>76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRANCIS MICHAEL</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>35180 DSM</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0713294040</telephone>
+      <mobile>00255713294040</mobile>
+      <email>pricy0106@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

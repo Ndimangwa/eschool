@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4839</studentId>
+  <studentName>Lilian Kamburusa Valerian</studentName>
+  <accademicHistory><institution><institutionName>Msolwa st.Gasper Bertoni secondary school</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0729.0019.2013</indexNumber><award>certificate of secondary school</award><grade>Div1.10</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>marian girls high school</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0248.0568.2016</indexNumber><award>certificate of secondary education</award><grade>Div1.8</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT'S LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,Dar es Salaam,Tanzania</postalAddress><physicalAddress>Plot No.8,Block No.46,Sam Nujoma Road,Mwenge,Dar es Salaam</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEES AND ACCOMMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>VALERIAN SILAYO</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 6490</postalAddress><physicalAddress>P.O.BOX 3003</physicalAddress><fax></fax><telephone>+255754532242</telephone><mobile>0754476507</mobile><email>vsilayo@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>LILIAN KAMBURUSA VALERIAN</accountName><bankAccount>0152327161500</bankAccount><bankName>CRDB</bankName><branchName>MOSHI Tanzania</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4584eff2117ef516ae2ed80a37e7d324</isaacompletechecksum></student>

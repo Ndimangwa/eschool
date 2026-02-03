@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3183</studentId>
+  <studentName>MARTHA MHEWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IRINGA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0203-0062</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>2009-02-02268</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>TEMEKE MUNICIPAL COUNCIL</employerName>
+      <postalAddress>DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>00255222851054</telephone>
+      <email>mhewamartha@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SAMWEL MHEWA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>NJOMBE</postalAddress>
+      <physicalAddress>NJOMBE</physicalAddress>
+      <fax/>
+      <telephone>0763519756</telephone>
+      <mobile>0763519756</mobile>
+      <email>mhewamartha@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

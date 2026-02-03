@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1385</studentId>
+  <studentName>Jaji Makonda</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Giriku secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2043/0034</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tabora boys High school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155/0523</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772433</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Pendo machibya</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>103 Bariadi</postalAddress>
+      <physicalAddress>bariadi</physicalAddress>
+      <fax/>
+      <telephone>00255788705719</telephone>
+      <mobile>00255687992564</mobile>
+      <email>jajimakonda@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

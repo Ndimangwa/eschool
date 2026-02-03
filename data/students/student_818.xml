@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>818</studentId>
+  <studentName>ELISAMIA R MARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MELI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3418.0099.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BISHOP DURNING HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1600.0508.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO Box 76068 DSM</postalAddress>
+      <physicalAddress>PO Box 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669039</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RABISON SAMSON MARO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO Box 317 MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0755644709</telephone>
+      <mobile>0755515570</mobile>
+      <email>rabsonsam@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MARO, ELISAMIA R</accountName><bankAccount>0152327701200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6a66fbbbb468630772099dd4591c205e</isaacompletechecksum></student>

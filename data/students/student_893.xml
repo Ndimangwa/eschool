@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>893</studentId>
+  <studentName>mary mwambasa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>st theresia girls secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0285.0059.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>pandahill secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0867.0531.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222669036</sponsorfax>
+      <mobile>0222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>james john mwambasa</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>226 sumbawanga</postalAddress>
+      <physicalAddress>226 sumbawanga</physicalAddress>
+      <fax/>
+      <telephone>0688325802</telephone>
+      <mobile>0688325802</mobile>
+      <email>jamesmahinya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MWAMBASA, MARY</accountName><bankAccount>0152412961900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>eda91040298921851970f5dc5af15838</isaacompletechecksum></student>

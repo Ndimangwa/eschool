@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>453</studentId>
+  <studentName>VICTOR WILLIAM KATITI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKONGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0731-0457</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MIDLAND HIGH SCHOOL-KAWEMPE</institutionName>
+      <specialization>HGE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U1350 535</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST AUGUSTINE UNIVERSITY OF TANZANIA</institutionName>
+      <specialization>BACHELOR OF ARTS IN SOCIOLOGY</specialization>
+      <levelId>15</levelId>
+      <indexNumber>BASO 4364</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</employerName>
+      <postalAddress>P.o.Box 2240</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <telephone>0272753616</telephone>
+      <email>info@kcmuco.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.o.Box 2240</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0272753616</sponsorfax>
+      <mobile>0272753616</mobile>
+      <email>info@kcmuco.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LEVINA CLEMENT MASOSO</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>P.o.Box 3003</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0764963386</telephone>
+      <mobile>0764963386</mobile>
+      <email>levymasoso@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3218</studentId>
+  <studentName>JULIETHA  A MZENA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MONTFORT</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0561/0007/2003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>EDGAR MARANTA SCHOOL OF NURSING IFAKARA</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>27069</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DIOCESES OF IRINGA</employerName>
+      <postalAddress>618 teresina srs iringa</postalAddress>
+      <physicalAddress>11 tosa hosp iringa</physicalAddress>
+      <telephone>00255766154483</telephone>
+      <email>mzenajulietha@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>BEAT FUCHS/ TOSA HOSPITAL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>ch- 3855 brienz swizland</postalAddress>
+      <physicalAddress>ch-3855 brienz swizland</physicalAddress>
+      <fax/>
+      <sponsorfax>0041793346215</sponsorfax>
+      <mobile>0041793346215</mobile>
+      <email>Iinfo@zobo-hydropower.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>TERESINA GEREVASIA KINDOLE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>618 teresina srs iringa</postalAddress>
+      <physicalAddress>11 tosa hosp iringa</physicalAddress>
+      <fax/>
+      <telephone>00255756796290</telephone>
+      <mobile>0756796290</mobile>
+      <email>teresinasrsir@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

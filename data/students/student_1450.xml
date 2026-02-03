@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1450</studentId>
+  <studentName>SADICK Z.TEMU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CHANG'OMBE SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P0728-0094</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DIT</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>P0902-0643</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ARUSHA CITY COUNCIL</employerName>
+      <postalAddress>3013</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <telephone>002550272508073</telephone>
+      <email>info@arushacity.co.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>helbs</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068  Dar es Salaam</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>0255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FAITH</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>7725 dares salaam</postalAddress>
+      <physicalAddress>kimara</physicalAddress>
+      <fax/>
+      <telephone>+255763826869</telephone>
+      <mobile>+255783224819</mobile>
+      <email>faith6tz@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

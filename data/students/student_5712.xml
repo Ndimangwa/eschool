@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5712</studentId>
+  <studentName>Hellen Silas Mmbwambo</studentName>
+  <accademicHistory><institution><institutionName>SAINT MARY'S MAZINDE JUU SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0233.0038.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MACHAME GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0212.0702.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Silas Mmbwambo</sponsorName><payerId>3</payerId><postalAddress>P.O Box 1071</postalAddress><physicalAddress>Moshi</physicalAddress><fax/><telephone>0754055129</telephone><mobile>0754055129</mobile><email>hellenmmbwambo97@gmail.com</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>Silas Mmbwambo</kinName><relationship>FATHER </relationship><postalAddress>P.O Box 1071</postalAddress><physicalAddress>Moshi</physicalAddress><fax></fax><telephone>0754055129</telephone><mobile>0754055129</mobile><email>hellenmmbwambo97@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Hellen Silas Mmbwambo</accountName><bankAccount>000000</bankAccount><bankName>CRDB</bankName><branchName>Moshi</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fbf1ab21ab575fe4cad0e84262fcda7c</isaacompletechecksum></student>

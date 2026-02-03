@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1319</studentId>
+  <studentName>focus k cyprian</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>urambo day secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0754.0045</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kaliua secondary school</institutionName>
+      <specialization>cbg</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0936.0526</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education student loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>002552669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>yamungu cyprian</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>169</postalAddress>
+      <physicalAddress>singida</physicalAddress>
+      <fax/>
+      <telephone>00255783568520</telephone>
+      <mobile>0783568520</mobile>
+      <email>yamungucyprian@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

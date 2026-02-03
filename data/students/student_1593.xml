@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1593</studentId>
+  <studentName>CHRISTIAN EPHATA ISSANGYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AILANGA LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0198/0045</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110/0540</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLBS</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EPHATA SOMI ISSANGYA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1072</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>00255767319005</telephone>
+      <mobile>00255767319005</mobile>
+      <email>somiselembo@ymail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

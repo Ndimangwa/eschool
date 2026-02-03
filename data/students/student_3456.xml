@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3456</studentId>
+  <studentName>AUGUSTINO M NKUNDA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KAENGESA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0114.0005.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAFINGA SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0113.0506.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>marco nkunda</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>755 sumbawanga</postalAddress>
+      <physicalAddress>755 sumbawanga</physicalAddress>
+      <fax/>
+      <sponsorfax>0752527232</sponsorfax>
+      <mobile>0754047258</mobile>
+      <email>imeldamshyota@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>marco nkunda</kinName>
+      <relationship>father</relationship>
+      <postalAddress>755 sumbawanga</postalAddress>
+      <physicalAddress>755 sumbawanga</physicalAddress>
+      <fax/>
+      <telephone>0752527232</telephone>
+      <mobile>0754047258</mobile>
+      <email>imeldamshyota@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NKUNDA, AUGUSTINO M</accountName><bankAccount>0152327974000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>305d87b484577032fd516d085cd31064</isaacompletechecksum></student>

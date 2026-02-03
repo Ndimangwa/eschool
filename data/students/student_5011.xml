@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5011</studentId>
+  <studentName>MWANAISHA A KHAMA</studentName>
+  <accademicHistory><institution><institutionName>MUHEZA MUSLIM SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1080.0043.2013</indexNumber><award>CSEE</award><grade>DIVISION 2</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0209.0576.2016</indexNumber><award>ACSEE</award><grade>DIVISION 3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3ebc0ba348b8660e5aeebc7b5abb4168</isaacompletechecksum></student>

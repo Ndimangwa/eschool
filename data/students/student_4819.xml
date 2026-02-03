@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4819</studentId>
+  <studentName>ELSON EMSON KIMARO</studentName>
+  <accademicHistory><institution><institutionName>MAWENZI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0328.0141.2013</indexNumber><award>NECTA</award><grade>DIVISION 2</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>UMBWE SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0160.0832.2016</indexNumber><award>NECTA</award><grade>DIVISION 3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SHILEREYO KIMARO</sponsorName><payerId>3</payerId><postalAddress>SHILEREYO KIMARO 318 MOSHI</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0754634389</telephone><mobile>0754634389</mobile><email>kshilereyo@yahoo.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>EMSON KIMARO</kinName><relationship>FATHER</relationship><postalAddress>SHILEREYO KIMARO, 318 MOSHI</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0717255590</telephone><mobile>0754634389</mobile><email>kshilereyo@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NON</accountName><bankAccount>NON</bankAccount><bankName>NON</bankName><branchName>NON</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8846ac95833ad77d644c9d17c57c88ca</isaacompletechecksum></student>

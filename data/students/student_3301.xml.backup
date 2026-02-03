@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3301</studentId>
+  <studentName>daniel.a.uronu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ilala secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.2537/0152</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ifunda technical secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0108/0699</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>aminirabi uronu</kinName>
+      <relationship>father</relationship>
+      <postalAddress>77313</postalAddress>
+      <physicalAddress>dar-es-salaam</physicalAddress>
+      <fax/>
+      <telephone>0765842404</telephone>
+      <mobile>0765842404</mobile>
+      <email>uronudaniel@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

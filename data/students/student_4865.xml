@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4865</studentId>
+  <studentName>HAPPYNESS GEOFREY MTUNDU</studentName>
+  <accademicHistory><institution><institutionName>MASAMA GIRLS HIGH SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S0223.0026.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>NGANZA SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>S0216.0808.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cf36143f8130812ba0b15783e7fce1fb</isaacompletechecksum></student>

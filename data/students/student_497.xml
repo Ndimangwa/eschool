@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>497</studentId>
+  <studentName>SSEMANDA JOSEPH</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SMACK</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>U0033/171</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SMACK</institutionName>
+      <specialization>BCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U0033/526</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SSENYONGA MICHEAL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>28783</postalAddress>
+      <physicalAddress>KAMPALA</physicalAddress>
+      <fax/>
+      <sponsorfax>+256414575454</sponsorfax>
+      <mobile>+256772404220</mobile>
+      <email>kmspowersolutions@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SSENYONGA MICHEAL</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>28783</postalAddress>
+      <physicalAddress>KAMPALA</physicalAddress>
+      <fax/>
+      <telephone>+256414575454</telephone>
+      <mobile>+256772404220</mobile>
+      <email>kmspowersolutions@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

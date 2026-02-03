@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>329</studentId>
+  <studentName>tumaini j ngowi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>makomu</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0873.0122</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>majengo</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0485.0687</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068 dar</postalAddress>
+      <physicalAddress>sam nujoma road mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>julius</kinName>
+      <relationship>father</relationship>
+      <postalAddress>885 marangu</postalAddress>
+      <physicalAddress>0755327119</physicalAddress>
+      <fax/>
+      <telephone>0755327119</telephone>
+      <mobile>0755327119</mobile>
+      <email>tumainijulius334@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4626</studentId>
+  <studentName>SHALONGO</studentName>
+  <accademicHistory><institution><institutionName>STAVROPOL MEDICAL ASSISTANT TRAINING SCHOOL</institutionName><specialization>MEDICAL ASSISTANT</specialization><levelId>4</levelId><indexNumber>E0261.6200.1984</indexNumber><award>MEDICAL ASSISTANT</award><grade>PASS</grade><startYear>1979</startYear><endYear>1984</endYear></institution><institution><institutionName>KUBAN STATE MEDICAL INSTITUTE</institutionName><specialization>DOCTOR OF MEDICINE </specialization><levelId>15</levelId><indexNumber>DN 212232</indexNumber><award>DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>1986</startYear><endYear>1992</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MOHSS NAMIBIA</employerName><postalAddress>PRIVATE BAG 13391 WINDHOEK  </postalAddress><physicalAddress>MINISTERIAL BUILDING HARVEY STREET</physicalAddress><fax>00264061272286</fax><telephone>+264612032531</telephone><mobile>+264811437772</mobile><email>jshatilwe@hotmail.com</email><startYear>1994</startYear><endYear>2016</endYear><extraInformation>STILL EMPLOYED BY MOHSS</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MOHSS NAMIBIA</sponsorName><payerId>10</payerId><postalAddress>PRIVATE BAG 13391 WINDHOEK  </postalAddress><physicalAddress>MINISTERIAL BUILDING HARVEY STREET</physicalAddress><fax>00264061272286</fax><telephone>+264612032531</telephone><mobile>+264811437772</mobile><email>Jshatilwe@hotmail.com</email><financedItem>FULL SCHOLARSHIP</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PETER N SHALONGO</kinName><relationship>HUSBAND</relationship><postalAddress>P O BOX 24341 WINDHOEK</postalAddress><physicalAddress>ACADEMIA WINDHOEK</physicalAddress><fax></fax><telephone>+264612033002</telephone><mobile>+264811247076</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SARAH SHALONGO</accountName><bankAccount>241017971</bankAccount><bankName>STANDARD BANK</bankName><branchName>WINDHOEK</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e667a6edf894f0b9f1c95e2ff699ec3c</isaacompletechecksum></student>

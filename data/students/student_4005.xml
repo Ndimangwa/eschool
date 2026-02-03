@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4005</studentId>
+  <studentName>BONIPHACE CHARLES</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISHAPU</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1418.0024.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147.0641.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>daR -ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002221513679</sponsorfax>
+      <mobile>002552227724323</mobile>
+      <email>infi@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NYANDA CHARLES</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>2880</postalAddress>
+      <physicalAddress>DAR -ES-SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0757044689</telephone>
+      <mobile>+225675194553</mobile>
+      <email>nyandacharles@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>CHARLES, BONIPHACE</accountName><bankAccount>0152317098600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f97d1e4e236c476cf1c7366f3e473d54</isaacompletechecksum></student>

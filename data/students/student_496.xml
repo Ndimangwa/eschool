@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>496</studentId>
+  <studentName>alfred kishe</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ilboru secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0110-0004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ilboru secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0110-0532</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilimanjaro christian medical college</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0274</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>st joseph council designated hospital</employerName>
+      <postalAddress>p.o.box 330 moshi</postalAddress>
+      <physicalAddress>soweto moshi</physicalAddress>
+      <telephone>0272753843</telephone>
+      <email>stjosephshospital@hotmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Ministry of health and social welfare</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 9083 daressalaam</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222120261</sponsorfax>
+      <mobile>0222120261</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>erick kishe</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>p.o.box 3134 arusha</postalAddress>
+      <physicalAddress>njiro arusha</physicalAddress>
+      <fax/>
+      <telephone>0754562660</telephone>
+      <mobile>0754562660</mobile>
+      <email>erickishe@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

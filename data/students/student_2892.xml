@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2892</studentId>
+  <studentName>DEOGRASIAS PROTAS HAULE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAPOSENI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0540.0047.2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAHIWA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0812.0538.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>IRINGA MUNICIPAL COUNCIL</employerName>
+      <postalAddress>P.O Box 162 IRINGA</postalAddress>
+      <physicalAddress>IRINGA(IMC)</physicalAddress>
+      <telephone>002552702647</telephone>
+      <email>iringamunicipalcouncil@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068 DSM</postalAddress>
+      <physicalAddress>Sam Nujoma Road Mwenge Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>IMANI PROTAS HAULE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O Box 259 DODOMA</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <telephone>00255759482235</telephone>
+      <mobile>00255759482235</mobile>
+      <email>imanihaule@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>HAULE, DEOGRASIAS P</accountName><bankAccount>0152327969600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>128583ad114d354e590389e27a117740</isaacompletechecksum></student>

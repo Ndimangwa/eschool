@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5296</studentId>
+  <studentName>mambuya koshuma</studentName>
+  <accademicHistory><institution><institutionName>kilimanjaro christian medical university college</institutionName><specialization>diploma in health laboratory</specialization><levelId>4</levelId><indexNumber>S1197.0198.2013</indexNumber><award>advance certificate of secondary education</award><grade>DIVISION two</grade><startYear>2009</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>NANKONDO KOSHUMA</sponsorName><payerId>3</payerId><postalAddress>PObox.123</postalAddress><physicalAddress>SAME</physicalAddress><fax/><telephone/><mobile>0719713417</mobile><email/><financedItem>SHE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HEMEDI KOSHUMA</kinName><relationship>BROTHER</relationship><postalAddress>PObox.123</postalAddress><physicalAddress>SAME</physicalAddress><fax/><telephone>0767165235</telephone><mobile>0767165235</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NIL</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6cda0026a713601fb943b01b0f8f193f</isaacompletechecksum></student>

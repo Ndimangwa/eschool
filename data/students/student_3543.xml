@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3543</studentId>
+  <studentName>kelvin kimaro</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>tanga tech sec school centre</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>p0156-0078</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>popatlal secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0340-0513</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kibaha medical training centre</institutionName>
+      <specialization>diploma in clinical medicine</specialization>
+      <levelId>8</levelId>
+      <indexNumber>19141</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kcmu-college</institutionName>
+      <specialization>doctor of medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>k160160</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>nhs foundation trust</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>NE29 8NH</postalAddress>
+      <physicalAddress>NE29 8NH</physicalAddress>
+      <fax/>
+      <sponsorfax>03448118111</sponsorfax>
+      <mobile>03448118111</mobile>
+      <email>brenda.longstaff@nhct.nhs.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>josephine kimaro</kinName>
+      <relationship>sister</relationship>
+      <postalAddress>box 14466</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0786122377</telephone>
+      <mobile>0763144377</mobile>
+      <email>josephinekimaro@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

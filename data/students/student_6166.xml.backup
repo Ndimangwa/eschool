@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6166</studentId>
+  <studentName>HUSNA H. SAID</studentName>
+  <accademicHistory><institution><institutionName>SAINT ANNE MARE ACADEMY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1343.0027.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cfb8e710ddc8eff4a38cceab82987ba5</isaacompletechecksum></student>

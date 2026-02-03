@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3398</studentId>
+  <studentName>DICKSON ALCUSIUS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BENJAMIN WILLIAM MKAPA HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0960.0236.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CHANG'OMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1011.0534.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>SAM NUJOMA,MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>002552222772432</sponsorfax>
+      <mobile>002552222772432</mobile>
+      <email>INfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALCUSIUS MPUYIKI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 21493</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255754487233</telephone>
+      <mobile>0713642226</mobile>
+      <email>dicksonalcuius93@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ALCUSIUS, DICKSON</accountName><bankAccount>0152327967100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b3cd10ef74d6a99668ba3da042633eda</isaacompletechecksum></student>

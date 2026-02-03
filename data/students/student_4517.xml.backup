@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4517</studentId>
+  <studentName>RASHID HARUNA</studentName>
+  <accademicHistory><institution><institutionName>MUHAS</institutionName><specialization>DOCTOR OF DENTAL SURGERY</specialization><levelId>15</levelId><indexNumber>DDS000273</indexNumber><award>DOCTOR OF DENTAL SURGERY</award><grade>NOT APPLICABLE</grade><startYear>2004</startYear><endYear>2011</endYear></institution><institution><institutionName>TAMBAZA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0347.0638.2003</indexNumber><award>ACSE</award><grade>DIVISION TWO</grade><startYear>2001</startYear><endYear>2003</endYear></institution><institution><institutionName>FORODHANI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0311.0304.2000</indexNumber><award>CSE</award><grade>DIVISION ONE</grade><startYear>1997</startYear><endYear>2000</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>RAS KAGERA</employerName><postalAddress>P.O BOX 299</postalAddress><physicalAddress>BUKOBA</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH </sponsorName><payerId>11</payerId><postalAddress>P.O.BOX 9083</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email/><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>RASHID HARUNA MTIMA</accountName><bankAccount>31810003860</bankAccount><bankName>NMB</bankName><branchName>BUKOBA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>984a9e760554cb0fb5bfe3306e2eae54</isaacompletechecksum></student>

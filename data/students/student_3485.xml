@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3485</studentId>
+  <studentName>Ahmed Mohamed Abdirahman</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Horsed secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>64149</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Horsed secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>064149</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SRCS{ Somali RED CRESCENT Society</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 2240</postalAddress>
+      <physicalAddress>Somalia, Mogadishu</physicalAddress>
+      <fax/>
+      <sponsorfax>00252615189091</sponsorfax>
+      <mobile>00252615189091</mobile>
+      <email>xaliimoluul@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Hawa Mohamed</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>PO BOX 2240</postalAddress>
+      <physicalAddress>Somalia</physicalAddress>
+      <fax/>
+      <telephone>00252634914774</telephone>
+      <mobile>00252634914774</mobile>
+      <email>ahmednuur17@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

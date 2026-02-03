@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5268</studentId>
+  <studentName>MUSSAE A SIMBA</studentName>
+  <accademicHistory><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>8</levelId><indexNumber>S0485.0906.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 4.19</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2914cffdc9a95f7a0876a3dc1030946d</isaacompletechecksum></student>

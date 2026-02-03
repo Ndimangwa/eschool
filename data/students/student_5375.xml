@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5375</studentId>
+  <studentName>JEROME TUMSIFU MBOWE</studentName>
+  <accademicHistory><institution><institutionName>HARAMBEE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1324.0088.2013</indexNumber><award>PASS</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>IFAKARA SECONDARY SCHOOL CENTRE</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>P0370.0516.2016</indexNumber><award>PASS</award><grade>DIVISION FOUR</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.Box 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA ROAD ,MWENGE</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>DIPLOMA IN HEALTH LABORATORY SCIENCES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>OKULI</kinName><relationship>FRIEND</relationship><postalAddress>P.O.Box 6633 MOSHI</postalAddress><physicalAddress>MOSHI MACHAME</physicalAddress><fax>+255222700283</fax><telephone>0714300694</telephone><mobile>0757014957</mobile><email>okuliswai998@gmail.com</email><extraInformation>friend</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>STUDENT</accountName><bankAccount>0152201518900</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>48fe4d69e88ac7cebc0f2eea2970e4f0</isaacompletechecksum></student>

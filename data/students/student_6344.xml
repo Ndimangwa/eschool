@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6344</studentId>
+  <studentName>CHACHA.ZAKARIA.SINGISYA</studentName>
+  <accademicHistory><institution><institutionName>ST.ANTHONY'S SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0534.0028.2003</indexNumber><award>PASS</award><grade>DIVISION THREE </grade><startYear>2000</startYear><endYear>2003</endYear></institution><institution><institutionName>ST ANTHONY'S SECONDARY SCHOOL</institutionName><specialization>ARTS</specialization><levelId>4</levelId><indexNumber>S0534.0525.2006</indexNumber><award>PASS</award><grade>DIVISION TWO</grade><startYear>2004</startYear><endYear>2006</endYear></institution><institution><institutionName>THE MEDICAL TRAINING CENTRE-MTWARA</institutionName><specialization>CLINICAL OFFICER</specialization><levelId>12</levelId><indexNumber>S35672.0000.0000</indexNumber><award>PASS</award><grade>PASS</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MKURANGA DISTRICT COUNCIL</employerName><postalAddress>P.O BOX 10</postalAddress><physicalAddress>MKURANGA</physicalAddress><fax/><telephone/><mobile>0714696843</mobile><email/><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>BENEDICT BROTHERS</sponsorName><payerId>8</payerId><postalAddress>P.0 BOX 9952</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile>0784211045</mobile><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AGNESS MWAMBENJA</kinName><relationship>SISTER</relationship><postalAddress>P.O BOX 24</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0222700286</fax><telephone>+255222120261</telephone><mobile>+255686800618</mobile><email>agnesmwambenja@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GRACE GERVAS</accountName><bankAccount>21510001089</bankAccount><bankName>NMB</bankName><branchName>MAFIA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ffb2e1fa54189c796876ccca855066d4</isaacompletechecksum></student>

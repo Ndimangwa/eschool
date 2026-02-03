@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2988</studentId>
+  <studentName>STEPHANO N MAHENGE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MBOZI SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0471.0124.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA SECONDARY</institutionName>
+      <specialization>CBA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0103.0790.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>P.O.BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>nice maHENGE</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>105-TUNDUMA</postalAddress>
+      <physicalAddress>105-TUNDUMA</physicalAddress>
+      <fax/>
+      <telephone>+255758585781</telephone>
+      <mobile>0753688855</mobile>
+      <email>stephanomahenge00@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MAHENGE, STEPHANO N</accountName><bankAccount>0152298311600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>560130ccbfba1e98bf4795fc1fedbf14</isaacompletechecksum></student>

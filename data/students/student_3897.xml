@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3897</studentId>
+  <studentName>DEUS B. ATHANAZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ULYANKULU</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1182.0146.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SHINYANGA SECONDARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0152.0605.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>P.O BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>002255222772533</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DOMISIO KABURA</kinName>
+      <relationship>COUSIN</relationship>
+      <postalAddress>p.o.box818 singida</postalAddress>
+      <physicalAddress>p.o.box818</physicalAddress>
+      <fax/>
+      <telephone>0784448736</telephone>
+      <mobile>0784448736</mobile>
+      <email>deusntali93@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ATHANAZI, DEUS BATROMAYO</accountName><bankAccount>0152289381700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>bcd8e9bafd945b91334acc524e91c0c4</isaacompletechecksum></student>

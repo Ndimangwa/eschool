@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5896</studentId>
+  <studentName>SECONDARY</studentName>
+  <accademicHistory><institution><institutionName>WERUWERU SEC.SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0221.0085.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION THREE</grade><startYear>2001</startYear><endYear>2004</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cb67a9eabd9df0684d87653efec776db</isaacompletechecksum></student>

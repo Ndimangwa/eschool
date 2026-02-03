@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5925</studentId>
+  <studentName>David J Sang\'udi</studentName>
+  <accademicHistory><institution><institutionName>KCMUCo</institutionName><specialization>BScHLSc</specialization><levelId>8</levelId><indexNumber>S0155.0514.2015</indexNumber><award>ACSCEE</award><grade>BBB</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4fd368027562209497724cf41a73e9c3</isaacompletechecksum></student>

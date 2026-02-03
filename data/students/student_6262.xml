@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6262</studentId>
+  <studentName>BERNARD L. ADOLPH</studentName>
+  <accademicHistory><institution><institutionName>MASHATI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2849.0091.2013</indexNumber><award>Certificate of secondary education</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ADOLPH LOSINS UISSO</sponsorName><payerId>3</payerId><postalAddress>P.O. BOX 375 MOSHI</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0756712803</telephone><mobile/><email/><financedItem>TUTION FEE</financedItem><extraInformation>FATHER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ROSE FREDRICK</kinName><relationship>AUNT</relationship><postalAddress>P.O.BOX 2019 DODOMA</postalAddress><physicalAddress>DODOMA</physicalAddress><fax></fax><telephone>0767438777</telephone><mobile></mobile><email></email><extraInformation>AUNT</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>BERNARD</accountName><bankAccount>BERNARD</bankAccount><bankName>NMB</bankName><branchName>MOSHI BRANCH </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5bd594afda77721f8f2ecc4fbab1eeba</isaacompletechecksum></student>

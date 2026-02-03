@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>263</studentId>
+  <studentName>MERCY LAISON NKWAMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARIAN GIRLS SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0248/0065</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN GIRLS SECONDARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0248/0575</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>laison michael nkwama </kinName>
+      <relationship>father</relationship>
+      <postalAddress>75298</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>+255754467113</telephone>
+      <mobile>+255754467113</mobile>
+      <email>mercynkwama@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

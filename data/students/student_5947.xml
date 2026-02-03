@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5947</studentId>
+  <studentName>MICHAEL JACOB SANGILAMOTOI</studentName>
+  <accademicHistory><institution><institutionName>KASITA SEMINARY </institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0117.0035.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2008</startYear><endYear>2012</endYear></institution><institution><institutionName>PEACE SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1689.0514.2015</indexNumber><award>Advanced Certificate of Secondary Education</award><grade>DIVISION THREE</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO.BOX 76068</postalAddress><physicalAddress>MWENGE,DARES  SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>INfo@heslb.go.tz</email><financedItem>SCHOOL FEE</financedItem><extraInformation>WWW.heslb.go.tz</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MARIETHA ADAM</kinName><relationship>MOTHER</relationship><postalAddress>PO.BOX.63</postalAddress><physicalAddress>IFAKARA</physicalAddress><fax>0719348705</fax><telephone>0719348705</telephone><mobile>0719348705</mobile><email>SANGILAMOTOMJ94@gmail.com</email><extraInformation>ifakara</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MICHAEL JACOB SANGILAMOTO</accountName><bankAccount>0152327194900</bankAccount><bankName>CRDB </bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a3930b0b73860375f5916b91092d6d7c</isaacompletechecksum></student>

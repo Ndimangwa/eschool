@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3222</studentId>
+  <studentName>RAPHAEL DIONIS MMBAGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MZUMBE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0140/0088/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MZUMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0140-0539-2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar,es,salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SALOME MMBAGA</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>77  IFAKARA</postalAddress>
+      <physicalAddress>IFAKARA</physicalAddress>
+      <fax/>
+      <telephone>0765789119</telephone>
+      <mobile>0765789119</mobile>
+      <email>mbaggaraphael05@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>21</studentId>
+  <studentName>EPIPHANIA BALTAZAR MACHA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BENDEL MEMORIAL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1757.0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAINT MARY GORETH SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.1187.0559</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Student Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p. o. box 76068 Msasani</postalAddress>
+      <physicalAddress>Msasani Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669039</sponsorfax>
+      <mobile>+225222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DANIEL PANTALEO MACHA</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>p.o.box 7587 Moshi</postalAddress>
+      <physicalAddress>Moshi Kirua</physicalAddress>
+      <fax/>
+      <telephone>0757119412</telephone>
+      <mobile>0757119412</mobile>
+      <email>epiphaniamacha@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

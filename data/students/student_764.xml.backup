@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>764</studentId>
+  <studentName>chilumba fadhili mussa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>bombambili secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s3242/0073/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kigonsera secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0120/0674</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>fadhili mussa abeid</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 335 songea</postalAddress>
+      <physicalAddress>p.o.box 335 songea</physicalAddress>
+      <fax/>
+      <sponsorfax>0752410351</sponsorfax>
+      <mobile>0752410351</mobile>
+      <email>fadhilichilumba93@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mboni shabani kivia</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>p.o.box 335 songea</postalAddress>
+      <physicalAddress>p.o.box 335 songea</physicalAddress>
+      <fax/>
+      <telephone>0766272655</telephone>
+      <mobile>0766272655</mobile>
+      <email>fadhilichilumba93@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

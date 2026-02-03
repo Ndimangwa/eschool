@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2652</studentId>
+  <studentName>Furaha Malecela</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RUVU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0369-0105</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIGONSERA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0120/0521</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>MD000263</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED MASWA</employerName>
+      <postalAddress>B0X 170 MASWA, SIMIYU</postalAddress>
+      <physicalAddress>MASWA, SIMIYU</physicalAddress>
+      <telephone>00282750271</telephone>
+      <email>Council-maswa@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH AND SOCIAL WELFARE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>B0X 9083</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222120261</sponsorfax>
+      <mobile>00255222139951</mobile>
+      <email>info@mohsw.org.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AUGUSTINO MALECELA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>BOX 30180 KIBAHA</postalAddress>
+      <physicalAddress>KIBAHA PWANI</physicalAddress>
+      <fax/>
+      <telephone>00255772402063</telephone>
+      <mobile>00255719081914</mobile>
+      <email>furaham80@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

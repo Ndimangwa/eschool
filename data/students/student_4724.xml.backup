@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4724</studentId>
+  <studentName>DIANA DUNSTAN KISANGA</studentName>
+  <accademicHistory><institution><institutionName>ST. MARY GORETI SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S1187.0027.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST. MARY GORETI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S1187.0553.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068, DAR ES SALAAM</postalAddress><physicalAddress>PLOT NO.8,BLOCK NO.46;SAM NUJOMA ROAD.</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MIDLASTER KIWIA</kinName><relationship>AUNT</relationship><postalAddress>P.O. BOX 224,MOSHI</postalAddress><physicalAddress>KDC</physicalAddress><fax></fax><telephone>0754285087</telephone><mobile>0754285087</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DIANA DUNSTAN KISANGA</accountName><bankAccount>0152327160000</bankAccount><bankName>CRDB BANK </bankName><branchName>KCMC </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>afa073449f80f54ea8ca338c40d107b7</isaacompletechecksum></student>

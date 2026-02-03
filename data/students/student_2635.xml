@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2635</studentId>
+  <studentName>AYESIGA MBELWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KAHORORO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0115-0039</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0107-0524</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI UNIVERSITY KCM COLLEGE</institutionName>
+      <specialization>DEGREE OF DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0286</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI UNIVERSITY KCM COLLEGE</institutionName>
+      <specialization>GENERAL SURGERY</specialization>
+      <levelId>17</levelId>
+      <indexNumber>TU/M.MED/0283</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GOOD SAMARITAN FOUNDATION</employerName>
+      <postalAddress>BOX 545</postalAddress>
+      <physicalAddress>KILIMANJARO MOSHI</physicalAddress>
+      <telephone>00255272754377</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GOOD SAMARITAN FOUNDATION</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 3010</postalAddress>
+      <physicalAddress>KILIMANJARO MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272754377</sponsorfax>
+      <mobile>00255000010000</mobile>
+      <email>Kcmcadmin@kcmc.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BH</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>BOX 545</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>00255754817266</telephone>
+      <mobile>00255754817266</mobile>
+      <email>byherman@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4058</studentId>
+  <studentName>LUMBAEL PETRO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIZAGA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1130/0097</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MWENGE</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0334/0723</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>00222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RICHARD</kinName>
+      <relationship>PETRO</relationship>
+      <postalAddress>12</postalAddress>
+      <physicalAddress>singida</physicalAddress>
+      <fax/>
+      <telephone>0653165179</telephone>
+      <mobile>00255653165179</mobile>
+      <email>lumbaelpetro@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>478</studentId>
+  <studentName>ISACK PATRICK</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0158.0044.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUSIIME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2499.0668.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068 DSM</postalAddress>
+      <physicalAddress>P.O Box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@hesleb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PATRICK ATHANAS RUGEMA</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O Box 316 Kigoma</postalAddress>
+      <physicalAddress>Kigoma</physicalAddress>
+      <fax/>
+      <telephone>0754051551</telephone>
+      <mobile>0754051551</mobile>
+      <email>patrick.athanas@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>PATRICK, ISACK</accountName><bankAccount>0152327635800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0fa52c875d4d67bde0bcbbeccd2decf7</isaacompletechecksum></student>

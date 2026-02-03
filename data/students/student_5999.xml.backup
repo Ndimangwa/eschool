@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5999</studentId>
+  <studentName>JUMA STEVEN MKUDE</studentName>
+  <accademicHistory><institution><institutionName>KLERRUU TEACHERS COLLEGE CENTRE</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>P1378.0462.2013</indexNumber><award>CERTIFICATE IN SECONDARY EDUCATION</award><grade>DIVISION 3</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>UWATA BOYS HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S3905.0574.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@helsb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MKUDE JUMA STEVEN</accountName><bankAccount>0152327147100</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1c78fbdb598b34f7bf94753df6446a14</isaacompletechecksum></student>

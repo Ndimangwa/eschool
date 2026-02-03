@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5185</studentId>
+  <studentName>JASPER KIMAMBO</studentName>
+  <accademicHistory><institution><institutionName>KOMAKYA SECONDARY SCOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0926.0037.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>KIBITI HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0413.0567.2007</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION4</grade><startYear>2005</startYear><endYear>2007</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName><specialization>SCIENCE</specialization><levelId>12</levelId><indexNumber>K 00165</indexNumber><award>DIPLOMA IN HEALTH LABORATORY SCIENCES</award><grade>PASS</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>39c03be98ffe84826664ab1ea13dfd11</isaacompletechecksum></student>

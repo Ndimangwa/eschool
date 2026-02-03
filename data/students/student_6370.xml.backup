@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6370</studentId>
+  <studentName>frank ferdinand ndunguru</studentName>
+  <accademicHistory><institution><institutionName>king david secondary school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S2353.0030.2009</indexNumber><award>certificate of secondary education</award><grade>three</grade><startYear>2006</startYear><endYear>2009</endYear></institution><institution><institutionName>St.joseph kilocha seminary</institutionName><specialization>Science</specialization><levelId>8</levelId><indexNumber>S0190.0508.2012</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>Three</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>Ruaha catholic university</institutionName><specialization>Medical laboratory sciences</specialization><levelId>12</levelId><indexNumber>191/DMLS/T/2012</indexNumber><award>ordinary diploma in medical laboratory sciences </award><grade>upper second class</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>St. Benedict's Ndanda Referral Hospital</employerName><postalAddress>PO BOX 03</postalAddress><physicalAddress>Ndanda Masasi</physicalAddress><fax/><telephone/><mobile>0784342088</mobile><email>hospital@ndanda.net</email><startYear>2015</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>Ferdinand Zacharia Ndunguru</sponsorName><payerId>3</payerId><postalAddress>PO BOX 401</postalAddress><physicalAddress>SONGEA</physicalAddress><fax>0252602058</fax><telephone/><mobile>0755638276</mobile><email>ferdinand.ndunguru@tra.go.tz</email><financedItem>SCHOOL FEES AND ACCOMMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Frank Ferdinand Ndunguru</accountName><bankAccount>70510007590</bankAccount><bankName>NATIONAL MICROFINANCE BANK</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d57c0ac6e900efee50a6071dc8f0f935</isaacompletechecksum></student>

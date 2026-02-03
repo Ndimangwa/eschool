@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6530</studentId>
+  <studentName>birth certificate</studentName>
+  <accademicHistory><institution><institutionName>BENJAMIN WILLIUM MKAPA HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0960.0111.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MSALATO SECONDARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0214.0560.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>4</payerId><postalAddress>P.O.BOX 76068,DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>salama shehoza</kinName><relationship>sister</relationship><postalAddress>kcmc 2240</postalAddress><physicalAddress>kcmc 2240</physicalAddress><fax>+255675685711</fax><telephone>+255712644414</telephone><mobile>+255675685711</mobile><email>shehoza89@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>rahma shehoza</accountName><bankAccount>52010026907</bankAccount><bankName>nmb</bankName><branchName>dodoma</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9a9f83223d68c2ff54dc12ac2ca57066</isaacompletechecksum></student>

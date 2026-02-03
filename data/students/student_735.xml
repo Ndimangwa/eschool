@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>735</studentId>
+  <studentName>MAIKO USHAKY PELAJI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SHIMBI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1708.0112.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>USAGARA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345.0623.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOANBOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+225222669036</sponsorfax>
+      <mobile>+225222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PELAJI MAIKO USHAKY</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>71</postalAddress>
+      <physicalAddress>ROMBO</physicalAddress>
+      <fax/>
+      <telephone>+225754308075</telephone>
+      <mobile>+225754308075</mobile>
+      <email>maikoushaky@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>PELAJI, MAIKO USHAKY</accountName><bankAccount>0152387670900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7755c02acc74e719c4e3fdb7feecb9ca</isaacompletechecksum></student>

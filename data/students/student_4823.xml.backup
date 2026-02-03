@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4823</studentId>
+  <studentName>ABUBAKARI MWABUTU</studentName>
+  <accademicHistory><institution><institutionName>MKONGE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0331.0073.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 2</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>IYUNGA  TECHNICAL SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0112.0502.2015</indexNumber><award>CERTIFICATE OF ADVANCED SECONDARY EDUCATION</award><grade>DIVISION 2</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Higher Education Student's Loan Board</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>+225222772432</telephone><mobile>+225222772433</mobile><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHRISTINA P NJOMBI</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX564</postalAddress><physicalAddress>LINDI</physicalAddress><fax/><telephone>+225717132023</telephone><mobile>+255786763629</mobile><email>christina.njombi@yahoo.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ABUBAKARI MWABUTU</accountName><bankAccount>0152267032901</bankAccount><bankName>CRDB BANK</bankName><branchName>LINDI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>939744d074f405ae21bdec668e17f3a8</isaacompletechecksum></student>

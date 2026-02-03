@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5903</studentId>
+  <studentName>DAVID GEOFREY NDOMA</studentName>
+  <accademicHistory><institution><institutionName>POMERINI SECONDARY SCHOOL</institutionName><specialization>SCIENCE/ARTS</specialization><levelId>4</levelId><indexNumber>S0652.0044.2000</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION THREE</grade><startYear>1997</startYear><endYear>2000</endYear></institution><institution><institutionName>POMERINI SECONDARY SCHOOL</institutionName><specialization>HGK</specialization><levelId>8</levelId><indexNumber>S0652.0521.2003</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2001</startYear><endYear>2003</endYear></institution><institution><institutionName>SENGEREMA CLINICAL OFFICER'S TRAINNING CENTRE</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>20449</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>DIPLOMA</grade><startYear>2006</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DED HANDENI</employerName><postalAddress>P.O BOX355</postalAddress><physicalAddress>HANDENI/TANGA</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2010</startYear><endYear>2016</endYear><extraInformation>NONE</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>NEVERSHY MAGAVA</kinName><relationship>COUSINE</relationship><postalAddress>P.O.BOX 75502</postalAddress><physicalAddress>DAR ES SALAAM-TANZANIA</physicalAddress><fax/><telephone>+255718510005</telephone><mobile>+255754602727</mobile><email>mnevershy@yahoo.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DAVID GEOFREY NDOMA</accountName><bankAccount>4140800589</bankAccount><bankName>NMB</bankName><branchName>HANDENI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5fa3b8e8fae5707c532b5dc22dd6d2f5</isaacompletechecksum></student>

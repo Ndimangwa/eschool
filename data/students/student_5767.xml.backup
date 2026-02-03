@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5767</studentId>
+  <studentName>ERASTO MARTINE</studentName>
+  <accademicHistory><institution><institutionName>NGWELI SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3287.0070.2011</indexNumber><award>CSE</award><grade>DIVISION TWO</grade><startYear>2008</startYear><endYear>2011</endYear></institution><institution><institutionName>MOSHI SEC SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0134.0537.2014</indexNumber><award>ACSE</award><grade>DIVISION THREE</grade><startYear>2012</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ERASTO MARTINE SUNZULA</accountName><bankAccount>0152203210400</bankAccount><bankName>CRDB</bankName><branchName>IRINGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5f0a19dd54a6a2ebd30fdc7bac20cdda</isaacompletechecksum></student>

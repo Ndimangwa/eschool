@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>173</studentId>
+  <studentName>Heronima Joas</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Old Moshi Secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0134-0018</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Old Moshi Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0502</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>The Saint Augustine University Of Tanzania</institutionName>
+      <specialization>MEDICAL DOCTOR</specialization>
+      <levelId>15</levelId>
+      <indexNumber>SAUT/BUCHS/MD/1279</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>BUGANDO MEDICAL CENTRE</employerName>
+      <postalAddress>1370</postalAddress>
+      <physicalAddress>BUGANDO  MWANZA</physicalAddress>
+      <telephone>00255282500513</telephone>
+      <email>www@bugandomedicalcentre.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Heronima Joas</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1370</postalAddress>
+      <physicalAddress>bugando mwanza</physicalAddress>
+      <fax/>
+      <sponsorfax>00255282500513</sponsorfax>
+      <mobile>00659301522</mobile>
+      <email>heronimajoas@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Nestory Masalu</kinName>
+      <relationship>boss</relationship>
+      <postalAddress>1370</postalAddress>
+      <physicalAddress>Bugando Mwanza</physicalAddress>
+      <fax/>
+      <telephone>00255282500513</telephone>
+      <mobile>00255752000004</mobile>
+      <email>nmasalu2000@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

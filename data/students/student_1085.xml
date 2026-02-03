@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1085</studentId>
+  <studentName>MUBASHIR ALAVI JUSABANI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SHAABAN ROBERT SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0342/0124</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SHAABAN ROBERT SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0342/0593</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068 DSM</postalAddress>
+      <physicalAddress>Block No.46 Sam Nujoma DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALAVI JUSABANI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 345 DSM</postalAddress>
+      <physicalAddress>LUGALO STREET, DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0222131109</telephone>
+      <mobile>0754282450</mobile>
+      <email>obaystationery@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

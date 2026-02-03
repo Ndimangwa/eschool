@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2101</studentId>
+  <studentName>SELINA LOHAY HOMBO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KARATU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0364-0036</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCo</institutionName>
+      <specialization>DIPLOMA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TU/DHLSC/0065</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KARATU DISTRICT COUNCIL</employerName>
+      <postalAddress>P.0.B0X 190</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <telephone>00255272534047</telephone>
+      <email>karatucouncil@yahoo.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>I-TECH TANZANIA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PLOT 1127 CHOLE ROAD</postalAddress>
+      <physicalAddress>MASAKI -DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222127352</sponsorfax>
+      <mobile>00255222127352</mobile>
+      <email>fmagari@itech-tanzania.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIBARIKI JOHN FISSOO</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>P.O.BOX 165</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <fax/>
+      <telephone>00255765087766</telephone>
+      <mobile>00255765087766</mobile>
+      <email>selinahombo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

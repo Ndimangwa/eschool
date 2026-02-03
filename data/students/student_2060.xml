@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2060</studentId>
+  <studentName>JUMANN PETRO LUOGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ULAYASI</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0527/0044</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUGANDO</institutionName>
+      <specialization>LABORATORY SCIENCE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0000/0000</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH</employerName>
+      <postalAddress>P.O.BOX 74</postalAddress>
+      <physicalAddress>SONGEA</physicalAddress>
+      <telephone>+255752761452</telephone>
+      <email>lhvpaya@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>MWENGE,DARESALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>STEPHEN LUOGA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O.BOX 885 NJOMBE</postalAddress>
+      <physicalAddress>NJOMBE</physicalAddress>
+      <fax/>
+      <telephone>+255764509148</telephone>
+      <mobile>0764509148</mobile>
+      <email>stephenluoga@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

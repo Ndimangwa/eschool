@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2798</studentId>
+  <studentName>SILVEST  G ASSENGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SHAURITANGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0389.0073.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485.0674.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Emailinfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GABRIEL ATANASI ASSENGA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P O BOX. 377 MKUU-ROMBO</postalAddress>
+      <physicalAddress>P O BOX. 377 MKUU-ROMBO</physicalAddress>
+      <fax/>
+      <telephone>0784845986</telephone>
+      <mobile>0784845986</mobile>
+      <email>Silvestgabriel@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ASSENGA, SILVEST G</accountName><bankAccount>0152327811900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>51a045209a5ae5d8376c0bd30bd2dd4e</isaacompletechecksum></student>

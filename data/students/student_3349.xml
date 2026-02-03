@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3349</studentId>
+  <studentName>luyere s buhulula</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>st.caroli secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0195.0081.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>tosamaganga secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158.0766.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box76068</postalAddress>
+      <physicalAddress>P.O.Box76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>0255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>sostenes b masasi</kinName>
+      <relationship>father</relationship>
+      <postalAddress>pobox 20misungwi,mwanza</postalAddress>
+      <physicalAddress>pobox 20misungwi,mwanza</physicalAddress>
+      <fax/>
+      <telephone>0766500070</telephone>
+      <mobile>0766500070</mobile>
+      <email>sostenesbmasasi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>BUHULULA, LUYEYE S</accountName><bankAccount>0152554230900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5979b79c042355a074933512694dc23f</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1040</studentId>
+  <studentName>Mathayo Shadrack</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ng'wanza Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2011/0043</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Bwiru Technical High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0104/0584</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Seni Mahega</kinName>
+      <relationship>Uncle</relationship>
+      <postalAddress>P.O. BOX 2240</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>+255787836296</telephone>
+      <mobile>+255787836296</mobile>
+      <email>seni.mahega@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

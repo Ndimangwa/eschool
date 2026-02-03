@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1470</studentId>
+  <studentName>PRINCE NDYETABULA BYEMERWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BROOKE BOND</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1267-0025</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>EAGLES SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2354-0508</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>P.O BOX 76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+2552227724332</sponsorfax>
+      <mobile>+2552227724332</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPHAT</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>7005 dar</postalAddress>
+      <physicalAddress>7005 dar</physicalAddress>
+      <fax/>
+      <telephone>0655687335</telephone>
+      <mobile>0655687335</mobile>
+      <email>byemerwa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

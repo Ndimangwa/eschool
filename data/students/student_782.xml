@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>782</studentId>
+  <studentName>OMARI ABDUL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBAH SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0119-0101</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0561</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF DAR ES SALAAM</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>29404/T.2000</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCO</institutionName>
+      <specialization>MPH</specialization>
+      <levelId>17</levelId>
+      <indexNumber>TU/KCMUCO/MPH2012/TZ/211</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>NATIONAL INSTITUTE FOR MEDICAL RESEARCH</employerName>
+      <postalAddress>210</postalAddress>
+      <physicalAddress>KOROGWE</physicalAddress>
+      <telephone>0255262746084</telephone>
+      <email>tanga@nimr.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>FOETALforNCD(PONA) PROJECT</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>210</postalAddress>
+      <physicalAddress>KOROGWE</physicalAddress>
+      <fax/>
+      <sponsorfax>0255272646084</sponsorfax>
+      <mobile>0783476071</mobile>
+      <email>tanga@nimr.or.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JANETH G MRITA</kinName>
+      <relationship>SPOUSE</relationship>
+      <postalAddress>210</postalAddress>
+      <physicalAddress>KOROGWE</physicalAddress>
+      <fax/>
+      <telephone>0255262740897</telephone>
+      <mobile>0784542550</mobile>
+      <email>janethmrita@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

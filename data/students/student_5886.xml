@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5886</studentId>
+  <studentName>CSEE</studentName>
+  <accademicHistory><institution><institutionName>DE PAUL SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3631.0017.2013</indexNumber><award>CSEE</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ALFONCE PATRIC MRAMBA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 46</postalAddress><physicalAddress>SONGEA</physicalAddress><fax/><telephone>0655217133</telephone><mobile>0655217133</mobile><email>alfoncemramba72@gmail.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ALFONCE PATRICE MRAMBA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 46</postalAddress><physicalAddress>SONGEA</physicalAddress><fax></fax><telephone>0655217133</telephone><mobile>0655217133</mobile><email>alfoncemramba72@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DOMINA PATRICE MRAMBA</accountName><bankAccount>01800007963</bankAccount><bankName>TPB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c020d200f720bed614a34aed953aeb92</isaacompletechecksum></student>

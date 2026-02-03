@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3907</studentId>
+  <studentName>Antony Dismas Nyakamwe</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>S.S.Rufino Rinaldo Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1530.0031.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lyamungo Secondary School</institutionName>
+      <specialization>CBA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125.0760.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, Dar es salaam</postalAddress>
+      <physicalAddress>Plot No.8, Block No.46</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Dismas Nyakamwe</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>44, Kigoma</postalAddress>
+      <physicalAddress>Kigoma</physicalAddress>
+      <fax/>
+      <telephone>0767661644</telephone>
+      <mobile>0767661644</mobile>
+      <email>antonynyakamwe@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NYAKAMWE, ANTONY DISMAS</accountName><bankAccount>0152328436500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>69d6d747713df43873a26d883aca8048</isaacompletechecksum></student>

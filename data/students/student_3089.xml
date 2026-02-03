@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3089</studentId>
+  <studentName>irene peter masue</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>anwarite girls secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0269.0020.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>st.maria goreti secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187.0587.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>board plot no.8</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 76068</postalAddress>
+      <physicalAddress>dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>peter</kinName>
+      <relationship>father</relationship>
+      <postalAddress>p.o.box3010 moshi</postalAddress>
+      <physicalAddress>kilimanjaro</physicalAddress>
+      <fax/>
+      <telephone>0754302347</telephone>
+      <mobile>0754302347</mobile>
+      <email>petermas68@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MASUE, IRENE PETER</accountName><bankAccount>0152327987800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d0c6748345357164627e4ed93c17f0e0</isaacompletechecksum></student>

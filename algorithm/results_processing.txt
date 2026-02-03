@@ -1,0 +1,17 @@
+Grading Examination 
+Objects: Results and ResultsGroup as well as ResultsFile 
+Grading Individual results , like end of semester Examination 
+[General Rules]
+1. Grades should be [re]calculated if Results.isAlreadyGraded == false AND Results.isResultsLoaded
+	[
+	Results.isAlreadyGraded can be changed on the following events
+	 a. Results has just been uploaded , set to false 
+	 b. Results Manager has been edited, set to false [The Manager can be edited if only its groups is not locked and Results.isResultsLoaded == false]
+	 
+	]
+2. filename = Results.resultsMarksFile.".graded"
+3. 
+
+Since it is the same object ResultsFile working for graded and marks data we need a controlling flags 
+
+isgraded 

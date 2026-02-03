@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4534</studentId>
+  <studentName>Hileni Taleni Nangolo</studentName>
+  <accademicHistory><institution><institutionName>GABRIEL TAAPOPI SENIOR SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E0015258632</indexNumber><award>HIGHER INTERNATIONAL GENERAL CERTIFICATE OF SECONDARY EDUCATION</award><grade>PASS</grade><startYear>2001</startYear><endYear>2005</endYear></institution><institution><institutionName>UNIVERSITY OF NAIROBI</institutionName><specialization>MEDICINE</specialization><levelId>15</levelId><indexNumber>04527</indexNumber><award>BACHELOR OF MEDICINE AND BACHELOR OF SURGERY</award><grade>PASS</grade><startYear>2007</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH AND SOCIAL SERVICES</employerName><postalAddress>P/BAG 13198,WINDHOEK</postalAddress><physicalAddress>HARVEY STREET, WINDHOEK WEST</physicalAddress><fax>0026461272286</fax><telephone>+264612032531</telephone><mobile>+264814112997</mobile><email>ekambaru@hotmail.com</email><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH AND SOCIAL SERVICES</sponsorName><payerId>10</payerId><postalAddress>P/BAG 13198,WINDHOEK</postalAddress><physicalAddress>HARVEY STREET, WINDHOEK WEST</physicalAddress><fax>0026461272286</fax><telephone>00264612032531</telephone><mobile/><email>ekambaru@hotmail.com</email><financedItem>SCHOLARSHIP</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ESTHER NANGOLO</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 924, ONDANGWA</postalAddress><physicalAddress>ONYAANYA</physicalAddress><fax/><telephone>+264812973799</telephone><mobile>+264812444221</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HILENI TALENI NANGOLO</accountName><bankAccount>62199581474</bankAccount><bankName>FIRST NATIONAL BANK</bankName><branchName>ONGWEDIVA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a1f47f0f39daaea7e4f1c5523036b612</isaacompletechecksum></student>

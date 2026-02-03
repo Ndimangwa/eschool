@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4790</studentId>
+  <studentName>Henry Bartholomew</studentName>
+  <accademicHistory><institution><institutionName>Benjamin W. Mkapa high school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S0960.0230.2013</indexNumber><award>Certificate for secondary education</award><grade>Division one</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>Benjamin W. Mkapa high school</institutionName><specialization>Science</specialization><levelId>8</levelId><indexNumber>S0960.0872.2016</indexNumber><award>Advanced Certificate of Secondary Education</award><grade>Division one</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Flora Mkumbi</sponsorName><payerId>3</payerId><postalAddress>Box 10669</postalAddress><physicalAddress>Dar es salaam</physicalAddress><fax/><telephone/><mobile>0755432087</mobile><email>fmkumbi66@gmail.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>Flora Mkumbi</kinName><relationship>Aunt</relationship><postalAddress>Box 10669</postalAddress><physicalAddress>Dar es salaam</physicalAddress><fax></fax><telephone>0755432087</telephone><mobile>0755432087</mobile><email>fmkumbi66@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Henry Bartholomew Mkumbi</accountName><bankAccount>0152251570300</bankAccount><bankName>CRDB</bankName><branchName>Kariakoo</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8cf7ca4fdcffdcc597df4d225c4673a2</isaacompletechecksum></student>

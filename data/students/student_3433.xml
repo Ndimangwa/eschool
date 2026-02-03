@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3433</studentId>
+  <studentName>neema musa mwendo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>chemchem secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0981.0012.2002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mwenge secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0334.0524.2005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kibaha clinical officers training centre</institutionName>
+      <specialization>diploma in clinical medicine</specialization>
+      <levelId>8</levelId>
+      <indexNumber>35288</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 6427.</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222556667889</sponsorfax>
+      <mobile>0222556667889</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>oscar charles kidilli</kinName>
+      <relationship>husband</relationship>
+      <postalAddress>10167</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0784319681</telephone>
+      <mobile>0784319681</mobile>
+      <email>neemamussa2@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUSA, NEEMA</accountName><bankAccount>0152327968200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b5c03ef689341745befc3d7581643005</isaacompletechecksum></student>

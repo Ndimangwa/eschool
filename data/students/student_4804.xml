@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4804</studentId>
+  <studentName>Veronica Kirenga</studentName>
+  <accademicHistory><institution><institutionName>ANDERLEK RIDGES </institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3861.0052.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 2.18</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>RAYMOND KIRENGA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 2317 SHINYANGA</postalAddress><physicalAddress>SHINYANGA</physicalAddress><fax/><telephone>0767258897</telephone><mobile>0767258897</mobile><email>raymondisrael301@yahoo.com</email><financedItem>TUITION FEE</financedItem><extraInformation>FATHER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>RAYMOND KIRENGA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 2317 SHINYANGA</postalAddress><physicalAddress>SHINYANGA</physicalAddress><fax></fax><telephone>0767258897</telephone><mobile>0767258897</mobile><email>raymondisrael301@yahoo.com</email><extraInformation>FATHER</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>veronica kirenga</accountName><bankAccount>40310044764</bankAccount><bankName>NMB</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2fcde94b2f3bc43ae8b1736a80ce7390</isaacompletechecksum></student>

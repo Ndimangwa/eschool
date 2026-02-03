@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1902</studentId>
+  <studentName>JOHN ODUOR ONDIEGE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISUMU TECHNICAL HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>70002/130</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TATCOT</institutionName>
+      <specialization>DIPLOMA IN ORTHPEDIC TECHNOLOGY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>6806/DOT/K87</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Kenyatta National Hospital</employerName>
+      <postalAddress>p.O.BOX 20723</postalAddress>
+      <physicalAddress>Kenyatta Hospital Kenya</physicalAddress>
+      <telephone>00254207244000</telephone>
+      <email>knhadmin@knh.or.ke</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ISPO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 1000</postalAddress>
+      <physicalAddress>Brussel Belgium</physicalAddress>
+      <fax/>
+      <sponsorfax>003222131379</sponsorfax>
+      <mobile>003222131379</mobile>
+      <email>ispo@ispoint.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Caroline adhiambo Oduor</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>P.O.BOX 13909 00800</postalAddress>
+      <physicalAddress>kerarapon ngong nairobi</physicalAddress>
+      <fax/>
+      <telephone>00254721615270</telephone>
+      <mobile>+254721615270</mobile>
+      <email>oduroc87@yahhoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

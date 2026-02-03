@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1097</studentId>
+  <studentName>LISA MOSES MBEBA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARIAN GIRLS HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0248/0051</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0248/0547</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068Daressalaam</postalAddress>
+      <physicalAddress>Block No.46,SamNujoma Road</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARGARETH LEMA</kinName>
+      <relationship>AUNTY</relationship>
+      <postalAddress>23440,Daressalaam</postalAddress>
+      <physicalAddress>MIKOCHENI,TPDC</physicalAddress>
+      <fax/>
+      <telephone>0713828044</telephone>
+      <mobile>0713828044</mobile>
+      <email>margaretlema@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2186</studentId>
+  <studentName>RITA ATILIO SENGINGO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>P0660</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0257</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TANGA SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>15104</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>SUA</employerName>
+      <postalAddress>3000</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <telephone>0232604653</telephone>
+      <email>dvcadminfin@suanet.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522669036</sponsorfax>
+      <mobile>0025522669036</mobile>
+      <email>inf@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LILIAN SENGINGO</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>32751</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <fax/>
+      <telephone>0717379837</telephone>
+      <mobile>0717379837</mobile>
+      <email>liliasengingo@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

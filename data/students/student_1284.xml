@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1284</studentId>
+  <studentName>FRED WILLY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SAME SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0150 - 0097</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SIHA SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0343 - 0526</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAFINGA CLINICAL OFFICER TRAINING CENTRE</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0364</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>16665</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WILLIAM MUMFORD MCHAU</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>3003</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>+255713849011</telephone>
+      <mobile>+255763599377</mobile>
+      <email>fredmaziwa@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6683</studentId>
+  <studentName>Kenneth Cleophace Byashalira</studentName>
+  <accademicHistory><institution><institutionName>Hubert KAIRUKI MEMORIAL UNIVERSITY</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>211</indexNumber><award>CERTIFICATE OF MEDICAL DOCTOR</award><grade>DEGREE</grade><startYear>2004</startYear><endYear>2010</endYear></institution><institution><institutionName>TAMBAZA HIGH SCHOOL</institutionName><specialization>PCG</specialization><levelId>8</levelId><indexNumber>S0347.0654.2004</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY SCHOOL</award><grade>Division three</grade><startYear>2001</startYear><endYear>2003</endYear></institution><institution><institutionName>IHUNGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0109.0058.2000</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION THREE</grade><startYear>1997</startYear><endYear>2000</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>NATIONAL INSTITUTE FOR MEDICAL RESEARCH-MUHIMBILI CENTRE</employerName><postalAddress>P.O.BOX 3436</postalAddress><physicalAddress>NIMR</physicalAddress><fax/><telephone>+255222152232</telephone><mobile/><email>muhimbili@nimr.or.tz</email><startYear>2011</startYear><endYear>2016</endYear><extraInformation>NONE</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>TANZANIA MINISTRY OF HEALTH</sponsorName><payerId>10</payerId><postalAddress>P.O.BOX 9083</postalAddress><physicalAddress>TANZANIA MINISTRY OF HEALTH</physicalAddress><fax/><telephone>0222120261</telephone><mobile/><email/><financedItem>TUITION FEE AND RESEARCH COST</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>NMB BANK</accountName><bankAccount>20602519686</bankAccount><bankName>BANK</bankName><branchName>MOROGORO ROAD</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>bd7612e68d95da936c4ded53280533bc</isaacompletechecksum></student>

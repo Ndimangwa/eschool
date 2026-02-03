@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>198</studentId>
+  <studentName>FILEMON EMANUELY MMARY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DR. SALMIN AMOUR SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0921/0115</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>USAGARA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345/0611</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mary emanuel mmary</kinName>
+      <relationship>aunt</relationship>
+      <postalAddress>p.o.box 8483</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0713262226</telephone>
+      <mobile>0713262226</mobile>
+      <email>filemonmmary@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

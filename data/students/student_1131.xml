@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1131</studentId>
+  <studentName>JULIUS CLEMENT</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NGUDU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0554/0093</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150/0657</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD(HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+2552222772432</sponsorfax>
+      <mobile>+2552222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SHADRACK CLEMENT</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O BOX 50 KIGOMA</postalAddress>
+      <physicalAddress>BANGWE-KIGOMA</physicalAddress>
+      <fax/>
+      <telephone>0769030608</telephone>
+      <mobile>0769030608</mobile>
+      <email>mgangaclement@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

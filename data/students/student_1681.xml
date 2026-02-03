@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1681</studentId>
+  <studentName>FATEMA AKHTERHUSSEIN HASHAM</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AL MUNTAZIR ISLAMIC SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0437-0015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AL MUNTAZIR ISLAMIC SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0437-0503</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>AKHTERHUSSEIN HASHAM</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 7516</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0774300151</sponsorfax>
+      <mobile>0774300151</mobile>
+      <email>aghfamily@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AKHTERHUSSEIN HASHAM</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>7516</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0774300151</telephone>
+      <mobile>0774300151</mobile>
+      <email>aghfamily@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

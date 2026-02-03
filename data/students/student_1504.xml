@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1504</studentId>
+  <studentName>Johnston M George</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ifunda Technical Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S108/0128</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibaha Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119-0628</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Albina Edwards</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>8749</postalAddress>
+      <physicalAddress>MBEZI BEACH, DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255689326218</sponsorfax>
+      <mobile>0689326218</mobile>
+      <email>albinaedwards@yahoo.co.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALBINA EDWARDS</kinName>
+      <relationship>AUNT</relationship>
+      <postalAddress>8749</postalAddress>
+      <physicalAddress>MBEZI BEACH, DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>00255689326218</telephone>
+      <mobile>0689326218</mobile>
+      <email>albinaedwards@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

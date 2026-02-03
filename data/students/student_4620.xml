@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4620</studentId>
+  <studentName>KURENJE J MBURA</studentName>
+  <accademicHistory><institution><institutionName>AGA KHAN MZIZIMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0335.0117.2003</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2000</startYear><endYear>2003</endYear></institution><institution><institutionName>LOYOLA HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0800.0600.2006</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION I</grade><startYear>2004</startYear><endYear>2006</endYear></institution><institution><institutionName>MUHIMBILI UNIVERSITY OF HEALTH AND ALLIED SCIENCES</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>2006.04.04192</indexNumber><award>DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>2006</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MUHIMBILI NATIONAL HOSPITAL</employerName><postalAddress>P.O. BOX 65000</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0222151599</telephone><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>SELF</sponsorName><payerId>1</payerId><postalAddress>P.O. BOX 2156</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile>+255686869726</mobile><email>krmbura@gmail.com</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FARIDAH MGUNDA</kinName><relationship>MOTHER</relationship><postalAddress>P.O. BOX 2156</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>+255754279786</telephone><mobile></mobile><email>ridah40@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KURENJE SAIDI MBURA</accountName><bankAccount>0112008946600</bankAccount><bankName>CRDB</bankName><branchName>LUMUMBA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4d5266bc4ea382a04b425b7db94a953c</isaacompletechecksum></student>

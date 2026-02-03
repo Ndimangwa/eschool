@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1474</studentId>
+  <studentName>LAURENT LEO TARIMO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JULIUS KAMBARAGE NYERERE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1038/0159</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150/0641</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO.BOX76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRIDOLINE EDWARD</kinName>
+      <relationship>FRIEND</relationship>
+      <postalAddress>PO.BOX 2244</postalAddress>
+      <physicalAddress>KILIMANJARO</physicalAddress>
+      <fax/>
+      <telephone>002550653227627</telephone>
+      <mobile>0653227627</mobile>
+      <email>fridolineedward@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

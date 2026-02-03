@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3893</studentId>
+  <studentName>SKY LEONARD JOHN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KWEMVUMO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0642/0096/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0103/0786/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0103/0786/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>RUTH  JUMA MBURI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1175</postalAddress>
+      <physicalAddress>BUKOBA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272758770</sponsorfax>
+      <mobile>0758914425</mobile>
+      <email>ruthmburi@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RUTH JUMA MBURI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>1175</postalAddress>
+      <physicalAddress>BUKOBA</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0758914425</mobile>
+      <email>ruthmburi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

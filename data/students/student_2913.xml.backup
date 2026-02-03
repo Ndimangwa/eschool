@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2913</studentId>
+  <studentName>HAJRA KASSIM JUMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>FIDEL CASTRO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0309/0021/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>FIDEL CASTRO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0309/0510/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>NUJOMA ROAD, MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522772432</sponsorfax>
+      <mobile>0025522772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KASSIM JUMA ABDALLAH</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>244 CHAKE CHAKE,PEMBA</postalAddress>
+      <physicalAddress>KILIMATINDE CHAKE CHAKE,PEMBA</physicalAddress>
+      <fax/>
+      <telephone>0773236838</telephone>
+      <mobile>0773363663</mobile>
+      <email>kjabdallah@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

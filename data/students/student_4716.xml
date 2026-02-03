@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4716</studentId>
+  <studentName>WTNESS E ZAKAYO</studentName>
+  <accademicHistory><institution><institutionName>ST TERESA OF THE CHILD JESUS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4039.0138.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TABORA GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0220.0628.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ERASTO ZAKAYO</sponsorName><payerId>3</payerId><postalAddress>P O BOX 8133 ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone/><mobile>0754815346</mobile><email/><financedItem>SCHOOL FEES AND ACCOMODATION</financedItem><extraInformation/></sponsor><sponsor><sponsorName>ERASTO ZAKAYO </sponsorName><payerId>3</payerId><postalAddress>P O BOX 8133 ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0754817346</telephone><mobile/><email/><financedItem>SCHOOL FEES AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ERASTO ZAKAYO</kinName><relationship>PARENT</relationship><postalAddress>P O BOX 8133 ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>0754817346</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>WITNESS ERASTO ZAKAYO</accountName><bankAccount>0152489771400</bankAccount><bankName>CRDB</bankName><branchName>TABORA </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b632ec310ef490ac934b84303e662695</isaacompletechecksum></student>

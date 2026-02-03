@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5019</studentId>
+  <studentName>SALVATORY W. NGASEKA</studentName>
+  <accademicHistory><institution><institutionName>CHAMAGUHA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3094.0094.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION EXAMINATION</award><grade>Division 4</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>TAASISI YA ELIMU YA WATU WAZIMA TABORA </institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>P4348.0164.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION EXAMINATION</award><grade>DIVISION 4</grade><startYear>2013</startYear><endYear>2013</endYear></institution><institution><institutionName>KARAGWE SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0387.0534.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION EXAMINATION</award><grade>DIVISION 3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>WILLY YOTHAM NGASEKA</sponsorName><payerId>3</payerId><postalAddress>P.O.Box 879, SHINYANGA</postalAddress><physicalAddress>P.O.Box 879, SHINYANGA</physicalAddress><fax/><telephone/><mobile>0765328470</mobile><email>salvatorywilly83@gmail.com</email><financedItem>STUDIES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AGNESS MKUMBO NGOSHA</kinName><relationship>MOTHER</relationship><postalAddress>P.O.Box 879, SHINYANGA</postalAddress><physicalAddress>P.O.Box 879, SHINYANGA</physicalAddress><fax></fax><telephone>0768828356</telephone><mobile>0768828356</mobile><email>salvatorywilly83@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Kilimanjaro Christian Medical College</accountName><bankAccount>017101001339</bankAccount><bankName>NBC</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0207a61c1f21bee4ea1d1432464d4a6d</isaacompletechecksum></student>

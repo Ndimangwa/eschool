@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4585</studentId>
+  <studentName>LINDA MAGANO NANGOMBE</studentName>
+  <accademicHistory><institution><institutionName>IIPUMBU SSS</institutionName><specialization>IGCSE</specialization><levelId>8</levelId><indexNumber>E0001.3202.1995</indexNumber><award>IGCSE</award><grade>PASS</grade><startYear>2001</startYear><endYear>2007</endYear></institution><institution><institutionName>MOSCOW MEDICAL ACADEMY</institutionName><specialization>GENERAL MEDICINE</specialization><levelId>15</levelId><indexNumber>E0004.0269.2007</indexNumber><award>DOCTOR OF MEDICINE</award><grade>EXCELLENT</grade><startYear>2001</startYear><endYear>2007</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7e276887add017ffa317cf46389d15ca</isaacompletechecksum></student>

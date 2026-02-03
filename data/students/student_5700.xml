@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5700</studentId>
+  <studentName>SAYUNI A MUNNA</studentName>
+  <accademicHistory><institution><institutionName>ST DORCAS SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1109.0035.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE  </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TABORA GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0220.0613.2016</indexNumber><award>Advanced Certificate of Secondary Education</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0222700286</fax><telephone>0222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AYOUB MUNNA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 12880</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>0784757528</telephone><mobile>0784757528</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SAYUNI MUNNA</accountName><bankAccount>0152489766300</bankAccount><bankName>CRDB</bankName><branchName>TABORA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1b46bdd9925808b545fd03ab6a5011c6</isaacompletechecksum></student>

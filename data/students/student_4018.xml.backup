@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4018</studentId>
+  <studentName>PETER DANIEL PETER</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKUYUNI</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1010/0066/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIGONSERA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0120/0738/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HELEN META</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>80 arusha</postalAddress>
+      <physicalAddress>ngarenaro</physicalAddress>
+      <fax/>
+      <telephone>0753556698</telephone>
+      <mobile>+255753556698</mobile>
+      <email>Helen@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

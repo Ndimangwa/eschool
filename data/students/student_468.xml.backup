@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>468</studentId>
+  <studentName>ALLY BAKARI SHAMAD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AL-FAROUQ SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0182-0013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE MEDICAL TRAINING CENTRE-MBEYA</institutionName>
+      <specialization>CLINICAL DENTISTRY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DATS/MBY2005/540</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MKWAWA UNIVERSITY</employerName>
+      <postalAddress>PRIVATE BAG IRINGA</postalAddress>
+      <physicalAddress>IRINGA MKWAWA UNIVERSITY</physicalAddress>
+      <telephone>0255262701191</telephone>
+      <email>dp-administration@muce.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>SAM NUJOMA ROAD DAR ES SALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222772432</sponsorfax>
+      <mobile>0255222700286</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YUSUF BAKARI NYAHORI</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>2704 DAR ES SALAAM</postalAddress>
+      <physicalAddress>MBEZI DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0222110075</telephone>
+      <mobile>0713472252</mobile>
+      <email>yusufunyahory@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

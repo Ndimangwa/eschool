@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8040</studentId>
+  <studentName>elisamia winfred ngowi</studentName>
+  <accademicHistory><institution><institutionName>O LEVEL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>E0001.0042.2012</indexNumber><award>certificate</award><grade>DIVISION 1</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>ADVANCE LEVEL</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>E0001.0631.2014</indexNumber><award>CERTIFICATE</award><grade>DIVISION 1</grade><startYear>2013</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MOTHER</sponsorName><payerId>3</payerId><postalAddress>ARUSHA 1145</postalAddress><physicalAddress>MOSHI</physicalAddress><fax>0657240863</fax><telephone>0682979638</telephone><mobile>0682979638</mobile><email>nassakaeli@gmail.com</email><financedItem>education</financedItem><extraInformation>mom</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>student account</accountName><bankAccount>stanbick</bankAccount><bankName>stanbick</bankName><branchName>moshi</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5303e392d6f3a7bbfe79f7674c943b70</isaacompletechecksum></student>

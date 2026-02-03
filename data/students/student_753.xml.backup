@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>753</studentId>
+  <studentName>NGOLLO SIMON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MONTESSORI MARIA  SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4135/0015/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MKOLANI SECONDARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1051/0041/2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH MISALABA PALU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 10038</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0754769806</telephone>
+      <mobile>00255754769806</mobile>
+      <email>ngollosimon@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

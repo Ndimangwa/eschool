@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>599</studentId>
+  <studentName>SANDRA GABRIEL FRISCH</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CLAREMONT HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>123120087048R/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CLAREMONT HIGH SCHOOL ACADEMY</institutionName>
+      <specialization>MBP</specialization>
+      <levelId>8</levelId>
+      <indexNumber>123120087048R/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>PLOT.8 BLOCK.46 SAM NUJOMA ROAD DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GABRIEL FRISCH</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 9103 DSM</postalAddress>
+      <physicalAddress>RUHINDA STREET, DSM</physicalAddress>
+      <fax/>
+      <telephone>0715704974</telephone>
+      <mobile>0715704974</mobile>
+      <email>gabrielfrisch2014@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2948</studentId>
+  <studentName>Festo Herman</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Dodoma secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s 0306-095</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tosamaganga high school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s 0158-0558</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Hubert Kairuki Memorial university</institutionName>
+      <specialization>medical doctor</specialization>
+      <levelId>15</levelId>
+      <indexNumber>0270</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Ministry of Health and social welfare</employerName>
+      <postalAddress>box 9083 Dar-es-Salaam</postalAddress>
+      <physicalAddress>Dar-es-Salaam</physicalAddress>
+      <telephone>00222120261</telephone>
+      <email>ps@moh.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>President's office</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 9173 Dar-es-Salaam</postalAddress>
+      <physicalAddress>Dar-es-Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00222668680</sponsorfax>
+      <mobile>0787042165</mobile>
+      <email>press@ikulu.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Happyness Kitaly</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>Box 32182 Dar-es-Salaam</postalAddress>
+      <physicalAddress>Dar-es-Salaam</physicalAddress>
+      <fax/>
+      <telephone>0752575705</telephone>
+      <mobile>0752575705</mobile>
+      <email>Happy@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

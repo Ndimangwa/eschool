@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>134</studentId>
+  <studentName>AUGUSTINO M. MMBAGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CHANJALE SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0420-0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110-0527</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUGANDO UNIVERSITY COLLEGE OF HEALTH SCIENCES</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>SAUT/BUCHS/MD/1290</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>THE UNIVERSITY OF DODOMA</employerName>
+      <postalAddress>BOX 259 DODOMA</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <telephone>+255262310000</telephone>
+      <email>pfa@udom.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH AND SOCIAL WELFARE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 9083 DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+2552221202617</sponsorfax>
+      <mobile>+255784604533</mobile>
+      <email>dot@hoh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EZEKIEL SAYORE MAJANI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>BOX 9190 DSM</postalAddress>
+      <physicalAddress>UKONGA DSM</physicalAddress>
+      <fax/>
+      <telephone>+255754335177</telephone>
+      <mobile>+255687474733</mobile>
+      <email>emajani@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

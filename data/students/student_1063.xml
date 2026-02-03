@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1063</studentId>
+  <studentName>Asia Hemed</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kalobe secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s1453-0008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Loleza girls' high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0211-0680</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Hemed Kipengele</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>1033 MWANZA</postalAddress>
+      <physicalAddress>MWANZA TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>0282981025</telephone>
+      <mobile>+255754605961</mobile>
+      <email>kipengele@wma.go.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

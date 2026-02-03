@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5884</studentId>
+  <studentName>DAVID GEOFREY NDOMA</studentName>
+  <accademicHistory><institution><institutionName>POMERINI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0652.0044.2000</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION THREE</grade><startYear>1997</startYear><endYear>2000</endYear></institution><institution><institutionName>POMERINI SECONDARY SCHOOL</institutionName><specialization>HGK</specialization><levelId>8</levelId><indexNumber>S0652.0521.2003</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2001</startYear><endYear>2003</endYear></institution><institution><institutionName>SENGEREMA CLINICAL OFFICER'S TRAINNING CENTRE</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>20449</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>DIPLOMA</grade><startYear>2006</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fb7bc27ac09b179b6a65465aebcc8c95</isaacompletechecksum></student>

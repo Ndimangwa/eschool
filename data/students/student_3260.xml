@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3260</studentId>
+  <studentName>CALVIN F. ASSENGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>HILL VIEW SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.4222/0036/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0485/O6O6/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>helsb@kcmuco.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>THERESIA KILLENGA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>boX 01</postalAddress>
+      <physicalAddress>handeni</physicalAddress>
+      <fax/>
+      <telephone>0025584379278</telephone>
+      <mobile>0784379278</mobile>
+      <email>theresiakillenga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

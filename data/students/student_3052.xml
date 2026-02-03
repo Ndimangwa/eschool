@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3052</studentId>
+  <studentName>Durenayab Nazir Noormohamed Khatry</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Isamilo International School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0016484948</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Aga Khan Academy Mombasa</institutionName>
+      <specialization>International Baccalaureate</specialization>
+      <levelId>8</levelId>
+      <indexNumber>D002352009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>University of Seychelles</institutionName>
+      <specialization>Doctor of Medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>3532</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Shariq Baria</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o BOX 1655</postalAddress>
+      <physicalAddress>off Raphta road, Westland Nairobi</physicalAddress>
+      <fax/>
+      <sponsorfax>+254728900065</sponsorfax>
+      <mobile>+255788892990</mobile>
+      <email>shariq.isak@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Shariq Baria</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>P.O BOX 1655</postalAddress>
+      <physicalAddress>off Raphta road, Westland Nairobi</physicalAddress>
+      <fax/>
+      <telephone>+254728900065</telephone>
+      <mobile>+255784304775</mobile>
+      <email>shariq.isak@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

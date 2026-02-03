@@ -1,0 +1,65 @@
+ResultsCalculatorWithinAGroup
+IN ResultsGroup , constantValueIfPassedSupplimentary, semester [false or Number {1,2}]
+	1. supllimentaryResults = null 
+	2. if (semester ) { Load All Results belonging to this semster only in this Group } else {Load All Results In A Group}
+	3. rawGroupResults = null
+	3. mergedHeader = null
+	4. foreach ResultsInAGroup as a results1 do
+			mergedHeader = mergeAllHeader 
+	   end-foreach
+	5. foreach ResultsInAGroup as a results1 do
+			if (results1->exam->isSupplimentary)	{
+				supplimentaryResults = results1 
+				continue
+			} else if (results->exam->isPrimary)	{
+				rawMarksResultsFile = construct
+				if (semester)	{
+					relativeMaximumScore = percentageWeightofThisResultsInThisSemster (Obtained by results1->getExam->getWeight ie 20) / olderMaximumScore (Obtained by rawResultsFile1->getMaximuScore)
+				} else {
+					relativeMaximumScore = percentageWeightofThisResults (Obtained by results1->getExam->getWeight ie 20) / olderMaximumScore (Obtained by rawResultsFile1->getMaximuScore)
+				}
+				rawMarksResultsFile->updateScoresBasedOnMaximumScore(relativeMaximumScore)
+				/*Begin the merged Results*/
+				--All records to be merged should be sorted 
+				The following are the rules 
+				1. A student record should exists in all primary examination, if missing in any resultsFile1 then Mark_For_Removal 
+				2. 
+				/*End the merged Results*/
+				rawGroupResults = mergeWithWeight(rawGroupResults, rawMarksResultsFile, mergedHeader) /* In Algorithm if rawGroupResults is null just copy the rawResultsFile according to all columns of a mergedHeader
+					a columnis not found, fill ""
+					if rawGroupResults had alread marks in the subjectX, and the coming one is empty or not column exists fill with dash 
+				*/
+			} else {
+				Exception.Handle
+			}
+			
+	   end-foreach
+	   if (! semester)	; perform 6 & 7 else skip
+	6. constantValueIfPassedSupplimentary 50 else false
+	7. mergeGroupResultsWithSupplimentary($rawGroupResults, supplimentaryResults, constantValueIfPassedSupplimentary)
+			- gradedGroupResults = rawGroupResults->grade 
+			- if isnull(supplimentaryResults) return rawGroupResults
+			- supplimentaryGrade = supplimentaryResults->grade
+			- foreach student , find failed grade 
+					-- if failed.grade found for transactionId, find the same in supplimentary for that transactionId 
+					-- if found	, check grade of the supplimentary , if (failed OR ! modeConstantValueIfPassedSupplimentary) 
+							rawGroupResults(studentId, transactionId) = supplimentaryResults(studentId, transactionId)
+						else if not.failed 
+							rawGroupResults(studentId, transactionId) = constantValueIfPassedSupplimentary
+		return rawGroupResults
+		
+	8. gradedGroupResults = rawGroupResults->grade 
+	9. Save in the files as necessary
+			-
+	
+	Return groupResults
+	
+	
+	
+	//Filenames 
+	if semester 1 
+		-- resultsgroup_1.semester.1.csv 
+		-- resultsgroup_1.semester.1.csv.graded 
+	if not semester 
+		-- resultsgroup_1.csv 
+		-- resultsgroup_1.csv.graded

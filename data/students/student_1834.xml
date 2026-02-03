@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1834</studentId>
+  <studentName>BARIKIELI JOSEPH</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IMBORU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S 0368-0096</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S 0110-0579</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es Salaam</postalAddress>
+      <physicalAddress>Mwenge, Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIZABETH SAQWARE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>86 MBULU</postalAddress>
+      <physicalAddress>MANYARA, MBULU, DONGOBESH</physicalAddress>
+      <fax/>
+      <telephone>0784161845</telephone>
+      <mobile>0784161845</mobile>
+      <email>bjombay@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

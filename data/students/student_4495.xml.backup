@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4495</studentId>
+  <studentName>shuweikha salim mohamed</studentName>
+  <accademicHistory><institution><institutionName>AGA KHAN PRIMARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>1</levelId><indexNumber>E10601060.2001</indexNumber><award>CERTIFICATE</award><grade>c+</grade><startYear>1996</startYear><endYear>2001</endYear></institution><institution><institutionName>STAR OF THE SEA HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E106105020.2005</indexNumber><award>CERTIFICATE</award><grade>B PLAIN</grade><startYear>2002</startYear><endYear>2005</endYear></institution><institution><institutionName>LUGANSK STATE MEDICAL UNIVERSITY</institutionName><specialization>GENERAL MEDICINE</specialization><levelId>15</levelId><indexNumber>E024645.2013</indexNumber><award>DEGREE</award><grade>PASS</grade><startYear>2007</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH KENYA</employerName><postalAddress>P.O.BOX 1216 WUNDANYI</postalAddress><physicalAddress>P.O.BOX 1216 WINDANYI</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>AFRICA EDUCATION AND DEVELOPMENT FUNDS</sponsorName><payerId>9</payerId><postalAddress>P.O.BOX 51723-00100</postalAddress><physicalAddress>P.O.BOX 51723-00100</physicalAddress><fax/><telephone>+254721631178</telephone><mobile>+254721631178</mobile><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SHUWEIKHA SALIM MOHAMED</accountName><bankAccount>1157820239</bankAccount><bankName>KENYA COMMERCIAL BANK</bankName><branchName>MVITA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e9b3a9c352a94599ee7b338a0b2ab5d1</isaacompletechecksum></student>

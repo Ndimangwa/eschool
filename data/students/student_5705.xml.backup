@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5705</studentId>
+  <studentName>ALFA B GAZULU</studentName>
+  <accademicHistory><institution><institutionName>itamba secondary school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S0444.0050.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATIONS</award><grade>DIVISION 1 </grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION SYSTEAM OF LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>P O BOX 76068 DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email>info@heslb.go.tz</email><financedItem>tution fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ALFA BATHLUMEO GAZULU</accountName><bankAccount>0152327199700</bankAccount><bankName>CRDB BASNK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e8139e58890e73e96af5f72889d5b3a6</isaacompletechecksum></student>

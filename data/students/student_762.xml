@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>762</studentId>
+  <studentName>david sospeter mashala</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>mpuguso secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1576.0105.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ilboru high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110.0546.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education student loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669039</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>lilian shoo</kinName>
+      <relationship>married</relationship>
+      <postalAddress>po box 227</postalAddress>
+      <physicalAddress>po box 227</physicalAddress>
+      <fax/>
+      <telephone>0752546667</telephone>
+      <mobile>0752546667</mobile>
+      <email>david_mashala@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MASHALA, DAVID</accountName><bankAccount>0152327643800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1218fd84a0922e2363f09718485ec9ea</isaacompletechecksum></student>

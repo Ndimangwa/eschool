@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4623</studentId>
+  <studentName>Dr. Manjira</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>TU/KCMCO/MD.2009/TZ/0611</indexNumber><award>DOCTOR OF MEDICINE</award><grade>GRADE B</grade><startYear>2009</startYear><endYear>2014</endYear></institution><institution><institutionName>MOSHI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0134.0526.2009</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION II</grade><startYear>2007</startYear><endYear>2009</endYear></institution><institution><institutionName>TANZANIA ADVENTIST SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1198.0044.2006</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 2</grade><startYear>2003</startYear><endYear>2006</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>GSF</employerName><postalAddress>P.O.BOX 3010</postalAddress><physicalAddress>MOSHI </physicalAddress><fax/><telephone/><mobile/><email/><startYear>2015</startYear><endYear>2020</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>GSF</sponsorName><payerId>10</payerId><postalAddress>P.O.BOX 3010 MOSHI</postalAddress><physicalAddress>MOSHI </physicalAddress><fax/><telephone/><mobile/><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ERICK C MANJIRA</kinName><relationship>FATHER</relationship><postalAddress>MOSHI </postalAddress><physicalAddress>MOSHI </physicalAddress><fax/><telephone>0754316925</telephone><mobile>0754316925</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MANJIRA E E</accountName><bankAccount>40301601735</bankAccount><bankName>NMB</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4c8dcb0d7b4154c18b9b8242d317f2a8</isaacompletechecksum></student>

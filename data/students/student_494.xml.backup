@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>494</studentId>
+  <studentName>VIVIAN EMANUEL NGOMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ANWARITE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0269/0055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST MARY GORETH HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187/0681</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>EMANUEL JOEL NGOMA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>92 LANGASANI MOSHI</postalAddress>
+      <physicalAddress>92 LANGASANI MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0787515161</sponsorfax>
+      <mobile>0787515161</mobile>
+      <email>emmanuelngoma15@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EMANUEL JOEL NGOMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>92 LANGASANI MOSHI</postalAddress>
+      <physicalAddress>92 LANGASANI MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0787515161</telephone>
+      <mobile>0787515161</mobile>
+      <email>emmanuelngoma15@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

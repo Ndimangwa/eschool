@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2831</studentId>
+  <studentName>NASRA  DAUD  LOLO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MUDIO ISLAMIC SEMINARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0825.0015.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUDIO ISLAMIC HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0825.0502.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DAWAMI HASSAM KIMARO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>8384</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0652411184</telephone>
+      <mobile>0652411184</mobile>
+      <email>DAWAMIKIMARO98@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LOLO, NASRA DAUD</accountName><bankAccount>0152236749500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>989c24f055b16f1e899c0c52901f5498</isaacompletechecksum></student>

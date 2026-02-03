@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3127</studentId>
+  <studentName>SALVATORY ALOYCE SAMBOTI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LONGOI SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1041.0095.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUGOBA SECONDARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0549.0677.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board (HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+225222772432</sponsorfax>
+      <mobile>+225222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LUDOVIKI MASAWE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>3041</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0756554674</telephone>
+      <mobile>00255756554674</mobile>
+      <email>Eenock2006@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SALVATORY ALOYCE SAMBOTI</accountName><bankAccount>0152327716000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>73c69a74948c1d95b212ff5f4849a586</isaacompletechecksum></student>

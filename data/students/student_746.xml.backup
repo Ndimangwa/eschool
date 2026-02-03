@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>746</studentId>
+  <studentName>FRANCE F MKOMBO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.BENEDICT SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0768-0036</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>META SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0443-0515</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BO 76068 DSM</postalAddress>
+      <physicalAddress>P.O.BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NOTKERY MKOMBO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 48 SONGEA</postalAddress>
+      <physicalAddress>P.O.BOX 48 SONGEA</physicalAddress>
+      <fax/>
+      <telephone>0756874901</telephone>
+      <mobile>0756874901</mobile>
+      <email>maestrodefrancesc@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

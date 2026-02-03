@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5601</studentId>
+  <studentName>REBECA P.ERASMO</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>8</levelId><indexNumber>S0221.0691.2015</indexNumber><award>DISTINCTION</award><grade>A</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f38aa0f4e6f607b00d246cd6b8dbe504</isaacompletechecksum></student>

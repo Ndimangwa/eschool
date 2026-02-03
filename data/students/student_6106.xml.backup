@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6106</studentId>
+  <studentName>IRENE DANIEL JEREMIAH</studentName>
+  <accademicHistory><institution><institutionName>LEMARA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1485.0060.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>IRENE DANIEL JEREMIAH</accountName><bankAccount>0152327205000</bankAccount><bankName>CRDB BANK</bankName><branchName>KCMC BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8bb08d93348e4c662996a3a73d405df9</isaacompletechecksum></student>

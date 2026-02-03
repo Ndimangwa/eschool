@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3583</studentId>
+  <studentName>janeth simon samba</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>weruweru secondary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0221.0080.2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kondoa</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0229.0545.2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ministry of health</employerName>
+      <postalAddress>moh 1222</postalAddress>
+      <physicalAddress>moh111</physicalAddress>
+      <telephone>002552484844</telephone>
+      <email>moh@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>00222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Hubert Erasmus Mtalo</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>P.O.Box 904.Dodoma</postalAddress>
+      <physicalAddress>P.O.BOX 904,Dodoma</physicalAddress>
+      <fax/>
+      <telephone>+255762186476</telephone>
+      <mobile>+255762186476</mobile>
+      <email>mtalo81@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SIMONI, JANETH</accountName><bankAccount>40401603452</bankAccount><bankName>NMB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4e012d1140ae5d05df600e7e75c57941</isaacompletechecksum></student>

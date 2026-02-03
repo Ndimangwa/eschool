@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3887</studentId>
+  <studentName>mussa l meshack</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>sukuma secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s 2792-0061</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>njombe secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s 0143-0690</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>Dar-es-salaaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>meshack luyolela</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.BOX 27</postalAddress>
+      <physicalAddress>MAGU</physicalAddress>
+      <fax/>
+      <telephone>0762534166</telephone>
+      <mobile>+255762534166</mobile>
+      <email>mchele@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5253</studentId>
+  <studentName>CHARLES A NGOMUO</studentName>
+  <accademicHistory><institution><institutionName>IWAWA SECONDARY SCHOOL</institutionName><specialization>SCIENCE COMBINATION</specialization><levelId>4</levelId><indexNumber>S1157.0077.2013</indexNumber><award>CERTFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE POINT 16</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KARATU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0364.0559.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE POINT 8</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O. BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AMANI NGOMUO</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 6 MAKETE</postalAddress><physicalAddress>MAKETE</physicalAddress><fax/><telephone>+255786069258</telephone><mobile>+255786069258</mobile><email>Charlesngomuo@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>AMANI CHARLES NGOMUO</accountName><bankAccount>0152301946200</bankAccount><bankName>CRDB</bankName><branchName>KARATU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>01c26c47788aaded34aea9cf11048a16</isaacompletechecksum></student>

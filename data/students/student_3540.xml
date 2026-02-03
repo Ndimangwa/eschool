@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3540</studentId>
+  <studentName>ELIAS MWINGA KENENE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NJOMBE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0143-0091</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134/0531</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HKMU</institutionName>
+      <specialization>MEDICAL DOCTOR</specialization>
+      <levelId>15</levelId>
+      <indexNumber>NO.189</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MUHIMBILI NATIONAL HOSPITAL</employerName>
+      <postalAddress>BOX 65000 Dsm</postalAddress>
+      <physicalAddress>DAR es  salaam</physicalAddress>
+      <telephone>002221513679</telephone>
+      <email>ELiasmwinga@yahoo.co.uk</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GABRIEL M. KENENE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 236 UKEREWE</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <sponsorfax>0022862313</sponsorfax>
+      <mobile>0784557663</mobile>
+      <email>eliasmwinga@yahoo.co.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GABRIEL M KENENE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>BOX 236 UKEREWE</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>002221513679</telephone>
+      <mobile>0784557663</mobile>
+      <email>eliasmwinga@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1662</studentId>
+  <studentName>LYDIA NDOTI PHILIP</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MULALA GIRLS HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>324201/017</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MULALA GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>324201/017</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PAUL MOLLEL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1594 ARUSHA</postalAddress>
+      <physicalAddress>1594 ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0767381323</sponsorfax>
+      <mobile>0767381323</mobile>
+      <email>Pmary73@Rocketmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PAUL MOLLEL</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>1594 ARUSHA</postalAddress>
+      <physicalAddress>1594 ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0767381323</telephone>
+      <mobile>0767381323</mobile>
+      <email>Pmary73@Rocketmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2648</studentId>
+  <studentName>EUSEBIOUS WILLIAM MARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0485.0069</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MZUMBE HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0140.0536</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCM- COLLEGE</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0309</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GSF</employerName>
+      <postalAddress>P.O.BOX 3010</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <telephone>0255272754377</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GSF</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 3010</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>027255382357</sponsorfax>
+      <mobile>027255382357</mobile>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Angelika F. Masao</kinName>
+      <relationship>spouce</relationship>
+      <postalAddress>P.O.BoX 9742</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0767431212</telephone>
+      <mobile>0767431212</mobile>
+      <email>angymasao@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

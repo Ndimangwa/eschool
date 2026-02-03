@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5555</studentId>
+  <studentName>ANNA THEODORE MACHA</studentName>
+  <accademicHistory><institution><institutionName>ANWARITE GIRLS' SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0269.0008.2009</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2006</startYear><endYear>2009</endYear></institution><institution><institutionName>LUGALO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0325.0512.2012</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>KIBOSHO SCHOOL OF NURSING</institutionName><specialization>NURSING</specialization><levelId>12</levelId><indexNumber>0002778</indexNumber><award>DIPLOMA IN NURSING AND MIDWIFERY</award><grade>PASSED</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HELSB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ANNA THEODORE MACHA</accountName><bankAccount>0112072514400</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f3038985b3dfc7b12efd0bd5da419b83</isaacompletechecksum></student>

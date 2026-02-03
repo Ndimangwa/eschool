@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3357</studentId>
+  <studentName>JOYCE NDIPAPA MOLLEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAASAE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO2460008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HAYDOM</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>17609</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Laon Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222770028</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ONIKE J KIMIRI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>33</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0688511510</telephone>
+      <mobile>0688511510</mobile>
+      <email>Onike@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

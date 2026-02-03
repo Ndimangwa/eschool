@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5595</studentId>
+  <studentName>BRUNO ISACK BONIFACE</studentName>
+  <accademicHistory><institution><institutionName>ST FRANCIS DE SALES SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0180.0004.2013</indexNumber><award>certificate of secondary education</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>PIUS HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S1434.0617.2016</indexNumber><award>Advanced certificate of secondary education</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068 DAR ES SAALAM</postalAddress><physicalAddress>PO BOX 76068 DAR ES SAALAM</physicalAddress><fax>0222772432</fax><telephone>0222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>tuition fee</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ISACK BONIFACE KATAMITI</kinName><relationship>FATHER</relationship><postalAddress>PO BOX 102 SINGIDA</postalAddress><physicalAddress>PO BOX 102 SINGIDA</physicalAddress><fax/><telephone>0767253545</telephone><mobile>0767253545</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>BRUNO BONIFACE KATAMITI</accountName><bankAccount>0152368721400</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f0cfcaf6b7312c722764939f71dad21a</isaacompletechecksum></student>

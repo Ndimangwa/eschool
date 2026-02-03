@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3857</studentId>
+  <studentName>SHIGEMELO CHARLES SUGWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST MARYS HIGH SCHOOL MWANZA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4395/0104/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MINAKI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0133/0708/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CHARLES SUGWA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1689</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>+255769966222</telephone>
+      <mobile>+255769966222</mobile>
+      <email>shigemelo75@gmail.om</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

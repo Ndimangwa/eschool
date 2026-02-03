@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2127</studentId>
+  <studentName>HUSSEIN SAIDI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PUMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1026-0039</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KARATU SECONDARY SCHOOL</institutionName>
+      <specialization>CBA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0364-0618</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068 MWENGE</postalAddress>
+      <physicalAddress>+255222772432</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALLY SAIDI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>233 SINGIDA</postalAddress>
+      <physicalAddress>+255712870114</physicalAddress>
+      <fax/>
+      <telephone>+255712870114</telephone>
+      <mobile>+255712870114</mobile>
+      <email>mhusseinsaidi85@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

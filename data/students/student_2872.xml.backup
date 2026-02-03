@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2872</studentId>
+  <studentName>IRENE MUSHENDWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PAMBA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0546-0069</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WAJA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.5122-0514</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>MWENGE DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JEPHTER MUSHENDWA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>10137 MWANZA</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0783868045</telephone>
+      <mobile>0783868045</mobile>
+      <email>jephter.mushendwa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

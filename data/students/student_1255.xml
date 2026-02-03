@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1255</studentId>
+  <studentName>COSTANTINE MALITI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LEGAE ACADEMY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>E0211.1071.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LEGAE ACADEMY</institutionName>
+      <specialization>PCBM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>E0211.1242.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255762228167</mobile>
+      <email>info@heslb.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>TUMAINI PROSPER MALITI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>79143 Dar Es Salaam</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>00255762228167</telephone>
+      <mobile>00255762228167</mobile>
+      <email>malititumaini@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

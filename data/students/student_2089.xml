@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2089</studentId>
+  <studentName>DOMINIC B.NTIKAREJO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UJIJI SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO159/008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.AUGUSTINE UNIVERSITY</institutionName>
+      <specialization>DIPLOMA IN MEDICAL LABORATORY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SAUT/BUCHS/LAB/4494</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>District executive director</employerName>
+      <postalAddress>38 Kyaka</postalAddress>
+      <physicalAddress>Missenyi-Kagera</physicalAddress>
+      <telephone>0732983531</telephone>
+      <email>missenyi@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Levitas L.Rwazo</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>38 Kyaka</postalAddress>
+      <physicalAddress>missenyi-Kagera</physicalAddress>
+      <fax/>
+      <telephone>0759571405</telephone>
+      <mobile>0784835698</mobile>
+      <email>rwazolevitas@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

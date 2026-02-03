@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4009</studentId>
+  <studentName>YASIN OMARY SIMBANO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ARUSHA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0302/0423/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LYAMUNGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125/0931</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,DARESSALAAM,</postalAddress>
+      <physicalAddress>76068 DAR ES SALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heselb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>OMARY SIMBANO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>5015TANGA</postalAddress>
+      <physicalAddress>5015 tanga</physicalAddress>
+      <fax/>
+      <telephone>0716445614</telephone>
+      <mobile>0716445614</mobile>
+      <email>yacn27@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

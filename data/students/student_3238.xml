@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3238</studentId>
+  <studentName>Modester Achieng' Katete</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kowak Girls' Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0241.0055.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Machame Girls'Secondary School</institutionName>
+      <specialization>CBN</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0212.0637.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIgher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Mwenge Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>002552222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Ezra O. Katete</kinName>
+      <relationship>Uncle</relationship>
+      <postalAddress>6005 Tanga</postalAddress>
+      <physicalAddress>Tanga</physicalAddress>
+      <fax/>
+      <telephone>0786171747</telephone>
+      <mobile>0786171747</mobile>
+      <email>ezrakatete@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KATETE, MODESTER ACHIENG'</accountName><bankAccount>0152327965100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>aee3506981b01c4ff471daa0ce483ee9</isaacompletechecksum></student>

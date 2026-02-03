@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3130</studentId>
+  <studentName>HALIMA D MGAYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KONGEI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0862.0023.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. MARY'S MAZINDE JUU HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233.0554.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DEASON MGAYA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 256</postalAddress>
+      <physicalAddress>LUSHOTO</physicalAddress>
+      <fax/>
+      <telephone>0658491151</telephone>
+      <mobile>0658491151</mobile>
+      <email>halsdeason4@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MGAYA, HALIMA D</accountName><bankAccount>0152266894800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>46f83d05a30be13a6bff6800949472df</isaacompletechecksum></student>

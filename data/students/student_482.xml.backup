@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>482</studentId>
+  <studentName>PASCHAL MANGU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SENGEREMA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0185/0026</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SALESIAN SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0175/0546</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>DAR ES LAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LAURENCIA  WILLIAM</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>BOX 47 BUHANGIJA</postalAddress>
+      <physicalAddress>SHINYANGA</physicalAddress>
+      <fax/>
+      <telephone>+255784796735</telephone>
+      <mobile>0784796735</mobile>
+      <email>mangupaschal@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

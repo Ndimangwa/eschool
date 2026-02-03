@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5889</studentId>
+  <studentName>BENARD M YOTHAM</studentName>
+  <accademicHistory><institution><institutionName>KATUMBA SECONDARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0735.0061.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>NKASI HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0610.0571.2016</indexNumber><award>CERTIFICATE OF ADVANCED EDUCATION</award><grade>DIVISION ONE POINT EIGHT</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM </postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUTION FEEs</financedItem><extraInformation>dar es salaam</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>BENARD M YOTHAM</accountName><bankAccount>0152327148400</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e3d17aa91088c722524f4be388102527</isaacompletechecksum></student>

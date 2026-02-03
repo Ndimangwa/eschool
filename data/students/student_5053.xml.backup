@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5053</studentId>
+  <studentName>DANFORD DOUGLAS SULEIMAN</studentName>
+  <accademicHistory><institution><institutionName>TUSIIME SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2499.0082.2013</indexNumber><award>NONE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIAN BOYS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S4213.0552.2016</indexNumber><award>NONE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.Box 76068</postalAddress><physicalAddress>P.O.Box 76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HILDA FAUSTINE HUNGU</kinName><relationship>MOTHER</relationship><postalAddress>P.O.Box 4432 DAR ES SALAAM</postalAddress><physicalAddress>P.O.Box 732 MOSHI, KILIMANJARO</physicalAddress><fax></fax><telephone>+255713371366</telephone><mobile></mobile><email>hunguhilda@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>TEMBO CARD</accountName><bankAccount>0152327125700</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4290cc96e54b02368ad514890d16dd92</isaacompletechecksum></student>

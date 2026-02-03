@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3669</studentId>
+  <studentName>REMIGIUS R SHIRIMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>URU SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0165.0037.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485.0665.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222669036</sponsorfax>
+      <mobile>0222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ROGASIAN L SHIRIMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>72696</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0754318968</telephone>
+      <mobile>0754318968</mobile>
+      <email>rogasianshirima44@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SHIRIMA, REMIGIUS ROGASIAN</accountName><bankAccount>0152274275700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>893a63609cab9fea481abc6303fc5fc2</isaacompletechecksum></student>

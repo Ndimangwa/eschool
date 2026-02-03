@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>952</studentId>
+  <studentName>AKILI KASSINGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IYUNGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0112-010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DAR ES SALAAM TECHNICAL COLLEGE</institutionName>
+      <specialization>PHYSICS,CHEMISTRY,BIOLOGY,MATHEMATICS, LABORATORY TECHNOLOGY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>UO01-0708</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF DAR ES SALAAM</institutionName>
+      <specialization>BIOLOGY, CHEMISTRY, EDUCATION</specialization>
+      <levelId>15</levelId>
+      <indexNumber>18053/T.95</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHIMBILI UNIVERSITY OF HEALTH AND ALLIED S</institutionName>
+      <specialization>MPHH</specialization>
+      <levelId>17</levelId>
+      <indexNumber>HD/MUH/T.47/2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>NIMR</employerName>
+      <postalAddress>BOX 9356, DAR</postalAddress>
+      <physicalAddress>Baraka Obama Rd DSM</physicalAddress>
+      <telephone>00255222121400</telephone>
+      <email>nimr@nimr.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>TANZANIA COMISSION FOR SCIENCE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 4302</postalAddress>
+      <physicalAddress>KIJITONYAMA, DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222927538</sponsorfax>
+      <mobile>00255222927538</mobile>
+      <email>info@costech.or.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ROSE BOSCO KALINGA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>Box 538 Tukuyu</postalAddress>
+      <physicalAddress>MAKANDANA, TUKUYU</physicalAddress>
+      <fax/>
+      <telephone>00255252552214</telephone>
+      <mobile>00255757487348</mobile>
+      <email>roseakilikalinga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

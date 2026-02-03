@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>24</studentId>
+  <studentName>Cecilia S Anthony</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Buswelu Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0564/OO23</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilakala Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206/0511</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Student Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>Sam Nujoma Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Marietha J Isomanga</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O BOX 1370</postalAddress>
+      <physicalAddress>Mwanza</physicalAddress>
+      <fax/>
+      <telephone>+255764340965</telephone>
+      <mobile>+255764340965</mobile>
+      <email>anthoballa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

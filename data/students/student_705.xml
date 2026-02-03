@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>705</studentId>
+  <studentName>SHANGWE  MAHENA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ITUNGE  SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3173.0044.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IRINGA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0203.0576.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>lusekelo mahena</kinName>
+      <relationship>father</relationship>
+      <postalAddress>421-tukuyu-mbeya</postalAddress>
+      <physicalAddress>mbeya</physicalAddress>
+      <fax/>
+      <telephone>0762652535</telephone>
+      <mobile>0255762652535</mobile>
+      <email>shangwemahena@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MAHENA, SHANGWE</accountName><bankAccount>0152422000100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>27a2a2231b87489a8e8f12154c6784ce</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3097</studentId>
+  <studentName>KISOKU ADAMU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CHAMRIHO</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1452/0049</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LYAMUNGO</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0125/0906</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+225222772432</sponsorfax>
+      <mobile>+225222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AGNES ABISAI</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>P.O.BOX 192</postalAddress>
+      <physicalAddress>MUGUMU</physicalAddress>
+      <fax/>
+      <telephone>0766506951</telephone>
+      <mobile>0766506951</mobile>
+      <email>agnesabisai@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

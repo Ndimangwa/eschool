@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3801</studentId>
+  <studentName>EMMANUEL NDILE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0158.0030.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158.0730.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT'S LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar-es-salaam</postalAddress>
+      <physicalAddress>76068 dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DAINA KABUJE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>41, TUNDUMA</postalAddress>
+      <physicalAddress>41,TUNDUMA</physicalAddress>
+      <fax/>
+      <telephone>0718677026</telephone>
+      <mobile>0764066141</mobile>
+      <email>emmanuelndile@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NDILE, EMMANUEL</accountName><bankAccount>0152300322400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6717660a249617776da336774b493349</isaacompletechecksum></student>

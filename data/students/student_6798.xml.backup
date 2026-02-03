@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6798</studentId>
+  <studentName>ELIUD FESTO</studentName>
+  <accademicHistory><institution><institutionName>MOSHI TECHNICAL SECONDARY SCHOOL</institutionName><specialization>CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0135.0056.2008</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2004</startYear><endYear>2008</endYear></institution><institution><institutionName>MOSHI SECONDARY SCHOOL</institutionName><specialization>ADVANCED LEVEL</specialization><levelId>8</levelId><indexNumber>S0134.0526.2011</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2009</startYear><endYear>2011</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DIPLOMA IN HEALTH LABORATORY SCIENCS</specialization><levelId>12</levelId><indexNumber>TUMA/KCMUco/DHLSc./2011/2013/TZ/0168</indexNumber><award>DIPLOMA IN HEALTH LABORATORY SCIENCES</award><grade>GRADE B</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>GOOD SAMARITAN FOUNDATION</employerName><postalAddress>P.O BOx 3010</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>PRIVATE</sponsorName><payerId>1</payerId><postalAddress>P.O BOx 3010</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ELIUD FESTO SHIJA</accountName><bankAccount>0152327785800</bankAccount><bankName>CRDB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>051f29137b2a46aff360edfa5abf98a5</isaacompletechecksum></student>

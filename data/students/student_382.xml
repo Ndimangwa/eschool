@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>382</studentId>
+  <studentName>henry paul</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IGUNGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0713-0031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NKINGA NURSING TRAINING CENTER </institutionName>
+      <specialization>28245</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA IN NURSING</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>kilosa district hospital</employerName>
+      <postalAddress>box 65 kilosa</postalAddress>
+      <physicalAddress>box 65 kilosa</physicalAddress>
+      <telephone>0712847865</telephone>
+      <email>kdcded@yahoo.co.uk</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box.76068 dar es salaam</postalAddress>
+      <physicalAddress>box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>david paul mnangala</kinName>
+      <relationship>farther</relationship>
+      <postalAddress>box 265 urambo</postalAddress>
+      <physicalAddress>box 265 urambo</physicalAddress>
+      <fax/>
+      <telephone>0784766992</telephone>
+      <mobile>0784766992</mobile>
+      <email>henry.paul55@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

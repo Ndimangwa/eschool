@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>703</studentId>
+  <studentName>RHODA LAWRANCE MOLLEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NKOANRUA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1265/0079</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MASWA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0227/0619</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068 DSM</postalAddress>
+      <physicalAddress>Box 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LAWRANCE MOLLEL</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>Box 1286 Arusha</postalAddress>
+      <physicalAddress>Box 1286 Arusha</physicalAddress>
+      <fax/>
+      <telephone>+255762820053</telephone>
+      <mobile>+255762820053</mobile>
+      <email>rhodalawrance@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

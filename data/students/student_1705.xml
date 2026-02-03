@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1705</studentId>
+  <studentName>FRED FRANCIS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILOSA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0367-0072</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MWENGE SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0334-0598</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Tirdo complex</postalAddress>
+      <physicalAddress>min length=3,max length=25</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255686067436</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRANCIS NGILIULE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>449 KONDOA</postalAddress>
+      <physicalAddress>KONDOA</physicalAddress>
+      <fax/>
+      <telephone>002225282622176</telephone>
+      <mobile>0686067436</mobile>
+      <email>fngiliule@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

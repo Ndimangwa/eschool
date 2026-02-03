@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>790</studentId>
+  <studentName>saada muhammed juma</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>S.O.S Hermann Gmeiner</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0995.0030.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>S.O.S Hermann Gmeiner</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0995.0520.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068,DSM</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772657</sponsorfax>
+      <mobile>+255222772657</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Muhammed Juma Mugheiry</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>4259 Zanzibar</postalAddress>
+      <physicalAddress>Mkunazini Zanzibar</physicalAddress>
+      <fax/>
+      <telephone>024422660844</telephone>
+      <mobile>+255777412387</mobile>
+      <email>mujum@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JUMA, SAADA MUHAMMED</accountName><bankAccount>0152418158400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>78258e34b3460d32b339387453dc9efc</isaacompletechecksum></student>

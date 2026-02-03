@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3795</studentId>
+  <studentName>TARAI SEBASTIAN TARAI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>mkonze</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s2893/0091/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>biHAWANA</institutionName>
+      <specialization>cbg</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0103/0797/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heSLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>P.O.BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>0222120261</sponsorfax>
+      <mobile>0222120261</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>sebastian tarai</kinName>
+      <relationship>father</relationship>
+      <postalAddress>p.o.box 5050</postalAddress>
+      <physicalAddress>P.O. BOX 5050</physicalAddress>
+      <fax/>
+      <telephone>0754014453</telephone>
+      <mobile>0754014453</mobile>
+      <email>godfreysebastian80@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

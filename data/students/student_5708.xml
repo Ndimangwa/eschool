@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5708</studentId>
+  <studentName>Dorcas T Christopher</studentName>
+  <accademicHistory><institution><institutionName>CHIEF WANZAGI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4063.0003.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1 POINT12</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0206.0526.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 2 POINT 10</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f1b2daad9cd60c93b397b9b7509a242e</isaacompletechecksum></student>

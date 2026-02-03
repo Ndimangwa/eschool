@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2193</studentId>
+  <studentName>JOYCE N.ULOMI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ASHIRA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.201/26</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHIMBILI SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>00008600</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH</employerName>
+      <postalAddress>9083 DAR ES SALAAM</postalAddress>
+      <physicalAddress>MIRAMBO STREET, DARES SALAAM</physicalAddress>
+      <telephone>00225222120261</telephone>
+      <email>Info@moh.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DSM</postalAddress>
+      <physicalAddress>MSASANI DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HUMPHREY N.ULOMI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>689 MOSHI</postalAddress>
+      <physicalAddress>MASAMA LEMIRA</physicalAddress>
+      <fax/>
+      <telephone>00255655659265</telephone>
+      <mobile>00255655659265</mobile>
+      <email>joyulomi@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

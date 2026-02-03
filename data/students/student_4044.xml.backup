@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4044</studentId>
+  <studentName>NG'UMBE LUBABA MTEMBA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PHILIP MANGULA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1674.0164.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NJOMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0143.0645.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SAALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SALMA MTEMBA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>PO.BOX 11, MBINGA</postalAddress>
+      <physicalAddress>RUVUMA</physicalAddress>
+      <fax/>
+      <telephone>0715252512</telephone>
+      <mobile>0715252512</mobile>
+      <email>79Lubaba@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

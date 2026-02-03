@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5609</studentId>
+  <studentName>ELIONORA THOMASS TEMBA</studentName>
+  <accademicHistory><institution><institutionName>MAWENZI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0328.0029.2013</indexNumber><award>CSE</award><grade>DIVISION 3</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0209.0813.2016</indexNumber><award>ACSEE</award><grade>DIVISION 4</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>PARENTS</sponsorName><payerId>3</payerId><postalAddress>P.O.Box 3041 MOSHI</postalAddress><physicalAddress>P.O.Box 3041 MOSHI, KILIMANJARO</physicalAddress><fax/><telephone>0754058328</telephone><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>THOMASS TEMBA</kinName><relationship>PARENT</relationship><postalAddress>P.O.Box 3041 MOSHI</postalAddress><physicalAddress>P.O.Box 3041 MOSHI, KILIMANJARO</physicalAddress><fax/><telephone>0754058328</telephone><mobile/><email/><extraInformation/></nextOfKin><nextOfKin><kinName>MARY THOMASS</kinName><relationship>SISTER</relationship><postalAddress>P.O.BOX 3041 MOSHI</postalAddress><physicalAddress>P.O.BOX 3041 MOSHI</physicalAddress><fax/><telephone>0719193403</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NIL</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5fb441ae5c89f2f46a3f4e2c3a9e857a</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2587</studentId>
+  <studentName>MAGRETH J ALEGO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAWENZI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0328/0092</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DR OLSEN</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0947/0520</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>CECILIA JAOKO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 257</postalAddress>
+      <physicalAddress>MBAUDA ARUSHA TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255755485837</sponsorfax>
+      <mobile>00255755485837</mobile>
+      <email>ceceliajaoko@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JACOB ALEGO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 693</postalAddress>
+      <physicalAddress>PASUA MOSHI TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>+255764301819</telephone>
+      <mobile>00255764301819</mobile>
+      <email>jacobnicholas@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

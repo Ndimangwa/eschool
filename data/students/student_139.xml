@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>139</studentId>
+  <studentName>EMMANUEL D MASANJA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IGALUKILO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2117/0044</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147/0725</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>+2552227724433</physicalAddress>
+      <fax/>
+      <sponsorfax>+2552227724432</sponsorfax>
+      <mobile>+2552227724433</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DAVID MASANJA </kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 330 MAGU</postalAddress>
+      <physicalAddress>+255685414090</physicalAddress>
+      <fax/>
+      <telephone>+255685414090</telephone>
+      <mobile>+255685414090</mobile>
+      <email>emmasanja77@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

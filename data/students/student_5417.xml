@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5417</studentId>
+  <studentName>ISACK FRANCIS MOMBURY</studentName>
+  <accademicHistory><institution><institutionName>KIRUA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0372.0081.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATIONE</award><grade>DIVISION II</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ANICIA </sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 1225 MOSHI</postalAddress><physicalAddress>MOSHI URU</physicalAddress><fax/><telephone/><mobile>0712721210</mobile><email/><financedItem>FEES AND ALL ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LILIAN FRANCIS MOMBURY</kinName><relationship>SISTER</relationship><postalAddress>P.O.BOX 14 MOROGORO</postalAddress><physicalAddress>MOROGORO</physicalAddress><fax></fax><telephone>0715342087</telephone><mobile>0715342087</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ISACK MOMBURY</accountName><bankAccount>516239210080409</bankAccount><bankName>NMB</bankName><branchName>BAGAMOYO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fbb1553692c0af1053f3dbc39ae5b768</isaacompletechecksum></student>

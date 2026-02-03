@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2037</studentId>
+  <studentName>ANIU ROBERT</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AZANIA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0101/0067</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BENJAMIN W MKAPA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0960/0572</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAEESALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MLENGE ROBERT</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>5441</postalAddress>
+      <physicalAddress>TABATA,ILALA DAREESALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255716202164</telephone>
+      <mobile>0719002454</mobile>
+      <email>mlengea@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

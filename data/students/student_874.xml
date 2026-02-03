@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>874</studentId>
+  <studentName>Vicent W. Dule</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Bihawana secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0103-0099</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tosamaganga High school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158-0854</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>FATHER ANTONIUS</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX  207 SINGIDA</postalAddress>
+      <physicalAddress>Puma mission, Singida</physicalAddress>
+      <fax/>
+      <sponsorfax>0767420788</sponsorfax>
+      <mobile>0767420788</mobile>
+      <email>vdulle@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MICHAEL WILFRED DULE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O BOX 300 SINGIDA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0752487974</telephone>
+      <mobile>0752487974</mobile>
+      <email>vdulle@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

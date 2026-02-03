@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7644</studentId>
+  <studentName>CATHERINE T TARIMO</studentName>
+  <accademicHistory><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0485.0028.2014</indexNumber><award>CREDIT</award><grade>1.9</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MARGRETH CHAMI</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 1091</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax/><telephone>0752307749</telephone><mobile>0752307749</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MARGRETH CHAMI</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 1091</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax/><telephone>0752307749</telephone><mobile>0752307749</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>OOOOOOOOO</accountName><bankAccount>000000000000</bankAccount><bankName>OOOOOOOOOO</bankName><branchName>OOOOOOOOOO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>134883083134595727dc23354d1fef7e</isaacompletechecksum></student>

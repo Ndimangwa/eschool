@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2442</studentId>
+  <studentName>PETRO T.BENDERA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKUMIRA.SEC.SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0329/0157</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LWANDAI.SEC.SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0584/0587</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>tamilwa yesaya bendera</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3101 duluti/arusha</postalAddress>
+      <physicalAddress>olasiti/arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754998422</sponsorfax>
+      <mobile>0754998422</mobile>
+      <email>tamilwaibendera@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YESAYA TAMILWAI BENDERA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>3101 duluti/arusha</postalAddress>
+      <physicalAddress>monduli/arusha</physicalAddress>
+      <fax/>
+      <telephone>+255756896789</telephone>
+      <mobile>0756896789</mobile>
+      <email>yesayabendera@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

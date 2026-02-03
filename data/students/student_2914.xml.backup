@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2914</studentId>
+  <studentName>KENAN BOSCO NYALILE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NRONGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0479/0034/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TANGA TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0156/0550/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Levina kauki</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>5078</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <telephone>+255786067033</telephone>
+      <mobile>+255786067033</mobile>
+      <email>Kenanbosco@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

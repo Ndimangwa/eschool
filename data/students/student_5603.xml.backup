@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5603</studentId>
+  <studentName>Dorcas T Christopher</studentName>
+  <accademicHistory><institution><institutionName>CHIEF WANZAGI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4063.0003.2013</indexNumber><award> CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1 POINT12</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0206.0526.2016</indexNumber><award>ACSEE</award><grade>DIVISION 2 POINT 10</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz </email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHRISTOPHER PIUS</kinName><relationship>PARENT</relationship><postalAddress>P.O BOX 432</postalAddress><physicalAddress>BUNDA</physicalAddress><fax/><telephone>0784312178</telephone><mobile>0784312178</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DORCAS T. CHRISTOPHER</accountName><bankAccount>0152201535000</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>010811554eae1a447415b443f577cae0</isaacompletechecksum></student>

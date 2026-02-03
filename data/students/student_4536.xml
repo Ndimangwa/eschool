@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4536</studentId>
+  <studentName>HELVI NDESHIHALA JOEL</studentName>
+  <accademicHistory><institution><institutionName>OKAHANDJA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E0015201816</indexNumber><award>IGCSE</award><grade>PASS</grade><startYear>2004</startYear><endYear>2005</endYear></institution><institution><institutionName>RYAZAN STATE I.P PAVLOV MEDICAL UNIVERSITY</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>E39221</indexNumber><award>MEDICAL DEGREE</award><grade>PASS</grade><startYear>2006</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH AND SOCIAL SERVICES</employerName><postalAddress>PRIVATE BAG 13198, WINDHOEK, NAMIBIA</postalAddress><physicalAddress>HARVEY STREET, WINDHOEK WEST</physicalAddress><fax>0026461272286</fax><telephone>+264612032531</telephone><mobile>+264814112997</mobile><email>ekambaru@hotmail.com</email><startYear>2012</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH OF NAMIBIA</sponsorName><payerId>10</payerId><postalAddress>PRIVATE BAG 13198, WINDHOEK, NAMIBIA</postalAddress><physicalAddress>HARVEY STREET, WINDHOEK WEST</physicalAddress><fax>0026461272286</fax><telephone>+264612032531</telephone><mobile>+264814112997</mobile><email>ekambaru@hotmail.com</email><financedItem>SCHOLARSHIP</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MS. LEMPIE N JOEL</kinName><relationship>SISTER</relationship><postalAddress>P O BOX 1766, SWAKOPMUND, NAMIBIA</postalAddress><physicalAddress>EUREK COURT, ACACIA STREET, OCEAN VIEW SWAKOPMUND</physicalAddress><fax>00264645202625</fax><telephone>+264811490471</telephone><mobile>+264812262550</mobile><email>lempie82@yahoo.com</email><extraInformation>turkiellis@gmail.com</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DR. HELVI N JOEL</accountName><bankAccount>62118998270</bankAccount><bankName>FIRST NATIONAL BANK</bankName><branchName>EXCLUSIVE BANKING SUIT</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>21336654c05f5b2d1864de521ef324b7</isaacompletechecksum></student>

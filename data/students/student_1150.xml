@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1150</studentId>
+  <studentName>ANETH AMBILIKILE MWAIGEMBE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MBEYA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0330/0013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211/0510</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED KAHAMA TOWN COUNCIL</employerName>
+      <postalAddress>BOX 50, KAHAMA</postalAddress>
+      <physicalAddress>KAHAMA TOWN</physicalAddress>
+      <telephone>0025576710642</telephone>
+      <email>kahamatowncouncil@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>02227724373</sponsorfax>
+      <mobile>02227724373</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>bignon zacharia</kinName>
+      <relationship>husband</relationship>
+      <postalAddress>box 2240 , Moshi</postalAddress>
+      <physicalAddress>kahama TOWN</physicalAddress>
+      <fax/>
+      <telephone>00255764530282</telephone>
+      <mobile>00255764530282</mobile>
+      <email>bignonzach1980@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

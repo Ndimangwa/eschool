@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1502</studentId>
+  <studentName>FLORA MNGONGO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ISMANI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0840/0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SONGEA GIRLS</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0219/0780</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO.BOX.514</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FANLECK MWILAFI</kinName>
+      <relationship>FRIEND</relationship>
+      <postalAddress>PO.BOX.514</postalAddress>
+      <physicalAddress>IRINGA</physicalAddress>
+      <fax/>
+      <telephone>0764465607</telephone>
+      <mobile>0764465607</mobile>
+      <email>fanleckmwilafi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

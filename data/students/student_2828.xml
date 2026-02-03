@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2828</studentId>
+  <studentName>ESHTER A MSHANA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILOMENI SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0491.0015.2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILOMENI SEC SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HURUMA SCHOOL OF NURSING</institutionName>
+      <specialization>NURSE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>507/2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Kcmc</employerName>
+      <postalAddress>POBOX 3010</postalAddress>
+      <physicalAddress>MOSHI TANZANIA</physicalAddress>
+      <telephone>+255272754377</telephone>
+      <email>Kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>hESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX76068</postalAddress>
+      <physicalAddress>Dar es saalaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>emailinfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Adinani</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO.BOX 1330</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0753038018</telephone>
+      <mobile>0753038018</mobile>
+      <email>ngemaessy@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MSHANA, ESTHER A</accountName><bankAccount>0152264365700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>927b389ef20158e7159c7d4a259110d7</isaacompletechecksum></student>

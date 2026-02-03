@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3201</studentId>
+  <studentName>YUSTO BISWAMO LAURENT</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MATYAZO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>No.S0894-0052</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KABANGA SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>No.24016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED IGUNGA</employerName>
+      <postalAddress>PO BOX 19</postalAddress>
+      <physicalAddress>IGUNGA-TABORA</physicalAddress>
+      <telephone>0785691294</telephone>
+      <email>yustobiswamo32@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>MWENGE DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LAURENT B.BISWAMO</kinName>
+      <relationship>MY FATHER</relationship>
+      <postalAddress>PO BOX 1400</postalAddress>
+      <physicalAddress>KIGOMA</physicalAddress>
+      <fax/>
+      <telephone>0754918722</telephone>
+      <mobile>0754918722</mobile>
+      <email>biwamolaurent@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

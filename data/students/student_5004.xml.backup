@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5004</studentId>
+  <studentName>RESTITUTA SIRIL MWORIA</studentName>
+  <accademicHistory><institution><institutionName>VISITATION GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0263.0064.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0248.0581.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>0755432087</mobile><email>info@heslb.go.tz</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>RESTITUTA SIRIL MWORIA</accountName><bankAccount>0152434992300</bankAccount><bankName>CRDB</bankName><branchName>BAGAMOYO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6fa35ab6b284a3550449c33a9f349e5b</isaacompletechecksum></student>

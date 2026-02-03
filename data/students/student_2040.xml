@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2040</studentId>
+  <studentName>FREDRICK CM NDESI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKOKO SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0127/0025</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CONSOLATA SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO174/0511</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRANK MAGOTI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>259 musoma</postalAddress>
+      <physicalAddress>makoko musoma</physicalAddress>
+      <fax/>
+      <telephone>00255756927291</telephone>
+      <mobile>00255653585159</mobile>
+      <email>mjchalz@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

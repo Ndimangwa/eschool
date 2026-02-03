@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6551</studentId>
+  <studentName>FADHILI NUHU NYALUSI</studentName>
+  <accademicHistory><institution><institutionName>MAGUVANI  SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1691.0104.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR-ES-SALAAM</postalAddress><physicalAddress>SAM NUJOMA </physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>0755305296</mobile><email>info@heslb.go.tz</email><financedItem>tution fee</financedItem><extraInformation>dar es salaam</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>472768689bf5a452d0360f1cb6964939</isaacompletechecksum></student>

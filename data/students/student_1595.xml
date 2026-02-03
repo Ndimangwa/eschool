@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1595</studentId>
+  <studentName>Imran Hussein Versi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Al Muntazir Islamic Seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0029313124</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Al Muntazir Islamic Seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0033990588</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Hussain Versi</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1787</postalAddress>
+      <physicalAddress>Morogoro Road, Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255713315542</sponsorfax>
+      <mobile>0713315542</mobile>
+      <email>hussainversi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Hussein Versi</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>1787</postalAddress>
+      <physicalAddress>Morogoro road, Dar es Salaam</physicalAddress>
+      <fax/>
+      <telephone>00255713315542</telephone>
+      <mobile>0713315542</mobile>
+      <email>hussainversi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

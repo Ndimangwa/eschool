@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5781</studentId>
+  <studentName>SHALLODY AMANI SALALI</studentName>
+  <accademicHistory><institution><institutionName>HURUMA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0256.0040.2013</indexNumber><award>CSE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0206.0633.2016</indexNumber><award>ACSE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>bbf63a13ccce50b3e14614d37a636e86</isaacompletechecksum></student>

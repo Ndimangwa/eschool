@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3763</studentId>
+  <studentName>KUMBUKILA NASSORO MATUMLA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SUA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2858/0067/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ALFAGEMS</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S3914/0635/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NASSORO MATUMLA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>251</postalAddress>
+      <physicalAddress>KIDATU</physicalAddress>
+      <fax/>
+      <telephone>0656869664</telephone>
+      <mobile>+255656869664</mobile>
+      <email>matumla@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

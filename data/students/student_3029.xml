@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3029</studentId>
+  <studentName>NDINISYU MWAKASAGULE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MANOW LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0178-0037</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOYOLA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0800-0633</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>DEGREE OF DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/MD/0251</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS - GEITA</employerName>
+      <postalAddress>P. O. Box 315</postalAddress>
+      <physicalAddress>GEITA</physicalAddress>
+      <telephone>0028250025</telephone>
+      <email>rasgeita@pmoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH AND SOCIAL WELFARE-TANZANIA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 9083</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0021202617</sponsorfax>
+      <mobile>+255768037157</mobile>
+      <email>ndinisyu@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DENIS DANIEL</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P. O. Box 170</postalAddress>
+      <physicalAddress>MBEYA</physicalAddress>
+      <fax/>
+      <telephone>+255755079498</telephone>
+      <mobile>+255787576771</mobile>
+      <email>denis@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

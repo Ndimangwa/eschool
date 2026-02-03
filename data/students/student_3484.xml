@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3484</studentId>
+  <studentName>AAMINA FARAH BARRE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AHMED GURIE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>25631</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AHMED GURIE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>25631</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SRCS {Somali red crescent society</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po BOX 2240</postalAddress>
+      <physicalAddress>somalia</physicalAddress>
+      <fax/>
+      <sponsorfax>00252615189091</sponsorfax>
+      <mobile>00252615189091</mobile>
+      <email>haliimoluul@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>faaduma</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>po BOX 2240</postalAddress>
+      <physicalAddress>somalia</physicalAddress>
+      <fax/>
+      <telephone>00252617221910</telephone>
+      <mobile>00252617221910</mobile>
+      <email>aaminoanfac4@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3135</studentId>
+  <studentName>SALMA HASSAN SHEGWANDO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. MARY'S MAZINDE JUU</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0233/0076</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY'S MAZINDE JUU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233/0606</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068  Dar es Salaam</postalAddress>
+      <physicalAddress>76068 Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ZUBEDA ELINIDE MADIWA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>35059 Dar es Salaam</postalAddress>
+      <physicalAddress>KIMARA</physicalAddress>
+      <fax/>
+      <telephone>0025527275634</telephone>
+      <mobile>0755861518</mobile>
+      <email>Salmahassan819@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

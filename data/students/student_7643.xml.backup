@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7643</studentId>
+  <studentName>Magdalena Francis dennis</studentName>
+  <accademicHistory><institution><institutionName>St Marys Mazinde Juu Secondary School</institutionName><specialization>Science and Arts subjects</specialization><levelId>4</levelId><indexNumber>S0233.0021.2002</indexNumber><award>CERTIFICATE</award><grade>DIVISION ONE</grade><startYear>1999</startYear><endYear>2002</endYear></institution><institution><institutionName>KIFUNGILO SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0224.0517.2005</indexNumber><award>CERTIFICATE</award><grade>DIVISION ONE</grade><startYear>2003</startYear><endYear>2005</endYear></institution><institution><institutionName>BUGANDO UNIVERSITY</institutionName><specialization>MEDICINE</specialization><levelId>15</levelId><indexNumber>SAUT/BUCHS/MD/2797/T/06</indexNumber><award>DEGREE</award><grade>PASS</grade><startYear>2006</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>Muhimbili National Hospital</employerName><postalAddress>P.o.box 65000</postalAddress><physicalAddress>Dar es Salaam</physicalAddress><fax>+255222150534</fax><telephone>+2552221513699</telephone><mobile>+2552221513699</mobile><email/><startYear>2014</startYear><endYear>2043</endYear><extraInformation>Permanent and pensionable employment</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>Muhimbili National Hospital</sponsorName><payerId>10</payerId><postalAddress>P.o.box 65000</postalAddress><physicalAddress>Dar es Salaam</physicalAddress><fax>+255222150534</fax><telephone>+2552221513679</telephone><mobile>+2552221513679</mobile><email/><financedItem>School fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>Dennis Francis D'caz</kinName><relationship>Father</relationship><postalAddress>P.o.box 152</postalAddress><physicalAddress>Lushoto-Tanga</physicalAddress><fax/><telephone>+255715427416</telephone><mobile>+255715427416</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Magdalena francis Dennis</accountName><bankAccount>0112054612800</bankAccount><bankName>CRDB BANK</bankName><branchName>Bugando Branch</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f2a25d6a6bc598b84fd0f8d61c6df86d</isaacompletechecksum></student>

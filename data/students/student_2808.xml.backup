@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2808</studentId>
+  <studentName>SARAH R  LYIMO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>siha  secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0343-0009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Huruma  school of nursing</institutionName>
+      <specialization>Nursing</specialization>
+      <levelId>8</levelId>
+      <indexNumber>NO.27656</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Sarah  raymondi lyimo</employerName>
+      <postalAddress>po box 225</postalAddress>
+      <physicalAddress>rombo</physicalAddress>
+      <telephone>0762292033</telephone>
+      <email>sarahlyimo18@gimail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po box76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Raymondi lyimo</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>po box139</postalAddress>
+      <physicalAddress>himo</physicalAddress>
+      <fax/>
+      <telephone>0766577815</telephone>
+      <mobile>0766577815</mobile>
+      <email>sarahlyimo18@gimail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

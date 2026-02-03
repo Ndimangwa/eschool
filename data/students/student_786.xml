@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>786</studentId>
+  <studentName>ADONIRA T. SARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SIHA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0343-0001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NATIONAL CORRESPONDANCE INSTITUTE</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>P1377-0501</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>HEALTH LABORATORY SCIENCE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>BSc.HLS/0140</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>I-TECH TANZANIA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>72868</postalAddress>
+      <physicalAddress>DAR ES SALAAM, TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255689888777</sponsorfax>
+      <mobile>+255784334080</mobile>
+      <email>fkabole@itech-tanzania.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>TAJAELI MASAKIA SARO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>125</postalAddress>
+      <physicalAddress>SANYA JUU,KILIMANJARO</physicalAddress>
+      <fax/>
+      <telephone>+255752552105</telephone>
+      <mobile>+255752552105</mobile>
+      <email>adonirasaro@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5793</studentId>
+  <studentName>CAROLINE TELESPHORY</studentName>
+  <accademicHistory><institution><institutionName>ST JOSEPH GIRLS SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0240.0014.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>PASS</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MACHAME GIRLS SECONDARY SCHOOL</institutionName><specialization>CBN</specialization><levelId>4</levelId><indexNumber>S0212.0688.2016</indexNumber><award>CERTIFICATE OF ADVANCED EDUCATION</award><grade>PRINCIPAL</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>TELESPHORY BALUSHA</sponsorName><payerId>3</payerId><postalAddress>MWANZA 6154</postalAddress><physicalAddress>MWANZA 6154</physicalAddress><fax/><telephone>0754369673</telephone><mobile>0754369673</mobile><email/><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>TELESPHORY BALUSHA</kinName><relationship>FATHER</relationship><postalAddress>MWANZA 6154</postalAddress><physicalAddress>MWANZA 6154</physicalAddress><fax/><telephone>0754369673</telephone><mobile>0754369673</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Caroline Telesphory</accountName><bankAccount>015213009206</bankAccount><bankName>NBC</bankName><branchName>Moshi</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>43ad72744ff4b475702b860ae775089e</isaacompletechecksum></student>

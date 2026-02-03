@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7496</studentId>
+  <studentName>ADELINE  SIMON  MAMUYA</studentName>
+  <accademicHistory><institution><institutionName>ANWARITE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0269.0001.2014</indexNumber><award>SECONDARY EDUCATION</award><grade>DIVISION TWO. POINT 19</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>BARBRO JOHANSSON MODEL  GIRLS SEC. SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0264.0577.2017</indexNumber><award>ACSEE</award><grade>DIVISION THREE</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DR SIMON H. MAMUYA</sponsorName><payerId>3</payerId><postalAddress>BOX 65015 DAR ES SALAAM</postalAddress><physicalAddress>KIBAHA-MAILIMOJA</physicalAddress><fax/><telephone>0787721377</telephone><mobile>0655721377</mobile><email>mamuyasimon2@gmail.com</email><financedItem>TUTION FEES AND ALL COSTS</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>SIMON HENRY MAMUYA</kinName><relationship>PARENT</relationship><postalAddress>BOX 65015 DAR ES SALAAM</postalAddress><physicalAddress>KIBAHA-MAILIMOJA</physicalAddress><fax/><telephone>0787721377</telephone><mobile>0655721377</mobile><email>mamuyasimon2@gmail.com</email><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SIMON HENRY MAMUYA</accountName><bankAccount>01J2003371600</bankAccount><bankName>CRDB BANK</bankName><branchName>KBAHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>91c0416b5269e4dedb2cfd39edbd258d</isaacompletechecksum></student>

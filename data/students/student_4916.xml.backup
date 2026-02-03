@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4916</studentId>
+  <studentName>DOREEN DAMAS MASSAWE</studentName>
+  <accademicHistory><institution><institutionName>RAU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3675.0017.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KONDOA GIRLS HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>4</levelId><indexNumber>S0229.0594.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DAMAS JAMES MASSAWE</sponsorName><payerId>3</payerId><postalAddress>P.O.Box 1207,Moshi</postalAddress><physicalAddress>kilimanjaro</physicalAddress><fax>+255755686083</fax><telephone>+255755686083</telephone><mobile>+255755686083</mobile><email>vivianmassawe41@gmail.com</email><financedItem>fee</financedItem><extraInformation>none</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DAMAS JAMES MASSAWE</kinName><relationship>FATHER</relationship><postalAddress>P.O.Box 1207,Moshi</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax>+255755686083</fax><telephone>+255755686083</telephone><mobile>+255755686083</mobile><email>vivianmassawe41@gmail.com</email><extraInformation>none</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DOREEN DAMAS MASSAWE</accountName><bankAccount>0152516406300</bankAccount><bankName>CRDB</bankName><branchName>CRDB KONDOA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>dff8ae237022c39e7dd5dd53658d272d</isaacompletechecksum></student>

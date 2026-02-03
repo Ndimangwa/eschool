@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6933</studentId>
+  <studentName>Mujahid  Sheikhedin Abdin</studentName>
+  <accademicHistory><institution><institutionName>University of Khartoum</institutionName><specialization>Mathematics &amp; computer science</specialization><levelId>15</levelId><indexNumber>00/64971</indexNumber><award>Houner</award><grade>second class division II</grade><startYear>2000</startYear><endYear>2005</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c4c12626d16ddbfbb0c87e65053ed755</isaacompletechecksum></student>

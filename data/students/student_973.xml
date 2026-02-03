@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>973</studentId>
+  <studentName>ANOLD NTAZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CHANG'OMBE SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1011/0045</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158-0581</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068, DSM</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JULIUS NTAZI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O BOX 48</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <telephone>0272630058</telephone>
+      <mobile>0712293499</mobile>
+      <email>anojntazi@gmail.comn</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

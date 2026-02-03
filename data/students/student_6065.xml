@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6065</studentId>
+  <studentName>RADHIA .J.BAKARI</studentName>
+  <accademicHistory><institution><institutionName>NDWIKA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0530.0061.2013</indexNumber><award>DIVISION 1</award><grade>DIVISION1.13</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>SCIENCE [PCB]</specialization><levelId>8</levelId><indexNumber>S0206.0619.2016</indexNumber><award>DIVISION ONE</award><grade>DIVISION 1.8</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>SAADA HAJJI JAFFAR</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 196 MTWARA</postalAddress><physicalAddress>P.O.BOX 196 MTWARA</physicalAddress><fax></fax><telephone>0718375733</telephone><mobile>0718375733</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>RADHIA JUMA BAKARI</accountName><bankAccount>0152331166100</bankAccount><bankName>CRDB </bankName><branchName>MTWARA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>911ccd87c95531823f865aa86d447231</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4877</studentId>
+  <studentName>KASSIMU HAMISI GILLA</studentName>
+  <accademicHistory><institution><institutionName>SINON SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1147.0329.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>LYAMUNGO HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0125.0917.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HAMISI RAJABU</kinName><relationship>FADHER</relationship><postalAddress>P.O.BOX10477</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>0754852180</telephone><mobile>0754852180</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KASSIMU HAMISI GILLA</accountName><bankAccount>40310035711</bankAccount><bankName>NMB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c648bae762fa97ef4eeb380f5815f48a</isaacompletechecksum></student>

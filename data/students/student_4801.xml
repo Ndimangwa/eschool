@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4801</studentId>
+  <studentName>ANGELBERT FRANK</studentName>
+  <accademicHistory><institution><institutionName>Ivumwe secondary school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S0681.0050.2013</indexNumber><award>CSE</award><grade>TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>UWATA BOYS SECONDARY SCHOOI </institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S3905.0507.2016</indexNumber><award>ACSE</award><grade>TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>35c6411036dae378f4cc93a41e9a690e</isaacompletechecksum></student>

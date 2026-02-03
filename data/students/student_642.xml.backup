@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>642</studentId>
+  <studentName>JUDICA SHIFWAYANDUMI MMARI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LUKANI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3310/0069</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DAREDA HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0643/0554</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NELSON SHIFWAYANDUMI MMARI</kinName>
+      <relationship>Married</relationship>
+      <postalAddress>PO BOX 1717 DSM</postalAddress>
+      <physicalAddress>PO BOX 1717 DSM</physicalAddress>
+      <fax/>
+      <telephone>0714357997</telephone>
+      <mobile>0714357997</mobile>
+      <email>othmanmmary49@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

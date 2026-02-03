@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3189</studentId>
+  <studentName>Joyce V Sulle</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ANNA GAMAZO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1822/0019/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>RUVU GIRLS HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0369/0632/2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Vincent T Sulle</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 190</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754926712</sponsorfax>
+      <mobile>+255754926712</mobile>
+      <email>joycesulle@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Adela S Sulle</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O.BOX 190</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>+255755745063</telephone>
+      <mobile>+255755745063</mobile>
+      <email>joycesulle@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

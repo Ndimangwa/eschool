@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4780</studentId>
+  <studentName>elizabeth fredrick amando</studentName>
+  <accademicHistory><institution><institutionName>MAZOEZI KLERRUU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1327.0020.2013</indexNumber><award>CSE</award><grade>TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SONGEA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0219.0819.2016</indexNumber><award>ACSE</award><grade>TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>4</payerId><postalAddress>P.O.BOX76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+2552227724323</telephone><mobile>+255222700286</mobile><email>info@heslb.go.tz</email><financedItem>EVERYTHING</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AMANDUS DEUS</kinName><relationship>BROTHER</relationship><postalAddress>P.O.BOX 280 IRINGA</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0652702697</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ELIZABETH FREDRICK AMANDO</accountName><bankAccount>0152201512100</bankAccount><bankName>CRDB</bankName><branchName>MOSHI </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>252cce8b2a0c2130dc73e3f2c5352352</isaacompletechecksum></student>

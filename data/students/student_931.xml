@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>931</studentId>
+  <studentName>JAMES GEOTHAM MREMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SALMA KIKWETE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3561.0240.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TAMBAZA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0347.0634.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GEOTHAM ELINSA MREMA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 7955</postalAddress>
+      <physicalAddress>P.O Box 7955</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754220283</sponsorfax>
+      <mobile>+255754220283</mobile>
+      <email>geothamj@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GEOTHAM ELINSA MREMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O Box 7955</postalAddress>
+      <physicalAddress>P.O Box 7955</physicalAddress>
+      <fax/>
+      <telephone>+255754220283</telephone>
+      <mobile>+255754220283</mobile>
+      <email>geothamj@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MREMA,  JAMES  GEOTHAM</accountName><bankAccount>0152327718600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4983bac76c7c7cf0100d2370a6eafaea</isaacompletechecksum></student>

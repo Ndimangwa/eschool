@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1016</studentId>
+  <studentName>Sakina Mehboob Rashid</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Al-Muntazir-Islamic-Seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>TZ023/0138</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Al-Muntazir-Islamic-Seminary</institutionName>
+      <specialization>PCBM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TZ023/0265</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Mehboob Rashid</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 2553</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255688602114</sponsorfax>
+      <mobile>+255688602114</mobile>
+      <email>mmhrashid@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mehboob Rashid</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O.Box 2553</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <telephone>+255688602114</telephone>
+      <mobile>+255688602114</mobile>
+      <email>mmhrashid@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

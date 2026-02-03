@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>694</studentId>
+  <studentName>JANE BENJAMINI DANDA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIFANYA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0655.0033.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0276.0520.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BENJAMINI DANDA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>414</postalAddress>
+      <physicalAddress>NJOMBE</physicalAddress>
+      <fax/>
+      <telephone>0255758971722</telephone>
+      <mobile>0255758971722</mobile>
+      <email>dandajane09@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>DANDA, JANE BENJAMINI</accountName><bankAccount>0152327640500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8d71714953cdb3b64d34ce2ffc0a94b7</isaacompletechecksum></student>

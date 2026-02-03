@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5224</studentId>
+  <studentName>SALVATORY GELASI KYARA</studentName>
+  <accademicHistory><institution><institutionName>ST AMEDEUS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4405.0065.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIBAHA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0119.0606.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUTION FEE,MA,FPT,BS,RESEARCH,SFR</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SALVATORY KYARA</accountName><bankAccount>21210005606</bankAccount><bankName>NMB</bankName><branchName>KIBAHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e1f5b3f7119542dbbdfcc84ef497c6da</isaacompletechecksum></student>

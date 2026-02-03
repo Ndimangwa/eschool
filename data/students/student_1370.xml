@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1370</studentId>
+  <studentName>AUGUSTINE M LUSWEMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. JOSEPH-KILOCHA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>No. s0190-0002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. JOSEPH-KILOCHA SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>No. s0190-0502</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Maura alex Mng'ong'o</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>54 Njombe</postalAddress>
+      <physicalAddress>LUGARAWA</physicalAddress>
+      <fax/>
+      <telephone>0763901816</telephone>
+      <mobile>0763901816</mobile>
+      <email>maulex11@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

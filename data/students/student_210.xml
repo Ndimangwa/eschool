@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>210</studentId>
+  <studentName>renard m charles</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kilabela secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s1804/0142</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>bishop durning high school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s1600/0527</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 </postalAddress>
+      <physicalAddress>sam nujoma road mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>charles mlyakado </kinName>
+      <relationship>father</relationship>
+      <postalAddress>194 </postalAddress>
+      <physicalAddress>sengerema</physicalAddress>
+      <fax/>
+      <telephone>0759751223</telephone>
+      <mobile>0759751223</mobile>
+      <email>renard.charles41@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

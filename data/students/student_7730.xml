@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7730</studentId>
+  <studentName>VICTORIA BARABONA</studentName>
+  <accademicHistory><institution><institutionName>UNIVERSITY OF DAR ES SALAAM</institutionName><specialization>STATISTICS</specialization><levelId>15</levelId><indexNumber>BA(S)0000591</indexNumber><award>BACHELOR OF ARTS IN STATISTICS</award><grade>B+</grade><startYear>2013</startYear><endYear>2016</endYear></institution><institution><institutionName>MAJENGO HIGH SCHOOL</institutionName><specialization>EGM</specialization><levelId>8</levelId><indexNumber>S0485.0857.2013</indexNumber><award>ADVANCED LEVEL</award><grade>DIVISION THREE</grade><startYear>2011</startYear><endYear>2013</endYear></institution><institution><institutionName>QUEEN OF FAMILY GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0297.0059.2010</indexNumber><award>ORDINARY LEVEL</award><grade>DIVISION ONE</grade><startYear>2016</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DELTA  SSACAB- TANZANIA</sponsorName><payerId>4</payerId><postalAddress>P.O.BOX  2240 KCMC KOSHI</postalAddress><physicalAddress>MOSHI - KILIMANJARO</physicalAddress><fax>+255272751351</fax><telephone>+255272753616</telephone><mobile/><email>info@kcmuco.ac.tz</email><financedItem>MASTERS OF SCIENCE DEGREE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LEOPOLD BARABONA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX  47 SHINYANGA</postalAddress><physicalAddress>SHINYANGA</physicalAddress><fax></fax><telephone>0756404555  </telephone><mobile>0756404555</mobile><email></email><extraInformation>A teacher by occupation</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>VICTORIA MAPHOSA BARABONA</accountName><bankAccount>0152290787200</bankAccount><bankName>CRDB BANK</bankName><branchName>SHINYANGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>47f1d5b5a586a5c2e62f63ce13d576c4</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>869</studentId>
+  <studentName>HADIJA MUSA MSOFE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MASAMA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0223/0025</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>VISITATION GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0263/0516</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SOPHIA IDDY MSUYA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1001</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0754689339</sponsorfax>
+      <mobile>0754689339</mobile>
+      <email>sophiamsuya48@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SOPHIA IDDY MSUYA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>1001</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0754689339</telephone>
+      <mobile>0754689339</mobile>
+      <email>sophiamsuya48@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

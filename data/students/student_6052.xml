@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6052</studentId>
+  <studentName>FRIDA FRANCIS</studentName>
+  <accademicHistory><institution><institutionName>DARAJANI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>4</levelId><indexNumber>S1075.0010.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>KIKIMANJARO  CHRISTIAN MEDICAL COLLEDGE</institutionName><specialization>PHYSIOTHERAPY</specialization><levelId>12</levelId><indexNumber>PHY.KCMC.O10.O08</indexNumber><award>ORDINARY DIPLOMA</award><grade>TWO</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISRY OF INFORMATION CULTURE ARTS AND SPORTS</employerName><postalAddress>PO.BOX 8031</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222126834</fax><telephone>+255222126826</telephone><mobile>+255757834520</mobile><email>km@habari.go.tz</email><startYear>2011</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HELSB</sponsorName><payerId>4</payerId><postalAddress>P.O.Box 76068 Dar es salaam</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FLORA FRANCIS MANYANGA</kinName><relationship>SISTER</relationship><postalAddress>P.O.BOX 8031 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>+2557144061983</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FRIDA FRANCIS MANYANGA</accountName><bankAccount>0152201539500</bankAccount><bankName>CRDB </bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>22c0163861aa35b087177f2f1ad24a41</isaacompletechecksum></student>

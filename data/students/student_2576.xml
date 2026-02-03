@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2576</studentId>
+  <studentName>Consolata Ignas Swai</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kifungilo Girls Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0224-0505</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kifungilo Girls Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0224-0505</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tumaini University KCM College</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K 0365</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KCMC</employerName>
+      <postalAddress>3010 Moshi</postalAddress>
+      <physicalAddress>3010 Moshi</physicalAddress>
+      <telephone>0255272754383</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Nicholaus Stephen Mazuguni</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2242 Moshi</postalAddress>
+      <physicalAddress>3010 Moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>0713596346</sponsorfax>
+      <mobile>0755054658</mobile>
+      <email>nicg82Us@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Nicholaus Stephen Mazuguni</kinName>
+      <relationship>Spouse</relationship>
+      <postalAddress>2242 Moshi</postalAddress>
+      <physicalAddress>3010 Moshi</physicalAddress>
+      <fax/>
+      <telephone>0713596346</telephone>
+      <mobile>0755054658</mobile>
+      <email>nicg82us@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

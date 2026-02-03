@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3133</studentId>
+  <studentName>mzuma bonface</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>mirongo secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3046.0154.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>sengerema high school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0151.0706.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>fatuma ngurukuru</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>16</postalAddress>
+      <physicalAddress>kigoma</physicalAddress>
+      <fax/>
+      <telephone>0756765081</telephone>
+      <mobile>0756765081</mobile>
+      <email>mzumaboniphace20@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>BONFACE, MZUMA</accountName><bankAccount>0152326533500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>57f6e696358ebca1d4e1a98f552d3f1d</isaacompletechecksum></student>

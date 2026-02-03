@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>879</studentId>
+  <studentName>FRANCIS RAPHAEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BWANJAI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3293.0056.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TARAKEA SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0818.0574.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522266036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RAPHAEL MUTAYOBA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 735</postalAddress>
+      <physicalAddress>0784949859</physicalAddress>
+      <fax/>
+      <telephone>0784949859</telephone>
+      <mobile>0784949859</mobile>
+      <email>Lmutayoba@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>RAPHAEL, FRANCIS</accountName><bankAccount>0152339336600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6781117a395fc7e6c76bcb0e12455b1b</isaacompletechecksum></student>

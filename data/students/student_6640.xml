@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6640</studentId>
+  <studentName>JUSTINE JAMES BRUNO</studentName>
+  <accademicHistory><institution><institutionName>ALOYSIUS SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S2252.0060.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>NYAMPULUKANO SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0613.0555.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA </physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEES, ACCOMODATION, MEALS,BOOKS AND STATIONARIES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JAMES BRUNO</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 70, GEITA</postalAddress><physicalAddress>GEITA</physicalAddress><fax></fax><telephone>+255754810044</telephone><mobile>0754253133</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JUSTINE JAMES BRUNO</accountName><bankAccount>0152216566500</bankAccount><bankName>CRDB BANK</bankName><branchName>ROCK CITY MORE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5e2a14f42d1de66fc2ff097159a204fa</isaacompletechecksum></student>

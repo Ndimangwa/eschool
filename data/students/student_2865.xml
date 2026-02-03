@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2865</studentId>
+  <studentName>Priyanka Ramachandran Patel</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Shree Swaminarayan Academy</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>the Mombasa Academy</institutionName>
+      <specialization>A Levels</specialization>
+      <levelId>8</levelId>
+      <indexNumber>2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IMTU</institutionName>
+      <specialization>MBBS, MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2008CM135</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Arusha Aggregates Limited</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 2547</postalAddress>
+      <physicalAddress>block 130 kk olerien</physicalAddress>
+      <fax/>
+      <sponsorfax>+255783906980</sponsorfax>
+      <mobile>+255783906980</mobile>
+      <email>patel.vishal@arushaaggregates.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mr. Vishal Patel</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>box 2547</postalAddress>
+      <physicalAddress>block 130 kk olerien</physicalAddress>
+      <fax/>
+      <telephone>+255656049089</telephone>
+      <mobile>+255783906980</mobile>
+      <email>patel.vishal@arushaaggregates.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

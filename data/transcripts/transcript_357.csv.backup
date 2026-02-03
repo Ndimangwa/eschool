@@ -1,0 +1,217 @@
+@-header,flags_!_0,,,,,,,,,,,,,
+@-header,studentId_!_357,,,,,,,,,,,,,
+@-header,dateOfBirth_!_1992:3:30:00:00:00,,,,,,,,,,,,,
+@-header,sexId_!_1,,,,,,,,,,,,,
+@-header,sexName_!_Male,,,,,,,,,,,,,
+@-header,profileId_!_1,,,,,,,,,,,,,
+@-header,profileName_!_Kilimanjaro Christian Medical University College,,,,,,,,,,,,,
+@-header,profileCity_!_Moshi,,,,,,,,,,,,,
+@-header,profilePostalAddress_!_P.O Box 2240, Moshi,,,,,,,,,,,,,
+@-header,profileWebsite_!_www.kcmuco.ac.tz,,,,,,,,,,,,,
+@-header,profileCountryId_!_227,,,,,,,,,,,,,
+@-header,profileCountryName_!_Tanzania,,,,,,,,,,,,,
+@-header,systemName_!_University Management Information System,,,,,,,,,,,,,
+@-header,postalAddress_!_P.O BOX 3230,,,,,,,,,,,,,
+@-header,physicalAddress_!_DAR ES SALAAM,,,,,,,,,,,,,
+@-header,countryId_!_227,,,,,,,,,,,,,
+@-header,countryName_!_Tanzania,,,,,,,,,,,,,
+@-header,registrationNumber_!_TUMA/KCMUCo/BSc.P&O.2013/2014/TZ/163,,,,,,,,,,,,,
+@-header,fullname_!_MICHAEL G MAJENZI,,,,,,,,,,,,,
+@-header,firstname_!_MICHAEL,,,,,,,,,,,,,
+@-header,middlename_!_GEORGE,,,,,,,,,,,,,
+@-header,lastname_!_MAJENZI,,,,,,,,,,,,,
+@-header,compilationTime_!_2017:12:15:09:52:25,,,,,,,,,,,,,
+@-header,fileType_!_transcript,,,,,,,,,,,,,
+@-header,courseId_!_3,,,,,,,,,,,,,
+@-header,courseCode_!_BSc.P&O,,,,,,,,,,,,,
+@-header,courseName_!_Bachelor of Science in Prosthetics and Orthotics,,,,,,,,,,,,,
+@-header,duration_!_4,,,,,,,,,,,,,
+@-header,levelId_!_15,,,,,,,,,,,,,
+@-header,levelName_!_Bachelor Degree,,,,,,,,,,,,,
+@-header,levelCode_!_8,,,,,,,,,,,,,
+@-header,departmentId_!_4,,,,,,,,,,,,,
+@-header,departmentName_!_Faculty of Rehabilitation Medicine,,,,,,,,,,,,,
+@-header,admissionYearId_!_5,,,,,,,,,,,,,
+@-header,admissionYearName_!_2013/2014,,,,,,,,,,,,,
+@-header,admissionYearNumber_!_5,,,,,,,,,,,,,
+@-header,currentBatchId_!_5,,,,,,,,,,,,,
+@-header,currentBatchName_!_2013/2014,,,,,,,,,,,,,
+@-header,currentBatchNumber_!_5,,,,,,,,,,,,,
+@-header,lastResultsCummulativeSemester_!_8,,,,,,,,,,,,,
+@-header,currentCummulativeSemester_!_8,,,,,,,,,,,,,
+@-header,allSemestersIncluded_!_1,,,,,,,,,,,,,
+@-header,numberOfSemestersPerYear_!_2,,,,,,,,,,,,,
+@-header,graduated_!_0,,,,,,,,,,,,,
+@-header,grade_0_id_!_1,,,,,,,,,,,,,
+@-header,grade_0_name_!_A,,,,,,,,,,,,,
+@-header,grade_0_point_!_5,,,,,,,,,,,,,
+@-header,grade_0_lowestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_0_highestMarks_!_101,,,,,,,,,,,,,
+@-header,grade_0_extraInformation_!_Excellent,,,,,,,,,,,,,
+@-header,grade_1_id_!_2,,,,,,,,,,,,,
+@-header,grade_1_name_!_B+,,,,,,,,,,,,,
+@-header,grade_1_point_!_4,,,,,,,,,,,,,
+@-header,grade_1_lowestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_1_highestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_1_extraInformation_!_Very Good,,,,,,,,,,,,,
+@-header,grade_2_id_!_3,,,,,,,,,,,,,
+@-header,grade_2_name_!_B,,,,,,,,,,,,,
+@-header,grade_2_point_!_3,,,,,,,,,,,,,
+@-header,grade_2_lowestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_2_highestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_2_extraInformation_!_Good,,,,,,,,,,,,,
+@-header,grade_3_id_!_4,,,,,,,,,,,,,
+@-header,grade_3_name_!_C,,,,,,,,,,,,,
+@-header,grade_3_point_!_2,,,,,,,,,,,,,
+@-header,grade_3_lowestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_3_highestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,grade_4_id_!_5,,,,,,,,,,,,,
+@-header,grade_4_name_!_D,,,,,,,,,,,,,
+@-header,grade_4_point_!_1,,,,,,,,,,,,,
+@-header,grade_4_lowestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_4_highestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_4_extraInformation_!_Supplimentary,,,,,,,,,,,,,
+@-header,grade_5_id_!_6,,,,,,,,,,,,,
+@-header,grade_5_name_!_E,,,,,,,,,,,,,
+@-header,grade_5_point_!_0,,,,,,,,,,,,,
+@-header,grade_5_lowestMarks_!_0,,,,,,,,,,,,,
+@-header,grade_5_highestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_5_extraInformation_!_Supplimentary,,,,,,,,,,,,,
+@-header,grade_6_id_!_7,,,,,,,,,,,,,
+@-header,grade_6_name_!_I,,,,,,,,,,,,,
+@-header,grade_6_point_!_0,,,,,,,,,,,,,
+@-header,grade_6_lowestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_highestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_extraInformation_!_Incomplete,,,,,,,,,,,,,
+@-header,award_0_id_!_1,,,,,,,,,,,,,
+@-header,award_0_name_!_First Class,,,,,,,,,,,,,
+@-header,award_0_lowestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_0_highestGPA_!_5.1,,,,,,,,,,,,,
+@-header,award_0_extraInformation_!_First Class,,,,,,,,,,,,,
+@-header,award_1_id_!_2,,,,,,,,,,,,,
+@-header,award_1_name_!_Upper Second,,,,,,,,,,,,,
+@-header,award_1_lowestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_1_highestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_1_extraInformation_!_Upper Second,,,,,,,,,,,,,
+@-header,award_2_id_!_3,,,,,,,,,,,,,
+@-header,award_2_name_!_Lower Second,,,,,,,,,,,,,
+@-header,award_2_lowestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_2_highestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_2_extraInformation_!_Lower Second,,,,,,,,,,,,,
+@-header,award_3_id_!_4,,,,,,,,,,,,,
+@-header,award_3_name_!_Pass,,,,,,,,,,,,,
+@-header,award_3_lowestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_3_highestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,award_4_id_!_5,,,,,,,,,,,,,
+@-header,award_4_name_!_No Award,,,,,,,,,,,,,
+@-header,award_4_lowestGPA_!_0.0,,,,,,,,,,,,,
+@-header,award_4_highestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_4_extraInformation_!_No Award,,,,,,,,,,,,,
+@-header,sem_1_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_1_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_1_totalUnits_!_57.6,,,,,,,,,,,,,
+@-header,sem_1_totalModulePoints_!_185.4,,,,,,,,,,,,,
+@-header,sem_1_academicYearId_!_5,,,,,,,,,,,,,
+@-header,sem_1_academicYear_!_2013/2014,,,,,,,,,,,,,
+@-header,sem_1_gpa_!_3.2,,,,,,,,,,,,,
+@-header,sem_2_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_2_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_2_totalUnits_!_57.6,,,,,,,,,,,,,
+@-header,sem_2_totalModulePoints_!_225.9,,,,,,,,,,,,,
+@-header,sem_2_academicYearId_!_5,,,,,,,,,,,,,
+@-header,sem_2_academicYear_!_2013/2014,,,,,,,,,,,,,
+@-header,sem_2_gpa_!_3.9,,,,,,,,,,,,,
+@-header,sem_3_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_3_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_3_totalUnits_!_57.6,,,,,,,,,,,,,
+@-header,sem_3_totalModulePoints_!_196.8,,,,,,,,,,,,,
+@-header,sem_3_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_3_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_3_gpa_!_3.4,,,,,,,,,,,,,
+@-header,sem_4_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_4_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_4_totalUnits_!_57.6,,,,,,,,,,,,,
+@-header,sem_4_totalModulePoints_!_175.8,,,,,,,,,,,,,
+@-header,sem_4_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_4_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_4_gpa_!_3,,,,,,,,,,,,,
+@-header,sem_5_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_5_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_5_totalUnits_!_57.6,,,,,,,,,,,,,
+@-header,sem_5_totalModulePoints_!_183.3,,,,,,,,,,,,,
+@-header,sem_5_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_5_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_5_gpa_!_3.1,,,,,,,,,,,,,
+@-header,sem_6_awardId_!_4,,,,,,,,,,,,,
+@-header,sem_6_awardName_!_Pass,,,,,,,,,,,,,
+@-header,sem_6_totalUnits_!_57.6,,,,,,,,,,,,,
+@-header,sem_6_totalModulePoints_!_121.2,,,,,,,,,,,,,
+@-header,sem_6_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_6_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_6_gpa_!_2.1,,,,,,,,,,,,,
+@-header,sem_7_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_7_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_7_totalUnits_!_57.6,,,,,,,,,,,,,
+@-header,sem_7_totalModulePoints_!_174.3,,,,,,,,,,,,,
+@-header,sem_7_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_7_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_7_gpa_!_3,,,,,,,,,,,,,
+@-header,sem_8_awardId_!_5,,,,,,,,,,,,,
+@-header,sem_8_awardName_!_No Award,,,,,,,,,,,,,
+@-header,sem_8_totalUnits_!_57.6,,,,,,,,,,,,,
+@-header,sem_8_totalModulePoints_!_75.6,,,,,,,,,,,,,
+@-header,sem_8_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_8_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_8_gpa_!_1.3,,,,,,,,,,,,,
+@-header,gpa_!_2.8,,,,,,,,,,,,,
+@-header,awardId_!_3,,,,,,,,,,,,,
+@-header,awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,cleared_!_,,,,,,,,,,,,,
+@-header,filename_!_transcript_357.csv,,,,,,,,,,,,,
+@-business-logic-begin,,,,,,,,,,,,,,
+344,1,5,2013/2014,0,,,Orthotic Science Theory 1,OST 100-1,,57,4,C,2,3
+345,1,5,2013/2014,0,,,Orthotic Science Practical 1,OSP100-1,,77,2,B+,4,32.1
+346,1,5,2013/2014,0,,,Anatomy and Physiology 1,ANP100-1,,59,4,C,2,6
+347,1,5,2013/2014,0,,,Mechanics,MEC-100,,52,4,C,2,4.5
+348,1,5,2013/2014,0,,,Technology 1,TEC-100-1,,55,4,C,2,6
+349,1,5,2013/2014,0,,,Development Studies,DS 100,,71,2,B+,4,3
+350,1,5,2013/2014,0,,,Engineering Design 1,END 100-1,,53,4,C,2,3
+381,2,5,2013/2014,0,,,Anatomy and physiology – II,ANP 100-II,,67,3,B,3,4.5
+401,2,5,2013/2014,0,,,Orthotic Science theory – II,OST 100-II,,83,1,A,5,3
+402,2,5,2013/2014,0,,,Technology – II,TEC 100-II,,70,2,B+,4,6
+403,2,5,2013/2014,0,,,Engineering design – II,END 100-II	,,65,3,B,3,3
+404,2,5,2013/2014,0,,,	Biomechanics – I,BIM 100-I,,77,2,B+,4,4.5
+405,2,5,2013/2014,0,,,	Orthotic science practical – II,OSP 100-II,,76,2,B+,4,36.6
+406,3,6,2014/2015,0,,,	Anatomy and physiology – III,ANP 200-III,,74,2,B+,4,3
+407,3,6,2014/2015,0,,,	OrthotiS Science theory–III,OST 200-I	,,72,2,B+,4,3
+408,3,6,2014/2015,0,,,	Biomechanics – II,BIM 200-II,,78,2,B+,4,3
+409,3,6,2014/2015,0,,,Pathology – I,PAT 200-I	,,84,1,A,5,6
+410,3,6,2014/2015,0,,,	Mathematics,MAT 200,,70,2,B+,4,3
+412,3,6,2014/2015,0,,,	Orthotc Science practical – I,OSP 200-I	,,68,3,B,3,39.6
+413,4,6,2014/2015,0,,,	Anatomy and physiology – IV,ANP 200-IV,,61,3,B,3,3
+414,4,6,2014/2015,0,,,	Orthotic Science Theory – III,OST 200-III,,69,3,B,3,3
+415,4,6,2014/2015,0,,,Statistics,STS 200,,69,3,B,3,4.5
+416,4,6,2014/2015,0,,,	Computer Science,COS 200,,65,3,B,3,6
+417,4,6,2014/2015,0,,,	Biomechanics III,BIM 200-III,,72,2,B+,4,3
+418,4,6,2014/2015,0,,,	Orthotics Science Practical – III,OSP 200-III,,60,3,B,3,38.1
+419,5,7,2015/2016,0,,,	Pathology – II,PAT 300-II,,71,2,B+,4,4.5
+420,5,7,2015/2016,0,,,Prosthetic Science theory – II,PST 300-II,,66,3,B,3,3
+421,5,7,2015/2016,0,,,	Biomechanics – IV,BIM 300-IV,,67,3,B,3,3
+422,5,7,2015/2016,0,,,	Research Methodology – I,RMD 300-I,,64,3,B,3,4.5
+423,5,7,2015/2016,0,,,Electro-technology – I,ELT 300-I	,,76,2,B+,4,3
+424,5,7,2015/2016,0,,,Foundation of Faith,FOF 300	,,77,2,B+,4,3
+425,5,7,2015/2016,0,,,	Prosthetic Science Practical - II,PSP 300-II,,64,3,B,3,36.6
+427,6,7,2015/2016,0,,,	Prosthetic Science practical - III,PSP300-III,,51,4,C,2,48.6
+428,6,7,2015/2016,0,,,Biomechanics – V,BIM300-V,,54,4,C,2,3
+429,6,7,2015/2016,0,,, Research methodology – II,RMD300-II,,64,3,B,3,3
+430,6,7,2015/2016,0,,,	Electro-Technology – II,ELT 300-II,,65,3,B,3,3
+431,7,8,2016/2017,0,,,	Biomechanics – VI,BIM 400-VI,,70,2,B+,4,3
+432,7,8,2016/2017,0,,,Prosthetic and Orthotic Science Theory ,POST 400,,73,2,B+,4,3
+433,7,8,2016/2017,0,,,Clinical Workshop Management,CWM 400	,,68,3,B,3,4.5
+436,7,8,2016/2017,0,,,	Research Project II,RPJ 400-II,,54,4,C,2,4.5
+437,7,8,2016/2017,0,,,Prosthetics and Orthotics Science Practical ,POSP 400,,65,3,B,3,42.6
+434,8,8,2016/2017,0,,,Internal clinical attachment,ICA 400	,,48,5,D,1,48.6
+435,8,8,2016/2017,0,,,RPJ 400-I	Research Project,RPJ 400-I,,63,3,B,3,9
+@-business-logic-end,,,,,,,,,,,,,,

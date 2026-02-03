@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7695</studentId>
+  <studentName>CATHERINE D MAIGE</studentName>
+  <accademicHistory><institution><institutionName>NOTRE DAME</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>S3747.0005.2014 </indexNumber><award>CSEE</award><grade>MERITS</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>ST.MARY'S DULUTI</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S3646.0503.2017</indexNumber><award>ACSEE</award><grade>IV 18  DIVISION</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DAVID MAIGE AMNAAY</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 96</postalAddress><physicalAddress>MARANGU</physicalAddress><fax/><telephone>0784759559</telephone><mobile>0784759559</mobile><email>maige_david@yahoo.com</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DAVID MAIGE AMNAAY</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 96</postalAddress><physicalAddress>MARANGU</physicalAddress><fax/><telephone>0784759559</telephone><mobile>0784759559</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DAVID MAIGE AMNAAY</accountName><bankAccount>045201017757</bankAccount><bankName>NBC</bankName><branchName>KARATU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3569c74ca931d24417b33025f6ea17d2</isaacompletechecksum></student>

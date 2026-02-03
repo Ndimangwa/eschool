@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5357</studentId>
+  <studentName>SALAMA RASHID AMOUR</studentName>
+  <accademicHistory><institution><institutionName>SHAMIANI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0400.0065.2008</indexNumber><award>PASS</award><grade>DIVISSION FOUR</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>CONNECTING CONTINENT SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S3663.0511.2012</indexNumber><award>PASS</award><grade>DIVISION FOUR</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>COLLAGE OF HEALHT SCIENCE ZANZIBAR</institutionName><specialization>MEDICAL LABORATORY SCIENCE</specialization><levelId>12</levelId><indexNumber>SN:00893</indexNumber><award>UPPER SECOND CLASS</award><grade>GPA 3.7</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT'S LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+2552227724332</mobile><email>Info@hesbl.go.tz</email><financedItem>BSCLABORATORY SCIENCE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SALAMA RASHID AMOUR</accountName><bankAccount>20210005907</bankAccount><bankName>NMB</bankName><branchName>CHAKE CHAKE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0d8ddc63a3de2cef6d6a76a1303a594c</isaacompletechecksum></student>

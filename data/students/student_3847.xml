@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3847</studentId>
+  <studentName>BONIFACE PAUL MOLLEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NKOANRUA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1265.0158.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SANYA JUU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1183.0502.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 dar es salaam</postalAddress>
+      <physicalAddress>kimweri complex msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>002555222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SUSANA EPHATA MOLLEL</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>1286 ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0762989846</telephone>
+      <mobile>0762989846</mobile>
+      <email>hildapaulo.hp@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MOLLEL, BONIFACE PAUL</accountName><bankAccount>0152204401400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d9b7ab6801107bf02289c94431e0cdd7</isaacompletechecksum></student>

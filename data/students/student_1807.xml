@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1807</studentId>
+  <studentName>ZEPHANIA D. PETER</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DR. SALMIN AMOUR SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0921/175</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>USAGARA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345/0635</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GRANT</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 760068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669039</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DANIEL PETER GEGA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O.BOX 30162</postalAddress>
+      <physicalAddress>KIBAHA</physicalAddress>
+      <fax/>
+      <telephone>+255654073004</telephone>
+      <mobile>+255654073004</mobile>
+      <email>zaxan57@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

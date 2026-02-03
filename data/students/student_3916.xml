@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3916</studentId>
+  <studentName>GASER SHIRIMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0147/0037</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI TECHNICAL SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0135/0641</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JENIPHER NKEKA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>10636</postalAddress>
+      <physicalAddress>KIJENGE ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0753360670</sponsorfax>
+      <mobile>0753360670</mobile>
+      <email>JIcholamungu@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JENIPHER NKEKA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>10636</postalAddress>
+      <physicalAddress>KIJENGE ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0753360670</telephone>
+      <mobile>0753360670</mobile>
+      <email>Jicholamungu@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

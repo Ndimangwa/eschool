@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1771</studentId>
+  <studentName>ELIZABETH E. SENKORO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIFUNGILO GILRS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0224/0021</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. MARY GORETH SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.1187/0542</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Eliet E. Senkoro</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>640</postalAddress>
+      <physicalAddress>Usariver, Arusha</physicalAddress>
+      <fax/>
+      <telephone>0784384171</telephone>
+      <mobile>0783967779</mobile>
+      <email>eliet.senkoro@googlemail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

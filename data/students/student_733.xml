@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>733</studentId>
+  <studentName>ISAAC MWAMBAPA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Swilla secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1141.0097.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>META HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0443.0641.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loanboard</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>jasson ernest mwambapa</kinName>
+      <relationship>father</relationship>
+      <postalAddress>219</postalAddress>
+      <physicalAddress>mbeya</physicalAddress>
+      <fax/>
+      <telephone>+255767099027</telephone>
+      <mobile>+255767099027</mobile>
+      <email>Isaacmwambapa@gmail279.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MWAMBAPA, ISAAC</accountName><bankAccount>0152427541800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fef8ffdbd097a6ee50ac1d091ae4e018</isaacompletechecksum></student>

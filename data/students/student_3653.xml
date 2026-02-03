@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3653</studentId>
+  <studentName>EMMANUEL CHUMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBAHA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0119.0024.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MINAKI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0133.0650.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>SAM NUJOMA</physicalAddress>
+      <fax/>
+      <sponsorfax>02227724332</sponsorfax>
+      <mobile>02227724332</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HAPPINESS LOPA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 3047 MOROGORO</postalAddress>
+      <physicalAddress>KOLA A</physicalAddress>
+      <fax/>
+      <telephone>0756592622</telephone>
+      <mobile>0715592622</mobile>
+      <email>lopahappiness@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>CHUWA, EMMANUEL</accountName><bankAccount>0152279920700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f12e2949f379f76a5f6846ee0b5b8177</isaacompletechecksum></student>

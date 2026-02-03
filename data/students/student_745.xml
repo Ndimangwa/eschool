@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>745</studentId>
+  <studentName>SILVESTERA N NGOWI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MNINI SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1OO4/0055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BISHOPDURNING HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.1600/0503</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>BOX 76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NICHOLAUS  NGOWI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>8360</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>+255754479805</telephone>
+      <mobile>00255752306215</mobile>
+      <email>silvesterangowi27@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

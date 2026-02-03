@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>971</studentId>
+  <studentName>FRANCIS PAULO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIGONSERA SECS CHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0120/0078</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134/0538</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED MVOMERO</employerName>
+      <postalAddress>663 MOROGORO</postalAddress>
+      <physicalAddress>mvomero</physicalAddress>
+      <telephone>0232613223</telephone>
+      <email>fmogela@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD(HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 TIRDO DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669039</mobile>
+      <email>info@helb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PAULO M BENA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>104657 DSM</postalAddress>
+      <physicalAddress>TEMEKE</physicalAddress>
+      <fax/>
+      <telephone>002550782919778</telephone>
+      <mobile>0782919778</mobile>
+      <email>fmogela@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

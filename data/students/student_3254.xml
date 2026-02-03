@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3254</studentId>
+  <studentName>Dickson Daniel</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Bwiru boys secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0104.0032.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Minaki secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0133.0647.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>www.heslb.go.tz</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Daniel Mahona</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>PO.BOX 54 Nzega</postalAddress>
+      <physicalAddress>PO.BOX 54 NZEGA</physicalAddress>
+      <fax/>
+      <telephone>00255755287855</telephone>
+      <mobile>0755287855</mobile>
+      <email>mahonadd@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>DANIEL, DICKSON</accountName><bankAccount>0152261320900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7047feb89c41ed65dde943cce09eb5c2</isaacompletechecksum></student>

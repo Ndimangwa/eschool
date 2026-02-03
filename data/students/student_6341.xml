@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6341</studentId>
+  <studentName>KENNETH JOSEPH MLAY</studentName>
+  <accademicHistory><institution><institutionName>JUNIOR SEMINARY</institutionName><specialization>ACSEE</specialization><levelId>8</levelId><indexNumber>S0107.0573.2006</indexNumber><award>ACSEE</award><grade>PASS</grade><startYear>2003</startYear><endYear>2006</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN UNIVERSITY COLLEGE</institutionName><specialization>DOCTOR OF MEDICINE </specialization><levelId>15</levelId><indexNumber>S0107.0573.2006</indexNumber><award>DEGREE OF DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>2006</startYear><endYear>2011</endYear></institution><institution><institutionName>AGAPE LUTHERAN JUNIOR SEMINARY</institutionName><specialization>CSE</specialization><levelId>4</levelId><indexNumber>S0184.0044.2003</indexNumber><award>CSE</award><grade>PASS</grade><startYear>2000</startYear><endYear>2003</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>19fa43ef62a1e798f135a0ac8aec370b</isaacompletechecksum></student>

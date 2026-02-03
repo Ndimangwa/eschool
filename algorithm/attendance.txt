@@ -1,0 +1,35 @@
+Filename="attendance_courseId_monthId_year.csv" [if no course, then 0 instead]
+
+Attendance File 
+timetableId
+timetableName [Activity Name]
+startTime 
+endTime
+date 
+courseId
+loginId [TargetPersonLoginId]
+loginId [AttendanceTakenBy] <-- This must be among Activity Creators 
+attendanceStatus [1] //If no Attendance Do not record 
+
+
+
+//Attendance Template 
+@-header,timetableId_!_ttId
+@-header,activityName_!_ttName
+@-header,startTime_!_time
+@-header,endTime_!_time
+@-header,date_!_date
+@-header,staffId_!_staffId 
+@-header,staffName_!_staffName
+@-header,fileType_!_Attendance 
+@-header,fileTypeCode_!_Code 
+@-header,columnCount_!_StaticNumber 
+@-business-header-begin
+s/n,Res,loginId,groupName,regNumber,fullName,status
+@-business-header-ends
+@-business-data-begin 
+//All Students should be loaded with their status eq="X", you need to change X to something to mean Attendance Taken
+@-business-data-ends
+
+//AttendanceFile Should be saved in the following Format 
+timetableId,activityName,startTime,endTime,date,staffId,staffName,loginId[student],fullName[student],courseId[courseForThisStudent],groupId,status[Default 1=Was Available]

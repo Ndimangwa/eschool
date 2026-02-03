@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>335</studentId>
+  <studentName>KEI RASHID MWAKALEKE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MANOW LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0178-0055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIGONSERA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0120-0708</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLEB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068, DAR</postalAddress>
+      <physicalAddress>SAM NUJOMA ROAD, MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@hesleb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KISSA ANYANDWILE KALEKE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O BOX 278</postalAddress>
+      <physicalAddress>TUKUYU</physicalAddress>
+      <fax/>
+      <telephone>0766711337</telephone>
+      <mobile>0766711337</mobile>
+      <email>keimwakaleke@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

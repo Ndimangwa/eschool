@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4973</studentId>
+  <studentName>GLORY IAN MANJUU</studentName>
+  <accademicHistory><institution><institutionName>KIRAENI GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0207.0047.2013</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>WERUWERU GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0221.0674.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>IAN FRED MANJUU</sponsorName><payerId>3</payerId><postalAddress>P.BOX 1478</postalAddress><physicalAddress>TANGA</physicalAddress><fax/><telephone>0713677605</telephone><mobile/><email>imanjuu@yahoo.com</email><financedItem/><extraInformation> DOCTOR</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DOROTH CASMIR MLAY</kinName><relationship>PARENT</relationship><postalAddress>P.BOX. 545</postalAddress><physicalAddress>TANGA</physicalAddress><fax></fax><telephone>0763192603</telephone><mobile>0716842169</mobile><email></email><extraInformation>TEACHER</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NMB</accountName><bankAccount>41702501519</bankAccount><bankName>DOROTHY CASMIR MLAY</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1297ab4035aa2ff0bd64669a37a85f65</isaacompletechecksum></student>

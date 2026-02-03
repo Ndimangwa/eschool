@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>405</studentId>
+  <studentName>FRANK NSENGYALEMYE PANTALEO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST MATTHEWS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1071/0254</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S485/653</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PANTALEONE KAGINA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 391 IFAKARA</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754467100</sponsorfax>
+      <mobile>+255655467100</mobile>
+      <email>pantaleonebk58@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VIOLETH PANTALEO</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>P.O BOX 391 IFAKARA</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255717333361</telephone>
+      <mobile>+255767323361</mobile>
+      <email>rkitigwa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4696</studentId>
+  <studentName>IMMANUEL SHAYO</studentName>
+  <accademicHistory><institution><institutionName>MWIKA SECONDARY SCHOOL</institutionName><specialization>SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0782.0200.2009</indexNumber><award>CERTIFICATE</award><grade>DIVISION THREE</grade><startYear>2006</startYear><endYear>2009</endYear></institution><institution><institutionName>ENGUTOTO SECONDARY SCHOOL</institutionName><specialization>HGL</specialization><levelId>8</levelId><indexNumber>S1549.0522.2012</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION I</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>MZUMBE UNIVERSITY</institutionName><specialization>HEALTH SYSTM MANAGEMENT</specialization><levelId>15</levelId><indexNumber>1095/T.12</indexNumber><award>BACHELOR DEGREE</award><grade>3.4 GPA</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MOSHI MUNICIPAL</employerName><postalAddress>PO BOX 318</postalAddress><physicalAddress>PO BOX 318</physicalAddress><fax/><telephone/><mobile/><email>chanceimmanuel@gmail.com</email><startYear>2015</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>GOODCHANCE SHAYO</sponsorName><payerId>3</payerId><postalAddress>PO BOX 18</postalAddress><physicalAddress>PO BOX 18</physicalAddress><fax/><telephone/><mobile>0754604019</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GOODCHANCE SHAYO</kinName><relationship>FATHER</relationship><postalAddress>PO BOX 18</postalAddress><physicalAddress>PO BOX 18</physicalAddress><fax></fax><telephone>0754604019</telephone><mobile>0754604019</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>IMMANUEL G SHAYO</accountName><bankAccount>0152339749700</bankAccount><bankName>CRDB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>dfdf44cc377c7756de2a461e35ba9242</isaacompletechecksum></student>

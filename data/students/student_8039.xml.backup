@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8039</studentId>
+  <studentName>junior andrew lengama</studentName>
+  <accademicHistory><institution><institutionName>st marys duluti</institutionName><specialization>student</specialization><levelId>4</levelId><indexNumber>S3646.0045.2014</indexNumber><award>certificate</award><grade>merit</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>nyerere high school</institutionName><specialization>student</specialization><levelId>8</levelId><indexNumber>S0614.0558.2017</indexNumber><award>certificate</award><grade>3</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>andrew lengama</sponsorName><payerId>4</payerId><postalAddress>Arusha,14453</postalAddress><physicalAddress>Arusha,14453</physicalAddress><fax/><telephone>0682979638</telephone><mobile>0682979638</mobile><email>andrewlengama@yahoo.com</email><financedItem>father</financedItem><extraInformation>busssinessman</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>CHAPCHAP</accountName><bankAccount>NBC</bankAccount><bankName>NBC</bankName><branchName>ARUSHA MARKET</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b881956ff1e8777f704eb9586bf7a14b</isaacompletechecksum></student>

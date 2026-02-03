@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5467</studentId>
+  <studentName>MLEMETA D CHILALA</studentName>
+  <accademicHistory><institution><institutionName>BWAWANI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1264.0080.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION ONE</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>IYUNGA TECHNICAL SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0112.0566.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2013</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@helsb.go.tz</email><financedItem>TUITION FEES,RESEARCH</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MLEMETA D CHILALA</accountName><bankAccount>61010013905</bankAccount><bankName>NMB</bankName><branchName>MBALIZI ROAD</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f29547d15da70022ffcb9bcb45b88066</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>277</studentId>
+  <studentName>SIAELI WINLUCK MKONYI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DARAJAN  SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1075/0082</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WERUWERU SECONARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0221/0722</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068 Dar</postalAddress>
+      <physicalAddress>P.O BOX 76068 Dar</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WINLUCK HARRYSON MKONYI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>78 MARANGU</postalAddress>
+      <physicalAddress>78 MARANGU</physicalAddress>
+      <fax/>
+      <telephone>0754492553</telephone>
+      <mobile>0754492553</mobile>
+      <email>Winluckmkony@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

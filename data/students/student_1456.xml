@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1456</studentId>
+  <studentName>Ephreim M. Tahhani</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ganako secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2433-0079</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Usagara high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345-0594</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO.BOX76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Melkior Tahhani</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>PO.BOX 2</postalAddress>
+      <physicalAddress>Karatu</physicalAddress>
+      <fax/>
+      <telephone>0766909501</telephone>
+      <mobile>0786929363</mobile>
+      <email>melkiorkhaffi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

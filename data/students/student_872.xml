@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>872</studentId>
+  <studentName>JOSEPH FELIX MISANA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PRESBYTERIAN SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1330.0068.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. ANTHONY SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0534.0680.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOARN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JANE MICHAEL URIO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>PO BOX 8196 DSM</postalAddress>
+      <physicalAddress>PO BOX 8196 DSM</physicalAddress>
+      <fax/>
+      <telephone>0732103111</telephone>
+      <mobile>0786103111</mobile>
+      <email>janiemichael@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JOSEPH FELIX MISANA</accountName><bankAccount>0152327711600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>32eed8069d504feb58e6548569551031</isaacompletechecksum></student>

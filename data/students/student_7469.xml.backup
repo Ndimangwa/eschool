@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7469</studentId>
+  <studentName>SIMON B MJELWA</studentName>
+  <accademicHistory><institution><institutionName>PEACE HOUSE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3838.0134.2016</indexNumber><award> CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2013</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3220ad1a51479cbdc925a61261473ec2</isaacompletechecksum></student>

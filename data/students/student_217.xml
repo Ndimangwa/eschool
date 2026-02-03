@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>217</studentId>
+  <studentName>ernest richard masanja</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>thaqaafa secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0823/0179</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>thaqaafa high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0823/0620</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>richard masanja</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.O.BOX 1370</postalAddress>
+      <physicalAddress>BUGANDO mwanza</physicalAddress>
+      <fax/>
+      <telephone>00255754430961</telephone>
+      <mobile>00255754430961</mobile>
+      <email>richardmasanja@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

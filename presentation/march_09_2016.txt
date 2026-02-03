@@ -1,0 +1,27 @@
+PRESENTATION
+1. ICT Infrastructure -- support from Duke-OIT (Office of Information Technology)
+	-- Centralized Control
+	-- Bandwidth Management
+			-- reports
+			-- b/w distribution
+			-- traffic policies
+	-- Wireless Services
+			-- Wireless Controller
+			-- User registration
+			-- report 
+2. Support to Computer Lab, eLibrary & Labs
+	-- Labs for personal study
+	-- Use of computer, searching & research
+	-- Team Based Learning 
+	-- Examination Online & NBME
+3. MOOC -- Massive Open Online Course
+4. Tablets -- Portable devices for Medical Students  & Storage
+	-- Power 8hrs
+	-- Relative resistrance to Virus 
+
+Sustainability
+1. College bought 190 iMAC to support 
+2. Other initiative, lastmile 
+
+Challenges
+1. Internet Bandwidth

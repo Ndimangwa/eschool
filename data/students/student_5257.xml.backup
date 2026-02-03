@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5257</studentId>
+  <studentName>GRACE MUSHI</studentName>
+  <accademicHistory><institution><institutionName>MOSHI SECONDARY SCHOOL CENTER</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>P0134.0086.2011</indexNumber><award>O-LEVEL CERTIFICATE</award><grade>DIVISION FOUR</grade><startYear>1990</startYear><endYear>2011</endYear></institution><institution><institutionName>HURUMA SCHOOL OF NURSING</institutionName><specialization>DIPLOMA IN NURSING</specialization><levelId>12</levelId><indexNumber>0165</indexNumber><award>DIPLOMA IN NURSING</award><grade>N/A</grade><startYear>1994</startYear><endYear>1998</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>RAS-KILIMANJARO</employerName><postalAddress>P.O.BOX 3054</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile>0755109056</mobile><email>rogasiangrace@yahoo.com</email><startYear>2008</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR-ES-SALAM</postalAddress><physicalAddress>DAR-ES-SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHEDIEL MZIRAY</kinName><relationship>HUSBAND</relationship><postalAddress>P.O.BOX 3054</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>+255652468155</telephone><mobile>+255652468155</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>CRDB</accountName><bankAccount>0152201515400</bankAccount><bankName>GRACE ROGASIANI MUSHI</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>393df765640643942d9e592d835c25ae</isaacompletechecksum></student>

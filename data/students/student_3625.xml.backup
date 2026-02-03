@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3625</studentId>
+  <studentName>Mangwisi George</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Lalago Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0519-063</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Shinyanga Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0152-0523</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED MBARALI</employerName>
+      <postalAddress>P.O BOX 237 Rujewa</postalAddress>
+      <physicalAddress>Rujewa, Mbarali</physicalAddress>
+      <telephone>002552590089</telephone>
+      <email>mangwisi@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068, DSM</postalAddress>
+      <physicalAddress>Mikocheni,Dsm</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222700286</sponsorfax>
+      <mobile>00255222700286</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Limbu George</kinName>
+      <relationship>Younger Brother</relationship>
+      <postalAddress>P.O BOX 237 Rujewa</postalAddress>
+      <physicalAddress>Rujewa, Mbarali</physicalAddress>
+      <fax/>
+      <telephone>0762397386</telephone>
+      <mobile>0762397386</mobile>
+      <email>limbu@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

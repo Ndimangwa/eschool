@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>808</studentId>
+  <studentName>DIONISIA PAUL LIMKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAWENZI SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0328.0020.2005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>24024</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MOSHI MUNICIPAL COUNCIL</employerName>
+      <postalAddress>P.O.BOX318 MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <telephone>00272750421</telephone>
+      <email>moshimmc@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Student Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALEX JOSEPH </kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>610 MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0784884030</telephone>
+      <mobile>0784884030</mobile>
+      <email>alexjoseph@gamil.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

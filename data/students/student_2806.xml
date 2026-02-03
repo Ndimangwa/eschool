@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2806</studentId>
+  <studentName>GLADNESS KOKUSIMA MUTABUZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.MARYGORETI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1187.0046.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY'S MAZINDE JUU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233.0546.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>KUNDUCHI,BAHARIBEACH</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GEORGE.M.MUTABUZI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO.BOX 30150,KIBAHA</postalAddress>
+      <physicalAddress>KUNDUCHI,BAHARIBEACH</physicalAddress>
+      <fax/>
+      <telephone>0754370732</telephone>
+      <mobile>0754370732</mobile>
+      <email>mutabuzigeorge@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUTABUZI, GLADNESS KOKUSIMA</accountName><bankAccount>0152454257900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>56abd9948ded8ea4bf8b67564763f52c</isaacompletechecksum></student>

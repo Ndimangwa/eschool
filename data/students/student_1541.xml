@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1541</studentId>
+  <studentName>PATRICK NYAMBITA MUYENGE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TUMBI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1088/0114</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TANGA TECHNICAL SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0156/0596</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>INFO@hesb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARTHA MINDE MUYENGE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>PWANI-RUVU</postalAddress>
+      <physicalAddress>PWANI-KIBAHA</physicalAddress>
+      <fax/>
+      <telephone>00255785855688</telephone>
+      <mobile>00255785855688</mobile>
+      <email>mrsmuyenge@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

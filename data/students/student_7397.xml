@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7397</studentId>
+  <studentName>LILIAN EVARIST MUNISHI</studentName>
+  <accademicHistory><institution><institutionName>VISITATION GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0263.0047.2014</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>MERIT</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>EVARIST MUNISHI</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 60191</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0713449959</telephone><mobile>0713449959</mobile><email/><financedItem>TUITION FEE, ACCOMODATION AND MEALS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>EVARIST MUNISHI</kinName><relationship>PARENT</relationship><postalAddress>P.O.BOX 60191</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>0713449959</telephone><mobile>0713449959</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>LILIAN</accountName><bankAccount>21610014403</bankAccount><bankName>NMB</bankName><branchName>IFAKARA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2f73cc5504493a5ba11d7cb0a88aadca</isaacompletechecksum></student>

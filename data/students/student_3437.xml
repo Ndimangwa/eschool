@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3437</studentId>
+  <studentName>isaac saidi shemdoe</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>msasani secondary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s3371/0151/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>lyamungo high school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0125/0895/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>valeria john tarimo</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>6521</postalAddress>
+      <physicalAddress>moshi MJINI</physicalAddress>
+      <fax/>
+      <sponsorfax>0762335976</sponsorfax>
+      <mobile>0762335976</mobile>
+      <email>isaacsaidi94@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>valeria</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>6521</postalAddress>
+      <physicalAddress>moshi MJINI</physicalAddress>
+      <fax/>
+      <telephone>0762335976</telephone>
+      <mobile>0762335976</mobile>
+      <email>isaacsaidi94@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

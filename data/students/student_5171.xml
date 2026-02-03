@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5171</studentId>
+  <studentName>IBRAHIM IRENEUS MAUKI</studentName>
+  <accademicHistory><institution><institutionName>MARANGU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0388.0099.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ILBORU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0110.0624.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O. BOX 76068</postalAddress><physicalAddress>P.O. BOX 76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>IRENE MAUKI</kinName><relationship>FATHER</relationship><postalAddress>PO BOX 211 HIMO</postalAddress><physicalAddress>PO BOX 211 HIMO</physicalAddress><fax></fax><telephone>0754449279</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>IBRAHIM I MAUKY</accountName><bankAccount>0152284065400</bankAccount><bankName>CRDB BANK</bankName><branchName>MARANGU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2b97edc8948fadda971ed75957b1281d</isaacompletechecksum></student>

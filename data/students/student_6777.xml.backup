@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6777</studentId>
+  <studentName>fred frank</studentName>
+  <accademicHistory><institution><institutionName>nyasubi sec school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S3638.0104.2011</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>division three</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>08557646aca37300aa620389c7b6e201</isaacompletechecksum></student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>837</studentId>
+  <studentName>HAPPY FLORIAN MBWILO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AIR-WING HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0784-0066</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MVUMI SCHOOL OF NURSING</institutionName>
+      <specialization>MIDWIFERY AND GENERAL NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>30497</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>HAPPY FLORIAN MBWLO</employerName>
+      <postalAddress>s.l.p 30 mbeya</postalAddress>
+      <physicalAddress>s.l.p 30 mbeya</physicalAddress>
+      <telephone>0763119785</telephone>
+      <email>happyflorian89@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VIDENZIA WISTON NGUNYALI</kinName>
+      <relationship>MY MOTHER</relationship>
+      <postalAddress>S.L.P 1613 IRINGA</postalAddress>
+      <physicalAddress>S.L.P 1613 IRINGA</physicalAddress>
+      <fax/>
+      <telephone>0755387447</telephone>
+      <mobile>0755387447</mobile>
+      <email>happyflorian89@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

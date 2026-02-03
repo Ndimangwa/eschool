@@ -1,0 +1,6 @@
+//Algorithm
+1. convert id_membership -> specified menuItemClicked 
+2. Convert MEMBERSHIP TYPE -> Caption you need 
+3. Convert Membership Type -> Caption  you need
+4. MembershipType -> Class Name [Class/Object Name]
+5. Convert membershiptype -> the required class ie churchprofile [used in manageXXXX] //also covers member1->anyobject reference

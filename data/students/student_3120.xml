@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3120</studentId>
+  <studentName>gaspar paul misanga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.CAROLUS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0962.0031.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110.0567.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PAUL MISANGA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 696 MOSHI</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>00255689358882</telephone>
+      <mobile>00255689358882</mobile>
+      <email>gasparpaul4@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MISANGA, GASPAR PAUL</accountName><bankAccount>0152333020300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3374f91eb224720c12c61a49f2f21be0</isaacompletechecksum></student>

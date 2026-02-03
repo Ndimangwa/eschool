@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>719</studentId>
+  <studentName>ELIZABETH LUKAS MOSHA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SANYA JUU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1183.0013.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA GIRLS HIGH SCOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211.0626.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>DSM</postalAddress>
+      <physicalAddress>P.O.BOX76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HADIJA OMARI MOSHA  </kinName>
+      <relationship>AUNT</relationship>
+      <postalAddress>P.O.BOX 8551</postalAddress>
+      <physicalAddress>NAMANGA BUGURUNI</physicalAddress>
+      <fax/>
+      <telephone>0766410385</telephone>
+      <mobile>00225766410385</mobile>
+      <email>haidijamosha@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MOSHA, ELIZABETH LUKAS</accountName><bankAccount>16210001735</bankAccount><bankName>NMB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d912e0a150703cdd3dc889efc8d6dafa</isaacompletechecksum></student>

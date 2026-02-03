@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>970</studentId>
+  <studentName>OLIMPIA BERNARD TARIMO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISALE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0795-0027</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KARATU SECONDARY SCHOOL</institutionName>
+      <specialization>CBA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0365/0042</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MACHAME CLINICAL OFFICERS TRAINING CENTRE</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CO/IV/983/06</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MOSHI MUNICIPAL COUNCIL</employerName>
+      <postalAddress>318</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <telephone>002552752906</telephone>
+      <email>md@moshimc.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>daresalam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>bernard augustine tarimo</kinName>
+      <relationship>father</relationship>
+      <postalAddress>3044</postalAddress>
+      <physicalAddress>machame hospital</physicalAddress>
+      <fax/>
+      <telephone>0762783802</telephone>
+      <mobile>0784328130</mobile>
+      <email>bernardtarimo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

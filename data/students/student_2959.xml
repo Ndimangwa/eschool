@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2959</studentId>
+  <studentName>NUSAIBA FUAD BARAHIYAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ARAFAH ISLAMIC SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1257.0056.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIRINJIKO ISLAMIC SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0188.0531.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,DAR ES SALAAM</postalAddress>
+      <physicalAddress>MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FUAD ABDRAHIM SALIM</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1007,TANGA</postalAddress>
+      <physicalAddress>STREET NO.7</physicalAddress>
+      <fax/>
+      <telephone>00255715986025</telephone>
+      <mobile>0715986025</mobile>
+      <email>fuad00065@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>BARAHIYAN, NUSAIBA FUAD</accountName><bankAccount>0152386772500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>504fca2a8bef3b95acbbc022b5c319d4</isaacompletechecksum></student>

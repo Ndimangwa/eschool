@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>25</studentId>
+  <studentName>ANORD AUGUSTINE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYAMANORO  SEC.SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2530/0065</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155/0506</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772433</sponsorfax>
+      <mobile>00255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SALATH HASSAN</kinName>
+      <relationship>GRAND MOTHER</relationship>
+      <postalAddress>6310 MWANZA</postalAddress>
+      <physicalAddress>NYAMANORO C</physicalAddress>
+      <fax/>
+      <telephone>0754435445</telephone>
+      <mobile>0754435445</mobile>
+      <email>salath@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

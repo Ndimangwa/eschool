@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3337</studentId>
+  <studentName>MOZA ISSA JUMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIPONDA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0832-0021</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUMUMBA SEC SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0326-0551</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>COLLEGE OF HEALTH SCIENCE ZANZIBAR</institutionName>
+      <specialization>DIPLOMA IN NURSING AND MIDWIFERY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SN: 00049</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JUMA MUSSA MRISHO</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>237</postalAddress>
+      <physicalAddress>zanzibar</physicalAddress>
+      <fax/>
+      <telephone>0772687074</telephone>
+      <mobile>0772687074</mobile>
+      <email>topnyare@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3246</studentId>
+  <studentName>ZUWENA A HASSAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JANG'OMBE SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0833-0089</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>COLLEGE OF HEALTH SCIENCE ZANZIBAR</institutionName>
+      <specialization>GENERAL NURSE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SN:00091</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT'S LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road,Mwege Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RIZIKI ALI HASSAN</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>TOMONDO ZANZIBAR</postalAddress>
+      <physicalAddress>TOMONDO ZANZIBAR</physicalAddress>
+      <fax/>
+      <telephone>0777205750</telephone>
+      <mobile>0777205750</mobile>
+      <email>zuwena.hassan@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

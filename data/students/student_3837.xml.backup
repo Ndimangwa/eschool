@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3837</studentId>
+  <studentName>msyangi bulongo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>pasiansi secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s 1706/0244</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kilangalanga secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s 0870/0611</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heSLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 76068 dar es salaam</postalAddress>
+      <physicalAddress>kimweri complex msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>002555222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mujo</kinName>
+      <relationship>sister</relationship>
+      <postalAddress>p.o Box 1213 mwanza</postalAddress>
+      <physicalAddress>ilemela</physicalAddress>
+      <fax/>
+      <telephone>0767361201</telephone>
+      <mobile>+255767361201</mobile>
+      <email>ezrabulongo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

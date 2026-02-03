@@ -1,0 +1,32 @@
+TODAY
+
+--- mergeClearedDetails , clearedDetails is not written why
+--- proceed to second report
+	
+MOOC Having : marko.mataja@kcmuco.ac.tz // In his machine he appears done , in another machine not yet
+	TO DO LIST
+	DONE:1. College Plus, make sure managestudent_edit including all Approval Sequence is working
+	DONE:2. Change results template for kcmuco, to including examination number instead of registration number
+	3. Upload Results to kcmuco 
+	
+	DONE:==> Create Account for Focus Maro, with results template download 
+	DONE:==> Do Natting to AMIS for port 443 only 
+	DONE:==> Process MOOC list students ; 
+	
+	//Proceed with status check before and after supplimentary, add function on ResultsDataLine , which will return cleared, failed or disqualified (MRI prospectus page no 31)
+	
+Target Student: TUMA/KCMUCo/BSC.N.2014/2015/TZ/0335    << innocent.lukiza
+
+His/Her Results After Compilation before Supplimentary
+																		ANS 304		CHN 304		RSM 304		LEM 304
+743		TUMA/KCMUCo/BSC.N.2014/2015/TZ/0335	11	99.3#103.3#101.2		5			95			49			48 
+
+We need After Supplimentary 
+
+
+TransactionId 		Module Code
+			99		ANS 304 
+			100		NED 304 
+			101		RSM 304 
+			102 	CHN 304 
+			103 	LEM 304 

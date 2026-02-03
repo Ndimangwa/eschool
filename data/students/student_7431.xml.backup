@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7431</studentId>
+  <studentName>JACKLINE DOMINICK HAMISI</studentName>
+  <accademicHistory><institution><institutionName>JANGWANI SEC. SCHOOL</institutionName><specialization>Certificate of secondary education</specialization><levelId>4</levelId><indexNumber>S0204.0125.2010</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION </award><grade>CREDIT OF 1.15</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>943340cfa1fed44b88ae20c112373f22</isaacompletechecksum></student>

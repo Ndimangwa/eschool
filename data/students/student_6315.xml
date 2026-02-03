@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6315</studentId>
+  <studentName>FATUMA AYOUB KUFAKUNOGA</studentName>
+  <accademicHistory><institution><institutionName>CITY SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0806.0060.2007</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>2004</startYear><endYear>2007</endYear></institution><institution><institutionName>MVUMI MEDICAL TRAINING CENTRE</institutionName><specialization>MEDICAL LABORATORY TECHNOLOGY</specialization><levelId>5</levelId><indexNumber>No.16763</indexNumber><award>CERTIFICATE</award><grade>CERTIFICATE</grade><startYear>2009</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>PERMANENT SECRETARY</employerName><postalAddress>P.O. BOX 9083</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222139951</fax><telephone>+255222120261</telephone><mobile>+255222120261</mobile><email>moh@cats-net.com</email><startYear>2012</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>FATUMA AYOUB KUFAKUNOGA</sponsorName><payerId>1</payerId><postalAddress>P.O. BOX 12</postalAddress><physicalAddress>SANYA JUU</physicalAddress><fax/><telephone>+255752140164</telephone><mobile>+255752140164</mobile><email>fatmakufakunoga@gmail.com</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ISSAH MAULID KITUKULU</kinName><relationship>HUSBAND</relationship><postalAddress>P.O BOX 1809</postalAddress><physicalAddress>DODOMA</physicalAddress><fax></fax><telephone>+255755065112</telephone><mobile>+255755065112</mobile><email>issahkitukulu@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FATUMA AYOUB KUFAKUNOGA</accountName><bankAccount>40110000985</bankAccount><bankName>NMB</bankName><branchName>HAI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>bf7e0f643f4144955eb65b27c0691668</isaacompletechecksum></student>

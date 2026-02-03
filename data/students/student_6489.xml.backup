@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6489</studentId>
+  <studentName>SHABANI RAMADHANI MZIRAY</studentName>
+  <accademicHistory><institution><institutionName>MAKANYA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0802.0025.2005</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2002</startYear><endYear>2005</endYear></institution><institution><institutionName>MINAKI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0133.0695.2008</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION THREE</grade><startYear>2006</startYear><endYear>2008</endYear></institution><institution><institutionName>MUHAS</institutionName><specialization>BMLS</specialization><levelId>15</levelId><indexNumber>BMLS000072</indexNumber><award>DEGREE </award><grade>LOWER SECOND CLASS</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH</employerName><postalAddress>P.O.BOX 9083, DSM</postalAddress><physicalAddress> DSM</physicalAddress><fax> </fax><telephone> </telephone><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH</sponsorName><payerId>10</payerId><postalAddress>P.O.BOX 9083, DSM</postalAddress><physicalAddress>DSM</physicalAddress><fax/><telephone/><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SHABANI RAMADHANI MZIRAY</accountName><bankAccount>40110003328</bankAccount><bankName>NMB </bankName><branchName>HAI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fd92390b89b169fa50db1005e0d6e6f5</isaacompletechecksum></student>

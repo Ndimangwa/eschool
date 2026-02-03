@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4653</studentId>
+  <studentName>ABRAHAMO ARAO NHUTENE MATOVA</studentName>
+  <accademicHistory><institution><institutionName>ESCOLA SECUNDARIA DA JECUA</institutionName><specialization>GRADE 10</specialization><levelId>4</levelId><indexNumber>P0050.8102.2002</indexNumber><award>DIPLOMA</award><grade>10</grade><startYear>2000</startYear><endYear>2002</endYear></institution><institution><institutionName>ESCOLA SECUNDARIA SAMORA MOISES MACHEL</institutionName><specialization>GRADE 12</specialization><levelId>8</levelId><indexNumber>S0010.0003.2004</indexNumber><award>DIPLOMA</award><grade>12</grade><startYear>2003</startYear><endYear>2004</endYear></institution><institution><institutionName>UNIVERSIDADE EDUARDO MONDLANE</institutionName><specialization>HONOURS DEGREE</specialization><levelId>15</levelId><indexNumber>DE0002.0003.2011</indexNumber><award>CERTIFICATE</award><grade>HONOURS DEGREE</grade><startYear>2005</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DISTRICTAL SERVICE OF HEALTH, WOMAN AND SOCIAL ACTION OF ILE</employerName><postalAddress>P1254</postalAddress><physicalAddress>ILE DISTRICT, ZAMBEZIA, MOZAMBIQUE</physicalAddress><fax/><telephone/><mobile/><email>sdsmasile@gmail.com</email><startYear>2011</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>LIGHT FOR THE WORLD</sponsorName><payerId>5</payerId><postalAddress>beira, macuti</postalAddress><physicalAddress>beira macuti</physicalAddress><fax/><telephone/><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOSE ARAO</kinName><relationship>BROTHER</relationship><postalAddress>BEIRA, PONTAGEA</postalAddress><physicalAddress>BEIRA, PONTAGEA</physicalAddress><fax></fax><telephone>+258820481200</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ABRAHAMO ARAO NHUTENE MATOVA</accountName><bankAccount>112852420</bankAccount><bankName>MILLENNIUM BIM</bankName><branchName>BIM</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>32dd7fe757d2ed2bd639d7a5093f86e2</isaacompletechecksum></student>

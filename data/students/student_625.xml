@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>625</studentId>
+  <studentName>ELVIRA JOSUE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>HEKIMA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0232.0045.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0248.0539.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSUE JOSEPH</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 130</postalAddress>
+      <physicalAddress>RUBYA BUKOBA</physicalAddress>
+      <fax/>
+      <telephone>0764870283</telephone>
+      <mobile>0787227015</mobile>
+      <email>bahanzikajosue@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JOSUE, ELVIRA</accountName><bankAccount>0152432691200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ab441e3cf750557cf6b8d2cf419d6da3</isaacompletechecksum></student>

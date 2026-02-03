@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>506</studentId>
+  <studentName>TULAFIONA ISAACK NYAKONJI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.CAROLUS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0962/0020</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY"S MAZINDE JUU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233/0606</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsab.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISAACK WILIUM NYAKONJI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 174</postalAddress>
+      <physicalAddress>SINGIDA</physicalAddress>
+      <fax/>
+      <telephone>0753420495</telephone>
+      <mobile>0753420495</mobile>
+      <email>isaacknyakonji@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

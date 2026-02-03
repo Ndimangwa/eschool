@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>315</studentId>
+  <studentName>ELIZABETH E.MGHASE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAZINDE JUU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0233.0016.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MSALATO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0214.0521.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>EDWARD MGHASE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 1713</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0684396083</sponsorfax>
+      <mobile>0684396083</mobile>
+      <email>judithmgasse34@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JUDITH MGASSE</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>P.O.BOX 1713</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0653664969</telephone>
+      <mobile>0653664969</mobile>
+      <email>judithmgasse34@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MGHASE,  ELIZABETH  E</accountName><bankAccount>0152221794600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2b86fc59efe174f78910ef20f7610206</isaacompletechecksum></student>

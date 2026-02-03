@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>666</studentId>
+  <studentName>IBRAHIM JULIUS MAZARA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>YUSTA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3934.0022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NSUMBA SECONDARY SCHOOL</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0144.0633</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JULIUS MAZARA</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>11687</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0767006636</telephone>
+      <mobile>0767006636</mobile>
+      <email>julius.mazara@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

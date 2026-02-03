@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3977</studentId>
+  <studentName>SHEKHA YUSUPH ALLY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PANDAHILL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0867.0044.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.CHRISTINA GIRLS SECONDARY SCOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0255.0591.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar-es-salaaam,Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YUSUPH ALLY</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>529</postalAddress>
+      <physicalAddress>mbeya</physicalAddress>
+      <fax/>
+      <telephone>0025527211</telephone>
+      <mobile>0755272111</mobile>
+      <email>YusuphAlly@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ALLY, SHEKHA YUSUPH</accountName><bankAccount>0152255462900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>eed660f5662295d549c25470291201ca</isaacompletechecksum></student>

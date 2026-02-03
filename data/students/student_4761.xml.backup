@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4761</studentId>
+  <studentName>SARAPHIA ALEX MWACHA</studentName>
+  <accademicHistory><institution><institutionName>KIRAENI GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0207.0109.2013</indexNumber><award>certificate of Secondary Education</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>RUVU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0369.0595.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>BEATRICE ALEX MWACHA</sponsorName><payerId>3</payerId><postalAddress>ARUSHA 13291</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0754852140</telephone><mobile/><email>beatricealexmwacha@gmail.com</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SARAPHIA ALEX MWACHA</accountName><bankAccount>0152202514100</bankAccount><bankName>CRDB BANK</bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>52e5df6617f8d031ca04e7f1129b00b2</isaacompletechecksum></student>

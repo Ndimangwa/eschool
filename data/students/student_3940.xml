@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3940</studentId>
+  <studentName>Mayenga Ngusa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Itilima</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1034.0080.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Same</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150.0696.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,Dsm</postalAddress>
+      <physicalAddress>76068,Dsm</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Ngusa</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>184,Bariadi</postalAddress>
+      <physicalAddress>184,Bariadi</physicalAddress>
+      <fax/>
+      <telephone>0767419105</telephone>
+      <mobile>0767419105</mobile>
+      <email>Mayengangusa20@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NGUSA, MAYENGA</accountName><bankAccount>0152284933300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9a6b0266a5dcf8864cc8c99e92f24de9</isaacompletechecksum></student>

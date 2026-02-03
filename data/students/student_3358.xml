@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3358</studentId>
+  <studentName>PETER ANTHONY HAMULI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DUN'GUNYI SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0106/0022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>EDMUND RISE SINON SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0629/0695</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ANTHONY D MKUKI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>236</postalAddress>
+      <physicalAddress>SINGIDA</physicalAddress>
+      <fax/>
+      <sponsorfax>0784854693</sponsorfax>
+      <mobile>000784854693</mobile>
+      <email>anthonymkuki@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANTHONY D MKUKI</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>236</postalAddress>
+      <physicalAddress>SINGIDA</physicalAddress>
+      <fax/>
+      <telephone>000784854693</telephone>
+      <mobile>000784854693</mobile>
+      <email>anthonymkuki@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

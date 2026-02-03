@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7763</studentId>
+  <studentName>Aneth Damasen Mujwauzi</studentName>
+  <accademicHistory><institution><institutionName>BWERANYANGE GIRLS SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0172.0005.2010</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 3</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DAMASEN MUJWAUZI</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 306</postalAddress><physicalAddress>KAGERA</physicalAddress><fax/><telephone>0754398654</telephone><mobile>0622222084</mobile><email/><financedItem>TUITION FEES</financedItem><extraInformation>FATHER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>TUMUSIIME MUJWAUZI</kinName><relationship>BROTHER</relationship><postalAddress>P.O.BOX 306</postalAddress><physicalAddress>KAGERA</physicalAddress><fax></fax><telephone>0753091238</telephone><mobile>0622588910</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ANNETH D. MUJWAUZI</accountName><bankAccount>0152095401700</bankAccount><bankName>CRDB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>844caeb4494ae2f7076e3fe51d669cc2</isaacompletechecksum></student>

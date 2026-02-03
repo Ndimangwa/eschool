@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3927</studentId>
+  <studentName>husna bakari mwinchande</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>st mary''s mwanza</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4395.0026.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mwanza secondary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0333.0543.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Student's Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>bakari mwinchande</kinName>
+      <relationship>father</relationship>
+      <postalAddress>11351</postalAddress>
+      <physicalAddress>mwanza</physicalAddress>
+      <fax/>
+      <telephone>+2550754470036</telephone>
+      <mobile>0754470036</mobile>
+      <email>bakarimwinchande@ymail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MWINCHANDE, HUSNA BAKARI</accountName><bankAccount>0152215059000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c2e7f46ab4df3321f3690a9faf2f079f</isaacompletechecksum></student>

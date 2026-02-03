@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>690</studentId>
+  <studentName>Edwin Mohamed</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Nyegina Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0630/0074</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Milambo high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0132/0565</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Rukia Mohamed</kinName>
+      <relationship>Aunt</relationship>
+      <postalAddress>180 Mugumu serengeti</postalAddress>
+      <physicalAddress>180 mugumu Serengeti</physicalAddress>
+      <fax/>
+      <telephone>0786681584</telephone>
+      <mobile>0786681584</mobile>
+      <email>Rukiamohamed@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

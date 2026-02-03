@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>546</studentId>
+  <studentName>AHAZ K JOTHAM</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MILALA AGRO TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO 402-0118</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAZENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO 313-0412</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC</institutionName>
+      <specialization>MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K O289</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>D.E.D MERU</employerName>
+      <postalAddress>P.O BOX 462</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <telephone>+255272541112</telephone>
+      <email>merudc@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH &amp; SOCIAL WELFARE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 11478</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222120261</sponsorfax>
+      <mobile>+255222120261</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Josephine Shida Minungu</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>A.L.M.C P.O BOX 17047</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0754629742</telephone>
+      <mobile>+255754629742</mobile>
+      <email>ahaz.jotham26@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

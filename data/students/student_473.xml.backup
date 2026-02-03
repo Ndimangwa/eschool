@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>473</studentId>
+  <studentName>Athumani A. Mnindwa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kiboriloni</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1416-0134</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Same secondary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150-0632</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Abdallah Dyangala Mnindwa</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1357 Moshi</postalAddress>
+      <physicalAddress>majengo miembeni</physicalAddress>
+      <fax/>
+      <sponsorfax>0272755093</sponsorfax>
+      <mobile>0767430204</mobile>
+      <email>abdallahmnindwa@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Abdallah Dyangala Mnindwa</kinName>
+      <relationship>parent</relationship>
+      <postalAddress>1357 moshi</postalAddress>
+      <physicalAddress>Majengo miembeni</physicalAddress>
+      <fax/>
+      <telephone>0272755093</telephone>
+      <mobile>0767430204</mobile>
+      <email>abdallahmnindwa@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3368</studentId>
+  <studentName>MAULID JAPHARY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LYAMUNGO SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0125-0138</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LONGIDO SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0857-0686</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SOKOINE UNIVERSITY OF AGRICULTURE</institutionName>
+      <specialization>BIOTECHNOLOGY AND LABORATORY SCIENCIES</specialization>
+      <levelId>15</levelId>
+      <indexNumber>BLS/D/09/T/0003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS-GEITA</employerName>
+      <postalAddress>315-GEITA</postalAddress>
+      <physicalAddress>GEITA</physicalAddress>
+      <telephone>0282520025</telephone>
+      <email>rasgeita@pmoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MAULID JAPHARY</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>315-GEITA</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0753595947</sponsorfax>
+      <mobile>0753595947</mobile>
+      <email>japhado@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOYCE THOMAS</kinName>
+      <relationship>SPOUSE</relationship>
+      <postalAddress>3-MBULU</postalAddress>
+      <physicalAddress>MBULU</physicalAddress>
+      <fax/>
+      <telephone>0752202808</telephone>
+      <mobile>0752202808</mobile>
+      <email>joyce@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5264</studentId>
+  <studentName>HUSNA HASSAN SAID</studentName>
+  <accademicHistory><institution><institutionName>ST. ANNE MARIE ACADEMY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1343.0027.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f3a6f605658af0b64d8ba6f085ec0cbb</isaacompletechecksum></student>

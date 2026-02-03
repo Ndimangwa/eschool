@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3882</studentId>
+  <studentName>BRENDA NICHOLAUS SHIRIMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ANNA MKAPA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3691-0016-2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JANGWANI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0204-0507-2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>P.O BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FAITH DAUD MREMA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O BOX 3054 MAWENZI</postalAddress>
+      <physicalAddress>P.O BOX 3054 MAWENZI</physicalAddress>
+      <fax/>
+      <telephone>00255742996775</telephone>
+      <mobile>0742996775</mobile>
+      <email>bightnessnicholaus@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

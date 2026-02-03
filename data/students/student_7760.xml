@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7760</studentId>
+  <studentName>HUSNA HASSA SAID</studentName>
+  <accademicHistory><institution><institutionName>ST.ANNE MARIE ACADEMY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1343.0027.2012</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION THREE</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JUDY S. SADIKIEL</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 13504 DAR-ES-SALAAM</postalAddress><physicalAddress>AFRICANA-DAR-ES-SALAAM</physicalAddress><fax/><telephone/><mobile>0754273066</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation>MOTHER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HASSAN S. SALUM</kinName><relationship>PARENT</relationship><postalAddress>PO.BOX 15402</postalAddress><physicalAddress>AFRICANA-DAR-ES-SALAAM</physicalAddress><fax></fax><telephone>+255789100009</telephone><mobile>+255768300003</mobile><email></email><extraInformation>FATHER</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HUSNA H. SAID</accountName><bankAccount>0152095401700</bankAccount><bankName>CDB BANK</bankName><branchName>DAR-ES-SALAAM</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9095b7d3cfa9d5fcad4faf3f44afc1b5</isaacompletechecksum></student>

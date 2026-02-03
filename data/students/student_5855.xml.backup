@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5855</studentId>
+  <studentName>PROSPER A KILEMWA</studentName>
+  <accademicHistory><institution><institutionName>ROSMINI</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0692.0078.2010</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2007</startYear><endYear>2010</endYear></institution><institution><institutionName>ST. JOSEPH'S CATHEDRAL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S4692.0671.2013</indexNumber><award>CERTIFICATE OF ADVANCED SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5dd089bccf8596cdf7192dc4502d0ef6</isaacompletechecksum></student>

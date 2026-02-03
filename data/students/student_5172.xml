@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5172</studentId>
+  <studentName>PETER P KAFUBHI</studentName>
+  <accademicHistory><institution><institutionName>AZANIA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0101.0355.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ILBORU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0110.0686.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1</grade><startYear>2014 </startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O. BOX 76068</postalAddress><physicalAddress>P.O.BOX 76068</physicalAddress><fax>+255222772432</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PAUL KAFUBHI</kinName><relationship>FATHER</relationship><postalAddress>P.O. BOX 1130 TPA CONTAINER TERMINAL DAR ES SALAAM</postalAddress><physicalAddress>P.O.BOX 1130 DAR ES SALAAM</physicalAddress><fax></fax><telephone>0743282486</telephone><mobile>0743282486</mobile><email>speciozamurusha75@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>PETER PAUL KAFUBHI </accountName><bankAccount>0152327161900</bankAccount><bankName>CRDB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>530e64368478935b1327cca5c160e143</isaacompletechecksum></student>

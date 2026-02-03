@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>17</studentId>
+  <studentName>ELYNSE KAMUGISHA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PEACE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1689/0104/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119/0586/2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS`LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068DARESSALAAM</postalAddress>
+      <physicalAddress>BLOCK No.46,Sam Nujoma road,Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LEONIA KAIJAGE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 284</postalAddress>
+      <physicalAddress>BUKOBA</physicalAddress>
+      <fax/>
+      <telephone>0757436073</telephone>
+      <mobile>0757436073</mobile>
+      <email>kaijagel@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

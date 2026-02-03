@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>85</studentId>
+  <studentName>Robert Sembela Michael</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Biafra secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1189.0143</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Azania secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0101.0769</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Clinical officer training centre-Lindi</institutionName>
+      <specialization>Diploma in Clinical Medicine</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CO/LIND/11/47</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher education student loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>daressalaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Lucas Charles Kamanija</kinName>
+      <relationship>father</relationship>
+      <postalAddress>77588 </postalAddress>
+      <physicalAddress>daresalaam</physicalAddress>
+      <fax/>
+      <telephone>00255754269447</telephone>
+      <mobile>00255754269447</mobile>
+      <email>lucaskamanija@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

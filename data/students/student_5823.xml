@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5823</studentId>
+  <studentName>ANASTAZIA RUTHA DIAMERI</studentName>
+  <accademicHistory><institution><institutionName>SHIGHATINI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0358.0001.2013</indexNumber><award>DIVISION THREE</award><grade>PASS</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MACHAME GIRLS HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0212.0578.2016</indexNumber><award>DIVISION THREE</award><grade>PASS</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HARUN MUSA MWENDA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 17 KILIMANJARO</postalAddress><physicalAddress>SAME</physicalAddress><fax/><telephone>0765449156</telephone><mobile>0765449156</mobile><email/><financedItem>TUITION FEE AND ACCOMMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HARUN MUSA MWENDA</kinName><relationship>PARENT</relationship><postalAddress>P.O.BOX 17 KILIMANJARO</postalAddress><physicalAddress>SAME</physicalAddress><fax></fax><telephone>0765449156</telephone><mobile>0765449156</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>AANASTAZIA D RUTTA</accountName><bankAccount>40510003765</bankAccount><bankName>NATIONAL MICROFINANCE BANK</bankName><branchName>SAME</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0ed1052d524b5fa86815204384921898</isaacompletechecksum></student>

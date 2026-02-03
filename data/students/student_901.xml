@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>901</studentId>
+  <studentName>PRISKA ALANUS MYOKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MADABA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1199.0032.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.LUISE MBINGA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0234.0517.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ALANUS HELAMBILI MYOKA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 3</postalAddress>
+      <physicalAddress>MADABA-SONGEA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754352978</sponsorfax>
+      <mobile>+255754352978</mobile>
+      <email>myokapriska@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALANUS HELAMBILI MYOKA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 3</postalAddress>
+      <physicalAddress>MADABA-SONGEA</physicalAddress>
+      <fax/>
+      <telephone>+255754352978</telephone>
+      <mobile>+255754352978</mobile>
+      <email>myokapriska@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MYOKA, PRISKA ALANUS</accountName><bankAccount>0152327719900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e7110acdd531b1dd0b3d3be83f94f9b4</isaacompletechecksum></student>

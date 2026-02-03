@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>219</studentId>
+  <studentName>SEGOLENA D CHISUSE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAWENZI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0328/0108</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DR.OLSEN SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0947/0520</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>0754598440</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DONALD EUWARTS CHISUSE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>2220 </postalAddress>
+      <physicalAddress>KITANDU</physicalAddress>
+      <fax/>
+      <telephone>0025555577701</telephone>
+      <mobile>0755577701</mobile>
+      <email>Donald@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

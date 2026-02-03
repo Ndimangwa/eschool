@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3942</studentId>
+  <studentName>CHESCO AUGUSTINO POLLA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MBEYELA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3467.0076.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NJOMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0143.0620.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NJOMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0143/0620/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>INfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AUGUSTINO POLLA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>904</postalAddress>
+      <physicalAddress>NJOMBE</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0752998511</mobile>
+      <email>pollachesco@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>POLLA, CHESCO AUGUSTINO</accountName><bankAccount>0152422278800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fe5f03c738738bab257554d434c6b51b</isaacompletechecksum></student>

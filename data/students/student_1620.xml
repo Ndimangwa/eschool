@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1620</studentId>
+  <studentName>Gift S.Daniel</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mukidoma</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0216/0020</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Nganza</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0216/0780</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Msasani, Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>INfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Elisifa Jonathan</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>1632</postalAddress>
+      <physicalAddress>Zanzibar</physicalAddress>
+      <fax/>
+      <telephone>00255773823893</telephone>
+      <mobile>0762823893</mobile>
+      <email>sedana@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

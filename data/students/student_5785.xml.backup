@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5785</studentId>
+  <studentName>SAMWEL M CHRISTOPHER</studentName>
+  <accademicHistory><institution><institutionName>KIARA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1470.0201.2012</indexNumber><award>CSE</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>MOSHI TECHNICAL SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0135.0699.2015</indexNumber><award>ACSE</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation>NIL</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHRISTOPHER MAGESA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 144 </postalAddress><physicalAddress>RORYA</physicalAddress><fax>+255765900783</fax><telephone>0765900783</telephone><mobile>0765900783</mobile><email>christophermg@gmail.com</email><extraInformation>NIL</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SAMWEL MAGESA CHRISTOPHER</accountName><bankAccount>0152201532700</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>eb26323b8e26e3f4acbf40d05afea67a</isaacompletechecksum></student>

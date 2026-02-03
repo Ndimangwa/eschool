@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>94</studentId>
+  <studentName>ENOCH JOHNSTONE MWIGIRWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PANDAHILL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0867.0097.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110.0590.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>THEODORA .M.J. MWINGIRWA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 2547 DODOMA</postalAddress>
+      <physicalAddress>P.O.BOX 2547 DODOMA</physicalAddress>
+      <fax/>
+      <sponsorfax>0754350417</sponsorfax>
+      <mobile>0754350417</mobile>
+      <email>tmwingirwa@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>THEODORA .M.J. MWINGIRWA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 2547 DODOMA</postalAddress>
+      <physicalAddress>P.O.BOX 2547 DODOMA</physicalAddress>
+      <fax/>
+      <telephone>0754350417</telephone>
+      <mobile>0754350417</mobile>
+      <email>tmwingirwa@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MWIGIRWA, ENOCH JOHNSTONE</accountName><bankAccount>029213006491</bankAccount><bankName> NBC </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3182ccf49abad26aa6a7c60b63bcbc15</isaacompletechecksum></student>

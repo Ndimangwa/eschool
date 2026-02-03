@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3170</studentId>
+  <studentName>FRELIUS JACKSON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYABIYONZA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0637.0044.2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IHUNGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0109.0560.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE MEDICAL TRAINING CENTRE-KIBAHA</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>35608</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, DAR ES SALAAM</postalAddress>
+      <physicalAddress>mwenge dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>2700286Emailinfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EDDA SIPRIDION</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>175</postalAddress>
+      <physicalAddress>NYAKALIRO H/C</physicalAddress>
+      <fax/>
+      <telephone>00255767932212</telephone>
+      <mobile>00255767932212</mobile>
+      <email>esipridion@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JACKSON, FRELIUS</accountName><bankAccount>0152327965500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f5803a79ffbdd15311ca30fa4067a590</isaacompletechecksum></student>

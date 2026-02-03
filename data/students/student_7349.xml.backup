@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7349</studentId>
+  <studentName>EVODIUS RUTAMIGWA</studentName>
+  <accademicHistory><institution><institutionName>BUKALASA MINOR SEMINARY</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>E0176.0004.2014</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>THEONEST RUTAKOLEZIBWA RUTAMIGWA</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 693, BUKOBA</postalAddress><physicalAddress>RWAMISHENYE</physicalAddress><fax/><telephone>0755672275</telephone><mobile/><email>theorutamigwa@gmail.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>THEONEST RUTAKOLEZIBWA RUTAMIGWA</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 693, BUKOBA</postalAddress><physicalAddress>RWAMISHENYE</physicalAddress><fax/><telephone>0755672275</telephone><mobile/><email>theorutamigwa@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EVODIUS RUGASHUMBA RUTAMIGWA</accountName><bankAccount>0152217783900</bankAccount><bankName>CRDB BANK</bankName><branchName>RWAMISHENYE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>40e2c92d30fb6d1bdc4dbe5c713eb4b1</isaacompletechecksum></student>

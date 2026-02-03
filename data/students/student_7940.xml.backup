@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7940</studentId>
+  <studentName>DETINA KOMBA</studentName>
+  <accademicHistory><institution><institutionName>ST FRANCIS GIRL'S SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S0239.0021.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIV I</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>WAJA GIRL'S SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>S5122.0507.2016</indexNumber><award>ADVANCED  CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>4</payerId><postalAddress>P O BOX 76068 DAR R ES SALAAM</postalAddress><physicalAddress>P O BOX 76O68 DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE, ACCOMODATION AND MEALS</financedItem><extraInformation>GOVERNMENT INSTITUTION</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>REMIGIUS KOMBA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 18005 DSM</postalAddress><physicalAddress>P.O.BOX 18005 DSM</physicalAddress><fax>0714615552</fax><telephone>0714615552</telephone><mobile>0714615552</mobile><email>detinangie@gmail.com</email><extraInformation>PARENT</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DATINA REMIGIUS KOMBA</accountName><bankAccount>0152065491000</bankAccount><bankName>CRDB BANK</bankName><branchName>TABATA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>deeb4cc906df361a54125599561bb045</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5208</studentId>
+  <studentName>Kajoro Augustino</studentName>
+  <accademicHistory><institution><institutionName>KCMUCO</institutionName><specialization>MMED.PAEDIATRICS</specialization><levelId>15</levelId><indexNumber>MD000184</indexNumber><award>MD</award><grade>C AND B</grade><startYear>2003</startYear><endYear>2008</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>bf8e0e63acb6b4bc8afc4710f2262109</isaacompletechecksum></student>

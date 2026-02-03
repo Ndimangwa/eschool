@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1996</studentId>
+  <studentName>ANJELA PETER KIMARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAWELLA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1121-0003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SCHOOL OF PHYSIOTHERAPY</institutionName>
+      <specialization>DIPLOMA IN PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>34958</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RESTITUTA PETER KIMARO</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>3010 MWENGE</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255766721967</telephone>
+      <mobile>+255766721967</mobile>
+      <email>angelkimaro2@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

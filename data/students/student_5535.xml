@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5535</studentId>
+  <studentName>MUNA BOGIT SAMHENDA</studentName>
+  <accademicHistory><institution><institutionName>KCMUCO</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>4</levelId><indexNumber>S0603.0123.2013</indexNumber><award> CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE, POINT 13</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SONGEA BOYS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0603.0732.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE,POINT 7</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HELSB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068, DAR ES SALAAM</postalAddress><physicalAddress>P.O BOX 76068, DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MUNA BOGIT SAMHENDA</accountName><bankAccount>0152327163100</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d0366e369f2e2ca4137c57c9415de04a</isaacompletechecksum></student>

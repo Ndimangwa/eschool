@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>815</studentId>
+  <studentName>EVODI JOHN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MOSHI TECHNICAL SECONDARI SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0135.0059.2002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE MEDICAL TRAINING CENTRE-LINDI</institutionName>
+      <specialization>CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>P0134.0672.2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DISTRICT EXECUTIVE DIRECTOR-LINDI</employerName>
+      <postalAddress>328</postalAddress>
+      <physicalAddress>LINDI</physicalAddress>
+      <telephone>0220232261</telephone>
+      <email>dedlindi@yahoo.co.uk</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JULIUS JOHN</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>48</postalAddress>
+      <physicalAddress>MBULU</physicalAddress>
+      <fax/>
+      <telephone>0779308000</telephone>
+      <mobile>0779308000</mobile>
+      <email>juliusjohn@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JOHN, EVODI</accountName><bankAccount>0112517594100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c57d2c6df6590ec892f40a4aece1a2a9</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5521</studentId>
+  <studentName>FORM FOUR</studentName>
+  <accademicHistory><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0485.0020.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO </grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>SCHOOL OF OPTOMETRY</institutionName><specialization>OPTOMETRY</specialization><levelId>12</levelId><indexNumber>27029</indexNumber><award>DIPLOMA</award><grade>PASS</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>BABATI TOWN COUNCIL</employerName><postalAddress>P O BOX 383</postalAddress><physicalAddress>BABATI MANYARA</physicalAddress><fax>+2550272510095</fax><telephone>+2550272510065</telephone><mobile/><email>td@babatitc.go.tz</email><startYear>2012</startYear><endYear>2045</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>LAPF</sponsorName><payerId>5</payerId><postalAddress>P O BOX 1501</postalAddress><physicalAddress>DODOMA</physicalAddress><fax/><telephone>0272548346</telephone><mobile>0262321069</mobile><email>info@lapftz.org</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>SAADA MUSSA</kinName><relationship>MOTHER</relationship><postalAddress>P O BOX 732</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>+255655181530</telephone><mobile>+255655181530</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>IRENE ANDREW KLERUU</accountName><bankAccount>5162394071450506</bankAccount><bankName>NMB</bankName><branchName>BABATI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a81475e3e307f3f9c749c2f11cb34708</isaacompletechecksum></student>

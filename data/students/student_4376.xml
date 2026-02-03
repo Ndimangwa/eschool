@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4376</studentId>
+  <studentName>Justine Deodatus Ngwanda</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KASITA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0117/0024/2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibaha secondary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0119/0612/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 76068</postalAddress>
+      <physicalAddress>box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Deodatus ngwanda</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>box 9024 UBUNGO TANESCO</postalAddress>
+      <physicalAddress>boX 9024 UBUNGO TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>+225713023828</telephone>
+      <mobile>+255713023828</mobile>
+      <email>ngwanda64@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3346</studentId>
+  <studentName>BENNIE ABDISON KALE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOMAKYA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0926.0115.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150.0627.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MORE HOUSE SCHOOL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>GU103AP</postalAddress>
+      <physicalAddress>LONDON</physicalAddress>
+      <fax/>
+      <sponsorfax>+441252792303</sponsorfax>
+      <mobile>+441252792303</mobile>
+      <email>lisaelwell@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ABDISON ELINSA RINGO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1235</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255758580483</telephone>
+      <mobile>+255758580483</mobile>
+      <email>abdisonringo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KALE, BENNIE ABDISON</accountName><bankAccount>0152283565500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>66f7dbaac3b61ca695a2bfeb03a83576</isaacompletechecksum></student>

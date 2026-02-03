@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6349</studentId>
+  <studentName>SECONDARY EDUCATION CERTIFICATE</studentName>
+  <accademicHistory><institution><institutionName>ST.JOSEPH MILLENIUM SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S3674.0026.2013</indexNumber><award>PASS</award><grade>DIVISION ONE 13</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST. MARY GORETI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S1187.0631.2016</indexNumber><award>PRINCIPAL</award><grade>DIVISION ONE 9</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName><payerId>4</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>P.O.BOX 76068 DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile>+2225222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GEORGE RUGAKIRA</kinName><relationship>RELATIVE</relationship><postalAddress>P.O.BOX 7811 MOSHI</postalAddress><physicalAddress>P.O.BOX 7811 MOSHI</physicalAddress><fax/><telephone>0763210477</telephone><mobile>0763210477</mobile><email>g.rugakira@uchumibank.co.tz</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JANETH DIONIS RUGAKIRA</accountName><bankAccount>0152311901200</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>792d91c3595ac4111e3ae7a5ac0654e1</isaacompletechecksum></student>

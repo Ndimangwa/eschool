@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7943</studentId>
+  <studentName>Masanja Robert</studentName>
+  <accademicHistory><institution><institutionName>Mwenge Catholic University</institutionName><specialization>Mathematics and Statistics</specialization><levelId>15</levelId><indexNumber>T/deg/2012/0689</indexNumber><award>Bsc. in Mathematics and Statistics</award><grade>GPA 4.0</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3eccf07b3dc42abb89713100e84d5917</isaacompletechecksum></student>

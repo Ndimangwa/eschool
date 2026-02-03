@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6638</studentId>
+  <studentName>MARY JOHN KIMARIO</studentName>
+  <accademicHistory><institution><institutionName>AGAPE LUTHERAN J SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0184.0026.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>IFUNDA GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0276.0694.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068,DAR ES SALAM</postalAddress><physicalAddress>Sam Nujoma </physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEES, ACCOMODATION, MEALS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FEDILIA ASSERI MWANGA</kinName><relationship>RELATIVE</relationship><postalAddress>P.O .BOX. 1747 MOSHI</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0755962639</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MARY JOHN KIMARIO</accountName><bankAccount>0152475150800</bankAccount><bankName>CRDB BANK </bankName><branchName>MAKAMBAKO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8743f87558f42cc0f7f58cdb98ff1511</isaacompletechecksum></student>

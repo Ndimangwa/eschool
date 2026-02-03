@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2917</studentId>
+  <studentName>MARYAM I NZOTA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>WALI UL ASR GIRLS SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0254/0026</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ARUSHA MODERN SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1178/0503</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>IBRAHIM RAJAB NZOTA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>7381</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>0784424283</telephone>
+      <mobile>0713004486</mobile>
+      <email>mamebrah14@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

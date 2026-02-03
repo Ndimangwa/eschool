@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3316</studentId>
+  <studentName>ELIAKIMU PAUL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0155-0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LONGIDO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0857-0525</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2006-04-02908</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS KILIMANJARO</employerName>
+      <postalAddress>P.O Box 3070</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <telephone>00255272754236</telephone>
+      <email>raskilimanjaro@pmoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PRIVATE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.O Box 5034</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>002552752321</sponsorfax>
+      <mobile>+255752601418</mobile>
+      <email>dell.pmgabe@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DELPHINA PAUL SIMBA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>P.O Box 3010</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>+255754404144</telephone>
+      <mobile>+255754404144</mobile>
+      <email>dell.psimba@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

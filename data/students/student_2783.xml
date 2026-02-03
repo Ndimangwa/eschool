@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2783</studentId>
+  <studentName>Jackline Lyimo Martine</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Lombeta Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0371-0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Rugambwa Secondary School</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0218-0531</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>University of Dodoma</institutionName>
+      <specialization>BSc Biology</specialization>
+      <levelId>15</levelId>
+      <indexNumber>T/UDOM/2009/08245</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NIMR - MWANZA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1462</postalAddress>
+      <physicalAddress>Mwanza</physicalAddress>
+      <fax/>
+      <sponsorfax>+255282500399</sponsorfax>
+      <mobile>+255282500399</mobile>
+      <email>mwanza@nimr.or.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Alex Kisamo</kinName>
+      <relationship>Uncle</relationship>
+      <postalAddress>2075</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <telephone>0754643624</telephone>
+      <mobile>+255754643624</mobile>
+      <email>kisamoalex@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

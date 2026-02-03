@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3901</studentId>
+  <studentName>ISMAIL RAMADHAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISEKE SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>1622/0116/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MINAKI HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0133/0664</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOARN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RAMADHAN SAID</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PObox2843</postalAddress>
+      <physicalAddress>mwanza</physicalAddress>
+      <fax/>
+      <telephone>0754449427</telephone>
+      <mobile>0754449427</mobile>
+      <email>SUMASAID94@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

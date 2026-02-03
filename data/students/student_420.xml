@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>420</studentId>
+  <studentName>MARGARETHA LAURENT SARIKO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBOSHOGIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0205-0084</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0209-0578</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SOKOINE UNIVERSITY OF AGRICULYURE</institutionName>
+      <specialization>BIOTECHNOLOGY AND LAB SCIENCE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>BLS/D/06/T.7352</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY</institutionName>
+      <specialization>CLINICAL RESEARCH</specialization>
+      <levelId>17</levelId>
+      <indexNumber>MSC.CR.2011/TZ/025</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GOOD SAMARITAN FOUNDATION</employerName>
+      <postalAddress>3010</postalAddress>
+      <physicalAddress>3010</physicalAddress>
+      <telephone>00255272754377</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>COSTECH</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>4302</postalAddress>
+      <physicalAddress>4302</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222700745</sponsorfax>
+      <mobile>00255222700745</mobile>
+      <email>info@costech.or.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRANK BOWA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>1470</postalAddress>
+      <physicalAddress>1470</physicalAddress>
+      <fax/>
+      <telephone>0754351580</telephone>
+      <mobile>0754351580</mobile>
+      <email>masala85@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

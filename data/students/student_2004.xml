@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2004</studentId>
+  <studentName>joseph j nshoya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Magila sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>so893-0056</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>singing health lab asst</institutionName>
+      <specialization>lab certificate</specialization>
+      <levelId>8</levelId>
+      <indexNumber>lab/sing/10/858</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>boniface</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po box.34357</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>0255712788869</sponsorfax>
+      <mobile>0685055876</mobile>
+      <email>robbynshoya@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>boniface nshoya</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>po box.34357</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <telephone>0255712788869</telephone>
+      <mobile>0685055876</mobile>
+      <email>robbynshoya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3101</studentId>
+  <studentName>wilson mzungu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>murugwanza secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4547.0108.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>sengerema secondary school</institutionName>
+      <specialization>cBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0151.0639.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po Box  76068</postalAddress>
+      <physicalAddress>daR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00222700286</sponsorfax>
+      <mobile>00222700286</mobile>
+      <email>hanaemail@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>justus mzungu</kinName>
+      <relationship>relative</relationship>
+      <postalAddress>p.o.box 170 ngara</postalAddress>
+      <physicalAddress>kagera</physicalAddress>
+      <fax/>
+      <telephone>0753841647</telephone>
+      <mobile>0753841647</mobile>
+      <email>justsmuzungu@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MZUNGU, WILSON</accountName><bankAccount>0152234487400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e5d957f5b27f7dad1d76b73b1f9836c0</isaacompletechecksum></student>

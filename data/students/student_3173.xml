@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3173</studentId>
+  <studentName>Manasseh J Haule</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TENGERU BOYS' SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1601.0057.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN BOYS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4213.0568.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p. O Box 76068</postalAddress>
+      <physicalAddress>p.o box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH J HAULE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>11341 ARUSHA</postalAddress>
+      <physicalAddress>11341 ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0754488293</telephone>
+      <mobile>0754488293</mobile>
+      <email>joehaule@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>HAULE, MANASSEH J</accountName><bankAccount>0152434539500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>155efe9149850d6d5c27a3c3b2352363</isaacompletechecksum></student>

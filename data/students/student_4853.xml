@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4853</studentId>
+  <studentName>MICHAEL JOHN NGOWI</studentName>
+  <accademicHistory><institution><institutionName>MARINGENI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2028.0052.2013</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>NSUMBA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0144.0655.2016</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGH EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>P.O.BOX 76068 DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation>www.heslb.go.tz</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>EDITH EPHRON NGOWI</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 1609 MWANZA</postalAddress><physicalAddress>P.O.BOX 1609 MWANZA</physicalAddress><fax></fax><telephone>+255756353360</telephone><mobile>+255652353360</mobile><email>edithngowi77@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MICHAEL JOHN NGOWI</accountName><bankAccount>31110018669</bankAccount><bankName>NMB</bankName><branchName>KENYATTA ROAD</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>596aa0631f2df127118928ce3ecefc4a</isaacompletechecksum></student>

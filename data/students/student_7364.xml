@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7364</studentId>
+  <studentName>CERTIFICATE OF SECONDARY EDUCATION</studentName>
+  <accademicHistory><institution><institutionName>MUHEZA MUSLIM SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1080.0128.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SANYA JUU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1183.0525.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>AMINA MAULID SHABAN</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 24</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax/><telephone>0653424882</telephone><mobile>0653424882</mobile><email>Kinadsky200@gmail.com</email><financedItem>MOTHER</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AMINA MAULID SHABAN</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 24</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax></fax><telephone>+255653424882</telephone><mobile>0653424882</mobile><email>KIndasky200@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ISSA JONATHAN KINDAMBA</accountName><bankAccount>40110007086</bankAccount><bankName>NMB</bankName><branchName>HAI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6ad0a5e7d3a06cee148e12e2660a4756</isaacompletechecksum></student>

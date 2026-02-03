@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6231</studentId>
+  <studentName>ALKALDO KILEMO BENEDICTO</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>BSc.PROSTHETICS AND ORTHOTICS</specialization><levelId>4</levelId><indexNumber>S3750.0030.2010</indexNumber><award>PHYSICS-C CHEMISTRY-B, BIOLOGY-C</award><grade>C,B,C</grade><startYear>2007</startYear><endYear>2010</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>BSc.PROSTHETICS AND ORTHOTICS</specialization><levelId>8</levelId><indexNumber>S0539.0532.2013</indexNumber><award>PHYSICS-E, CHEMISTRY-C, BIOILOGY-C</award><grade>E,C,C</grade><startYear>2011</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f5fb148f30ee84731dc0f5e95d0933b5</isaacompletechecksum></student>

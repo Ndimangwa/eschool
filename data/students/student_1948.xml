@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1948</studentId>
+  <studentName>JUMANNE S. LOMAY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWENGE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0334/0135</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HEALTH LABORATORY ASSISTANT SINGIDA</institutionName>
+      <specialization>LABORATORY ASSISTANT</specialization>
+      <levelId>8</levelId>
+      <indexNumber>LAB/SING/08/17</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>CITY DIRECTOR</employerName>
+      <postalAddress>P.O.BOX 3013</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <telephone>002550753604304</telephone>
+      <email>cd@arushacity.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MARTHA DAFFI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 3013</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>002550753604304</sponsorfax>
+      <mobile>0753604304</mobile>
+      <email>jumanneslaa@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARTHA DAFFI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 3013</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>002550753604304</telephone>
+      <mobile>0753604304</mobile>
+      <email>jumanneslaa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

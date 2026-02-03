@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3381</studentId>
+  <studentName>Hubert.E. Mtalo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kishumundu Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0492.0051.2001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lyamungo Secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125.0526.2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS-Dodoma</employerName>
+      <postalAddress>P.O. Box 914, Dodoma</postalAddress>
+      <physicalAddress>P.o.Box 914, Dodoma</physicalAddress>
+      <telephone>0784424686</telephone>
+      <email>rasdom2002tz@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068, DSM</postalAddress>
+      <physicalAddress>P.O.Box 76068 , Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Janeth  S Samba</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>P.O. Box 910, Dodoma</postalAddress>
+      <physicalAddress>P.O.Box 910, Dodoma</physicalAddress>
+      <fax/>
+      <telephone>+255712162075</telephone>
+      <mobile>+255764534913</mobile>
+      <email>sambajaneth@y.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MTALO, HUBERT E</accountName><bankAccount>0112440659600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2342fb9f343a13fda4cb818bbce40e5f</isaacompletechecksum></student>

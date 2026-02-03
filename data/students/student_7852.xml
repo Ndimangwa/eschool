@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7852</studentId>
+  <studentName>EMMANUEL DENNIS</studentName>
+  <accademicHistory><institution><institutionName>JOHN PAUL II KAHAMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0461.0053.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KWIRO SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0123.0585.2016</indexNumber><award>ADVANCED  CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DENNIS PIUS SAMAMBA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 50</postalAddress><physicalAddress>KAHAMA</physicalAddress><fax></fax><telephone>0754061167</telephone><mobile>0754061167</mobile><email>pdjamhuri@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EMMANUEL DENNIS SAMAMBA</accountName><bankAccount>21910002198</bankAccount><bankName>NMB</bankName><branchName>MAHENGE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cde1ccde14b2cfbd8988bb47faea2ea3</isaacompletechecksum></student>

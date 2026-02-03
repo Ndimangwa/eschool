@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>678</studentId>
+  <studentName>MARTINE MANYANZA METHOD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RORYA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1609.0157.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LULUMBA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0607.0526.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>METHOD PASCHAL</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>PO BOX 7726 MWANZA</postalAddress>
+      <physicalAddress>PO BOX 7726 MWANZA</physicalAddress>
+      <fax/>
+      <telephone>+255752151632</telephone>
+      <mobile>+255752151632</mobile>
+      <email>methodpaschal@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>METHOD, MARTINE MANYANZA</accountName><bankAccount>0152327640700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b564227b14af9d98d4011b3990c7e5bb</isaacompletechecksum></student>

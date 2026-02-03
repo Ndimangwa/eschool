@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3235</studentId>
+  <studentName>Peter Tlatlaa Mahu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Karatu Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO364-0092</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Moshi Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO134-0567</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCO</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0350</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED Mbulu</employerName>
+      <postalAddress>BOX 74 Mbuiu</postalAddress>
+      <physicalAddress>Mbulu Manyara</physicalAddress>
+      <telephone>0762508050</telephone>
+      <email>mahutlatlaa@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PRIVATE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 165 Karatu</postalAddress>
+      <physicalAddress>Bashay Karatu</physicalAddress>
+      <fax/>
+      <sponsorfax>0755862659</sponsorfax>
+      <mobile>0755862659</mobile>
+      <email>mahutlatlaa@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Ansila Muneth</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>Box 74 Mbuiu</postalAddress>
+      <physicalAddress>Mbuiu Manyara</physicalAddress>
+      <fax/>
+      <telephone>0769973942</telephone>
+      <mobile>0769973942</mobile>
+      <email>ansilamuneth44@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

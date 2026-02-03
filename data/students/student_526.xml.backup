@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>526</studentId>
+  <studentName>INDO NDAIGEZE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0248/0044</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187/0590</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>P.O.BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PRISCA STEPHEN NDAIGEZE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 17460 DSM</postalAddress>
+      <physicalAddress>YOMBO VITUKA</physicalAddress>
+      <fax/>
+      <telephone>002550755536992</telephone>
+      <mobile>0755536992</mobile>
+      <email>indoteddy@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

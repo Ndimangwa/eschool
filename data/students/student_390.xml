@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>390</studentId>
+  <studentName>Omary Mussa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Juhudi Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1241/0249</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tosamaganga Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158/0861</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es Salaam</postalAddress>
+      <physicalAddress>Plot no8,block no46,Sam nujoma road</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Hassan Abdallah Mshare</kinName>
+      <relationship>Uncle</relationship>
+      <postalAddress>8982Dar es Salaam</postalAddress>
+      <physicalAddress>Mbagala zakhem</physicalAddress>
+      <fax/>
+      <telephone>+255783600383</telephone>
+      <mobile>0713600389</mobile>
+      <email>omarymussa667@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

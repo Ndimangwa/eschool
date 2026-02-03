@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6097</studentId>
+  <studentName>VICTORIA MOYO</studentName>
+  <accademicHistory><institution><institutionName>JANGWANI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0204.0238.2006</indexNumber><award>CERTIFICATE OF SECONDARY EDUCZTION</award><grade>DIVISION THREE</grade><startYear>2003</startYear><endYear>2006</endYear></institution><institution><institutionName>BUGANDO TRAINING CENTRE</institutionName><specialization>DIPLOMA IN NURSING</specialization><levelId>12</levelId><indexNumber>277339</indexNumber><award>DIPLOMA IN NURSING</award><grade>PASSED</grade><startYear>2007</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0222700286</fax><telephone>0222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>WAMBURA JOSEPH MABUGA</kinName><relationship>HUSBAND</relationship><postalAddress>P.O.BOX 41573 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>0687702595</telephone><mobile>0687702595</mobile><email>josephwambura@ymail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>VICTORIA JOHN MOYO</accountName><bankAccount>OIJ2054628700</bankAccount><bankName>CRDB BANK</bankName><branchName>NYANZA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>101739f3015b7beb116711ea36da78c7</isaacompletechecksum></student>

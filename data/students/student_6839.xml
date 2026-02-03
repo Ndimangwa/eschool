@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6839</studentId>
+  <studentName>ORESTA JANUARY HAULE</studentName>
+  <accademicHistory><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0206.0615.2016</indexNumber><award>TWO</award><grade>PHY D, CHEM C, BIOS C</grade><startYear>2014</startYear><endYear>2016</endYear></institution><institution><institutionName>PERAMIHO GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0217.0037.2013</indexNumber><award>ONE</award><grade>PHYS B+,CHEM B+,BIOS A</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress> P O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JANUARY HAULE</kinName><relationship>FATHER</relationship><postalAddress>SONGEA</postalAddress><physicalAddress>SONGEA</physicalAddress><fax></fax><telephone>0754634143</telephone><mobile>0754634143</mobile><email>januaryhaule@gmail.com</email><extraInformation>ACCOUNTANT</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ORESTA JANUARY HAULE</accountName><bankAccount>0152238931600</bankAccount><bankName>CRDB</bankName><branchName>MOROGORO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1a53e26ed5245d6824dc0a5f8513dbd7</isaacompletechecksum></student>

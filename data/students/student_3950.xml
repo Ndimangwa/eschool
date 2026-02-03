@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3950</studentId>
+  <studentName>Ally Ezekia Syani</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ilembo</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0956.0115.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>tukuyu</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1043.0583.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,Dsm</postalAddress>
+      <physicalAddress>76068,Dsm</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ezekia syani</kinName>
+      <relationship>father</relationship>
+      <postalAddress>1731,MBY</postalAddress>
+      <physicalAddress>1731,MBY</physicalAddress>
+      <fax/>
+      <telephone>0762783525</telephone>
+      <mobile>0762783525</mobile>
+      <email>allyezekia61@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SYANI, ALLY EZEKIA</accountName><bankAccount>61410004530</bankAccount><bankName>NMB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>41bc338cf55c1b483d6d6d58b0981660</isaacompletechecksum></student>

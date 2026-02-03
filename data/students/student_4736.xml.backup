@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4736</studentId>
+  <studentName>SIMON MASHA</studentName>
+  <accademicHistory><institution><institutionName>SINGE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0361.0103.2013</indexNumber><award>TWO</award><grade>23</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MKUU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0544.0747.2016</indexNumber><award>THREE</award><grade>14</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>CORNEL MASHA</sponsorName><payerId>3</payerId><postalAddress>B0X 686 BABATI</postalAddress><physicalAddress>BOX 686 BABATI</physicalAddress><fax/><telephone>0784369152</telephone><mobile>0784843612</mobile><email>mashasimon3@gmail.com</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SIMON MASHA</accountName><bankAccount>0152497791900</bankAccount><bankName>CRDB BANK</bankName><branchName>BABATI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1ecc26ac75304f4d506dad22d9795530</isaacompletechecksum></student>

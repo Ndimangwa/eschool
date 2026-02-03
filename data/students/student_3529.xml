@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3529</studentId>
+  <studentName>RONALD PETER MCLARTY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>FETTES COLLEGE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>5244</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>FETTES COLLEGE, LOMOND SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>69772/5244</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0361</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DOROTHY MCLARTY</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>POBOX 65243</postalAddress>
+      <physicalAddress>476 MINDU Street DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754405257</sponsorfax>
+      <mobile>+255754405257</mobile>
+      <email>dmclarty340@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mrs D. Mclarty</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P. O. BOx 65243</postalAddress>
+      <physicalAddress>476 MIndu Street DSM</physicalAddress>
+      <fax/>
+      <telephone>0754405257</telephone>
+      <mobile>0754405257</mobile>
+      <email>dmclarty340@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2780</studentId>
+  <studentName>JASMIN PHILIP KOBELO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JOY LAND GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3964-0043</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JOYLAND GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S3964-0043</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>IBRAHIM MOLLEL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>8097</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>+255713299097</sponsorfax>
+      <mobile>+255754299097</mobile>
+      <email>ibrahimmollel6@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>IBRAHIM MOLLEL</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>8097</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255713299097</telephone>
+      <mobile>+255754299097</mobile>
+      <email>ibrahimmollel6@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

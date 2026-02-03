@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2560</studentId>
+  <studentName>SALEH SHENI MAKAME</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>HAMAMNI</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0390.140</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>COLLEGE OF HEALTH SCIENCE, ZANZIBAR</institutionName>
+      <specialization>LABORATORY TECHNICIAN</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S/NO/DMLS/213/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH ZANZIBAR</employerName>
+      <postalAddress>236, ZANZIBAR</postalAddress>
+      <physicalAddress>MNAZIMMOJA,ZANZIBAR</physicalAddress>
+      <telephone>00255242239563</telephone>
+      <email>afyasmz@zanzinet.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ITECH- TANZANIA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>72868</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255689888777</sponsorfax>
+      <mobile>+255754296982</mobile>
+      <email>bleon@itech-tanzania.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KHERI SHENI MAKAME</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>1898, MBWENI, ZANZIBAR</postalAddress>
+      <physicalAddress>MALINDI</physicalAddress>
+      <fax/>
+      <telephone>0713188144</telephone>
+      <mobile>0776188144</mobile>
+      <email>salehsheni@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

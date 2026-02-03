@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>498</studentId>
+  <studentName>AMON RYAKITIMBO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S107-0022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MZUMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S140-0505</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>0564</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>AMON RYAKITIMBO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>390 TABORA</postalAddress>
+      <physicalAddress>PLOT 126 BLOCK PP</physicalAddress>
+      <fax/>
+      <sponsorfax>0262604669</sponsorfax>
+      <mobile>0755009998</mobile>
+      <email>amonmasangula@ymail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANASTELLA KALINJUNA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>390, TABORA</postalAddress>
+      <physicalAddress>BLOCK 126PP</physicalAddress>
+      <fax/>
+      <telephone>0262604669</telephone>
+      <mobile>0784346610</mobile>
+      <email>anastela.kalinjuna@ttcl.co.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

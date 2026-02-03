@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3686</studentId>
+  <studentName>ELIUD ANDONGWISYE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MPUGUSO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0605.0122.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KISARIKA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0152.0596.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,DARESSALAAM,</postalAddress>
+      <physicalAddress>DARESSALAAM,TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heselb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARGRETH RINGO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>5127 dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0754280417</telephone>
+      <mobile>0754280417</mobile>
+      <email>info@margrethringo.ac.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ANZUAN, ANZUAN</accountName><bankAccount>0152362995600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0a98ba1d96325970b8de88e8f9a4307a</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5342</studentId>
+  <studentName>JITIJA MAKIGO</studentName>
+  <accademicHistory><institution><institutionName>MWAGALA SECONDARY SCHOOL</institutionName><specialization>SECONDARY SCHOOL</specialization><levelId>4</levelId><indexNumber>S1785.0034.2012</indexNumber><award>SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>LYAMUNGO SECONDARY SCHOOL</institutionName><specialization>SECONDARY SCHOOL</specialization><levelId>8</levelId><indexNumber>S0125.0899.2015</indexNumber><award>SECONDARY SCHOOL</award><grade>MERIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>760879f367428d5d60fa0cb90b85e20c</isaacompletechecksum></student>

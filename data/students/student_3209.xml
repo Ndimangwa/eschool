@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3209</studentId>
+  <studentName>HURUMA SAPHELI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Tukuyu secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1043.0033.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Magu secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0539.0515.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 6068 DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Sapheli Langeni Mwandisi</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>Po BOX 27 MBEYA</postalAddress>
+      <physicalAddress>MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0752450924</telephone>
+      <mobile>0752450924</mobile>
+      <email>Saphelilangeni@go.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SAPHELI, HURUMA</accountName><bankAccount>0152327966200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a18edeb11016a4b1d5fe1624cc72885f</isaacompletechecksum></student>

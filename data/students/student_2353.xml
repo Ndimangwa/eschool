@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2353</studentId>
+  <studentName>ERNEST OBEDI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UYUI</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0400088</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JAMUHURI</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0559735</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UDSM</institutionName>
+      <specialization>ADMLS00057</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DMLSOOO172</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669039</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>Info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>OBEDI ERNEST</kinName>
+      <relationship>CHILD</relationship>
+      <postalAddress>P.O.BOX 14 KILOSA</postalAddress>
+      <physicalAddress>KILOSA</physicalAddress>
+      <fax/>
+      <telephone>+255787385324</telephone>
+      <mobile>+255787385324</mobile>
+      <email>ebed2003@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

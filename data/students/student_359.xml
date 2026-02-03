@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>359</studentId>
+  <studentName>SALEHE CHIZENGA KANGONGO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KABUKU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0448-0028</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158-0610</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>AMINA S CHIZENGA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 175</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255716738222</sponsorfax>
+      <mobile>00255716738222</mobile>
+      <email>salehechizenga@mail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AMINA S CHIZENGA</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>P.O.BOX 175</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <telephone>002255716738222</telephone>
+      <mobile>002255716738222</mobile>
+      <email>salehechizenga@mail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

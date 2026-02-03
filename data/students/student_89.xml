@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>89</studentId>
+  <studentName>JOSEPH EMMANUEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0134/0091</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147/0706</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI KCM/College</institutionName>
+      <specialization>MEDICAL DOCTOR</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/MD/0213</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS/TANGA</employerName>
+      <postalAddress>5095 TANGA</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <telephone>0272642430</telephone>
+      <email>rastanga@tanga.net</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JOSEPH EMMANUEL NANGAWE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>10347 ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255713583699</sponsorfax>
+      <mobile>+255767583699</mobile>
+      <email>josephnangawe@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHN EMMANUEL NANGAWE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>6890 Dar es salaaam</postalAddress>
+      <physicalAddress>Kijitonyama Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0713075569</telephone>
+      <mobile>0753863699</mobile>
+      <email>nangawejohn@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

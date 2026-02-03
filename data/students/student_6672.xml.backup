@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6672</studentId>
+  <studentName>Gasper P Temba</studentName>
+  <accademicHistory><institution><institutionName>Kishumundu Secondery School</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0492.0024.2002</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>1999</startYear><endYear>2002</endYear></institution><institution><institutionName>Oldmoshi Secondary School</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0134.0542.2005</indexNumber><award>CERTIFICATE OF ADVANCED SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2003</startYear><endYear>2005</endYear></institution><institution><institutionName>Kilimanjaro Christian Medical University college</institutionName><specialization>Doctor of medicine</specialization><levelId>15</levelId><indexNumber>TUMA.MD.0385.2011</indexNumber><award>Bachelor Degree</award><grade>PASS</grade><startYear>2005</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>District Executive Diector</employerName><postalAddress>P.O.BOX 686</postalAddress><physicalAddress>MLELE-KATAVI</physicalAddress><fax/><telephone/><mobile>+255754599107</mobile><email>mleledc@gmail.com</email><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>Ministry of Health,gender, elderly and children</sponsorName><payerId>4</payerId><postalAddress>P.O.BOX 9083</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Servings Account</accountName><bankAccount>61910002900</bankAccount><bankName>NMB</bankName><branchName>Mpanda</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>56bdd88c011b531fb20d8db948ed2e18</isaacompletechecksum></student>

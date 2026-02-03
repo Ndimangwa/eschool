@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1640</studentId>
+  <studentName>nicholaus b kapunga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>mdabulo secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0447-00-97</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kidugala lutheran seminary</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0167-0548</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ded-mbinga</employerName>
+      <postalAddress>194</postalAddress>
+      <physicalAddress>mbinga</physicalAddress>
+      <telephone>0252640015</telephone>
+      <email>mbingadistrict@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@healb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ayoub kapunga</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>249</postalAddress>
+      <physicalAddress>mafinga</physicalAddress>
+      <fax/>
+      <telephone>0753800794</telephone>
+      <mobile>0753800794</mobile>
+      <email>ayoubkapunga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

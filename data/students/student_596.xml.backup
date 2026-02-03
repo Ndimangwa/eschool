@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>596</studentId>
+  <studentName>JILLIN KILOMBE MUGASHE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST ANTHONYS SEC. SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0534.0035</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST ANTHONYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0534.0539</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM-TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772433</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FREDRICK LYEYEMAMU MUGASHE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P0 B0X 8843</postalAddress>
+      <physicalAddress>MTONI KIJICHI- DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>00255762454546</telephone>
+      <mobile>+255762454546</mobile>
+      <email>mugashe04@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

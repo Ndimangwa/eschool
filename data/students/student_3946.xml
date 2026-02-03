@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3946</studentId>
+  <studentName>layson peter mwakipesile</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>pandahill secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0867.0131.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>bagamoyo secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0351.0669.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.o.Box76068</postalAddress>
+      <physicalAddress>Dar es salaam,Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>0025527772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>peter amon mwakipesile</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.o.Box 525</postalAddress>
+      <physicalAddress>mbeya</physicalAddress>
+      <fax/>
+      <telephone>0782664046</telephone>
+      <mobile>0782664046</mobile>
+      <email>laysonpeter95@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MWAKIPESILE, LAYSON P</accountName><bankAccount>0152411854800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>55c450d64bed87e567ae97baa48fbce6</isaacompletechecksum></student>

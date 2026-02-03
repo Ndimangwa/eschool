@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>949</studentId>
+  <studentName>Victor Simukoko</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Munali secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0101539</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Munali Secondary school</institutionName>
+      <specialization>Division 1</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0101539</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Ministry of Health Kabwe General Hospital.</employerName>
+      <postalAddress>P.O.Box 80917,Kabwe</postalAddress>
+      <physicalAddress>Mukobeko street ,Plot number 24</physicalAddress>
+      <telephone>00260973487525</telephone>
+      <email>kabwegeneral@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Ministy of Health of Zambia</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 30205</postalAddress>
+      <physicalAddress>Haile Selassie avenue,Longacres</physicalAddress>
+      <fax/>
+      <sponsorfax>00260211251052</sponsorfax>
+      <mobile>0026977762202</mobile>
+      <email>ps@moh.gov.zm</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Kalindo Mukosa</kinName>
+      <relationship>Nephew</relationship>
+      <postalAddress>UTH,Box RWXI, Redgeway</postalAddress>
+      <physicalAddress>Libala area,Luasaka</physicalAddress>
+      <fax/>
+      <telephone>00260975675763</telephone>
+      <mobile>0026978089199</mobile>
+      <email>mukosakalindo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

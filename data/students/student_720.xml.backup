@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>720</studentId>
+  <studentName>MIDE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ILBORU SEC. SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0110/0067</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SEC. SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110/0617</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DIDAS JUSTINE KIMAMBO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O. BOX 10031 ARUSHA</postalAddress>
+      <physicalAddress>P.O. BOX 10031 ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0754595151</telephone>
+      <mobile>0754595151</mobile>
+      <email>kakaienterprisesltd@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

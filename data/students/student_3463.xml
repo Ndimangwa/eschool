@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3463</studentId>
+  <studentName>ELIAS JUMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AZANIA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0101-0134</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158-0691</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCo</institutionName>
+      <specialization>DIPLOMA IN HEALTH LABORATORY SCIENCES</specialization>
+      <levelId>8</levelId>
+      <indexNumber>K 0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCo</institutionName>
+      <specialization>BSc. IN HEALTH LABORATORY SCIENCES</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K 16 0013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ELIAS J. SABUNI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 3054 MOSHI.</postalAddress>
+      <physicalAddress>MOSHI,KILIMANJARO</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754229556</sponsorfax>
+      <mobile>+255687229556</mobile>
+      <email>eliassabuni@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ADAM E.J. SABUNI</kinName>
+      <relationship>SON</relationship>
+      <postalAddress>P.O. BOX 7151 DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255715229556</telephone>
+      <mobile>+255754802190</mobile>
+      <email>adamejsabuni@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

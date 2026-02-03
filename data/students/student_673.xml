@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>673</studentId>
+  <studentName>SCOLASTICA JOHN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>WERUWERU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0221-0152</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TEGETA SECCONDARY</institutionName>
+      <specialization>HKL</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0620-0627</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF DAR ES SALAAM</institutionName>
+      <specialization>BACHELOR OS SOCIOLOGY</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2009-04-02549</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>SHAABAN NTARAMBE</employerName>
+      <postalAddress>BOX  318</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <telephone>002550272754371</telephone>
+      <email>director.moshi@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ROBERT PAUL MASAULE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 2240</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0766747623</sponsorfax>
+      <mobile>0766747623</mobile>
+      <email>robertmasaule@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ROBERT PAUL MASAULE</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>BOX 2240</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0766747623</telephone>
+      <mobile>0766747623</mobile>
+      <email>robertmasaule@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

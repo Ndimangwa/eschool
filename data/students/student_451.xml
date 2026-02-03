@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>451</studentId>
+  <studentName>FLORA G RUHANGISA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PALLOTI GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0245-0012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JANGWANI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0204-0514</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HUBERT KAIRUKI UNIVERSITY</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>0138</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ministry of health</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9083</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222120261</sponsorfax>
+      <mobile>+255222120261</mobile>
+      <email>mohsw@ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Davis John Kuchaka</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>2236</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>+255713400246</telephone>
+      <mobile>+255713400246</mobile>
+      <email>dclayk@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

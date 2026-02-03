@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>455</studentId>
+  <studentName>AHIMBISIBWE JOAN K</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UGANDA MARTYRS SS NAMUGONGO</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>U0334/003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UGANDA MARTYRS SS NAMUGONGO</institutionName>
+      <specialization>BCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U0334/502</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JOHNSON DAN SEGYENDWA KWESIGABO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.P. BOX 21161,KAMPALA</postalAddress>
+      <physicalAddress>HOUSE 4,DEVON AVENUE, KYAMBOGO</physicalAddress>
+      <fax/>
+      <sponsorfax>+256787277073</sponsorfax>
+      <mobile>+256701700024</mobile>
+      <email>johnsonkwesi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHNSON DAN SEGYENDWA KWESIGABO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O. BOX 21161,KAMPALA</postalAddress>
+      <physicalAddress>HOUSE 4,DEVON AVENUE,KYAMBOGO</physicalAddress>
+      <fax/>
+      <telephone>+256787277073</telephone>
+      <mobile>+256701700024</mobile>
+      <email>johnsonkwesi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

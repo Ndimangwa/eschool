@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5794</studentId>
+  <studentName>JULIANA T RUGUMISA</studentName>
+  <accademicHistory><institution><institutionName>MBEYA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0330.0068.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIAN GIRLS HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0248.0566.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,DAE ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>JULIANA TERENTIUS RUGUMISA</accountName><bankAccount>0152201532800</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b3ead97dbcd967a79bff7fd922768516</isaacompletechecksum></student>

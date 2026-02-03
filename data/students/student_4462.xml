@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4462</studentId>
+  <studentName>NASSIB DAUD</studentName>
+  <accademicHistory><institution><institutionName>KISHIMBA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1005.0027.2001</indexNumber><award>Certificate of Secondary Education</award><grade>DIVISION ONE</grade><startYear>1998</startYear><endYear>2001</endYear></institution><institution><institutionName>USAGARA HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>4</levelId><indexNumber>S0345.0564.2004</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2002</startYear><endYear>2004</endYear></institution><institution><institutionName>MUHIMBILI UNIVERSITY OF HEALTH AND ALLIED SCIENCES</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>54041.T.2005</indexNumber><award>DOCTOR OF MEDICINE</award><grade>NA</grade><startYear>2005</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MUNICIPAL DIRECTOR TABORA</employerName><postalAddress>P. O. BOX 174 TABORA</postalAddress><physicalAddress>TABORA MUNICIPAL COUNCIL</physicalAddress><fax>0262604835</fax><telephone>0262604316</telephone><mobile>+255754013734</mobile><email>ndunguru@yahoo.com</email><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>DAUD RAMADHAN MSUYA</sponsorName><payerId>1</payerId><postalAddress>P.BOX 277 KAHAMA</postalAddress><physicalAddress>KAHAMA TOWN</physicalAddress><fax/><telephone>+255753913367</telephone><mobile>+255753913367</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHRISTINE DOMINIC MKUMBO</kinName><relationship>WIFE</relationship><postalAddress>P.BOX 174 TABORA</postalAddress><physicalAddress>TABORA MUNICIPAL COUNCIL</physicalAddress><fax></fax><telephone>+255756691766</telephone><mobile>+255756691766</mobile><email>latifamkumbo@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NASSIB DAUD MSUYA</accountName><bankAccount>51110003460</bankAccount><bankName>NMB</bankName><branchName>NZEGA </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>85aa037fd91fb64f267f257bae6b09f8</isaacompletechecksum></student>

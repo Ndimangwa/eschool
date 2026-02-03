@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>621</studentId>
+  <studentName>JOACHIM MASATU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYEGEZI SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0146.0038.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155.0526.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>002552669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELENESTINA SIGWA LUTONJA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 68,NANSIO</postalAddress>
+      <physicalAddress>NANSIO,UKEREWE</physicalAddress>
+      <fax/>
+      <telephone>+255765605253</telephone>
+      <mobile>+255765605253</mobile>
+      <email>joachim.masatu@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MASATU, JOACHIM</accountName><bankAccount>0152489015500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f3f2de54807c554c5962743bb8fb672a</isaacompletechecksum></student>

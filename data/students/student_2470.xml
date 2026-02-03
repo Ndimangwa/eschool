@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2470</studentId>
+  <studentName>JOHN GABRIELY DAFFY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DODOMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0306/054</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.AUGUSTINE UNIVERSITY</institutionName>
+      <specialization>LABORATORY TECHNOLOGIST</specialization>
+      <levelId>8</levelId>
+      <indexNumber>4500/2005-2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>BUGANDO MEDICAL CENTRE</employerName>
+      <postalAddress>1370</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <telephone>+2550282500513</telephone>
+      <email>hospbugando@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>0025522772433</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARTHA MATOLA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>5070</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>+255767426417</telephone>
+      <mobile>0767426417</mobile>
+      <email>matolamartha@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5892</studentId>
+  <studentName>IRENE A CHUWA</studentName>
+  <accademicHistory><institution><institutionName>RAU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3675.0034.2013</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>OROGWE GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0209.0833.2016</indexNumber><award>ACSEE</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>41ceac21b888c5adeadf5072ca4f3397</isaacompletechecksum></student>

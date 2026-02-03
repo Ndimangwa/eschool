@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>659</studentId>
+  <studentName>lusungu mhenzi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>moshi technical secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0135/0099</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mtwara technical secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0139/0567</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>matilda victor mdemu</kinName>
+      <relationship>aunt</relationship>
+      <postalAddress>PO BOX 1955 MOSHI</postalAddress>
+      <physicalAddress>PO BOX 1955 MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0754079409</telephone>
+      <mobile>0754079409</mobile>
+      <email>lusungumhenzi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

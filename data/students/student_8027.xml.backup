@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8027</studentId>
+  <studentName>FURAHA SELEMANI</studentName>
+  <accademicHistory><institution><institutionName>TANDIKA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4004.0073.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>MASJID QUBAH MUSLIM SEMINARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0438.0502.2015</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>MERIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ASIA SELEMANI</kinName><relationship>SISTER</relationship><postalAddress>P.O.BOX 46276 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0674656577</telephone><mobile>0717636791</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FURAHA SELEMANI</accountName><bankAccount>0152212970100</bankAccount><bankName>CRDB</bankName><branchName>AZIKIWE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b1725c636b95093ed366dede9733f234</isaacompletechecksum></student>

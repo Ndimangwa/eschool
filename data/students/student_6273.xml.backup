@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6273</studentId>
+  <studentName>SARAH BUSONGO</studentName>
+  <accademicHistory><institution><institutionName>ST.JOSEPH GIRLS' SEMINARY</institutionName><specialization>CERTIFICATE IN SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0240.0041.2008</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>HURUMA GIRLS HIGH SCHOOL</institutionName><specialization>ADVANCED CERTIFICATE IN SECONDARY EDUCATION</specialization><levelId>8</levelId><indexNumber>S0256.0521.2012</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>SENGEREMA HEALTH TRAINING INSTITUTE</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>CMT6.SNGR.15.139</indexNumber><award>CLINICAL MEDICINE</award><grade>PASS</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MATILDA NHUMBI</kinName><relationship>MOTHER</relationship><postalAddress>P.O BOX 4132 NSUMBA MWANZA</postalAddress><physicalAddress>MWANZA-TANZANIA</physicalAddress><fax></fax><telephone>+255754436978</telephone><mobile>0754436978</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SARAH ELLIYAPHARI BUSONGO</accountName><bankAccount>0152218762000</bankAccount><bankName>CRDB BANK</bankName><branchName>DODOMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5c09d208fea69a1e22bfb2a6f4584719</isaacompletechecksum></student>

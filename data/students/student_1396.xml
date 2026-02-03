@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1396</studentId>
+  <studentName>Venance Willfred</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>maranatha secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s2655/0070</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ifunda technical secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0108/0632</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Government Grant</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 dar es salam</postalAddress>
+      <physicalAddress>Sam Nujoma Road, Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>aman wilfred</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>869 mbeya</postalAddress>
+      <physicalAddress>iwambi mbeya</physicalAddress>
+      <fax/>
+      <telephone>0753682665</telephone>
+      <mobile>0753682665</mobile>
+      <email>amanwilfred@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

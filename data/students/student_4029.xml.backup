@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4029</studentId>
+  <studentName>ADINA LEONARD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CORNELIUS GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0265.0001.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUSIIME Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2499/0501/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>hiGHER EDUCATION STUDENT LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>daR -ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>infi@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>zaynab mnyanga</kinName>
+      <relationship>auntie</relationship>
+      <postalAddress>33299</postalAddress>
+      <physicalAddress>daR -ES-SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0755993379</telephone>
+      <mobile>0755993379</mobile>
+      <email>zaynabmnyanga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

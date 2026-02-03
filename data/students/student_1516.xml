@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1516</studentId>
+  <studentName>STANSLAUS FRANCIS SARIA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BIHAWANA JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0169-0034</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MZUMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0140/0532</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po box 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VERONICA MWANGALIMI</kinName>
+      <relationship>FRIEND</relationship>
+      <postalAddress>po box 474</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>+255272754401</telephone>
+      <mobile>0719029801</mobile>
+      <email>mwangalimiveronica@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

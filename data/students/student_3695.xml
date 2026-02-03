@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3695</studentId>
+  <studentName>ANNA EDWARD MAKATA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LILIAN KIBO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3536.0001.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KONDOA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0229.0512.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SIR.MARYLAUDA</kinName>
+      <relationship>GADMOTHER</relationship>
+      <postalAddress>227</postalAddress>
+      <physicalAddress>kilimanjaro</physicalAddress>
+      <fax/>
+      <telephone>0784344091</telephone>
+      <mobile>0784344091</mobile>
+      <email>Tumaincentre@gmil.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MAKATA, ANNA EDWARD</accountName><bankAccount>0152516411500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7fda9e460f6211990b4c43c5e1b0103a</isaacompletechecksum></student>

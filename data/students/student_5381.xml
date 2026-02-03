@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5381</studentId>
+  <studentName>MICHAEL JOHN NGOWI</studentName>
+  <accademicHistory><institution><institutionName>MARINGENI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2028.0052.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>NSUMBA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0144.0655.2016</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>39d22cc22752df203be94f68acc2ef06</isaacompletechecksum></student>

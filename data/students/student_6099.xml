@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6099</studentId>
+  <studentName>Ahmed Otta Lyimo</studentName>
+  <accademicHistory><institution><institutionName>Feza Boys' Secondary</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0189.0006.2015</indexNumber><award>certificate OF SECONDARY EDUCATION</award><grade>BBB</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>524e685cda99afba77510b66a2c94a80</isaacompletechecksum></student>

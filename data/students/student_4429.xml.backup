@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4429</studentId>
+  <studentName>Dorothy Antonio Mkinga</studentName>
+  <accademicHistory><institution><institutionName>Kilimanjaro Christian Medical University College</institutionName><specialization>Internal Medicine</specialization><levelId>15</levelId><indexNumber>K0411</indexNumber><award>Degree of Doctor of Medicine</award><grade>Good</grade><startYear>2006</startYear><endYear>2011</endYear></institution><institution><institutionName>USHER SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>Z9940.0098.2002</indexNumber><award>ORDINARY LEVEL CERTIFICATE</award><grade>PASS </grade><startYear>1999</startYear><endYear>2002</endYear></institution><institution><institutionName>ALLUMINI ACADEMY</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>E.0014187366.2005</indexNumber><award>ADVANCED LEVEL CERTIFICATE</award><grade>PASS</grade><startYear>2003</startYear><endYear>2005</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>Hai District Council</employerName><postalAddress>P.O Box 27</postalAddress><physicalAddress>Hai, Kilimanjaro</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>Dorothy Antonio Mkinga</sponsorName><payerId>1</payerId><postalAddress>P.O Box 27</postalAddress><physicalAddress>Hai, Kilimanjaro</physicalAddress><fax/><telephone>0719280045</telephone><mobile>0719280045</mobile><email>phinemkinga@yahoo.com</email><financedItem>Academic Fee</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>Emmanuel Feston Mwambungu</kinName><relationship>Husband</relationship><postalAddress>P.O Bo 2228</postalAddress><physicalAddress>Moshi</physicalAddress><fax/><telephone>0625698279</telephone><mobile>0713719113</mobile><email>emmafeston@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Dorothy Antonio Mkinga</accountName><bankAccount>40110002930</bankAccount><bankName>NBC</bankName><branchName>Hai</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>39d865b68f75b8425747c8df26770b27</isaacompletechecksum></student>

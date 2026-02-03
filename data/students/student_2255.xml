@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2255</studentId>
+  <studentName>TRIFONIA DOMINICK KIMARIO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILOMBERO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0464-0054</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>21254</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED MOROGORO DISTRICT COUNCIL</employerName>
+      <postalAddress>P.o.box166</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <telephone>00255767477005</telephone>
+      <email>Info@Morogoromc.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522669036</sponsorfax>
+      <mobile>0025522669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>INNOCENT F CHUWA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>737 morogoro</postalAddress>
+      <physicalAddress>MoROGORO</physicalAddress>
+      <fax/>
+      <telephone>00255715827855</telephone>
+      <mobile>00255715827855</mobile>
+      <email>innochuwa@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3794</studentId>
+  <studentName>hassan h juma</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>vudoi sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0906-0080</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>moshi tech school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0135-0624</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kcmc,school of physiotherapy</institutionName>
+      <specialization>physiotherapist</specialization>
+      <levelId>8</levelId>
+      <indexNumber>37328</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ras kilimanjaro</employerName>
+      <postalAddress>3070</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <telephone>0027542336</telephone>
+      <email>ras.kilimanjaro@pmoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>mwenge,dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>rajab hamis</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>532</postalAddress>
+      <physicalAddress>geita,mwanza</physicalAddress>
+      <fax/>
+      <telephone>00752928671</telephone>
+      <mobile>+255713533901</mobile>
+      <email>rhamis@anglogoldashanti.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

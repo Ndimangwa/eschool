@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1543</studentId>
+  <studentName>ERICK MHELELA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISEKE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1622/0063</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>S.0147/0678</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>PUGU SECONDARY SCHOOL</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LEONY YONDANI MHELELA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 59</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <sponsorfax>02244456789</sponsorfax>
+      <mobile>0767284690</mobile>
+      <email>erickyondani@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CHRISTOPHER</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>P.O BOX 59</postalAddress>
+      <physicalAddress>CAPRIPOINT,MWANZA</physicalAddress>
+      <fax/>
+      <telephone>002777500728</telephone>
+      <mobile>0713745709</mobile>
+      <email>christophertabalo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

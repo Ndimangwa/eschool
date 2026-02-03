@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2237</studentId>
+  <studentName>SALVERIUS BLASHID</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBAHA SEC. SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S119/0119</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IKONDA MEDICAL SCHOOL</institutionName>
+      <specialization>HEALTH LABORATORY SCIENCE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>24715</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GOVERMENT</employerName>
+      <postalAddress>B0X223</postalAddress>
+      <physicalAddress>MUFINDI COUNCIL</physicalAddress>
+      <telephone>0262772035</telephone>
+      <email>dedmufindi@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 75</postalAddress>
+      <physicalAddress>NUJOMA ROAD DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522277</sponsorfax>
+      <mobile>0025522277</mobile>
+      <email>info@heslb.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISAYA MWALONGO</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>BOX 27</postalAddress>
+      <physicalAddress>MAFINGA HOSPITAL IRINGA</physicalAddress>
+      <fax/>
+      <telephone>0767715223</telephone>
+      <mobile>0767715223</mobile>
+      <email>isayamwalongo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

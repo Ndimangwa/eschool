@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1535</studentId>
+  <studentName>Christina Cyprian</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Machame Girl's Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0212-0025</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tarime High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0352-0504</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NONE</institutionName>
+      <specialization>NONE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>NONE</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NONE</institutionName>
+      <specialization>NONE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>NONE</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NONE</institutionName>
+      <specialization>NONE</specialization>
+      <levelId>17</levelId>
+      <indexNumber>NONE</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>korogwe District Council</employerName>
+      <postalAddress>P.O.BOX 584</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <telephone>00255242640748</telephone>
+      <email>info@korogwe.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Cyprian Mosha</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O.BOX 6432</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00255714641604</telephone>
+      <mobile>00255714641604</mobile>
+      <email>cyprian@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

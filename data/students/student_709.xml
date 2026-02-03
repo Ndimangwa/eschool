@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>709</studentId>
+  <studentName>SARA T RICHARD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ASHIRA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0201.0112.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KONDOA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0229.0588.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FATUMA JUMA KARATA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>PO BOX 123 TARAKEA</postalAddress>
+      <physicalAddress>PO BOX 123 TARAKEA</physicalAddress>
+      <fax/>
+      <telephone>0787769841</telephone>
+      <mobile>0787769841</mobile>
+      <email>teshasarah@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>RICHARD, SARA T</accountName><bankAccount>0152222111900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7216ed7beec7674f17afc36563af25e6</isaacompletechecksum></student>

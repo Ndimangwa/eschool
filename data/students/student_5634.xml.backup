@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5634</studentId>
+  <studentName>Rosemary Byego</studentName>
+  <accademicHistory><institution><institutionName>CHIEF WANZAGI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4063.0038.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1 POINT14</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>LORETO GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0249.0599.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1 POINT 8</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>0713267570</mobile><email>INFo@heslb.go.tz </email><financedItem>STUDIES</financedItem><extraInformation>NIL</extraInformation></sponsor><sponsor><sponsorName>BYEGO NYAMBWEMBWE</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 106113</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0713267570</telephone><mobile>0713267570</mobile><email/><financedItem>STUDIES</financedItem><extraInformation>NIL</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BYEGO NYAMBWEMBWE</kinName><relationship>PARENT</relationship><postalAddress>P. O BOX 106113</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>0713267570</telephone><mobile>0713267570</mobile><email></email><extraInformation>NIL</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NIL</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>66de0f8b99fd0bca3d0c6191863ca321</isaacompletechecksum></student>

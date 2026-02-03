@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3506</studentId>
+  <studentName>iddy s beda</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>anna  mkapa secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.3691/0142</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>umbwe secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0160/0811</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>sylivesta beda moshi</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>8824moshi</postalAddress>
+      <physicalAddress>8824moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>+225768088297</sponsorfax>
+      <mobile>0768088297</mobile>
+      <email>sylivestabeda@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>sylivesta beda moshi</kinName>
+      <relationship>father</relationship>
+      <postalAddress>8824moshi</postalAddress>
+      <physicalAddress>8824moshi</physicalAddress>
+      <fax/>
+      <telephone>+225768088297</telephone>
+      <mobile>0768088297</mobile>
+      <email>sylivestbeda@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

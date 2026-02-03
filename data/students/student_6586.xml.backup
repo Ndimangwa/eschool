@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6586</studentId>
+  <studentName>MARCO PATRICK SANGA</studentName>
+  <accademicHistory><institution><institutionName>MARIAN BOYS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S4213.0573.2016</indexNumber><award>ADVANCE CERTIFICATE</award><grade>DIVION 1</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e2846ee2c1d5413b8b3872a7b8aee31a</isaacompletechecksum></student>

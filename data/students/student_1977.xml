@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1977</studentId>
+  <studentName>PRISLEY JOSEPHAT</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TAQWA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0578-0122</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MWENGE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0334-0595</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MISUNGWI DISTRICT</employerName>
+      <postalAddress>20</postalAddress>
+      <physicalAddress>mwanza</physicalAddress>
+      <telephone>00255222772432</telephone>
+      <email>Misungwi@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JOSEPHAT LEMA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>717</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <sponsorfax>0784557697</sponsorfax>
+      <mobile>0784557697</mobile>
+      <email>Josephat@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPHAT LEMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>717</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0755911282</telephone>
+      <mobile>0755911282</mobile>
+      <email>josephat@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6460</studentId>
+  <studentName>MEGAN F. MOLLA</studentName>
+  <accademicHistory><institution><institutionName>KOMAKYA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0926.0056.2011</indexNumber><award> CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2008</startYear><endYear>2011</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0485.0515.2014</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2012</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>14aeeac1615c231b304edf9cc8d0f724</isaacompletechecksum></student>

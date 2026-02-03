@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5340</studentId>
+  <studentName>BIRTH CERTIFICATE</studentName>
+  <accademicHistory><institution><institutionName>MAUA SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0130.0012.2013</indexNumber><award>CSEE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1187.0764.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@helsb.go.tz</email><financedItem>FESS AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>RICHARD PENNINGTON LYAMUYA</kinName><relationship>FARTHER</relationship><postalAddress>P.O.BOX 252 MARANGU</postalAddress><physicalAddress>MARANGU MOSHI</physicalAddress><fax></fax><telephone>0754434075</telephone><mobile>0754434075</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>INNOCENT LYAMUYA</accountName><bankAccount>0152202219900</bankAccount><bankName>CRDB BANK</bankName><branchName>MARANGU MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6784c183620e7e4d9c58fe2452faf792</isaacompletechecksum></student>

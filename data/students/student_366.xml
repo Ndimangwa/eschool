@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>366</studentId>
+  <studentName>AMOS FREZER CASTEN MSEKANDIANA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BWAILA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>2001/00620</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MALAWI COLLEGE OF MEDICINE</institutionName>
+      <specialization>PREMEDICAL SCIENCE CERTIFICATE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0394</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MALAWI COLLEGE OF MEDICINE UNIVERSITY OF MALAWI</institutionName>
+      <specialization>MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>1661</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MALAWI GOVERNMENT MINISTRY OF HEALTH</employerName>
+      <postalAddress>PO BOX 30227</postalAddress>
+      <physicalAddress>CAPITAL HILL,LILONGWE</physicalAddress>
+      <telephone>0026501788162</telephone>
+      <email>dhrmd@malawi.gov.mw</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MALAWI GOVERNMENT</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 30227</postalAddress>
+      <physicalAddress>CAPITAL HILL,LILONGWE</physicalAddress>
+      <fax/>
+      <sponsorfax>0026501788162</sponsorfax>
+      <mobile>002650996719781</mobile>
+      <email>dhmd@malawi.gov.mw</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LUCKSON MSEKANDIANA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>po box 88</postalAddress>
+      <physicalAddress>old mutual,lilongwe</physicalAddress>
+      <fax/>
+      <telephone>+265999244999</telephone>
+      <mobile>0026509992449999</mobile>
+      <email>lmsekandiana@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2</studentId>
+  <studentName>Valentina Nyamanoko Bwire</studentName>
+  <accademicHistory><institution><institutionName>University of Dar es Salaam</institutionName><specialization>LLB</specialization><levelId>15</levelId><award>LLB</award><grade>GPA=3.0</grade><startYear>2007</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Self</sponsorName><postalAddress>Moshi</postalAddress><physicalAddress>Moshi</physicalAddress><fax></fax><telephone></telephone><mobile></mobile><email></email><financedItem>S100%</financedItem><extraInformation></extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <results/>
+<isaacompletechecksum>3aca55e1c6e2630be901566a26eee1a9</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3014</studentId>
+  <studentName>HEMED NASSORO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MALAMBA MAWILI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.4055/0116/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCBB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0158/0735/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>nassoro hemed</kinName>
+      <relationship>father</relationship>
+      <postalAddress>2505</postalAddress>
+      <physicalAddress>dar-ES-SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0715496217</telephone>
+      <mobile>0715496217</mobile>
+      <email>hemednassoro0@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

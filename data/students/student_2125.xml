@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2125</studentId>
+  <studentName>JAMES DANGWA MTAMBO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIGOMA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S320/100/1992</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUGANDO</institutionName>
+      <specialization>NURING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>09703</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>BUGANDO</employerName>
+      <postalAddress>1370</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <telephone>+255282500513</telephone>
+      <email>burgando@mail.org</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222669037</sponsorfax>
+      <mobile>0222669037</mobile>
+      <email>INfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ACKSON MTAMBO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>430</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0755969025</telephone>
+      <mobile>0755969025</mobile>
+      <email>ackson@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

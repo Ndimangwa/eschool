@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3482</studentId>
+  <studentName>RICHARD EWALD MALLAWERE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILIMANI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1644.0038.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IYUNGA TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0112.0570.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.BOX 76068</postalAddress>
+      <physicalAddress>DAR-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EWALD</kinName>
+      <relationship>MARRIED</relationship>
+      <postalAddress>P.BOX 901</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0758470673</telephone>
+      <mobile>+255758470673</mobile>
+      <email>richardmallawere85@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MALLAWERE, RICHARD EWALD</accountName><bankAccount>0152327643900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9920a3f50f509731e25922d427076f7b</isaacompletechecksum></student>

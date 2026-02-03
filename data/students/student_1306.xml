@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1306</studentId>
+  <studentName>GILBERT H MLAY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Agape Lutheran Junior Seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0184/0055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibaha Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119/0600</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068</postalAddress>
+      <physicalAddress>Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Halvin Mlay</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>Box 101</postalAddress>
+      <physicalAddress>Singida</physicalAddress>
+      <fax/>
+      <telephone>+255262502199</telephone>
+      <mobile>+255754382177</mobile>
+      <email>halvin_mlay@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

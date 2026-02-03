@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1012</studentId>
+  <studentName>Justus Rwiza</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Rubya seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0148/0013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Salesian Seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0175/0535</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher education students'  loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>Dar es Salaam, Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Marygoreth Ruyobya</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O.BOX 290</postalAddress>
+      <physicalAddress>Bukoba</physicalAddress>
+      <fax/>
+      <telephone>+255756783098</telephone>
+      <mobile>+255756783098</mobile>
+      <email>mrungi49@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

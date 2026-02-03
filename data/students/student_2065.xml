@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2065</studentId>
+  <studentName>ELISIFA MANGU MUNA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWENGE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0334/0074</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. AUGUSTINE</institutionName>
+      <specialization>LABORATORY TECHNOLOGIST</specialization>
+      <levelId>8</levelId>
+      <indexNumber>BUCHS/LAB/5582/T.O6</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF INTERNAL AFFAIR</employerName>
+      <postalAddress>9190,DSM</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <telephone>+255222110314</telephone>
+      <email>cgp@prisons.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>MWENGE,DARESALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WELUNEEMA KITANUNU</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>4283,DSM</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255757073949</telephone>
+      <mobile>00255757073949</mobile>
+      <email>elisifamangu@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

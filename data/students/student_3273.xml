@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3273</studentId>
+  <studentName>DEOGRATIAS K.MTAKI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NANSIMO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0996.0024.2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MILAMBO SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0132.0560.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED BARIADI</employerName>
+      <postalAddress>B0X 109 BARIADI</postalAddress>
+      <physicalAddress>BARIADI</physicalAddress>
+      <telephone>0282700012</telephone>
+      <email>bariadi-district-hospital@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MGANGA BUZEBE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>75 BARIADI</postalAddress>
+      <physicalAddress>SENGEREMA</physicalAddress>
+      <fax/>
+      <telephone>0769194792</telephone>
+      <mobile>0769194792</mobile>
+      <email>d.mtaki@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MTAKI, DEOGRATIAS K</accountName><bankAccount>0152420641400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3135a87c906fdd19fb01e1756f204c86</isaacompletechecksum></student>

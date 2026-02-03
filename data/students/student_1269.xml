@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1269</studentId>
+  <studentName>TEODASIA STEVEN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KALOBE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1453-0106</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0108-0564</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board-HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es Salaam Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>COLETHA SIMON KIPETA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>4238</postalAddress>
+      <physicalAddress>MBEYA</physicalAddress>
+      <fax/>
+      <telephone>00225753652016</telephone>
+      <mobile>00225753652016</mobile>
+      <email>teodasiasteven@yahooo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

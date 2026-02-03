@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4939</studentId>
+  <studentName>EMANUEL .B.ROSSIO</studentName>
+  <accademicHistory><institution><institutionName>MALAMBO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2809.0056.2012</indexNumber><award>CSEE</award><grade>3.23</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>BENEDICT ROSSIO </sponsorName><payerId>3</payerId><postalAddress>P.O BOX 05 NGORONGORO</postalAddress><physicalAddress>NGORONGORO</physicalAddress><fax>+255764332304</fax><telephone>0766301573</telephone><mobile>0673536093</mobile><email>emanuelrossio@gmail.com</email><financedItem>tution fees</financedItem><extraInformation>none</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>EMANUEL ROSSIO</accountName><bankAccount>101010111111</bankAccount><bankName>NMB</bankName><branchName>KARATU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>af18e25e2356e351ec8d971f97e219b0</isaacompletechecksum></student>

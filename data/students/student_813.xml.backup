@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>813</studentId>
+  <studentName>Dorcas Nyaboke Mokaya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Tombe Girls High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>706404/051</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Hydom School of Nursing</institutionName>
+      <specialization>Diploma in Nursing</specialization>
+      <levelId>8</levelId>
+      <indexNumber>14221</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED BUNDA</employerName>
+      <postalAddress>Box 126-BUNDA</postalAddress>
+      <physicalAddress>Box 126-BUNDA</physicalAddress>
+      <telephone>+255282621055</telephone>
+      <email>ded@bunda.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Mhando Said Mashuubu</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 126-BUNDA</postalAddress>
+      <physicalAddress>Box 126-BUNDA</physicalAddress>
+      <fax/>
+      <sponsorfax>0783697989</sponsorfax>
+      <mobile>0752197957</mobile>
+      <email>smashuubuu@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mhando Said Mashuubu</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>Box 126-BUNDA</postalAddress>
+      <physicalAddress>Box 126-BUNDA</physicalAddress>
+      <fax/>
+      <telephone>0783697989</telephone>
+      <mobile>0752197957</mobile>
+      <email>smashuubuu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

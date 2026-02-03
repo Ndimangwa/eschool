@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1419</studentId>
+  <studentName>DOMINICK RAPHAEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KAIGARA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0880-0063</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CHATO</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0686-0516</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISHENGOMA RWEYONGEZA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O.BOX 57</postalAddress>
+      <physicalAddress>MULEBA</physicalAddress>
+      <fax/>
+      <telephone>0752760446</telephone>
+      <mobile>0752760446</mobile>
+      <email>irweyongeza@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

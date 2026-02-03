@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2204</studentId>
+  <studentName>ERMINA C KIMBI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NATIRO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0459-0009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NURSING TRAINING CENTRE-KCMC</institutionName>
+      <specialization>DIPLOMA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>24028</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GOOD SAMARITAN FOUNDATION OF TANZANIA KCMC</employerName>
+      <postalAddress>P.O.BOX 3010,MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <telephone>002550272754377</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00225222669036</sponsorfax>
+      <mobile>00225222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CASTUL CASMIRI KIMBI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 731,MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0758003105</telephone>
+      <mobile>0758003105</mobile>
+      <email>erikimbi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

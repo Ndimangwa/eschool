@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4573</studentId>
+  <studentName>SOPHIA.I.KIWANGO</studentName>
+  <accademicHistory><institution><institutionName>ESACS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1195.0006.2002</indexNumber><award>CSE</award><grade>DIVISION TWO</grade><startYear>1999</startYear><endYear>2002</endYear></institution><institution><institutionName>MZIZIMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0335.0561.2005</indexNumber><award>ACSE</award><grade>DIVISION TWO</grade><startYear>2003</startYear><endYear>2005</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>RAS RUVUMA</employerName><postalAddress>P.O.BOX 5 SONGEA</postalAddress><physicalAddress>SONGEA TOWN</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>SOPHIA KIWANGO</sponsorName><payerId>1</payerId><postalAddress>P.O.BOX 5 SONGEA</postalAddress><physicalAddress>SONGEA TOWN</physicalAddress><fax/><telephone/><mobile>0767484817</mobile><email>skiwango@yahoo.com</email><financedItem>MMED</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SOPHIA.I.KIWANGO</accountName><bankAccount>01800007499</bankAccount><bankName>TANZANIA POSTAL BANK</bankName><branchName>SONGEA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>55008ccfcec0287eab47efaeb13228d2</isaacompletechecksum></student>

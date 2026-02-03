@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3226</studentId>
+  <studentName>HASSAN SHABANI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LYCEE DU LAC</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>6436/01365760/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>COMIBU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>6463/01365760/2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MUNEZERO ASSUMINI ALLY</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p64</postalAddress>
+      <physicalAddress>BURUNDI/BUJA/KIBENGA LARGE</physicalAddress>
+      <fax/>
+      <sponsorfax>0025775365303</sponsorfax>
+      <mobile>0764012375</mobile>
+      <email>hassanlee20@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JASMIN GASPA MBADO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P64</postalAddress>
+      <physicalAddress>ARUSHA/ngusero</physicalAddress>
+      <fax/>
+      <telephone>0025775873074</telephone>
+      <mobile>0754506698</mobile>
+      <email>HASSANLEE20@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

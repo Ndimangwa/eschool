@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5196</studentId>
+  <studentName>DEVICE EDWINE FANDE</studentName>
+  <accademicHistory><institution><institutionName>BUKOBA LUTHERAN SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3491.0038.2013</indexNumber><award>CSE</award><grade>DIVISON ONE</grade><startYear>2012</startYear><endYear>2014</endYear></institution><institution><institutionName>MILAMBO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0132.0609.2016</indexNumber><award>ACSE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email/><financedItem>accommodation and tuition fee</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DOMITINA PETRO</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 1931</postalAddress><physicalAddress>BUKOBA</physicalAddress><fax></fax><telephone>0755383185</telephone><mobile>0755383185</mobile><email>devicejason123@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DEVICE EDWIN FANDE</accountName><bankAccount>0152217916300</bankAccount><bankName>CRDB </bankName><branchName>BUKOBA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>58eb321fdf7f317b27856dfea239d69c</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1192</studentId>
+  <studentName>EMMANUEL M MCHAKY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MBONI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0869-0095</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI TECHNICAL SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0135-0536</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ministry of health</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>908683</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222120261</sponsorfax>
+      <mobile>00255222120261</mobile>
+      <email>info@gvt.ir</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MISERY MCHAKI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>637</postalAddress>
+      <physicalAddress>MARANGU</physicalAddress>
+      <fax/>
+      <telephone>+255754441650</telephone>
+      <mobile>+255754441650</mobile>
+      <email>mchakione@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

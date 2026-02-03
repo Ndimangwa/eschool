@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1982</studentId>
+  <studentName>Godbless Peter Kalembo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ilboru secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0110/0043</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>lutheran junior seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0107/0585</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>high education students loarn board(heslb)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2240</postalAddress>
+      <physicalAddress>Dar-Es-Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0754344283</sponsorfax>
+      <mobile>0754344283</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Martha kahangwa</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>2444</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <telephone>0754828686</telephone>
+      <mobile>0754788088</mobile>
+      <email>marthakahangwa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

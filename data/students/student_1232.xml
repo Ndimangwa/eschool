@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1232</studentId>
+  <studentName>MARIAM N. DENIS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.ANTHONY'S SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0534/0032</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.ANTHONY'S SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0534/0579</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM.</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LUCY KIZURIRA</kinName>
+      <relationship>AUNT</relationship>
+      <postalAddress>P.O.BOX 71859 DSM</postalAddress>
+      <physicalAddress>MWANANYAMALA DAR ES SALAAM.</physicalAddress>
+      <fax/>
+      <telephone>0713274705</telephone>
+      <mobile>0713274705</mobile>
+      <email>lkiz@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

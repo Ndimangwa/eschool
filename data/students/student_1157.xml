@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1157</studentId>
+  <studentName>UPENDO MABONGO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JUHUDI SECONDARY SCOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1241/0075</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PCB</institutionName>
+      <specialization>ST. ANTHONY'S SECONDARY SCHOOL</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0534/0623</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YOHANA MABONGO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>30356</postalAddress>
+      <physicalAddress>KIBAHA</physicalAddress>
+      <fax/>
+      <telephone>0754806932</telephone>
+      <mobile>0754806932</mobile>
+      <email>yocholla@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

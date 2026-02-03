@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>624</studentId>
+  <studentName>JAMES KEPHA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UMOJA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0631.0101.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0555.0524.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>Dar es salaam,Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Kefa James Agwanda</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.0.Box 7 KAHAMA</postalAddress>
+      <physicalAddress>Kahama,Shinyanga</physicalAddress>
+      <fax/>
+      <telephone>0713298999</telephone>
+      <mobile>0784406463</mobile>
+      <email>jimmykepha@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KEPHA, JAMES</accountName><bankAccount>0152488983700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a7eba169e195db046b6135a5f26e4482</isaacompletechecksum></student>

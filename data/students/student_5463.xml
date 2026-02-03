@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5463</studentId>
+  <studentName>Paul Gilbert Ungani</studentName>
+  <accademicHistory><institution><institutionName>AZANIA SECONDARY SCHOOL/NDANDA HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0101.0382.1996</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>1993</startYear><endYear>1996</endYear></institution><institution><institutionName>NDANDA HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0338.0553.1999</indexNumber><award>CERTIFICATE IN ADVANCED EDUCATION</award><grade>DIVISION THREE</grade><startYear>1997</startYear><endYear>1999</endYear></institution><institution><institutionName>COTC MTWARA</institutionName><specialization>CERTICIFICATE IN DIPLOMA IN CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>2992</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>4.1</grade><startYear>1999</startYear><endYear>2001</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>TANZANIA PEOPLES DEFENCE FORCES</employerName><postalAddress>P.O.BOX 9203</postalAddress><physicalAddress>ZANZIBAR</physicalAddress><fax/><telephone>0242250188</telephone><mobile/><email/><startYear>2002</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>LILIAN UNGANI</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 9203</postalAddress><physicalAddress>MSASANI</physicalAddress><fax/><telephone>0753864011</telephone><mobile>0655864011</mobile><email>ungani05@yahoo.com</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LILIAN GILBERT UNGANI</kinName><relationship>SISTER</relationship><postalAddress>P.O.BOX 9203 DARESALAAM</postalAddress><physicalAddress>MSASANI</physicalAddress><fax></fax><telephone>0655864011</telephone><mobile>0753864011</mobile><email>ungani05@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>PAUL GILBERT UNGANI</accountName><bankAccount>0152319295500</bankAccount><bankName>CRDB BANK </bankName><branchName>MOROGORO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b8ec57c79e07cda15fe25f9bdcfa5258</isaacompletechecksum></student>

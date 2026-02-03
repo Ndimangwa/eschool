@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>529</studentId>
+  <studentName>JOEL ILAKOZE LUGANGIKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CENTRAL BUHONGWA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1756.0062.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134.0566.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATIONS STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669036</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JANUARY SEGERETI LUGANGIKA</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>11028 mwanza</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0767369250</telephone>
+      <mobile>0767369250</mobile>
+      <email>lugangikaj@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LUGANGIKA, JOEL ILAKOZE</accountName><bankAccount>0152327636700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>04b1f23d07362ba81d57d966557a0129</isaacompletechecksum></student>

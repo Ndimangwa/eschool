@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1578</studentId>
+  <studentName>AGNES J. MASSAWE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KARANGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S 3693-0002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA GIRL'S SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S 0220-051</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>MSASANI, DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VALENTINE J. NICHOLAUS</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O BOX 8955, MOSHI</postalAddress>
+      <physicalAddress>LONGUO B.</physicalAddress>
+      <fax/>
+      <telephone>0765857677</telephone>
+      <mobile>0652498166</mobile>
+      <email>valentinenicholaus@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

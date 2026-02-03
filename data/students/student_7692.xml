@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7692</studentId>
+  <studentName>moses kyania mwei</studentName>
+  <accademicHistory><institution><institutionName>kilimanjaro christian medical university college</institutionName><specialization>none</specialization><levelId>15</levelId><indexNumber>151</indexNumber><award>Degree</award><grade>pass</grade><startYear>2004</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>854d252fe20c38b6d1ccc9ce986fe277</isaacompletechecksum></student>

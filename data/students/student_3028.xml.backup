@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3028</studentId>
+  <studentName>Anneth Joel Kimaro</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AGAPE LUTHERAN J SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0184-0001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY'S MAZINDE JUU SEC.SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233-0509</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Loarn Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX76068</postalAddress>
+      <physicalAddress>Dar-es -Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Joel kimaro</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O.BOX 90558</postalAddress>
+      <physicalAddress>Dar-Es -Salaam</physicalAddress>
+      <fax/>
+      <telephone>0755509416</telephone>
+      <mobile>002555755509416</mobile>
+      <email>annethjoel@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4586</studentId>
+  <studentName>LINDA MAGANO NANGOMBE </studentName>
+  <accademicHistory><institution><institutionName>IIPUMBU SENIOR SECONDARY SCHOOL</institutionName><specialization>INTERNATIONAL GENERAL CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>E0001.3202.1995</indexNumber><award>INTERNATIONAL GENERAL CERTIFICATE OF SECONDARY EDUCATION</award><grade>PASS</grade><startYear>1993</startYear><endYear>1995</endYear></institution><institution><institutionName>MOSCOW MEDICAL ACADEMY</institutionName><specialization>MEDICINE</specialization><levelId>15</levelId><indexNumber>E0004.0269.2007</indexNumber><award>DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>2001</startYear><endYear>2007</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>ONGWEDIVA MEDIPARK</employerName><postalAddress>PO BOX 3342 ONGWEDIVA NAMIBIA</postalAddress><physicalAddress>AGUSTE TAANYANDA STREET ONGWEDIVA NAMIBIA</physicalAddress><fax/><telephone/><mobile>+264812779209</mobile><email>hinanifaf@ongwediva-medipark.com</email><startYear>2014</startYear><endYear>2016</endYear><extraInformation>info@ongwediva-medipark.com</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MEDIPARK ONGWEDIVA</sponsorName><payerId>10</payerId><postalAddress>PO BOX 3342 ONGWEDIVA NAMIBIA</postalAddress><physicalAddress>AGUSTE TAANYANDA STREET ONGWEDIVA NAMIBIA</physicalAddress><fax/><telephone/><mobile>+264812779209</mobile><email>hinanifaf@ongwediva-medipark.com</email><financedItem>Tuition and stipend fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GRETTA SHIDOLO</kinName><relationship>SISTER</relationship><postalAddress>PO BOX 672 OSHAKATI NAMIBIA</postalAddress><physicalAddress>PRESTIGE OMATANDO STREET ONGWEDIVA</physicalAddress><fax></fax><telephone>+264811280806</telephone><mobile>+264811280806</mobile><email>shidolog@ongwediva-medipark.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DR LINDA NANGOMBE</accountName><bankAccount>62150422261</bankAccount><bankName>FIRST NATIONAL BANK NAMIBIA</bankName><branchName>ONGWEDIVA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b2e1459fdf759fa2e52c1c7056f575e2</isaacompletechecksum></student>

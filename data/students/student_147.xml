@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>147</studentId>
+  <studentName>GODSON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kiusa secondari</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3372.0101.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>pugu secondari</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147.0742.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EMMANUEL J NGOWI</kinName>
+      <relationship>STEP FATHER</relationship>
+      <postalAddress>1532</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00255766597278</telephone>
+      <mobile>00255766597278</mobile>
+      <email>emmanuelngowi@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NGOWI,  GODSON  J</accountName><bankAccount>0152324460800</bankAccount><bankName> CRDB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>283b66b00c77903eea18d66fc23c906d</isaacompletechecksum></student>

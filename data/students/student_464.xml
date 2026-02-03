@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>464</studentId>
+  <studentName>heri mohamed babu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>old moshi secondary/mazengo secondary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P0134-069/P0131-023</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MEDICAL TRAINING CENTRE-LINDI</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CO.LI/00/019</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IMTU</institutionName>
+      <specialization>MBBS</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2007T CM 01</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>arusha city council</employerName>
+      <postalAddress>p. o. box 3013</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <telephone>+255272508073</telephone>
+      <email>cd@arushacc.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>arusha municipal council</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p. o. box 3013</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>+255272508073</sponsorfax>
+      <mobile>00255783211768</mobile>
+      <email>cd@arushacc.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>anna kimaro</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>p.o. box 375</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <telephone>+255754368750</telephone>
+      <mobile>+255754368750</mobile>
+      <email>anna_kimaro2002@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

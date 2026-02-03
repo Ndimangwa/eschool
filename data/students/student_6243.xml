@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6243</studentId>
+  <studentName>BARIADI SECONDAR SCHOOL</studentName>
+  <accademicHistory><institution><institutionName>BARIADI SECONDAR SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0712.0039.2005</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>THREE</grade><startYear>2002</startYear><endYear>2005</endYear></institution><institution><institutionName>KARATU SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>8</levelId><indexNumber>S0364.0572.2008</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>THREE</grade><startYear>2006</startYear><endYear>2008</endYear></institution><institution><institutionName>THE MEDICAL TRAINING CENTRE-KIBAHA</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>35275</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>UPPER SECOD CLASS</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DED MAFIA</employerName><postalAddress>S.L.P 85</postalAddress><physicalAddress>S.L.P 85</physicalAddress><fax>0232011338</fax><telephone>0232010199</telephone><mobile>0232010199</mobile><email>mafiadc@pwani.go.tz</email><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>sam NUJOMA ROAD, MWENGE</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MASUNGA  MLENGWA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 298 BARIADI</postalAddress><physicalAddress>P.O.BOX 298 BARIADI</physicalAddress><fax></fax><telephone>+255784484139</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EMMANUEL MASUNGA MLENGWA</accountName><bankAccount>0152326764300</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cb113469b04f1a7ea006bbc6a76eb027</isaacompletechecksum></student>

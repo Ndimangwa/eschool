@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2931</studentId>
+  <studentName>MATHIAS ALEXANDER MWITA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST JOSEPH MILLENIUM SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3674.0115.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST JOSEPH'S CATHEDRAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4692.0627.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>Sam Njuoma Road Mwenge Dar es Salaa,</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALEXANDER MAHEMBA MWITA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>38112 DSM</postalAddress>
+      <physicalAddress>KIMARA KOROGWE DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0713339713</telephone>
+      <mobile>0785911971</mobile>
+      <email>alexmmwita@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MWITA, MATHIAS ALEXANDER</accountName><bankAccount>0152241768000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3c1889bbbc859869fd094de4cc568078</isaacompletechecksum></student>

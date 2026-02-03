@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3958</studentId>
+  <studentName>RAPHAEL LATSON SICHONE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IFUNDA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0108.0114.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBITI  HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0413.0639.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DARESSALAM</postalAddress>
+      <physicalAddress>76068 DARESSALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALBERT LATSON SICHONE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>340- MBOZI</postalAddress>
+      <physicalAddress>340-mnboz</physicalAddress>
+      <fax/>
+      <telephone>0755484592</telephone>
+      <mobile>0755484592</mobile>
+      <email>raphaelsichone@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SICHONE, RAPHAEL LATSON</accountName><bankAccount>0152315341700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b1aa96394ba6bb04cf87541fd58d33ef</isaacompletechecksum></student>

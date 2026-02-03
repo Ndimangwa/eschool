@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3995</studentId>
+  <studentName>OMARY RAMADHANI MAJUALA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JABAL-HIRA MUSLIM JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0432-0099</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIGONSERA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0120-0731</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RAMADHANI MAJUALA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>6475</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>0715601485</telephone>
+      <mobile>0715601485</mobile>
+      <email>Omarynduli@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

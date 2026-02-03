@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2020</studentId>
+  <studentName>JOSEPH S ISDORY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NGALEKU SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1737/0063</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485/0614</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068  DAR ES SALAAM</postalAddress>
+      <physicalAddress>P.O BOX 76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GRACE SWAY</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>130 MKUU ROMBO</postalAddress>
+      <physicalAddress>130 MKUU ROMBO</physicalAddress>
+      <fax/>
+      <telephone>00255753006403</telephone>
+      <mobile>+255753006403</mobile>
+      <email>josephisdory@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4807</studentId>
+  <studentName>Rumaiswaa A. Mohammed</studentName>
+  <accademicHistory><institution><institutionName>SHAABAN ROBERT SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0342.0039.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SHAABAN ROBERT SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0342.0524.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ALLY MOHAMMED SALUM</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 13825 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM ILALA PANGANI STREET HOUSE NO. 32</physicalAddress><fax>+255242233449</fax><telephone>0752000000</telephone><mobile>0752000000</mobile><email>donedeal000094@gmail.com</email><financedItem>EVERYTHING</financedItem><extraInformation>BUSINESSMAN</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ALLY MOHAMMED SALUM</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 13825 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM ILALA PANGANI STREET HOUSE NO. 32</physicalAddress><fax>+255242233449</fax><telephone>+255242233449</telephone><mobile>0752000000</mobile><email>donedeal000094@gmail.com</email><extraInformation>BUSINESSMAN</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>RUMAISWAA ALLY MOHAMMED</accountName><bankAccount>0152274179000</bankAccount><bankName>CRDB BANK</bankName><branchName>LUMUMBA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d5390de66b1b3ae2fe5bc0e7b531d5d1</isaacompletechecksum></student>

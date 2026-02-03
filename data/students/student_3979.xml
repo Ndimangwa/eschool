@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3979</studentId>
+  <studentName>DAVID ALOYCE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.BAKANJA'S SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.3490/0055/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KALANGALALA SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0706/0542/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Daressalaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VASCO ARMON YALASEMEYE</kinName>
+      <relationship>uncle</relationship>
+      <postalAddress>644</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>0712432101</telephone>
+      <mobile>0712432101</mobile>
+      <email>gvoscoarmon@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

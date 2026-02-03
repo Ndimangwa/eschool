@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>600</studentId>
+  <studentName>Laurance Francis Mushi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Tengeru Boys Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1601-0063</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Uru Seminary</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0165-0526</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Francis Patrice Mushi</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2221 moshi kcmc</postalAddress>
+      <physicalAddress>none</physicalAddress>
+      <fax/>
+      <sponsorfax>+255753806565</sponsorfax>
+      <mobile>+255753806565</mobile>
+      <email>sandemushi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Francis Patrice Mushi</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>2221 moshi kcmc</postalAddress>
+      <physicalAddress>none</physicalAddress>
+      <fax/>
+      <telephone>+255753806565</telephone>
+      <mobile>+255753806565</mobile>
+      <email>sandemushi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

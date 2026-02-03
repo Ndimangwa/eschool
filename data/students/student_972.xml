@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>972</studentId>
+  <studentName>AMRI KYARUZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BAKILI MULUZI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1441/0016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>FEZA BOYS' SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0189/0507</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068, Dar es salaam</postalAddress>
+      <physicalAddress>Tirdo Complex, Kimweri Road, Msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISMAIL ISHENGOMA KWEYAMBA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>Box 15340, Dar es salam</postalAddress>
+      <physicalAddress>House No. 45, Kiungani St, Kariakoo</physicalAddress>
+      <fax/>
+      <telephone>00255784771783</telephone>
+      <mobile>00255712613135</mobile>
+      <email>ismailishengomakweyamba@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

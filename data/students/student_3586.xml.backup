@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3586</studentId>
+  <studentName>SAMSON B MKAWE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NIANJEMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1172-0038</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE MEDICAL TRAINING CENTRE-KCMC</institutionName>
+      <specialization>DIPLOMA IN PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>027588</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS MTWARA</employerName>
+      <postalAddress>520 MTWARA</postalAddress>
+      <physicalAddress>MTWARA</physicalAddress>
+      <telephone>00255232333014</telephone>
+      <email>ras@mtwara.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669039</sponsorfax>
+      <mobile>00255222669039</mobile>
+      <email>INFO@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Dorcas Hao</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>391 mbinga</postalAddress>
+      <physicalAddress>mbinga</physicalAddress>
+      <fax/>
+      <telephone>00255784572680</telephone>
+      <mobile>00255784572680</mobile>
+      <email>samkawe@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

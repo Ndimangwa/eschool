@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4042</studentId>
+  <studentName>Norbert Gaudence Mushi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>St.Joseph Millenium</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3674/0121</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mafinga Seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0113/0529</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Gaudens Mushi</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>12794</postalAddress>
+      <physicalAddress>Dar es slaaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0713123389</sponsorfax>
+      <mobile>0713123389</mobile>
+      <email>gaudens.lamai@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Gaudens Mushi</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>12794</postalAddress>
+      <physicalAddress>Dar es slaaam</physicalAddress>
+      <fax/>
+      <telephone>0713123389</telephone>
+      <mobile>0713123389</mobile>
+      <email>gaudens.lamai@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

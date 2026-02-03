@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1286</studentId>
+  <studentName>Joel Swai</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Moshi Tech Sec School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0135/0189</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tanga Tech Sec School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0156/0575</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o. box 76068</postalAddress>
+      <physicalAddress>plot no. 8, block no. 46 sam nujoma</physicalAddress>
+      <fax/>
+      <sponsorfax>+2552227724323</sponsorfax>
+      <mobile>00255272758770</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Goodluck Swai</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>p. o box</postalAddress>
+      <physicalAddress>434643</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0652262614</mobile>
+      <email>joel.swai07@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4654</studentId>
+  <studentName>MARIO JORGE MONJANE</studentName>
+  <accademicHistory><institution><institutionName>ESCOLA SECUNDARIA NOROESTE 1 (FPOVO)</institutionName><specialization>BASIC</specialization><levelId>4</levelId><indexNumber>P0078.0074.1998</indexNumber><award>CERTIFICATE</award><grade>10</grade><startYear>1994</startYear><endYear>1998</endYear></institution><institution><institutionName>INSTITUTO DE MAGISTERIO PRIMARIO DE CHIBUTUTUINE</institutionName><specialization>TEACHING</specialization><levelId>8</levelId><indexNumber>P0000.0000.2002</indexNumber><award>CERTIFICATE</award><grade>12</grade><startYear>1999</startYear><endYear>2002</endYear></institution><institution><institutionName>UNIVERSIDADE EDUARDO MONDLANE</institutionName><specialization>HONOURS DEGREE</specialization><levelId>15</levelId><indexNumber>P000.2013</indexNumber><award>CERTIFICATE</award><grade>HONOURS DEGREE</grade><startYear>2005</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH </employerName><postalAddress>CP264</postalAddress><physicalAddress>AV EDUARDO MONDLANE/SALVADOR ALENDE</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2003</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>LIGHT FOR THE WORLD</sponsorName><payerId>11</payerId><postalAddress>BEIRA MACUTI</postalAddress><physicalAddress>BEIRA MACUTE</physicalAddress><fax/><telephone/><mobile>+258828973820</mobile><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FLORENCIA JORGE MONJANE</kinName><relationship>SISTER</relationship><postalAddress>MOZAMBIQUE</postalAddress><physicalAddress>MOZAMBIQUE</physicalAddress><fax></fax><telephone>+258848734916</telephone><mobile>+258848734916</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MARIO JORGE MONJANE</accountName><bankAccount>0012221052152</bankAccount><bankName>BARCLAYS</bankName><branchName>AV TRABALHO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f25e843f1c6cfe88cd9a11b9ba1cb33b</isaacompletechecksum></student>

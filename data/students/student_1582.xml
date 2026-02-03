@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1582</studentId>
+  <studentName>SHAABAN YUSUPH</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TAQWA SEC. SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0578-0237</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BWIRU BOYS</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0104-0613</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>lucy nyakirenge</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>mwanza</postalAddress>
+      <physicalAddress>mwanza</physicalAddress>
+      <fax/>
+      <sponsorfax>+255789788947</sponsorfax>
+      <mobile>+255789788947</mobile>
+      <email>lucy03@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YUSUPH AENGO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>mwanza</postalAddress>
+      <physicalAddress>mwanza</physicalAddress>
+      <fax/>
+      <telephone>+255784597682</telephone>
+      <mobile>+255784597682</mobile>
+      <email>yusuph@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

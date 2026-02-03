@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8081</studentId>
+  <studentName>GRACE DONALD</studentName>
+  <accademicHistory><institution><institutionName>KIRAENI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0207.0058.2011</indexNumber><award>DIVISION 2</award><grade>POINTS 21</grade><startYear>2007</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DONALD BONIFACE</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 11757</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0719233632</telephone><mobile>0784782272</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>TEMBO CARD</accountName><bankAccount>5399433366022219</bankAccount><bankName>CRDB BANK</bankName><branchName>KARIAKOO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e64d9d10dc69d32e7bb584314eb80bf9</isaacompletechecksum></student>

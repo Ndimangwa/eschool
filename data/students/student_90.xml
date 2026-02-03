@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>90</studentId>
+  <studentName>LAMECK NYAMTUMBAGA WAKWESA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TARIME SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0352/0050</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KISARIKA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.1272/0534</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Student Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068 </postalAddress>
+      <physicalAddress>p.o.box 76068 </physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WAKWESA NYAMTUMBAGA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>p.o.box,126 bunda,mara</postalAddress>
+      <physicalAddress>p.o.box 126 bunda.mara</physicalAddress>
+      <fax/>
+      <telephone>0786294303</telephone>
+      <mobile>0786294303</mobile>
+      <email>Lameckwakwesa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

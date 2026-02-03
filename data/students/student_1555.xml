@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1555</studentId>
+  <studentName>Richard G Malewo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKOMU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0873/73</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI TECHNICAL HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0135/0600</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD (HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255266938</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Wenceslaus Malewo</kinName>
+      <relationship>Relative</relationship>
+      <postalAddress>167</postalAddress>
+      <physicalAddress>marangu moshi</physicalAddress>
+      <fax/>
+      <telephone>00255763269732</telephone>
+      <mobile>00255763269723</mobile>
+      <email>wencemalewo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

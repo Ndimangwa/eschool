@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7418</studentId>
+  <studentName>HERIEL S SILAYO</studentName>
+  <accademicHistory><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0485.0387.2014</indexNumber><award>O LEVEL CERTIFICATE</award><grade>2.7GPA</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0485.0765.2017</indexNumber><award>A LEVEL CERTIFICATE</award><grade>DIVISION 2</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SAMWEL E SILAYO</sponsorName><payerId>3</payerId><postalAddress>MOSHI 1366</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile>0759618005</mobile><email>eliahappy501@gmail.com</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>SAMWEL</kinName><relationship>FATHER</relationship><postalAddress>MOSHI 1366</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>+255759618005</telephone><mobile>0759618005</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HERIEL S SILAYO</accountName><bankAccount>5370293823028149</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d91daf7573867a19134a45e5dc5d98f4</isaacompletechecksum></student>

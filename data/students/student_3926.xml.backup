@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3926</studentId>
+  <studentName>BARAKA MSOMBA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KALOBE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1453/0155</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NJOMBE HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0143/0610</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>BOX 76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522669036</sponsorfax>
+      <mobile>002555222669036</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GIBSON MSOMBA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>PO .BOX 398</postalAddress>
+      <physicalAddress>PO.BOX 398</physicalAddress>
+      <fax/>
+      <telephone>0753451229</telephone>
+      <mobile>0753451229</mobile>
+      <email>msomba.baraka@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

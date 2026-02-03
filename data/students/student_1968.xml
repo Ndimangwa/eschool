@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1968</studentId>
+  <studentName>kamilo oliha tisiano</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>juba day secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>130357</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>sudan university(jerafe college)</institutionName>
+      <specialization>cat two in p&amp;o</specialization>
+      <levelId>8</levelId>
+      <indexNumber>38458</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>icrc south sudan</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>+211</postalAddress>
+      <physicalAddress>juba south sudan</physicalAddress>
+      <fax/>
+      <sponsorfax>+211912158677</sponsorfax>
+      <mobile>+211912158677</mobile>
+      <email>jfaber@icrc.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>humwara esther</kinName>
+      <relationship>my wife</relationship>
+      <postalAddress>+211</postalAddress>
+      <physicalAddress>juba south sudan</physicalAddress>
+      <fax/>
+      <telephone>+211954374020</telephone>
+      <mobile>+211954374020</mobile>
+      <email>hesther@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

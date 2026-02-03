@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>909</studentId>
+  <studentName>GEORGE NYAMBOTO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IHUNGO SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0109.0026.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147.0674.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>0222772432</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GEORGE NYAMBOTO</kinName>
+      <relationship>SINGLE</relationship>
+      <postalAddress>po box 247 mwanza</postalAddress>
+      <physicalAddress>+255759667240</physicalAddress>
+      <fax/>
+      <telephone>00255765554741</telephone>
+      <mobile>+255758948709</mobile>
+      <email>georgenyamboto@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>GEORGE NYAMBOTO</accountName><bankAccount>0152274731800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>da671e51a53cfa79a93614a714f69e02</isaacompletechecksum></student>

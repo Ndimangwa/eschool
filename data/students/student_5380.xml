@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5380</studentId>
+  <studentName>sghalibu shabani</studentName>
+  <accademicHistory><institution><institutionName>ilongero secondary school</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0715.0524.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d93a87bb9c7015471c6954ddbaa8287c</isaacompletechecksum></student>

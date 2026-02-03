@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>486</studentId>
+  <studentName>Julia Romao Nancuta</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Pemba Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>000014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Pemba Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>000014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Pemba Provisional Hospital</employerName>
+      <postalAddress>Q.Casa No 267,Pemba</postalAddress>
+      <physicalAddress>Q.Casa No 267,Pemba</physicalAddress>
+      <telephone>00258653123098</telephone>
+      <email>pembaprovision@pemba.co.mz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Light for the World</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1120 Vienna</postalAddress>
+      <physicalAddress>Niederhofstrasse 26, Austria</physicalAddress>
+      <fax/>
+      <sponsorfax>00431810130014</sponsorfax>
+      <mobile>00431810130014</mobile>
+      <email>info@light-for-the-world.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Selso Ponderani</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>Q. Casa no 242</postalAddress>
+      <physicalAddress>Q. Casa no 242</physicalAddress>
+      <fax/>
+      <telephone>0025825777000</telephone>
+      <mobile>0025825777000</mobile>
+      <email>selso.ponderani@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

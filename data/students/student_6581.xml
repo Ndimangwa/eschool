@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6581</studentId>
+  <studentName>KHAMIS H. KYAABI</studentName>
+  <accademicHistory><institution><institutionName>UTAANI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber> S0381.0152.2006</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2003</startYear><endYear>2006</endYear></institution><institution><institutionName>FIDEL CASTRO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0309.0584.2009</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2007</startYear><endYear>2009</endYear></institution><institution><institutionName>COLLEGE OF HEALTH SCIENCE ZANZIBAR</institutionName><specialization>DIPLOMA IN MEDICAL LABORATORY SCIENCE</specialization><levelId>12</levelId><indexNumber>DMLS/199/2010</indexNumber><award>DIPLOMA IN MEDICAL LABORATORY SCIENCE</award><grade>UPPER SECOND CLASS</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>TED HANDENI </employerName><postalAddress>S.L.P 51</postalAddress><physicalAddress>HANDENI MJI</physicalAddress><fax/><telephone>0272641807</telephone><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>LAPF -Pension Fund</sponsorName><payerId>11</payerId><postalAddress>S.L.P 12849</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone/><mobile/><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>OTHMAN ALI HAMAD</kinName><relationship>BROTHER</relationship><postalAddress>P.O.BOX 10</postalAddress><physicalAddress>MKURANGA PWANI</physicalAddress><fax/><telephone>0774730099</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KHAMIS HAMAD KYAABI</accountName><bankAccount>20201603828</bankAccount><bankName>NMB</bankName><branchName>CHAKE CHAKE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8b9c98b8b865d50b7f27a91339d263a5</isaacompletechecksum></student>

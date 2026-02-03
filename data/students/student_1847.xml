@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1847</studentId>
+  <studentName>Irene M Kunamila</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kowak girls secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S02410031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Bukoba secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S03040511</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Ministry of education and vocational training</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>11479 Dar es salaam</postalAddress>
+      <physicalAddress>7 Magomeni street</physicalAddress>
+      <fax/>
+      <sponsorfax>002552120403</sponsorfax>
+      <mobile>002552120412</mobile>
+      <email>psmoevt@moe.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Agness Kunamila</kinName>
+      <relationship>Sister</relationship>
+      <postalAddress>11858 Mwanza</postalAddress>
+      <physicalAddress>Igoma Mwanza</physicalAddress>
+      <fax/>
+      <telephone>0766823100</telephone>
+      <mobile>00255766823100</mobile>
+      <email>agnesskunamila@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

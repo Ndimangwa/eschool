@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1540</studentId>
+  <studentName>Sardina.Z.Tinkasimile</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Loreto girls secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0249-0081</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St.Mary Goreth secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187-0694</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Amon.M.Tinkasimile</kinName>
+      <relationship>uncle</relationship>
+      <postalAddress>1662/7465</postalAddress>
+      <physicalAddress>bukoba</physicalAddress>
+      <fax/>
+      <telephone>00255784796112</telephone>
+      <mobile>0784796112</mobile>
+      <email>amontinkasimile@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

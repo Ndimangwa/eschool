@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>39</studentId>
+  <studentName>Tshipamba Tshizubu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Boboto College</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>00074184</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Boboto College</institutionName>
+      <specialization>Biology Chemistry</specialization>
+      <levelId>8</levelId>
+      <indexNumber>00074184</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kinshasa University</institutionName>
+      <specialization>Medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>102.2671.12</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JEAN CLAUDE TSHIZUBU MUKENDI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>B.P 7246 KIN 1</postalAddress>
+      <physicalAddress>16163,IMPRIMERIE,LIMETE,FUNQ,OFITRA</physicalAddress>
+      <fax/>
+      <sponsorfax>00243998946926</sponsorfax>
+      <mobile>00243847836087</mobile>
+      <email>J._tshizubu@heineken.nl</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JEAN CLAUDE TSHIZUBU MUKENDI</kinName>
+      <relationship>PARENT,DAD</relationship>
+      <postalAddress>B.P 7246 KIN 1</postalAddress>
+      <physicalAddress>16163,IMPRIMERIE,LIMETE,FUNA,OFITRA</physicalAddress>
+      <fax/>
+      <telephone>00243998946926</telephone>
+      <mobile>00243847836087</mobile>
+      <email>J._tshizubu@heineken.nl</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

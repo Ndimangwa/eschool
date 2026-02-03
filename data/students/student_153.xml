@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>153</studentId>
+  <studentName>Hassan I. Njete</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mzumbe Secondary Zchool</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0140-0042</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibaha Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119-0534</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>Doctor of Medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>33784/T.2001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MOHSW</employerName>
+      <postalAddress>9083</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <telephone>00255222120261</telephone>
+      <email>info@healthtrainingifakara.org</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>TTCIH Ifakara</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>39</postalAddress>
+      <physicalAddress>Ifakara</physicalAddress>
+      <fax/>
+      <sponsorfax>00255232625018</sponsorfax>
+      <mobile>00255786483594</mobile>
+      <email>info@healthtrainingifakara.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Suleiman Kikuwi</kinName>
+      <relationship>Guardian</relationship>
+      <postalAddress>61714</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <telephone>00255232625018</telephone>
+      <mobile>00255786821095</mobile>
+      <email>matonangejunior@live.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

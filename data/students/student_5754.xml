@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5754</studentId>
+  <studentName>ABDUKADIRI SHUNGU MADARAKA</studentName>
+  <accademicHistory><institution><institutionName>MAKAMBAKO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0427.0114.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>PUGU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0147.0650.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGH EDUCATION STUDENTS' LOANS BORD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MADARAKA SHUNGU</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 2240</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0762391917</telephone><mobile>0757573141</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ABDUKADIRI SHUNGU MADARAKA</accountName><bankAccount>0152201532900</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>59885332307cbcafca35e41165a915fb</isaacompletechecksum></student>

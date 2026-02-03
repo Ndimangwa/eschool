@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3511</studentId>
+  <studentName>ELIAS CLAUDIO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BUKOLI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0760.0063.2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NURSING TRAINING CENTRE-IFAKARA</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SAALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>0255222669036</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LETICIA P. KIBUGA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O Box 77-GEITA</postalAddress>
+      <physicalAddress>GEITA</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0759866110</mobile>
+      <email>eclao85@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>CLAUDIO, ELIAS</accountName><bankAccount>0112047380200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>13e905d2fd0a2446758c8fd3b24970b0</isaacompletechecksum></student>

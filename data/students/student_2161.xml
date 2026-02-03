@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2161</studentId>
+  <studentName>Flavian T. Kako</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Dareda Secondary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0643/0046</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibosho School of Nursing</institutionName>
+      <specialization>Nursing</specialization>
+      <levelId>8</levelId>
+      <indexNumber>15228</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522669036</sponsorfax>
+      <mobile>0025522669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Fina Marandu</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>318</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>00255683335411</telephone>
+      <mobile>0683335411</mobile>
+      <email>kkirway@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

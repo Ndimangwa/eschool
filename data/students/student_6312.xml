@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6312</studentId>
+  <studentName>magnaomi kandonga</studentName>
+  <accademicHistory><institution><institutionName>national heath training centre</institutionName><specialization>medical rehabilitation worker</specialization><levelId>4</levelId><indexNumber>E0001.3202.1995</indexNumber><award>CERRTIFICATE OF SECONDARY EDUCATION</award><grade>  E0001.xxxx.yyyy</grade><startYear>1998</startYear><endYear>1999</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>CATHOLIC HEALTH SERVICES</employerName><postalAddress>P.O.BOX 3001 RHOBOTH,NAMIBIA</postalAddress><physicalAddress>REHOBOTH,NAMIBIA</physicalAddress><fax>+255222700286</fax><telephone>+255744620897</telephone><mobile>+255222772432</mobile><email>balackykandonga@yahoo.co.uk</email><startYear>2010</startYear><endYear>2015</endYear><extraInformation>NONE</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>NASFAF</sponsorName><payerId>4</payerId><postalAddress>P.O.BOX 23053, NAMIBIA</postalAddress><physicalAddress>NAMIBIA,51/52 WERNER LIST STREET,WINDHOEK</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>studentsrelations@nsfaf.na</email><financedItem>TUITION  FEES AND ACCOMODATION</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ERICA KANDONGA</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 3001 REHOBOTH,NAMIBIA</postalAddress><physicalAddress>REHOBOTH,NAMIBIA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255787368624</mobile><email>balackykandonga@yahoo.co.uk</email><extraInformation>none</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NONE</accountName><bankAccount>NONE</bankAccount><bankName>NONE</bankName><branchName>NONE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2d5c181585ad61f5d8cbf6a464ee5ad2</isaacompletechecksum></student>

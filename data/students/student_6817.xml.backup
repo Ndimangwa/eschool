@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6817</studentId>
+  <studentName>Ditrick Fedrick Kihombo</studentName>
+  <accademicHistory><institution><institutionName>SONGEA BOYS SECONDARY</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S0153.0011.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIV 1, PTS 17</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MOSHI TECHNICAL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0135.0623.2016</indexNumber><award>ACSE</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR-ES-SALAAM</postalAddress><physicalAddress>SAM NUJOMA ROAD, MWENGE, DAR ES SALAAM</physicalAddress><fax>0222700286</fax><telephone>0222772432</telephone><mobile>0222700286</mobile><email>INfo@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FEDRICK E.KIHOMBO</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 70 MAKAMBAKO</postalAddress><physicalAddress>MANGA</physicalAddress><fax/><telephone>0755282000</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DITRICK FEDRICK KIHOMBO</accountName><bankAccount>0152474096000</bankAccount><bankName>CRDB BANK</bankName><branchName>MAKAMBAKO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1f4f6449cc2b02fded8a856e67278d63</isaacompletechecksum></student>

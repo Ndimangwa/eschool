@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>700</studentId>
+  <studentName>ATHANAS CHRISTOPHER LUNYESHA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILOLELI</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3048/0066</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MILAMBO</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0132/0503</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068 DSM</postalAddress>
+      <physicalAddress>Box 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>REBECA NYANDA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>Box 1333 Mwanza</postalAddress>
+      <physicalAddress>Box 1333 Mwanza</physicalAddress>
+      <fax/>
+      <telephone>+255753040849</telephone>
+      <mobile>+255753040849</mobile>
+      <email>athanaschiristopher@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

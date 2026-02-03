@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5491</studentId>
+  <studentName>BROWN M KAVINDI</studentName>
+  <accademicHistory><institution><institutionName>MAWELEWELE</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1161.0087.2013</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>S0NGEA </institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0153.0667.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3cca9bcb69f54f7e6aab9faf09b00ecd</isaacompletechecksum></student>

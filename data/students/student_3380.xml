@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3380</studentId>
+  <studentName>JESCA WINGIA UISSO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MATALA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2873.0056.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BAGAMOYO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0351.0564.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.BOX 76068 DSM</postalAddress>
+      <physicalAddress>Sam nujoma road Mwenge DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WINGIA ELIMSU UISSO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1583 MOSHI</postalAddress>
+      <physicalAddress>1583</physicalAddress>
+      <fax/>
+      <telephone>00225765904284</telephone>
+      <mobile>00225766799006</mobile>
+      <email>Stephenuiso@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>UISSO, JESCA WINGIA</accountName><bankAccount>0152327968800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0927970c25203be0412f5fe73ec777ba</isaacompletechecksum></student>

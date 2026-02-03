@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>861</studentId>
+  <studentName>REVINA RESPIQUS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TAQWA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0578.0081.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORAGIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0220.0560.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068</postalAddress>
+      <physicalAddress>BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RESPIQUS CLEMENCE MUTTA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>box 65533 dar es salaam</postalAddress>
+      <physicalAddress>box 65533 dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0767570066</telephone>
+      <mobile>0767570066</mobile>
+      <email>revinarespiqus@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>RESPIQUS, REVINA</accountName><bankAccount>0152489020000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>181697a87508e27d47dd374df6a28dc2</isaacompletechecksum></student>

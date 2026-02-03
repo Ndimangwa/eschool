@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3354</studentId>
+  <studentName>JACQUILINE JOHANES RUGALABAMU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SUMVE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0231/0065/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUKOBA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0304/0519/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHANES EMANUEL RUGALABAMU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 789 SHINYANGA</postalAddress>
+      <physicalAddress>SHINYANGA</physicalAddress>
+      <fax/>
+      <telephone>0756638298</telephone>
+      <mobile>0784832110</mobile>
+      <email>Johanes.jacquline@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

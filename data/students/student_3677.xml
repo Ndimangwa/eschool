@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3677</studentId>
+  <studentName>KENNETH ABRAHAM</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBASILA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0316.0326.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.ANTHONY'S SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0534.0698.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT'S LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222669036</sponsorfax>
+      <mobile>0222669036</mobile>
+      <email>INfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SAFIEL</kinName>
+      <relationship>GRANDFATHER</relationship>
+      <postalAddress>P.O.BOX 15817</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0713721637</telephone>
+      <mobile>0713721637</mobile>
+      <email>abrakenny27@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ABRAHAM, KENNETH</accountName><bankAccount>0152317075100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>31f9411ec6499cd7cfcfc652fdb60edd</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4455</studentId>
+  <studentName>BEATRICE ELIMRINGI MARINGO</studentName>
+  <accademicHistory><institution><institutionName>Kifungilo girl's secondary school</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0224.0011.2005</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2002</startYear><endYear>2005</endYear></institution><institution><institutionName>Kifungilo girl's secondary school</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0224.0503.2008</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2006</startYear><endYear>2008</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>K160101</indexNumber><award>DOCTOR OF MEDICINE</award><grade>SECOND</grade><startYear>2008</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>GSF KILIMANJARO CHRISTIAN MEDICAL CENTER</employerName><postalAddress>P.O.BOX 3340</postalAddress><physicalAddress>MOSHI</physicalAddress><fax>0272754381</fax><telephone>0272754377</telephone><mobile/><email>kcmcadmin@kcmc.ac.tz</email><startYear>2014</startYear><endYear>2050</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>BEATRICE</sponsorName><payerId>1</payerId><postalAddress>P.O.BOX 716</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0717406677</telephone><mobile>0717406677</mobile><email>beatricesia.maringo@gmail.com</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELIMRINGI ABRAHAM</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 716</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0754306005</telephone><mobile>0754306005</mobile><email>beatricesia.maringo@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>BEATRICE E MARINGO</accountName><bankAccount>0112040944700</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7dbdd6cd90f254db03bc484941edd398</isaacompletechecksum></student>

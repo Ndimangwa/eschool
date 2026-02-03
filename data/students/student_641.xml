@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>641</studentId>
+  <studentName>GAUDENSIA ALOYCE OLOMI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIRAENI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0207-0034</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HURUMA NURSING TRAINING CENTRE</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>15254</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>BACHELOR OF SCIENCE IN NURSING</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K160010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS-KILIMANJARO</employerName>
+      <postalAddress>3054-MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <telephone>+255654445597</telephone>
+      <email>rmokilimanjaro@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GAUDENSIA ALOYCE OLOMI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3054-MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0756831210</sponsorfax>
+      <mobile>0756831210</mobile>
+      <email>olomigaudensia@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ADAM JOSEPH CHIDYAU</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>1043-MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0763824545</telephone>
+      <mobile>0763824545</mobile>
+      <email>adamujoseph@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

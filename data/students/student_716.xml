@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>716</studentId>
+  <studentName>Deogratias L Maduhu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Don bosco seminari</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0172/0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tabora boys secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155/0513</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher education students loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Paul Charles Maduhu</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>218</postalAddress>
+      <physicalAddress>Shinyanga</physicalAddress>
+      <fax/>
+      <telephone>0754204110</telephone>
+      <mobile>0754204110</mobile>
+      <email>paulmaduhu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

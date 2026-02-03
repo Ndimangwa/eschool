@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3785</studentId>
+  <studentName>EMMANUEL THOMAS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KANYIGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0473/0049</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KAHORORO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0115/0635</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,DAR ES SALAAM</postalAddress>
+      <physicalAddress>76068,DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222772432</sponsorfax>
+      <mobile>0255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>THOMAS MASABO YUSITAS</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>73,KYAKA</postalAddress>
+      <physicalAddress>73,KYAKA</physicalAddress>
+      <fax/>
+      <telephone>0787698367</telephone>
+      <mobile>0787698367</mobile>
+      <email>thomasmsabo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

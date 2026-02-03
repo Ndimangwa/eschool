@@ -1,0 +1,7 @@
+1. managedepartment --> manageXXX [firewall rules]
+2. getDepartment 
+3. setDepartment
+4. Department --> XXX [Name of your Class, as well some captions use this name]
+5. department1 -->xxx1 , [group reference]
+6. departments //table name
+7. department

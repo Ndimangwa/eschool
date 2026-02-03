@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4879</studentId>
+  <studentName>AMOS MAIRO RYOBA</studentName>
+  <accademicHistory><institution><institutionName>MIRONGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3046.0066.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MWANZA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0333.0822.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATON STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772433</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation>www.helsb.go.tz</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>AMOS MAIRO RYOBA</accountName><bankAccount>0152201512000</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3ab002d80fa2e39771b0da4e80403629</isaacompletechecksum></student>

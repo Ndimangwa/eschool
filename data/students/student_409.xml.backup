@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>409</studentId>
+  <studentName>EDITH SHADRACK</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LAKE SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S323/16</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOL OF PAEDIATRIC NURSING</institutionName>
+      <specialization>ADVANCED DIPLOMA IN PAEDIATRIC</specialization>
+      <levelId>8</levelId>
+      <indexNumber>262;03-94-96</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>naomi nnko</employerName>
+      <postalAddress>200</postalAddress>
+      <physicalAddress>magu mwanza</physicalAddress>
+      <telephone>+255282530002</telephone>
+      <email>hosenga@yaoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Edith shadrack</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>30</postalAddress>
+      <physicalAddress>magu mwanza</physicalAddress>
+      <fax/>
+      <sponsorfax>+255282530062</sponsorfax>
+      <mobile>+255754044769</mobile>
+      <email>shadrackeediths@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Edson shadrack</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>57</postalAddress>
+      <physicalAddress>chalinze Bagamoyo</physicalAddress>
+      <fax/>
+      <telephone>+255282530062</telephone>
+      <mobile>+255759265659</mobile>
+      <email>samweleddie@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

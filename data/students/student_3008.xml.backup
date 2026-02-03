@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3008</studentId>
+  <studentName>NTIMI I MWAMBASI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>THOMAS MORE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1604/0016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN BOYS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4213/0572</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068  Dar es Salaam</postalAddress>
+      <physicalAddress>76068  Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISSAH Jo MWAMBASI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>9540</postalAddress>
+      <physicalAddress>9540</physicalAddress>
+      <fax/>
+      <telephone>002552255140000</telephone>
+      <mobile>00244754324805</mobile>
+      <email>issa.mwambasi@oryxenergies.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

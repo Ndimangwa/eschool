@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5501</studentId>
+  <studentName>DANIEL ARTHUR MWANDISI</studentName>
+  <accademicHistory><institution><institutionName>KIGONSERA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0120.0679.2015</indexNumber><award>ACSE</award><grade>DIVISION THREE</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>P.O. BOX 76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@helsb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MOLLIE NJAKO</kinName><relationship>SISTER</relationship><postalAddress>P.O BOX 50</postalAddress><physicalAddress>P.O BOX 50,SONGEA</physicalAddress><fax/><telephone>+255756207573</telephone><mobile>+255756207573</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DANIEL ARTHUR MWANDISI</accountName><bankAccount>0152201519300</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c6bc4cf74dca96c155e8b6e39dd9f46e</isaacompletechecksum></student>

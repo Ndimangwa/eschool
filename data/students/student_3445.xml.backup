@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3445</studentId>
+  <studentName>WILLIM JOHN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>USAGARA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.O345.O295</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUGALO SCHOOL OF NURING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>LMMS/O272/2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, Dar-es-salaam</postalAddress>
+      <physicalAddress>76068, Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOAN-MARY JOSHUA MSANGI</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>977 dar es salaam</postalAddress>
+      <physicalAddress>977 dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>00255718809343</telephone>
+      <mobile>0718809343</mobile>
+      <email>web255@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

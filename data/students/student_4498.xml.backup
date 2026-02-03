@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4498</studentId>
+  <studentName>MASTERS IN MIDWIFERY</studentName>
+  <accademicHistory><institution><institutionName>WERUWERU</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0221-0103</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>1992</startYear><endYear>1995</endYear></institution><institution><institutionName>KCMC SCHOOL OF NURSING</institutionName><specialization>DIPLOMA IN NURSING</specialization><levelId>12</levelId><indexNumber>09551</indexNumber><award>DIPLOMA IN NURSING</award><grade>PASS</grade><startYear>1997</startYear><endYear>2001</endYear></institution><institution><institutionName>KCMUCO</institutionName><specialization>BSC IN NURSING</specialization><levelId>15</levelId><indexNumber>K0151</indexNumber><award>BACHELOR DEGREE</award><grade>PASS</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>RAS KILIMANJARO</employerName><postalAddress>P.O. BOX 3054</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile/><email>ras@kilimanjaro.go.tz</email><startYear>2011</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>RAS</sponsorName><payerId>10</payerId><postalAddress>P.O BOX 3070</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile/><email>ras@kilimanjaro.go.tz</email><financedItem>fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MAGDALENA  A  CHUWA</accountName><bankAccount>40301614848</bankAccount><bankName>NMB</bankName><branchName>MANDELA MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1fcbf4beca89f66e839703ba63c2ac57</isaacompletechecksum></student>

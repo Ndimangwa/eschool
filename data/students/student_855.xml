@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>855</studentId>
+  <studentName>ESTER JACKSON SHINSHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IWALANJE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0890.0015.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211.0556.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EDDA SAIMON SHINSHI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 47 CHUNYA MBEYA</postalAddress>
+      <physicalAddress>P.O.BOX 47 CHUNYA MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0756640087</telephone>
+      <mobile>022756640087</mobile>
+      <email>eddashinshi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SHINSHI, ESTER J</accountName><bankAccount>0152327700000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>87fba901c1b8e2e539d9a93a56423551</isaacompletechecksum></student>

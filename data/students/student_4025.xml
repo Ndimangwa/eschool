@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4025</studentId>
+  <studentName>MZAMILU MIKIDADI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AM SHABIBY SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3843.0129.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILANGALANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0870.0614.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+2552222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRANCIS SABATELE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>PO.BOX 42030</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0754267487</telephone>
+      <mobile>0715267487</mobile>
+      <email>sabateli73@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MZAMILU MIKIDADI HATIBU</accountName><bankAccount>0152326913300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f78aa62e5e49274e496d99bd794a6ed3</isaacompletechecksum></student>

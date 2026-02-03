@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1615</studentId>
+  <studentName>GLORIA ELISANTE MASENGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.MARIA GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1187/0046</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. Mariagoreth Secondary School</institutionName>
+      <specialization>CBN</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.1187/0558</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ELISANTE MASENGA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>8332</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754463136</sponsorfax>
+      <mobile>+255754463136</mobile>
+      <email>johnmasenga@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELISANTE MASENGA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>8332</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>+255754463136</telephone>
+      <mobile>+255754463136</mobile>
+      <email>johnmasenga@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

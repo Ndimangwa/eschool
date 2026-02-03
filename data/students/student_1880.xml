@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1880</studentId>
+  <studentName>SALIM Z MBOYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>FEZA BOYS secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0189-0077</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA BOYS secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0119-0624</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. Box 76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>0757593868</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Zawadiel</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O. BOX 8937 DSM</postalAddress>
+      <physicalAddress>Dar-es-salaam</physicalAddress>
+      <fax/>
+      <telephone>0754300842</telephone>
+      <mobile>0716280068</mobile>
+      <email>zawadiel2004@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

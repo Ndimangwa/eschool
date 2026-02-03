@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6151</studentId>
+  <studentName>EMANUEL S PANGA</studentName>
+  <accademicHistory><institution><institutionName>WELWEL</institutionName><specialization>ORDINARY LEVEL</specialization><levelId>4</levelId><indexNumber>S1370.0100.2012</indexNumber><award>ACADEMIC CERTIFICATE</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>44d3f10a32139b46db2e083bb1e122f8</isaacompletechecksum></student>

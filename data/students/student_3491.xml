@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3491</studentId>
+  <studentName>george mwasekaga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>uwata sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3905.0083.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mzumbe sec school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0140.0526.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, Dar es Salaaam</postalAddress>
+      <physicalAddress>mwenge,dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>grace mwamakula</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>137kyela</postalAddress>
+      <physicalAddress>kyela,mbeya</physicalAddress>
+      <fax/>
+      <telephone>+225755201640</telephone>
+      <mobile>+225755201640</mobile>
+      <email>gscience71@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MWASEKAGA, GEORGE</accountName><bankAccount>0152507038500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>33652f2af55337c970ca1f88e0d541ef</isaacompletechecksum></student>

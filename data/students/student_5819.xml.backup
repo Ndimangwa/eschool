@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5819</studentId>
+  <studentName>TIMOTHY  B. LALAJI</studentName>
+  <accademicHistory><institution><institutionName>ILBORU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0110.0105.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ILBORU SECONDARY SCHOOL </institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0110.0713.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O. BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>FEES,MEALS,SPECIAL FACULT REQUIREMENTS,PRACTICALS</financedItem><extraInformation/></sponsor><sponsor><sponsorName>BELIUM LALAJI</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 171 KARATU</postalAddress><physicalAddress>KARATU</physicalAddress><fax/><telephone>0784526735</telephone><mobile>0784526735</mobile><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BELIUM LALAJI</kinName><relationship>FATHER</relationship><postalAddress>P.O. BOX 171 KARATU</postalAddress><physicalAddress>KARATU</physicalAddress><fax/><telephone>0784526735</telephone><mobile>0784526735</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>TIMOTHY B. LALAJI</accountName><bankAccount>0152202635300</bankAccount><bankName>CRDB</bankName><branchName>KARATU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>dcde097645ef7e77103acda1ceb3cb5f</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5245</studentId>
+  <studentName>lucia p maganga</studentName>
+  <accademicHistory><institution><institutionName>BUTIMBA DAY SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1143.0046.2013</indexNumber><award>Certificate of Secondary Education</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>NGANZA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0216.0830.2016</indexNumber><award>Advanced Certificate of Secondary Education</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR-ES-SALAAM</physicalAddress><fax>0222700286</fax><telephone/><mobile>0222700286</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>LUCIA MAGANGA</accountName><bankAccount>0152339230300</bankAccount><bankName>CRDB</bankName><branchName>MWANZA </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7cd9c4f13b4d8202b6e5e1aa8997606c</isaacompletechecksum></student>

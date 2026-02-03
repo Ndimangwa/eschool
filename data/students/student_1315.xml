@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1315</studentId>
+  <studentName>ALLAN AUGUSTINO NAALI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST MARY'S SEMINARY MBALIZI MBEYA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0179/0002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MZUMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0140/0503</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DELFINA INGI AWE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 2554</postalAddress>
+      <physicalAddress>MBEYA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255764934648</sponsorfax>
+      <mobile>+255764934648</mobile>
+      <email>allananaali@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DELFINA INGI AWE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O. BOX 2554</postalAddress>
+      <physicalAddress>MBEYA</physicalAddress>
+      <fax/>
+      <telephone>+255764934648</telephone>
+      <mobile>+255764934648</mobile>
+      <email>allananaali@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

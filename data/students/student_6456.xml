@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6456</studentId>
+  <studentName>mwanahawa yahya</studentName>
+  <accademicHistory><institution><institutionName>CHONO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0030.4542.2013</indexNumber><award>DIVISIONTWO</award><grade>PASS</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MKOLANI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0583.1051.2016</indexNumber><award>DIVISION THREE</award><grade>PRINCIPLE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MWAJUMA BUSHIRI KAPORO</sponsorName><payerId>3</payerId><postalAddress>PO BOX 509 MTWARA</postalAddress><physicalAddress>MBEZI MTWARA TANZANIA</physicalAddress><fax/><telephone/><mobile>0713270790</mobile><email/><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MWANAHAWA YAHYA MNDEME</accountName><bankAccount>0152212033100</bankAccount><bankName>CRDB BANK</bankName><branchName>AZIKIWE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>58a1e9a42bc7d1a5bd83cacdec134cd5</isaacompletechecksum></student>

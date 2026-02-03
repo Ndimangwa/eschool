@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7942</studentId>
+  <studentName>Mashavu Haroub Yussuf</studentName>
+  <accademicHistory><institution><institutionName>Kharkov National Medical University</institutionName><specialization>DDS</specialization><levelId>15</levelId><indexNumber>028053</indexNumber><award>Doctor of Dental Surgery</award><grade>Pass</grade><startYear>2009</startYear><endYear>2014</endYear></institution><institution><institutionName>SOS Hermann Gmeiner School</institutionName><specialization>Science</specialization><levelId>4</levelId><indexNumber>S0995.0018.2008</indexNumber><award>Certificate of secondary education</award><grade>Division 1</grade><startYear>2004</startYear><endYear>2008</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DR. Gombo MF</employerName><postalAddress>P.O.Box 76646 Dar es salaam</postalAddress><physicalAddress>Msasani Mwai Kibaki road</physicalAddress><fax/><telephone>+255754387604</telephone><mobile>0717971919</mobile><email>abcdentclinic@gmail.com</email><startYear>2016</startYear><endYear>2017</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>Yelena S. Yussuf</sponsorName><payerId>3</payerId><postalAddress>P.O.Box 99 Zanzibar</postalAddress><physicalAddress>Chukwani</physicalAddress><fax/><telephone>+255768878069</telephone><mobile>+255715827171</mobile><email>lenas.15@hotmail.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Mashavu Haroub Yussuf</accountName><bankAccount>20910003637</bankAccount><bankName>NMB</bankName><branchName>Muhimbili</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8e67aacf94f46d11ce71d69c3377c8c6</isaacompletechecksum></student>

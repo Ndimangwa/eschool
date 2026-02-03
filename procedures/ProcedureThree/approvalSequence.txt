@@ -1,0 +1,134 @@
+if ($page == "edit_my_profile" && isset($_REQUEST['action']) && isset($_REQUEST['report']) && ($_REQUEST['action'] == "change_names") && $login1->isANewSubmission() && ApprovalSequenceData::isApprovalComplete($config, $login1->getLoginId(), ApprovalSequenceSchema::$__USER_EDIT_NAMES, $exprA108Name, $msgA108Name, "../server/createnewapprovalsequence.php")) {
+		$conn = mysql_connect($hostname, $user, $pass) or die("Could not connec to a database services");
+		$enableUpdate = false;
+		$promise1 = new Promise();
+		$promise1->setPromise(true);
+		//Perform not procedures like updates 
+		$firstname = mysql_real_escape_string($_REQUEST['firstname']);
+		$middlename = mysql_real_escape_string($_REQUEST['middlename']);
+		$lastname = mysql_real_escape_string($_REQUEST['lastname']);
+		$fullname = mysql_real_escape_string($_REQUEST['fullname']);
+		//
+		$ulogin1 = null;
+		try {
+			$ulogin1 = new Login($database, $login1->getLoginId(), $conn);
+		} catch (Exception $e)	{
+			die($e->getMessage());
+		}
+		if ($firstname != $ulogin1->getFirstname())	{
+			$ulogin1->setFirstname($firstname); $enableUpdate = true;
+		}
+		if ($middlename != $ulogin1->getMiddlename())	{
+			$ulogin1->setMiddlename($middlename); $enableUpdate = true;
+		}
+		if ($lastname != $ulogin1->getLastname())	{
+			$ulogin1->setLastname($lastname); $enableUpdate = true;
+		}
+		if ($fullname != $ulogin1->getFullname())	{
+			$ulogin1->setFullname($fullname); $enableUpdate = true;
+		}
+		try {
+			if (! $enableUpdate) Object::shootException("No Changes has been made, you did not Update Anything");
+			$schemaId = ApprovalSequenceSchema::getApprovedSchemaFromCodeAndLogin($database, $conn, $login1->getLoginId(), ApprovalSequenceSchema::$__USER_EDIT_NAMES);
+			if (is_null($schemaId)) Object::shootException("The Approval Sequence Schema Can not be empty");
+			$dataId = ApprovalSequenceData::getDataIdForRequesterInASchema($database, $conn, $login1->getLoginId(), $schemaId);
+			if (is_null($dataId)) Object::shootException("There were not Approval Sequence Data Found");
+			$data1 = new ApprovalSequenceData($database, $dataId, $conn);
+			//Begin to Perform All Changes this user requested
+			$ulogin1->setExtraFilter(System::getCodeString(8));
+			$ulogin1->commitUpdate();
+			//End of Performing Changes this user requested 
+			//Now we can remove the data sequence since everything is complete not 
+			$data1->commitDelete();
+		} catch (Exception $e)	{
+			$enableUpdate = false;
+			$promise1->setReason($e->getMessage());
+			$promise1->setPromise(false);
+		}
+?>
+		<div class="ui-sys-panel-container ui-sys-panel ui-widget ui-widget-content">
+			<div class="ui-sys-panel-header ui-widget-header">Changing Names</div>
+			<div class="ui-sys-panel-body ui-sys-data-capture">
+<?php 
+	if ($promise1->isPromising())	{
+		$enableUpdate = true;
+?>
+		<div class="ui-state-highlight">
+			You have successful updated name(s)
+		</div>
+<?php	
+	} else {
+?>
+		<div class="ui-state-error">
+			There were some problems in Changing Names <br/>
+			Details : <?= $promise1->getReason() ?>
+		</div>
+<?php
+	}
+?>			
+			</div>
+			<div class="ui-sys-panel-footer"></div>
+		</div>
+<?php
+		mysql_close($conn);
+		if ($enableUpdate) Accounting::addLog($config, $date, $login1->getLoginName(), "manageapprovalsequencedata_edit", "Self Changing Names");
+	} else if ($page == "edit_my_profile" && isset($_REQUEST['action']) && ($_REQUEST['action'] == "change_names") && ApprovalSequenceData::isApprovalComplete($config, $login1->getLoginId(), ApprovalSequenceSchema::$__USER_EDIT_NAMES, $exprA108Name, $msgA108Name, "../server/createnewapprovalsequence.php"))	{
+		$conn = mysql_connect($hostname, $user, $pass) or die("Could not connect to a database services");
+		$fullnameText = "Your Full Name";
+		if ($login1->isStudent()) $fullnameText = "Name(s) in Certificate";
+		$ulogin1 = null;
+		try {
+			$ulogin1 = new Login($database, $login1->getLoginId(), $conn);
+			$ulogin1->setExtraFilter(System::getCodeString(8));
+			$ulogin1->commitUpdate();
+		} catch (Exception $e)	{
+			die($e->getMessage());
+		}
+?>
+		<div class="ui-sys-panel-container ui-sys-panel ui-widget ui-widget-content">
+			<div class="ui-sys-panel-header ui-widget-header">Changing Names</div>
+			<div class="ui-sys-panel-body ui-sys-data-capture">
+				<div class="ui-sys-warning">
+					<b>BE CAREFUL:</b> Changing of data is one time event. If you make a mistake you will have to begin the entire cycle of approval. The Approving Authorities has approved you to change this data(s) Once and Once Only
+				</div>
+				<form class="pure-form pure-form-aligned" id="form1" method="POST" action="<?= $thispage ?>">
+					<input type="hidden" name="page" value="edit_my_profile"/>
+					<input type="hidden" name="action" value="change_names"/>
+					<input type="hidden" name="report" value="io"/>
+					<input type="hidden" name="rndx" value="<?= $ulogin1->getExtraFilter() ?>"/>
+					<div class="pure-control-group">
+						<label for="firstname">Your Firstname </label>
+						<input value="<?= $login1->getFirstname() ?>" type="text" name="firstname" id="firstname" size="32" required pattern="<?= $exprA32Name ?>" validate="true" validate_control="text" validate_expression="<?= $exprA32Name ?>" validate_message="Firstname : <?= $msgA32Name ?>"/>
+					</div>
+					<div class="pure-control-group">
+						<label for="middlename">Your Middlename </label>
+						<input value="<?= $login1->getMiddlename() ?>" type="text" name="middlename" id="middlename" size="32" required pattern="<?= $exprA32Name ?>" validate="true" validate_control="text" validate_expression="<?= $exprA32Name ?>" validate_message="Middlename : <?= $msgA32Name ?>"/>
+					</div>
+					<div class="pure-control-group">
+						<label for="lastname">Your Lastname </label>
+						<input value="<?= $login1->getLastname() ?>" type="text" name="lastname" id="lastname" size="32" required pattern="<?= $exprA32Name ?>" validate="true" validate_control="text" validate_expression="<?= $exprA32Name ?>" validate_message="Lastname : <?= $msgA32Name ?>"/>
+					</div>
+					<div class="pure-control-group">
+						<label for="fullname"><?= $fullnameText ?></label>
+						<input type="text" name="fullname" id="fullname" size="32" value="<?= $login1->getFullname() ?>" required pattern="<?= $exprA64Name ?>" validate="true" validate_control="text" validate_expression="<?= $exprA64Name ?>" validate_message="<?= $fullnameText ?> : <?= $msgA64Name ?>"/>
+					</div>
+					<div class="pure-controls">
+						<span id="perror" class="ui-sys-error-message"></span>
+					</div>
+					<div class="pure-controls">
+						<input id="__add_record" type="button" value="Change Names"/>
+					</div>
+				</form>
+			</div>
+			<div class="ui-sys-panel-footer"></div>
+		</div>
+<script type="text/javascript">
+(function($)	{
+	$('#__add_record').on('click', function(event)	{
+		generalFormSubmission(this, 'form1', 'perror');
+	});
+})(jQuery);
+</script>
+<?php
+		mysql_close($conn);
+	} 

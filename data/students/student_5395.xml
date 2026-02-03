@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5395</studentId>
+  <studentName>PASTORY EMMANUEL</studentName>
+  <accademicHistory><institution><institutionName>MWAL NYERERE SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1140.0207.2013</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0155.0553.2016</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 </postalAddress><physicalAddress>HESLB</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>EMMANUEL LUFITOLA</kinName><relationship>MY FATHER</relationship><postalAddress>P.O.BOX 797 KAHAMA</postalAddress><physicalAddress>EMMANUELLUFITOLA42</physicalAddress><fax/><telephone>0755542171</telephone><mobile/><email/><extraInformation/></nextOfKin><nextOfKin><kinName>EVA GASHINGE</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 797 KAHAMA</postalAddress><physicalAddress>EVAGASHINGE42</physicalAddress><fax/><telephone>0758715807</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>PASTORY BULUBA EMMANUEL</accountName><bankAccount>0152489775000</bankAccount><bankName>CRDB BANK</bankName><branchName>TABORA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>60b0bcb3704690fefa3d223f2305b160</isaacompletechecksum></student>

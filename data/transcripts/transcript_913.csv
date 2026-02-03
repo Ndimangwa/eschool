@@ -1,0 +1,199 @@
+@-header,flags_!_0,,,,,,,,,,,,,
+@-header,studentId_!_913,,,,,,,,,,,,,
+@-header,dateOfBirth_!_1983:2:23:00:00:00,,,,,,,,,,,,,
+@-header,sexId_!_1,,,,,,,,,,,,,
+@-header,sexName_!_Male,,,,,,,,,,,,,
+@-header,profileId_!_1,,,,,,,,,,,,,
+@-header,profileName_!_Kilimanjaro Christian Medical University College,,,,,,,,,,,,,
+@-header,profileCity_!_Moshi,,,,,,,,,,,,,
+@-header,profilePostalAddress_!_P.O Box 2240, Moshi,,,,,,,,,,,,,
+@-header,profileWebsite_!_www.kcmuco.ac.tz,,,,,,,,,,,,,
+@-header,profileCountryId_!_227,,,,,,,,,,,,,
+@-header,profileCountryName_!_Tanzania,,,,,,,,,,,,,
+@-header,systemName_!_University Management Information System,,,,,,,,,,,,,
+@-header,postalAddress_!_p.o.box 69,,,,,,,,,,,,,
+@-header,physicalAddress_!_MBULU,,,,,,,,,,,,,
+@-header,countryId_!_227,,,,,,,,,,,,,
+@-header,countryName_!_Tanzania,,,,,,,,,,,,,
+@-header,registrationNumber_!_TUMA/KCMUCo/BSC.N.2014/2015/TZ/0392,,,,,,,,,,,,,
+@-header,fullname_!_HERIKI ERNEST,,,,,,,,,,,,,
+@-header,firstname_!_HERIKI,,,,,,,,,,,,,
+@-header,middlename_!_ERNEST,,,,,,,,,,,,,
+@-header,lastname_!_MASSANGWA,,,,,,,,,,,,,
+@-header,compilationTime_!_2018:09:07:13:19:12,,,,,,,,,,,,,
+@-header,fileType_!_transcript,,,,,,,,,,,,,
+@-header,courseId_!_39,,,,,,,,,,,,,
+@-header,courseCode_!_BSC.Ni,,,,,,,,,,,,,
+@-header,courseName_!_Bachelor of Science in Nursing (In-Service),,,,,,,,,,,,,
+@-header,duration_!_3,,,,,,,,,,,,,
+@-header,levelId_!_15,,,,,,,,,,,,,
+@-header,levelName_!_Bachelor Degree,,,,,,,,,,,,,
+@-header,levelCode_!_8,,,,,,,,,,,,,
+@-header,departmentId_!_3,,,,,,,,,,,,,
+@-header,departmentName_!_Faculty of Nursing,,,,,,,,,,,,,
+@-header,admissionYearId_!_6,,,,,,,,,,,,,
+@-header,admissionYearName_!_2014/2015,,,,,,,,,,,,,
+@-header,admissionYearNumber_!_6,,,,,,,,,,,,,
+@-header,currentBatchId_!_6,,,,,,,,,,,,,
+@-header,currentBatchName_!_2014/2015,,,,,,,,,,,,,
+@-header,currentBatchNumber_!_6,,,,,,,,,,,,,
+@-header,lastResultsCummulativeSemester_!_6,,,,,,,,,,,,,
+@-header,currentCummulativeSemester_!_5,,,,,,,,,,,,,
+@-header,allSemestersIncluded_!_0,,,,,,,,,,,,,
+@-header,numberOfSemestersPerYear_!_2,,,,,,,,,,,,,
+@-header,graduated_!_0,,,,,,,,,,,,,
+@-header,grade_0_id_!_1,,,,,,,,,,,,,
+@-header,grade_0_name_!_A,,,,,,,,,,,,,
+@-header,grade_0_point_!_5,,,,,,,,,,,,,
+@-header,grade_0_lowestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_0_highestMarks_!_101,,,,,,,,,,,,,
+@-header,grade_0_extraInformation_!_Excellent,,,,,,,,,,,,,
+@-header,grade_1_id_!_2,,,,,,,,,,,,,
+@-header,grade_1_name_!_B+,,,,,,,,,,,,,
+@-header,grade_1_point_!_4,,,,,,,,,,,,,
+@-header,grade_1_lowestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_1_highestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_1_extraInformation_!_Very Good,,,,,,,,,,,,,
+@-header,grade_2_id_!_3,,,,,,,,,,,,,
+@-header,grade_2_name_!_B,,,,,,,,,,,,,
+@-header,grade_2_point_!_3,,,,,,,,,,,,,
+@-header,grade_2_lowestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_2_highestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_2_extraInformation_!_Good,,,,,,,,,,,,,
+@-header,grade_3_id_!_4,,,,,,,,,,,,,
+@-header,grade_3_name_!_C,,,,,,,,,,,,,
+@-header,grade_3_point_!_2,,,,,,,,,,,,,
+@-header,grade_3_lowestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_3_highestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,grade_4_id_!_5,,,,,,,,,,,,,
+@-header,grade_4_name_!_D,,,,,,,,,,,,,
+@-header,grade_4_point_!_1,,,,,,,,,,,,,
+@-header,grade_4_lowestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_4_highestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_4_extraInformation_!_Supplementary,,,,,,,,,,,,,
+@-header,grade_5_id_!_6,,,,,,,,,,,,,
+@-header,grade_5_name_!_E,,,,,,,,,,,,,
+@-header,grade_5_point_!_0,,,,,,,,,,,,,
+@-header,grade_5_lowestMarks_!_0,,,,,,,,,,,,,
+@-header,grade_5_highestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_5_extraInformation_!_Supplementary,,,,,,,,,,,,,
+@-header,grade_6_id_!_7,,,,,,,,,,,,,
+@-header,grade_6_name_!_I,,,,,,,,,,,,,
+@-header,grade_6_point_!_0,,,,,,,,,,,,,
+@-header,grade_6_lowestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_highestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_extraInformation_!_Incomplete,,,,,,,,,,,,,
+@-header,award_0_id_!_1,,,,,,,,,,,,,
+@-header,award_0_name_!_First Class,,,,,,,,,,,,,
+@-header,award_0_lowestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_0_highestGPA_!_5.1,,,,,,,,,,,,,
+@-header,award_0_extraInformation_!_First Class,,,,,,,,,,,,,
+@-header,award_1_id_!_2,,,,,,,,,,,,,
+@-header,award_1_name_!_Upper Second,,,,,,,,,,,,,
+@-header,award_1_lowestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_1_highestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_1_extraInformation_!_Upper Second,,,,,,,,,,,,,
+@-header,award_2_id_!_3,,,,,,,,,,,,,
+@-header,award_2_name_!_Lower Second,,,,,,,,,,,,,
+@-header,award_2_lowestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_2_highestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_2_extraInformation_!_Lower Second,,,,,,,,,,,,,
+@-header,award_3_id_!_4,,,,,,,,,,,,,
+@-header,award_3_name_!_Pass,,,,,,,,,,,,,
+@-header,award_3_lowestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_3_highestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,award_4_id_!_5,,,,,,,,,,,,,
+@-header,award_4_name_!_No Award,,,,,,,,,,,,,
+@-header,award_4_lowestGPA_!_0.0,,,,,,,,,,,,,
+@-header,award_4_highestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_4_extraInformation_!_No Award,,,,,,,,,,,,,
+@-header,sem_1_awardId_!_4,,,,,,,,,,,,,
+@-header,sem_1_awardName_!_Pass,,,,,,,,,,,,,
+@-header,sem_1_totalUnits_!_24.7,,,,,,,,,,,,,
+@-header,sem_1_totalModulePoints_!_56.9,,,,,,,,,,,,,
+@-header,sem_1_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_1_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_1_gpa_!_2.3,,,,,,,,,,,,,
+@-header,sem_2_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_2_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_2_totalUnits_!_27.6,,,,,,,,,,,,,
+@-header,sem_2_totalModulePoints_!_84.3,,,,,,,,,,,,,
+@-header,sem_2_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_2_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_2_gpa_!_3,,,,,,,,,,,,,
+@-header,sem_3_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_3_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_3_totalUnits_!_30.3,,,,,,,,,,,,,
+@-header,sem_3_totalModulePoints_!_94.9,,,,,,,,,,,,,
+@-header,sem_3_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_3_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_3_gpa_!_3.1,,,,,,,,,,,,,
+@-header,sem_4_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_4_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_4_totalUnits_!_24.2,,,,,,,,,,,,,
+@-header,sem_4_totalModulePoints_!_72.6,,,,,,,,,,,,,
+@-header,sem_4_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_4_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_4_gpa_!_3,,,,,,,,,,,,,
+@-header,sem_5_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_5_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_5_totalUnits_!_35.3,,,,,,,,,,,,,
+@-header,sem_5_totalModulePoints_!_141.7,,,,,,,,,,,,,
+@-header,sem_5_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_5_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_5_gpa_!_4,,,,,,,,,,,,,
+@-header,sem_6_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_6_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_6_totalUnits_!_35.2,,,,,,,,,,,,,
+@-header,sem_6_totalModulePoints_!_137.8,,,,,,,,,,,,,
+@-header,sem_6_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_6_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_6_gpa_!_3.9,,,,,,,,,,,,,
+@-header,gpa_!_3.2,,,,,,,,,,,,,
+@-header,awardId_!_3,,,,,,,,,,,,,
+@-header,awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,cleared_!_,,,,,,,,,,,,,
+@-header,filename_!_transcript_913.csv,,,,,,,,,,,,,
+@-business-logic-begin,,,,,,,,,,,,,,
+73,1,6,2014/2015,0,,,Physiology,PH 104,,54,4,C,2,4
+74,1,6,2014/2015,0,,,Parasitology,PAR 104,,63,3,B,3,2
+75,1,6,2014/2015,0,,,Pharmacology,PHR 104,,58,4,C,2,2.6
+76,1,6,2014/2015,0,,,Microbiology,MIN 104,,53,4,C,2,5.6
+78,1,6,2014/2015,0,,,Communication Skills,CSN 104,,61,3,B,3,2
+606,1,6,2014/2015,0,,,Anatomy,ANA 114,,73,2,B+,4,4.0
+607,1,6,2014/2015,0,,,Biochemistry,BIN 114,,44,5,D,1,4.5
+79,2,6,2014/2015,0,,,Anatomy,ANA 104,,58,4,C,2,4
+80,2,6,2014/2015,0,,,Physiology,PH 104,,67,3,B,3,4
+81,2,6,2014/2015,0,,,Parasitology,PAR 104,,64,3,B,3,4
+83,2,6,2014/2015,0,,,Microbiology,MIN 104,,68,3,B,3,5.6
+608,2,6,2014/2015,0,,,Pharmacology,PHR 114,,71,2,B+,4,5.5
+609,2,6,2014/2015,0,,,Clinical Biochemistry,CHE 3625,,65,3,B,3,4.5
+86,3,7,2015/2016,0,,,Sociology & Anthropology,SOC 204,,67,3,B,3,2
+87,3,7,2015/2016,0,,,Psychology,PSN 204,,68,3,B,3,5
+88,3,7,2015/2016,0,,,Development Studies,DSN 204,,50,4,C,2,2
+89,3,7,2015/2016,0,,,Advanced Nursing Sciences,ANS 204,,64,3,B,3,4
+90,3,7,2015/2016,0,,,Community  Health Nursing,CHN 204,,64,3,B,3,4
+91,3,7,2015/2016,0,,,Research Methodology ,RSM 204,,60,3,B,3,3.3
+92,3,7,2015/2016,0,,,Leadership & Management,LEM 204,,66,3,B,3,4
+894,3,7,2015/2016,0,,,Foundation of Faith,FOF 204,,73,2,B+,4,6
+1029,3,7,2015/2016,0,,,Epidemiology and Biostatistics,EPB204	,,,,,,0
+93,4,7,2015/2016,0,,,Sociology & Anthropology,SOC 204,,67,3,B,3,3
+94,4,7,2015/2016,0,,,Development Studies,DSN 204,,56,4,C,2,2
+95,4,7,2015/2016,0,,,Advanced Nursing Sciences,ANS 204,,76,2,B+,4,5.3
+96,4,7,2015/2016,0,,,Community  Health Nursing,CHN 204,,58,4,C,2,6.6
+97,4,7,2015/2016,0,,,Research Methodology ,RSM 204,,77,2,B+,4,3.3
+98,4,7,2015/2016,0,,,Leadership & Management,LEM 204,,69,3,B,3,4
+100,5,8,2016/2017,0,,,Nursing Education,NED 304,,81,1,A,5,5
+101,5,8,2016/2017,0,,,Research Methodology ,RSM 304,,79,2,B+,4,5.7
+102,5,8,2016/2017,0,,,Community Nursing ,CHN 304,,60,3,B,3,4.5
+103,5,8,2016/2017,0,,,Leadership & Management,LEM 304,,70,2,B+,4,6
+568,5,8,2016/2017,0,,,Advanced Nursing Sciences,ANS 314,,75,2,B+,4,14.1
+105,6,8,2016/2017,0,,,Nursing Education,NED 304,,65,3,B,3,10.5
+106,6,8,2016/2017,0,,,Research Methodology ,RSM 304,,80,1,A,5,3.5
+107,6,8,2016/2017,0,,,Community Nursing ,CHN 304,,72,2,B+,4,5.1
+108,6,8,2016/2017,0,,,Leadership & Management,LEM 304,,73,2,B+,4,5.1
+569,6,8,2016/2017,0,,,Advanced Nursing Sciences,ANS 324,,83,1,A,5,7.5
+726,6,8,2016/2017,0,,,Research Report,REM 304,,68,3,B,3,3.5
+@-business-logic-end,,,,,,,,,,,,,,

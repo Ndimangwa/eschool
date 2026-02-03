@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>422</studentId>
+  <studentName>MBEWE GIDEON ISAAC</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CHIZONGWE SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>42627</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CHIZONGWE SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>42627</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CHIZONGWE SEC SCHIIL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>42627</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH ZAMBIA</employerName>
+      <postalAddress>BOX 30205 LUSAKA</postalAddress>
+      <physicalAddress>NDEKE HOUSE</physicalAddress>
+      <telephone>002601253040</telephone>
+      <email>ps@moh.gov.zm</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH ZAMBIA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 30205 LUSAKA ZAMBIA</postalAddress>
+      <physicalAddress>NDEKE HOUSE</physicalAddress>
+      <fax/>
+      <sponsorfax>002601253040</sponsorfax>
+      <mobile>00260977801745</mobile>
+      <email>ps@moh.gov.zm</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BELINDA CHOONGO MBEWE</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>240227 ndola zambia</postalAddress>
+      <physicalAddress>1140 mine masala</physicalAddress>
+      <fax/>
+      <telephone>00260962197355</telephone>
+      <mobile>00260953018159</mobile>
+      <email>chooongombewe@yahooo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

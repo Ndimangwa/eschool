@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4805</studentId>
+  <studentName>EXPERANSA P MAO</studentName>
+  <accademicHistory><institution><institutionName>EKITANGAALA TRANSFORMATION HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E2976.0011.2013</indexNumber><award>CSEE</award><grade>DIVISION 1</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>BAOBAB SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S1599.0546.2016</indexNumber><award>ACSEE</award><grade>DIVISION 1</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.Box 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GASPER KIRIA</kinName><relationship>UNCLE</relationship><postalAddress>P.O.Box 8884</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>+255754467691</telephone><mobile>+255789614381</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EXPERANSA P MAO</accountName><bankAccount>00000</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>644b4e29d5aeced3bd7cf292f072b7bc</isaacompletechecksum></student>

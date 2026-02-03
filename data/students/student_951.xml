@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>951</studentId>
+  <studentName>jonass ismail james</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kibacha secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s1422/0078</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>lyamungo high school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0125/0923</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>james ismail sengasu</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>173 same</postalAddress>
+      <physicalAddress>same</physicalAddress>
+      <fax/>
+      <sponsorfax>0782288811</sponsorfax>
+      <mobile>0782288811</mobile>
+      <email>jonassjames6@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>james ismail sengasu</kinName>
+      <relationship>father</relationship>
+      <postalAddress>173 same</postalAddress>
+      <physicalAddress>same</physicalAddress>
+      <fax/>
+      <telephone>0782288811</telephone>
+      <mobile>0782288811</mobile>
+      <email>jonassjames6@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

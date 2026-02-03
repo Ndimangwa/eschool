@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4964</studentId>
+  <studentName>MANASE ISAYA NSELU</studentName>
+  <accademicHistory><institution><institutionName>ITAMBA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0444.0054.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>BIHAWANA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0103.0555.2007</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2005</startYear><endYear>2007</endYear></institution><institution><institutionName>MACHAME MEDICAL CENTRE</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>35890</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>GPA 3.5</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.Box 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>HIGHER EDUCATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MANASE ISAYA MSELU</accountName><bankAccount>41610003164</bankAccount><bankName>NMB</bankName><branchName>LUSHOTO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>db73d31a21a818d1f6e1558dfa494e65</isaacompletechecksum></student>

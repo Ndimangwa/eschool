@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4915</studentId>
+  <studentName>MEDICAL DOCT</studentName>
+  <accademicHistory><institution><institutionName>NSUMBA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0144.0034.2002</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>1999</startYear><endYear>2002</endYear></institution><institution><institutionName>USAGARA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0345.0516.2005</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY SCHOOL</award><grade>THREE</grade><startYear>2003</startYear><endYear>2005</endYear></institution><institution><institutionName>KCM MEDICAL UNIVERSITY </institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>K0407</indexNumber><award>DEGREE OF DOCTOR OF MEDICINE</award><grade>UPPER SECOND</grade><startYear>2006</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SELF SPONSOR</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 589</postalAddress><physicalAddress>MWANZA</physicalAddress><fax/><telephone>0766043009</telephone><mobile/><email>waynejoo@yahoo.com</email><financedItem>tution fees and accommodation</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MARIA GOODHOPE KISSANGA</kinName><relationship>WIFE</relationship><postalAddress>P.O BOX 589</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax></fax><telephone>0767017220</telephone><mobile></mobile><email>Mariah_kissanga@yahoo.com</email><extraInformation>DOCTOR</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DAIMON BOLGA MWASAMILA</accountName><bankAccount>4703560161185884</bankAccount><bankName>EQUITY BANK</bankName><branchName>MWANZA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5ce6423e1c539ae766bd16f0f84dbc65</isaacompletechecksum></student>

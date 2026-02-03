@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3010</studentId>
+  <studentName>ASUBIOJO BENJAMIN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BISHOP JUNIOR SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>801002082</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. CHARLES SECONDARY SCHOOL</institutionName>
+      <specialization>SSSCE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>680107022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KNUST KUMASI GHANA</institutionName>
+      <specialization>MBCHB</specialization>
+      <levelId>15</levelId>
+      <indexNumber>00080</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NEA GHANA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX TL 809 TAMALE</postalAddress>
+      <physicalAddress>NEA GHANA, CARPENTER</physicalAddress>
+      <fax/>
+      <sponsorfax>+233275005225</sponsorfax>
+      <mobile>+233275005225</mobile>
+      <email>nea.ghana@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ROSINA AKALAWOMBA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>B0X 50 WENCHI GHANA</postalAddress>
+      <physicalAddress>KUMNIPA RESIDENCE WENCHI</physicalAddress>
+      <fax/>
+      <telephone>+233249938682</telephone>
+      <mobile>+233206301877</mobile>
+      <email>rosinaasubiojo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

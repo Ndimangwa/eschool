@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3951</studentId>
+  <studentName>EVA JACKSON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWANZA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0333.0041.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NKASI</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0610.0502.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>lOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box.76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CATHERINE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>box.1706</postalAddress>
+      <physicalAddress>mwanza</physicalAddress>
+      <fax/>
+      <telephone>+255757892999</telephone>
+      <mobile>+255757892999</mobile>
+      <email>catherine02@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JACKSON, EVA</accountName><bankAccount>0152326904600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>edf721615de350d908915923104673aa</isaacompletechecksum></student>

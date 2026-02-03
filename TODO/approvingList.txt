@@ -1,0 +1,31 @@
+ApprovalSequenceSchema
+1. schemaId
+2. schemaName
+3. operation ie ApprovalSequenceSchema::$__MANAGECOURSE_DELETE
+4. approvedJobList [Job Ids Approved for this list] --JobTitle allowed to do this Operation if approved by approving List
+5. approvingJobList {//Per Job Id} ie 17,1,12 [
+		JobTitle which will be approving the approvedList
+	]
+6. validity [in days] 
+	Time from initiation to complete 
+7. defaultApproveText = "Approved By" -- apply to 1 and 12 as JobTitle 
+// flags.bit 4 defaultAction {Allow/Deny}
+
+ApprovalSequenceData 
+1. dataId
+2. schemaId 
+3. requestedBy //LoginId which belongs to one of the job in approvedList --this requested an operation
+4. nextJobToApprove [initial the first approving Part]
+5. allreadyApprovedLoginList {//Already Approved }
+6. timeOfRegistration //Created at 
+7. flags.bit4 alrery approved //each time approval is done you need to update this 
+//Once the action complete dump the data in csv and remove the record
+
+data/approvalsequence.csv
+dataId,belongTo,approvalLoginList 
+
+so file will look like this 
+1,3,12,13,14,15 
+2,4,12,11 
+
+

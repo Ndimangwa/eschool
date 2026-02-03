@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4806</studentId>
+  <studentName>Akwinata Komba</studentName>
+  <accademicHistory><institution><institutionName>KCMUCO</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>8</levelId><indexNumber>S0233.0502.2015</indexNumber><award>NONE</award><grade>DISTINCTION</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0c303ed429abc40fb36c2a9da45f500c</isaacompletechecksum></student>

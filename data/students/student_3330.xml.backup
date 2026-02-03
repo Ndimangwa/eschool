@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3330</studentId>
+  <studentName>CATHERINE JACOB</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KANYIGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0473-0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KANYIGO SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0473-0503</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>8460</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VERONICA JACOB</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 2240</postalAddress>
+      <physicalAddress>2156</physicalAddress>
+      <fax/>
+      <telephone>+255764897606</telephone>
+      <mobile>0764897606</mobile>
+      <email>Catherinjacky@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

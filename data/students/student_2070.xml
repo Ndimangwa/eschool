@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2070</studentId>
+  <studentName>HAPPYNESS HURDSON TEMU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAWENZI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0328-0040</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCo</institutionName>
+      <specialization>DIPLOMA IN HEALTH LABORATORY SCIENCES</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TU/DHLSc/0052</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DAMAS SHAYO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>10511</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255754226226</sponsorfax>
+      <mobile>00255754226226</mobile>
+      <email>damasdevis@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Cosmas Ndungo</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>10511</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>00255767515322</telephone>
+      <mobile>00255767515322</mobile>
+      <email>cosmasndungo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

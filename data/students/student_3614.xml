@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3614</studentId>
+  <studentName>RASHIDI M ALLY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>HANDENI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0511-0056</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147-0697</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHIMBILI UNIVERSITY COLLEGE OF HEALTH SCIENCE.</institutionName>
+      <specialization>DIPLOMA IN MEDICAL LABORATORY SCIENCES</specialization>
+      <levelId>8</levelId>
+      <indexNumber>REG:NO.22199/DMLS/T.1997</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SOKOINE UNIVERSITY OF AGRICULTURE</institutionName>
+      <specialization>BIOTECHNOLOGY AND LABORATORY SCIENCES</specialization>
+      <levelId>15</levelId>
+      <indexNumber>SUA13BLS13230</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>NATIONAL INSTITUTE FOR MEDICAL RESEARCH</employerName>
+      <postalAddress>5004</postalAddress>
+      <physicalAddress>TANGA MEDICAL RESEARCH CENTRE</physicalAddress>
+      <telephone>+255272647957</telephone>
+      <email>deusishe@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>TERESE L.KATZENSTEIN</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>RIGSHOSPITALET</postalAddress>
+      <physicalAddress>DK-2100 COPENHAGEN</physicalAddress>
+      <fax/>
+      <sponsorfax>04535451492</sponsorfax>
+      <mobile>04535451492</mobile>
+      <email>terese.katzenstein@regionh.dk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HADIJA BURHANI</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>5004</postalAddress>
+      <physicalAddress>TANGA MEDICAL RESEARCH CENTRE</physicalAddress>
+      <fax/>
+      <telephone>0714155751</telephone>
+      <mobile>0714155751</mobile>
+      <email>rashidmadebe@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

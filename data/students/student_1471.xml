@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1471</studentId>
+  <studentName>NELIGWA M. MKILANIA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TENGERU BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1601/0033</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.ANTHONY SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0534/0759</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARCO MKILANIA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>2233</postalAddress>
+      <physicalAddress>Singida</physicalAddress>
+      <fax/>
+      <telephone>+255784403010</telephone>
+      <mobile>+255784403010</mobile>
+      <email>marco.mkilania@tanesco.co.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

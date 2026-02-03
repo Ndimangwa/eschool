@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5540</studentId>
+  <studentName>AUGUSTINE M LYAMARUNGU</studentName>
+  <accademicHistory><institution><institutionName>PAROMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4576.0048.2013</indexNumber><award>PASS</award><grade>DIVISION ONE POINT 16</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>PUGU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0147.0666.2016</indexNumber><award>PASS</award><grade>DIVISION ONE POINT EIGHT</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>DAR ES SALAAM P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM P.O BOX 76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PERES MAX LYAMARUNGU</kinName><relationship>FATHER</relationship><postalAddress>MUSOMA P.O BOX 299</postalAddress><physicalAddress>MUSOMA P.O BOX 299</physicalAddress><fax></fax><telephone>0752024341</telephone><mobile>0752024341</mobile><email>plyamarungu@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>AUGUSTINE MAX LYAMARUNGU</accountName><bankAccount>0152203335900</bankAccount><bankName>CRDB BANK</bankName><branchName>CHAMWINO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5caa0a354bf411ee3ae9cfde3590e25d</isaacompletechecksum></student>

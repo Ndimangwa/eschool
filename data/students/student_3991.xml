@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3991</studentId>
+  <studentName>NEEMA SHINDIKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOM SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2652.0044.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BWIRU GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0202.0534.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DARESLAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522772432</sponsorfax>
+      <mobile>0025522772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH SHINDIKA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>899</postalAddress>
+      <physicalAddress>SHINYANGA</physicalAddress>
+      <fax/>
+      <telephone>0767016345</telephone>
+      <mobile>002255767016345</mobile>
+      <email>josephshindika@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SHINDIKA, NEEMA</accountName><bankAccount>0152234452900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5fdbcadc96d71752d5725fd3eed61030</isaacompletechecksum></student>

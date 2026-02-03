@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5416</studentId>
+  <studentName>MARY BUDEBA</studentName>
+  <accademicHistory><institution><institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0248.0079.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATIONS</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0248.0072.2016</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a4aadd0a3391d16af934ca62137cecdd</isaacompletechecksum></student>

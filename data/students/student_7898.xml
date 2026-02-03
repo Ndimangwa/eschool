@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7898</studentId>
+  <studentName>HLUPEKIRE JENDA</studentName>
+  <accademicHistory><institution><institutionName>LIVIMBO COMMUNITY DAY SECONDARY SCHOOL</institutionName><specialization>MALAWI SCHOOL LEAVING CERTIFICATE</specialization><levelId>4</levelId><indexNumber>E0001.0006.2016</indexNumber><award>PASS</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2016</endYear></institution><institution><institutionName> REHABILITATION TECHNICIANS SCHOOL</institutionName><specialization>MEDICAL REHABILITATION</specialization><levelId>12</levelId><indexNumber>E0001.0002.2006</indexNumber><award>PASS</award><grade>CREDIT</grade><startYear>2003</startYear><endYear>2006</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MALAWI AGAINST PHYSICAL DISABILITIES</employerName><postalAddress>P.O.BOX 256, BLANTYRE, MALAWI</postalAddress><physicalAddress>BLANTYRE</physicalAddress><fax>+265001874604</fax><telephone>+265001877951</telephone><mobile>+265888895993</mobile><email>headoffice@map.mw.org</email><startYear>2006</startYear><endYear>2017</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MALAWI AGAINST PHYSICAL DISABILITIES</sponsorName><payerId>10</payerId><postalAddress>P.O.BOX 256, BLANTYRE, MALAWI</postalAddress><physicalAddress>BLANYTRE</physicalAddress><fax>+265111874604</fax><telephone>+265111877951</telephone><mobile>+265888895993</mobile><email>headoffice@map.mw.org</email><financedItem>tUTION FEES AND ALL COSTS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GOMEZGANI JENDA</kinName><relationship>BROTHER</relationship><postalAddress>P.O.BOX30374,LILONGWE MALAWI</postalAddress><physicalAddress>LILONGWE</physicalAddress><fax>+2650111762667</fax><telephone>+2650111762667</telephone><mobile>+265888860612</mobile><email>gomezgani.jenda@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MAP</accountName><bankAccount>0030027001658002</bankAccount><bankName>ECOBANK</bankName><branchName>GINNERY CORNER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>97321b3e818908e6daf9100ecbd5f742</isaacompletechecksum></student>

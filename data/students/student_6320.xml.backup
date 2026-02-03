@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6320</studentId>
+  <studentName>RITTE LADISLAUS PAUL</studentName>
+  <accademicHistory><institution><institutionName>MWANZA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0333.0170.1996</indexNumber><award>CERTIFICATE IN SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>1992</startYear><endYear>1996</endYear></institution><institution><institutionName>SENGEREMA CLINICAL OFFICERS TRAINING CENTRE</institutionName><specialization>DIPLOMA </specialization><levelId>12</levelId><indexNumber>CO.SE.00.22</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>UPPER SECOND</grade><startYear>1997</startYear><endYear>2000</endYear></institution><institution><institutionName>KURSK STATE MEDICAL UNIVERSITY</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>K58478</indexNumber><award>DEGREE OF DOCTOR OF MEDICINE</award><grade>UPPER SECOND</grade><startYear>2005</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH AND SOCIAL WELFARE-KIBONG`OTO HOSP</employerName><postalAddress>BOX 9083</postalAddress><physicalAddress>SOKOINE DRIVE,DAR ES SALAAM</physicalAddress><fax>+255222120261</fax><telephone>+255222120261</telephone><mobile>+255767437899</mobile><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation>NONE</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH</sponsorName><payerId>10</payerId><postalAddress>BOX 9083</postalAddress><physicalAddress>SOKOINE DRIVE</physicalAddress><fax>+255222120261</fax><telephone>+255222120261</telephone><mobile>+255754636963</mobile><email>permanentsecretary@health.gov.tz</email><financedItem>TITION FEE.REASEARCH FEE,ACCOMODATION, MEEL ALLOWANCE</financedItem><extraInformation>GOVERNEMENT</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>LADISLAUS PAUL RITTE</accountName><bankAccount>4010006900</bankAccount><bankName>NMB BANK</bankName><branchName>CLOCK TOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6718d61592769a681e06f5e84a57ff3d</isaacompletechecksum></student>

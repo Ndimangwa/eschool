@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5600</studentId>
+  <studentName>EMMANUEL CHARLES MNYOE</studentName>
+  <accademicHistory><institution><institutionName>MWANGA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0558.0031.2013</indexNumber><award>DIVISION TWO</award><grade>22</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MWANGA SECONDARY SCHHOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0558.0534.2016</indexNumber><award>DIVISION THREE</award><grade>15</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MWANAMDA JUMBE KAHUNGO</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 35 TANGA</postalAddress><physicalAddress>PO BOX 35 TANGA</physicalAddress><fax/><telephone>0787728533</telephone><mobile>0653728533</mobile><email>mnyoneemanuel@gmail.com</email><financedItem>SCHOOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MWANAMDA JUMBE KAHUNGO</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 35 TANGA</postalAddress><physicalAddress>PO BOX 35 TANGA</physicalAddress><fax/><telephone>0787728533</telephone><mobile>0653728533</mobile><email>mnyoneemanuel@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</accountName><bankAccount>017101001339</bankAccount><bankName>NATIONAL BANK OF COMMERCE</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6f8437e3d5ef1176b28dedd32c01633a</isaacompletechecksum></student>

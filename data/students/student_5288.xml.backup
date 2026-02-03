@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5288</studentId>
+  <studentName>IDDY  ISSA  BULYO</studentName>
+  <accademicHistory><institution><institutionName>TAWHEED SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1842.0031.2014</indexNumber><award>CSE</award><grade>CREDIT</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ISSA IDDY</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 939 KIGOMA</postalAddress><physicalAddress>KIGOMA</physicalAddress><fax/><telephone/><mobile>0782422898</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation>NO</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>NIL</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>45945121586a5319a50ad4a90340adde</isaacompletechecksum></student>

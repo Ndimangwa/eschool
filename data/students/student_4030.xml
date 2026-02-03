@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4030</studentId>
+  <studentName>DEOGRACIOUS V MPOTWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKUMIRA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0329.0037.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>GREEN BIRD BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4456.0502.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222120261</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>vitus venance mpotwa</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>2230</postalAddress>
+      <physicalAddress>iringa</physicalAddress>
+      <fax/>
+      <telephone>0713123297</telephone>
+      <mobile>0712687170</mobile>
+      <email>mnyafuka@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MPOTWA V DEOGRACIOUS</accountName><bankAccount>0152212050800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d05886c027538e1e1a629dd861750179</isaacompletechecksum></student>

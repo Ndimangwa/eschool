@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6515</studentId>
+  <studentName>FADHILI B EDSON</studentName>
+  <accademicHistory><institution><institutionName>NSUMBA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0144.0027.2006</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>TWO</grade><startYear>2003</startYear><endYear>2006</endYear></institution><institution><institutionName>KIGONSERA HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0120.0547.2009</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>THREE</grade><startYear>2007</startYear><endYear>2009</endYear></institution><institution><institutionName>KIBAHA CLINICAL OFFICERS TRAINING CENTRE</institutionName><specialization>CLINICAL OFFICER</specialization><levelId>12</levelId><indexNumber>37985</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>3.49</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>EDUCATION</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HAPPINESS MUGETA</kinName><relationship>MOTHER</relationship><postalAddress>P.O BOX 66 </postalAddress><physicalAddress>LUSHOTO</physicalAddress><fax></fax><telephone>0766508144</telephone><mobile>0766508144</mobile><email>edsonfadhili@gmail.com</email><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FADHILI BWERE EDSON</accountName><bankAccount>0152219745800</bankAccount><bankName>CRDB</bankName><branchName>KOROGWE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>602b4372c32dd6b21d94b226fba29a04</isaacompletechecksum></student>

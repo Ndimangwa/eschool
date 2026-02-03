@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1226</studentId>
+  <studentName>Ditrick Barnabas</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Newala Day Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0553-0034</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kigonsera High School</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0120-0555</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED Nanyumbu</employerName>
+      <postalAddress>246</postalAddress>
+      <physicalAddress>Nanyumbu</physicalAddress>
+      <telephone>0255783450050</telephone>
+      <email>info@pmoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Cecilia Mbemba</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>91</postalAddress>
+      <physicalAddress>Newala</physicalAddress>
+      <fax/>
+      <telephone>0255755926350</telephone>
+      <mobile>0255755926350</mobile>
+      <email>ditrickmmole@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6864</studentId>
+  <studentName>mussa juma mussa</studentName>
+  <accademicHistory><institution><institutionName>J K NYERERE SECONARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1038.0248.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>M0SHI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0134.0609.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>KARIA RAJABU MAGARO</sponsorName><payerId>3</payerId><postalAddress>MOSHI 6675</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0754266833</telephone><mobile>0655266833</mobile><email>kmagaro@yahoo.com</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>KARIA RAJABU MAGARO</kinName><relationship>PARENT</relationship><postalAddress>MOSHI 6675</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0754266833</telephone><mobile>0655266833</mobile><email>kmagaro@yahoo.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MUSSA JUMA MUSSA</accountName><bankAccount>017101001339</bankAccount><bankName>NBC</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>61d108e3bc76e9eb5169bc7836912637</isaacompletechecksum></student>

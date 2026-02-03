@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4896</studentId>
+  <studentName>PETER J MSELLA</studentName>
+  <accademicHistory><institution><institutionName>VUNJO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0356.0059.2005</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2002</startYear><endYear>2005</endYear></institution><institution><institutionName>KARATU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0364.0707.2008</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2006</startYear><endYear>2008</endYear></institution><institution><institutionName>THE MEDICAL TRAINING CENTRE - MAFINGA</institutionName><specialization>DIPLOMA CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>CO.MFG.12.39</indexNumber><award>DIPLOMA  CLINICAL MEDICINE</award><grade>UPPER SECOND CLASS</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DED SIHA</employerName><postalAddress>S.L.P 129</postalAddress><physicalAddress>SIHA - KILIMANJARO</physicalAddress><fax/><telephone/><mobile>0732973257</mobile><email>dedsiha@yahoo.com</email><startYear>2013</startYear><endYear>2016</endYear><extraInformation>NONE</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DSM</postalAddress><physicalAddress>P.O BOX 76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JEROBOAM ELISAMIA MSELLA</kinName><relationship>FATHER</relationship><postalAddress>MARING,A LUTHERAN S.L.P 46 MWIKA</postalAddress><physicalAddress>MARING,A  LUTHERAN S.L.P 46 MWIKA </physicalAddress><fax></fax><telephone>+255767583984</telephone><mobile>0767583984</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>PETER J MSELLA</accountName><bankAccount>0152327965900</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8aff10c74ffc027c5a3a9ad664385bf9</isaacompletechecksum></student>

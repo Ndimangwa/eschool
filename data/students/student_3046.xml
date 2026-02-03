@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3046</studentId>
+  <studentName>SIMON R SINGANO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAZINDE DAY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0808/0172</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0158/0886</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ROMAN LWAMBANO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 15</postalAddress>
+      <physicalAddress>MOMBO</physicalAddress>
+      <fax/>
+      <sponsorfax>0784723915</sponsorfax>
+      <mobile>0784723915</mobile>
+      <email>romanlwamban@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ROMAN LWAMBANO</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>PO BOX 15</postalAddress>
+      <physicalAddress>MOMBO</physicalAddress>
+      <fax/>
+      <telephone>0784723915</telephone>
+      <mobile>0784723915</mobile>
+      <email>romanlwamban@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

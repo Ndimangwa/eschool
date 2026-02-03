@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1600</studentId>
+  <studentName>JOHN MARCO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ISELAMAGAZE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1702-0074</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SENGEREMA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0151-0672</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>P.O.BOX.76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANNA MARCO</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>P.O.BOX 113 SHINYANGA</postalAddress>
+      <physicalAddress>P.O.BOX 113 SHINYANGA</physicalAddress>
+      <fax/>
+      <telephone>0687289566</telephone>
+      <mobile>0687289566</mobile>
+      <email>annamarco@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3639</studentId>
+  <studentName>THOMAS ALLY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYAMAGANA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3037.0231.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MZUMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0140.0552.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SUZANA BUTTA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>PO.BOX 4057</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0753128062</telephone>
+      <mobile>0753128062</mobile>
+      <email>thomasally95@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ALLY, THOMAS</accountName><bankAccount>0152554231700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>06a1869ba2ae29d3a1a589b36b333316</isaacompletechecksum></student>

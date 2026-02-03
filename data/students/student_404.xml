@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>404</studentId>
+  <studentName>FAUSTINE MUNSI MOKIRI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ISSENYE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0661/0058</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0108/0733</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GODFREY MOKIRI MASSAGA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 979 MWANZA</postalAddress>
+      <physicalAddress>P.O BOX 392 MUSOMA</physicalAddress>
+      <fax/>
+      <sponsorfax>0765647637</sponsorfax>
+      <mobile>0788679408</mobile>
+      <email>mokirifaustine@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FAUSTINE MUNSI MOKIRI</kinName>
+      <relationship>SINGLE</relationship>
+      <postalAddress>P.O BOX 979 MWANZA</postalAddress>
+      <physicalAddress>P.O BOX 392 MUSOMA</physicalAddress>
+      <fax/>
+      <telephone>0753732399</telephone>
+      <mobile>0788280813</mobile>
+      <email>fastinemokiri@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

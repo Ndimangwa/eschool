@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>561</studentId>
+  <studentName>Pelicia Petro Musigula</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Barbro Johansson </institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0264/0062</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mazinde Juu</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233/0589</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Petro Kawenda Musigula</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1422, Dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0713495452</sponsorfax>
+      <mobile>0713495452</mobile>
+      <email>petrokawenda@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Petro Kawenda Musigula</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>1422, Dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0713495452</telephone>
+      <mobile>0713495452</mobile>
+      <email>petrokawenda@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

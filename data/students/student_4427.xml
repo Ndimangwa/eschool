@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4427</studentId>
+  <studentName>ISSA RASHID</studentName>
+  <accademicHistory><institution><institutionName>HUBERT KAIRUKI MEMORIAL UNIVERSITY</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>405</indexNumber><award>DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>2008</startYear><endYear>2013</endYear></institution><institution><institutionName>WAA HIGH SCHOOL</institutionName><specialization>CERTICATE</specialization><levelId>4</levelId><indexNumber>E0000.1051.2005</indexNumber><award>KENYA CERTIFICATE OF SECONDARY EDUCATION </award><grade>PASS</grade><startYear>2002</startYear><endYear>2005</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>CCBRT</employerName><postalAddress>BOX 23310</postalAddress><physicalAddress>DAR ES SALAAM, ukonga</physicalAddress><fax>+255222601544</fax><telephone>+255222601522</telephone><mobile>+255766689581</mobile><email>mh@ccbrt.or.tz</email><startYear>2015</startYear><endYear>2023</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>CCBRT</sponsorName><payerId>10</payerId><postalAddress>BOX 23310</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222601544</fax><telephone>+255222601522</telephone><mobile>+255766689581</mobile><email>suzan.boon@ccbrt.org</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>RASHID SULEIMAN</kinName><relationship>FATHER</relationship><postalAddress>BOX 636</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>+255653704254</telephone><mobile>+255756066219</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ISSA RASHID</accountName><bankAccount>055000014113</bankAccount><bankName>AKIBA COMMERCIAL BANK</bankName><branchName>KIJITONYAMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f2c1a5ee7488d485baf5034d88946e27</isaacompletechecksum></student>

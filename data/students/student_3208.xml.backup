@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3208</studentId>
+  <studentName>Elizabeth M Richard</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Magu Secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0539/0019</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Magu Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0539/0509</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board (HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068 DSM</postalAddress>
+      <physicalAddress>Dar-Es-Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00225222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Richard Mayala Mshuda</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O Box 108 MWANZA</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0766691281</telephone>
+      <mobile>0766691281</mobile>
+      <email>richardmshuda2@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

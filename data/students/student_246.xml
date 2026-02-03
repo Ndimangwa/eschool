@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>246</studentId>
+  <studentName>MARYJESKA GAMALIELY MAFIE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ANWARITE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0269/0036</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KANDOTO SAYANSI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2315/0521</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GAMALIELY WILLIAM MAFIE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>34</postalAddress>
+      <physicalAddress>MUSOMA</physicalAddress>
+      <fax/>
+      <sponsorfax>0754307596</sponsorfax>
+      <mobile>0789189546</mobile>
+      <email>maryjeskamafie@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GAMALIELY WILLIAM MAFIE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>34</postalAddress>
+      <physicalAddress>MUSOMA</physicalAddress>
+      <fax/>
+      <telephone>0754307596</telephone>
+      <mobile>0789189546</mobile>
+      <email>maryjeskamafie@yahooo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

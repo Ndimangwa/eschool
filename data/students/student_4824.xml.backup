@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4824</studentId>
+  <studentName>Werner M Maokola</studentName>
+  <accademicHistory><institution><institutionName>Namupa Seminary</institutionName><specialization>Secondary Education</specialization><levelId>4</levelId><indexNumber>S0141.0022.1989</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>1986</startYear><endYear>1989</endYear></institution><institution><institutionName>NAMUPA SEMINARY</institutionName><specialization>ADVANCED LEVEL</specialization><levelId>8</levelId><indexNumber>S0141.0511.1992</indexNumber><award>CERTIFICATE OF ADVANCED SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>1990</startYear><endYear>1992</endYear></institution><institution><institutionName>UNIVERSITY OF DAR ES SALAAM</institutionName><specialization>MEDICINE</specialization><levelId>15</levelId><indexNumber>MD17793/T.95</indexNumber><award>DOCTOR OF MEDICINE</award><grade>NA</grade><startYear>1995</startYear><endYear>2000</endYear></institution><institution><institutionName>UNIVERSITY OF LIVERPOOL</institutionName><specialization>TROPICAL AND INFECTIOUS DISEASES</specialization><levelId>17</levelId><indexNumber>00000547</indexNumber><award>MASTER OF SCIENCE</award><grade>NA</grade><startYear>2007</startYear><endYear>2008</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH</employerName><postalAddress>P.O.BOX 9083</postalAddress><physicalAddress>SAMORA AVENUE 11478</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>SEARCH PROJECT</sponsorName><payerId>4</payerId><postalAddress>LSHTM</postalAddress><physicalAddress>KEPPEL STREET, LONDON WC1E 7HT</physicalAddress><fax>0442072994637</fax><telephone>0442079272944</telephone><mobile/><email>Jim.Todd@lshtm.ac.uk</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>WERNER M MAOKOLA</accountName><bankAccount>0150101208800</bankAccount><bankName>STANDARD CHARTERED BANK</bankName><branchName>LIFe HOUSE DAR ES SALAAM</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>034b2380d5600376ef9e9137ae7dfe2c</isaacompletechecksum></student>

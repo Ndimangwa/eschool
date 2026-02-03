@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3642</studentId>
+  <studentName>musa selemani ndumbogani</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kwiro secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0123.0087.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kibiti secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0413.0585.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>00222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>pili masera</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>10</postalAddress>
+      <physicalAddress>utete</physicalAddress>
+      <fax/>
+      <telephone>0025775365303</telephone>
+      <mobile>0718761164</mobile>
+      <email>musandumbo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NDUMBOGANI, MUSA SELEMANI</accountName><bankAccount>0152326890800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6dbae006b47cf3327b22c737e91b0398</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3416</studentId>
+  <studentName>BENIGNI P MANYORI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKALEMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0934/0093</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MATHEW'S SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s1071-0682</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>BENIGNA MAMSERI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>79340 dar es salaam</postalAddress>
+      <physicalAddress>AFRICANA DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0752273012</sponsorfax>
+      <mobile>0858273012</mobile>
+      <email>Benign80@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JULIANA MAMSERI</kinName>
+      <relationship>AUNT</relationship>
+      <postalAddress>79340 dar es salaam</postalAddress>
+      <physicalAddress>MAJENGO MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0713517885</telephone>
+      <mobile>0713517885</mobile>
+      <email>jjmamseri@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

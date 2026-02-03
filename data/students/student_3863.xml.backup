@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3863</studentId>
+  <studentName>Daniel D Mwaisumbe</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Nzondahaki</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s3140/0145/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>tukuyu</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s1043/0598/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,Dsm</postalAddress>
+      <physicalAddress>76068,Dsm</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>atupakisye mwakamsale</kinName>
+      <relationship>aunt</relationship>
+      <postalAddress>378,mby</postalAddress>
+      <physicalAddress>378,mby</physicalAddress>
+      <fax/>
+      <telephone>0754389957</telephone>
+      <mobile>0754389957</mobile>
+      <email>www.mwaisumbedaniel@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

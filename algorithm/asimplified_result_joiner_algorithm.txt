@@ -1,0 +1,40 @@
+Algorithm: Results Calculation Within a Group 
+1. Results within a ResultsGroup is calculated under the following 
+	1.1 The results Group is manually closed, automatically it will close all the contained results 
+	1.2 There is a change in Accademic Year, all previous years Results Groups will be closed 
+	
+	[
+	Individual Results can be Opened or Closed  [If the hosting ResultsGroup is still Open]
+	If ResultsGroup is closed, any contained Results will be closed.
+	If ResultsGroup is opened, the contained Results will not be opened 
+	]
+	Note : Any scenario which will cause the Results Group to be closed, results within a Group will be calculated and finalized 
+	
+//Note the results are in a sorted order
+Algorithm by Example 
+//Primary Object, Results1 ==> ResultsFile
+//GroupResultsCalculator 
+	--> groupResultsFile1 = With no file and do necessary initialization
+	--> Data Structure is array of Results and ResultsFile of an object 
+		ie ds1[i][0] = Results 
+		   ds1[i][1] = ResultsFile 
+		   ds1[i][2] = Pointer // Will be used in calculate  Algorithm, initialize at 0
+	--> Get ResultsAMergedResults Header 
+	--> Using a ResultsMergedHeader, merge results two by two , meaning 
+		$mergedResultsFile = resultsFile[0] //Results0 should be primary
+		for (i=1; i < sizeof(ds1); i++)	{
+			if (primary Proceed) {
+				$mergedResultsFile = merge($mergedResultsFile, resultsFile[i]) //Weight do not forget , Results is 100based/denominator is 100
+			} else if (supplimentary)	{
+				mark supplimentary Index //Only one supplimentary is accepted
+			}
+		}
+		Now my results are in mergedResultsFile
+		You Need to mergeWithCorrection(mergedResultsFile, supplimentaryResultsFile) //I think after grading is when you will know pass or failed
+		
+		filename results_group_[groupId].csv 
+		gradedfilename results_group_[groupId].csv.graded 
+		
+			
+		   
+	

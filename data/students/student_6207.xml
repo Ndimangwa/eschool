@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6207</studentId>
+  <studentName>Bernard Gabriel Kivuma</studentName>
+  <accademicHistory><institution><institutionName>Ilboru High School</institutionName><specialization>A level</specialization><levelId>8</levelId><indexNumber>S0110.0538.2014</indexNumber><award>Advanced Certificate</award><grade>2.8</grade><startYear>2012</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1a466bd236cd399632cfd0be8a2633a1</isaacompletechecksum></student>

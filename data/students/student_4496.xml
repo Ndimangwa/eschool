@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4496</studentId>
+  <studentName>Christopher Thadeus</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY</institutionName><specialization>SCIENCE</specialization><levelId>15</levelId><indexNumber>K 16  0015</indexNumber><award>DOCTOR OF MEDICINE</award><grade>SECOND CLASS</grade><startYear>2007</startYear><endYear>2012</endYear></institution><institution><institutionName>MEDICAL TRAING CENTRE MTWARA</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>08823</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>SECOND CLASS</grade><startYear>2001</startYear><endYear>2003</endYear></institution><institution><institutionName>PUGU SEC.SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S 0147-0669</indexNumber><award>CERTIFICATE</award><grade>DIVISSION THREE</grade><startYear>1997</startYear><endYear>1999</endYear></institution><institution><institutionName>KIBAHA SEC. SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S119-0031</indexNumber><award>CERTIFICATE</award><grade>DIVISION TWO</grade><startYear>1993</startYear><endYear>1996</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cc6ff13a0e26d2ca64ae3b1dc4273d59</isaacompletechecksum></student>

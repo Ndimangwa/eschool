@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>959</studentId>
+  <studentName>HEMEDI BULUBA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYUMBU S.SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1697-0109</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA.S. SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0108-0618</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JEAN BULUBA </sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 30849</postalAddress>
+      <physicalAddress>KIBAHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0255787008779</sponsorfax>
+      <mobile>0255787008779</mobile>
+      <email>hemedjb@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JEAN BULUBA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 30849</postalAddress>
+      <physicalAddress>KIBAHA</physicalAddress>
+      <fax/>
+      <telephone>0255787008779</telephone>
+      <mobile>0255755008779</mobile>
+      <email>hemedjb@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

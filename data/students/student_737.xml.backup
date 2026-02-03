@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>737</studentId>
+  <studentName>SALIMU JUMANNE RAMADHANI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KWARAA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3399/0178</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>USAGARA SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345/0648</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JUMANNE RAMADHANI MUNDI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>219</postalAddress>
+      <physicalAddress>BABATI</physicalAddress>
+      <fax/>
+      <telephone>0753709499</telephone>
+      <mobile>0753709499</mobile>
+      <email>salymuramadhani@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

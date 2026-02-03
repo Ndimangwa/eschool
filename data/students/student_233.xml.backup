@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>233</studentId>
+  <studentName>ALPHEO PATRICK MBUYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARANGU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO388-0065</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NJOMBE HIGH SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO143-0522</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC</institutionName>
+      <specialization>DIPLOMA IN PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>11638</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS-MOROGORO</employerName>
+      <postalAddress>P.O.BOX 650 MOROGORO</postalAddress>
+      <physicalAddress>RC MOROGORO</physicalAddress>
+      <telephone>0783275523</telephone>
+      <email>rasmoro@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>SAM NUJOMA ROAD, MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222700286</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PATRICK JOHN MBUYA </kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 6696 M0SHI</postalAddress>
+      <physicalAddress>LONGUO</physicalAddress>
+      <fax/>
+      <telephone>0754396469</telephone>
+      <mobile>0715396469</mobile>
+      <email>alfambuya79@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

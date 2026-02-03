@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>658</studentId>
+  <studentName>RAMADHANI S MAGERO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ROSMINI</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0692-0069</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AL MUNTAZIR</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0437-515</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>mariam magero</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9024</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0754570311</sponsorfax>
+      <mobile>0754570311</mobile>
+      <email>allymagero@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARIAM MAGERO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>9024</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0754570311</telephone>
+      <mobile>0754570311</mobile>
+      <email>Allymagero@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

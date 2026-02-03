@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>262</studentId>
+  <studentName>yusuph mohamed</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>sumaye secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1337.0188.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>moshi technical secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0135.0758.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Juma Tumaini Mgori</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>63220</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0732993896</sponsorfax>
+      <mobile>0787523152</mobile>
+      <email>tumainimgori@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>yusuph mohamed</kinName>
+      <relationship>single</relationship>
+      <postalAddress>5100</postalAddress>
+      <physicalAddress>Morogoro</physicalAddress>
+      <fax/>
+      <telephone>0687598369</telephone>
+      <mobile>0718804678</mobile>
+      <email>mohamedyusuph1@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MOHAMED, YUSUPH</accountName><bankAccount>22110013574</bankAccount><bankName> NMB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d03fd28c2683f20cc8e72f52b3116031</isaacompletechecksum></student>

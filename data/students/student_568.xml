@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>568</studentId>
+  <studentName>MAR J MSUMARI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAZINDE JUU</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0233/0054/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAZINDE JUU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0233/0574/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>IRENE MAKAME MSUMARI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>294</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <sponsorfax>0784420496</sponsorfax>
+      <mobile>0025784420496</mobile>
+      <email>irenemsumari@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>IRENE MAKAME MSUMARI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>294</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <telephone>0784420496</telephone>
+      <mobile>0025784420496</mobile>
+      <email>irenemsumari@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

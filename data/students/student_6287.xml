@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6287</studentId>
+  <studentName>fred frank</studentName>
+  <accademicHistory><institution><institutionName>NYASUBI</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3638.0104.2011</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION III</grade><startYear>2008</startYear><endYear>2011</endYear></institution><institution><institutionName>MAGU</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0539.0568.2015</indexNumber><award>ADVANCED CERTIFICATE</award><grade>MERIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>loan</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FRANK LAZARO</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 116 KAHAMA</postalAddress><physicalAddress>KAHAMA</physicalAddress><fax></fax><telephone>0754808660</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FRED FRANK</accountName><bankAccount>0152294548500</bankAccount><bankName>CRDB</bankName><branchName>MBEZI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>664f55fc55680f21f188765bdd827fe2</isaacompletechecksum></student>

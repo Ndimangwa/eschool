@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5846</studentId>
+  <studentName>Lucas Edwin Athanas</studentName>
+  <accademicHistory><institution><institutionName>VIWANDANI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2033.0109.2013</indexNumber><award>CSE</award><grade>TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8dc892aedfd0ddd6bfd1843e548bc08a</isaacompletechecksum></student>

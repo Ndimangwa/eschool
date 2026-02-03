@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3024</studentId>
+  <studentName>JESCA JOHNSON NIKUNDIWE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>GREEN BIRD GIRLS' SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0253-0028</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MSALATO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0214-0532</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DAR</postalAddress>
+      <physicalAddress>KIMWERI ROAD,MSASANI</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHNSON NIKUNDIWE ABRAHAM</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 5565 DONGE TANGA</postalAddress>
+      <physicalAddress>DONGE-TANGA</physicalAddress>
+      <fax/>
+      <telephone>0712918611</telephone>
+      <mobile>0712918611</mobile>
+      <email>johnsonnikundiwe@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

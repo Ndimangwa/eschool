@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>371</studentId>
+  <studentName>michael irira</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kibiti secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0413-100</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>old moshi secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>so-134-0545</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilimanjaro ChristianMedical College</institutionName>
+      <specialization>Doctor of Medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0348</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED Korogwe</employerName>
+      <postalAddress>584 Korogwe</postalAddress>
+      <physicalAddress>Korogwe District </physicalAddress>
+      <telephone>00272650017</telephone>
+      <email>korogwedc@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Melinda Blackwell</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1130 Moshi</postalAddress>
+      <physicalAddress>China</physicalAddress>
+      <fax/>
+      <sponsorfax>00255754389049</sponsorfax>
+      <mobile>00255754389049</mobile>
+      <email>drmelb1@mac.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Judith Cletus Mallya</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>571 Korogwe</postalAddress>
+      <physicalAddress>Korogwe Magunga</physicalAddress>
+      <fax/>
+      <telephone>00255784396450</telephone>
+      <mobile>00255784396450</mobile>
+      <email>judithmallya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

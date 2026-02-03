@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5107</studentId>
+  <studentName>DATIVA P MINJA</studentName>
+  <accademicHistory><institution><institutionName>Joyland Girls Secondary School</institutionName><specialization>Science</specialization><levelId>4</levelId><indexNumber>P0015.3964.2014</indexNumber><award>CERTIFICATE</award><grade>GPA 3.4</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>PASTOR V MINJA</sponsorName><payerId>3</payerId><postalAddress>PO BOX 813</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile>+255754262295</mobile><email/><financedItem>TUITION FEE </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BEATRICE P MINJA</kinName><relationship>PARENT</relationship><postalAddress>PO BOX 813</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>+255754581682</telephone><mobile>+255754581682</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NIL</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>774e599222cacee82da5825e3010fa5b</isaacompletechecksum></student>

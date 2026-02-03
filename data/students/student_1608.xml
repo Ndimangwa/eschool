@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1608</studentId>
+  <studentName>KHAMIS KHAMIS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>FIDEL CASTRO SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0309/0065</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485/1150</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Omar khamis</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.Box 2060</postalAddress>
+      <physicalAddress>mnazi mmoja</physicalAddress>
+      <fax/>
+      <telephone>00255773950914</telephone>
+      <mobile>+255773950914</mobile>
+      <email>khamis.khamis80@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

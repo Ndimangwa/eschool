@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>33</studentId>
+  <studentName>NYOBASI AINORY GESASE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ZANAKI GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S02220231</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LINDI CLINICAL OFFICERS TRAINING CENTRE</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>2134</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IMTU</institutionName>
+      <specialization>MBBS</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2005 CM 13</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH AND SOCIAL WELFARE</employerName>
+      <postalAddress>9083</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>002552120261</telephone>
+      <email>info@moh.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NYOBASI AINORY GESASE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3010</postalAddress>
+      <physicalAddress>MOSHI KILIMANJARO</physicalAddress>
+      <fax/>
+      <sponsorfax>00255756759099</sponsorfax>
+      <mobile>00255719575025</mobile>
+      <email>nyobasig@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LEONARD MOSHA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>12988</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>00255754302193</telephone>
+      <mobile>00255655302193</mobile>
+      <email>lenardmosha@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

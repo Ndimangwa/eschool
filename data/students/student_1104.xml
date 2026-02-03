@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1104</studentId>
+  <studentName>Stella D Shirma</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kiraeni Girls Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0207-0090</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Korogwe Girls Secondary School</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0209/0520</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Student Loan</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Focus J. Kadeghe</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>7414</postalAddress>
+      <physicalAddress>Kilimanjaro</physicalAddress>
+      <fax/>
+      <telephone>+255769459540</telephone>
+      <mobile>+255769459540</mobile>
+      <email>focus.kadege@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

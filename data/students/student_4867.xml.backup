@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4867</studentId>
+  <studentName>HAPPYNESS EMMANUELY MISSAY</studentName>
+  <accademicHistory><institution><institutionName>MAWENZI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0328.0051.2013</indexNumber><award>CSE</award><grade>TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MACHAME GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0212.0700.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>EMMANUELY MISSAY</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 237</postalAddress><physicalAddress>MAGEREZA</physicalAddress><fax/><telephone>0757982652</telephone><mobile>0757982652</mobile><email>missayhappyness16@gmail.com</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Happyness Emmanuely Missay</accountName><bankAccount>40110004285</bankAccount><bankName>NMB</bankName><branchName>HAI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d110712ba50d9c9144aafd4c95b58aac</isaacompletechecksum></student>

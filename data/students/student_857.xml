@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>857</studentId>
+  <studentName>FREDERICK M MUZIMYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CCMW NZEGA CENTRE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P4392.0038.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.GASPER NURSING TRAINING CENTRE</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>NKINGA REFERRAL HOSPITAL</employerName>
+      <postalAddress>BOX 1 </postalAddress>
+      <physicalAddress> NKINGA TABORA</physicalAddress>
+      <telephone>0754673116</telephone>
+      <email>Nkinga-hospital@hotmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIZABETH ABEL KUYELA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>Box 1</postalAddress>
+      <physicalAddress>NKINGA TABORA</physicalAddress>
+      <fax/>
+      <telephone>0755158801</telephone>
+      <mobile>0755158801</mobile>
+      <email>fred13meshack@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>FREDERICK MESHACK MUZIMYA</accountName><bankAccount>0152327703700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2939fc8edcad5417c8f5544b9afa4cb8</isaacompletechecksum></student>

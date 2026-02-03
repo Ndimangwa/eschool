@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6598</studentId>
+  <studentName>ESUPAT JACKSON MATERY</studentName>
+  <accademicHistory><institution><institutionName>KIFUNGILO GIRL'S SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S0224.0030.2013</indexNumber><award>SCIENCE </award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIFUNGILO GIRLS' SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>S0224.0524.1016</indexNumber><award>PCB</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>4</payerId><postalAddress>P.OBOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>Sam Nujoma</physicalAddress><fax>+225222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>THEA JACKSON MATERY</kinName><relationship>MOTHER</relationship><postalAddress>P.O BOX 11039 ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>+255752484814</telephone><mobile>+255752484814</mobile><email>eslsepthjack@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ESUPAT JACKSON MATERY</accountName><bankAccount>0152327070200</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d5f1de8ecc6126b8d5a59a8714e022a1</isaacompletechecksum></student>

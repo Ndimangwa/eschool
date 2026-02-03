@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6060</studentId>
+  <studentName>DIPLOMA</studentName>
+  <accademicHistory><institution><institutionName>MARINGENI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2028.0037.2013</indexNumber><award>PASS</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>AGAPE LUTHERAN JUNIOR SEMINARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0184.0558.2016</indexNumber><award>PASS</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DAMSON NGOWI</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 394,MOSHI</postalAddress><physicalAddress>P.O.BOX 394,MOSHI</physicalAddress><fax/><telephone>0755362570</telephone><mobile>0755362570</mobile><email>kelvindamsoni.99@gmail.com</email><financedItem>TUITION FEES</financedItem><extraInformation>FARMER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DAMSON</kinName><relationship>PARENT</relationship><postalAddress>P.O.BOX 394</postalAddress><physicalAddress>P.O.BOX 394</physicalAddress><fax/><telephone>0755362570</telephone><mobile>0755362570</mobile><email>kelvindamson.99@mail.com</email><extraInformation>FARMER</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>CRDB</accountName><bankAccount>0152327147600</bankAccount><bankName>CRDB BANK</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>57de046eba151850fd42302b758f94ff</isaacompletechecksum></student>

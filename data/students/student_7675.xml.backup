@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7675</studentId>
+  <studentName>SIMON B MJELWA</studentName>
+  <accademicHistory><institution><institutionName>PEACE HOUSE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3838.0134.2016</indexNumber><award>DIVISION TWO </award><grade>21</grade><startYear>2013</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>BARTON MJELWA </sponsorName><payerId>3</payerId><postalAddress>P.O BOX 16105 ARUSHA,</postalAddress><physicalAddress>ARUSHA,SAKINA</physicalAddress><fax/><telephone>0764890283</telephone><mobile>0764890283</mobile><email/><financedItem>SCHOOL FEES </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BARTON MJELWA </kinName><relationship>PARENT </relationship><postalAddress>P.O BOX 16105 ARUSHA,</postalAddress><physicalAddress>ARUSHA,SAKINA</physicalAddress><fax/><telephone>0764890283</telephone><mobile>0764890263</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SIMON BARTON MJELWA </accountName><bankAccount>42110008254</bankAccount><bankName>NMB </bankName><branchName>NGARENARO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6ae072564262820e81932f98e9d6608a</isaacompletechecksum></student>

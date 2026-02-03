@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>208</studentId>
+  <studentName>Ndimangwa Fadhili Ngoya</studentName>
+  <accademicHistory><institution><institutionName>Home International</institutionName><specialization>PCM</specialization><levelId>15</levelId><indexNumber>SE.877</indexNumber><award>PCM</award><grade>98</grade><startYear>1999</startYear><endYear>2001</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>065740105ab75dfe863a934c5b87df04</isaacompletechecksum></student>

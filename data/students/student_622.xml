@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>622</studentId>
+  <studentName>Edibert Stanslaus Kihama</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>S.s. Rufino Rinaldo Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1530.0041.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tabora Boys Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155.0515.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Stanslaus Kihama</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>77 Kigoma</postalAddress>
+      <physicalAddress>Kigoma</physicalAddress>
+      <fax/>
+      <telephone>0756665794</telephone>
+      <mobile>0756665794</mobile>
+      <email>ediberts@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KIHAMA, EDIBERT STANSLAUS</accountName><bankAccount>0152488978300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>84a75f5fab42e612fa9b197bcb435485</isaacompletechecksum></student>

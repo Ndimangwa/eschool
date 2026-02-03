@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5174</studentId>
+  <studentName>WITNESS P GAILANGA</studentName>
+  <accademicHistory><institution><institutionName>ST.MARKS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1247.0107.2006</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2003</startYear><endYear>2006</endYear></institution><institution><institutionName>SONGEA GIRLS SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0219.0750.2009</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2007</startYear><endYear>2009</endYear></institution><institution><institutionName>RUAHA UNIVERSITY COLLEGE</institutionName><specialization>DIPLOMA IN MEDICAL LABORATORY SCIENCE</specialization><levelId>12</levelId><indexNumber>0248/DMLS/T/O9</indexNumber><award>DIPLOMA IN MEDICAL LABORATORY SCIENCES</award><grade>UPPER SECOND CLASS</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>GOVERNMENT</employerName><postalAddress>P.O.Box 30080 KIBAHA</postalAddress><physicalAddress>P.O.Box30080 KIBAHA</physicalAddress><fax>0232402358</fax><telephone>0232402287</telephone><mobile/><email>ras@pwani.go.tz</email><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX  76068</postalAddress><physicalAddress>P.O.BOX 76068</physicalAddress><fax>+225222700286</fax><telephone>+225222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>MA,BS,FPT,TUITION FEE, RESEARCH,SFR</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOHN AIYONA MSAKI</kinName><relationship>HUSBAND</relationship><postalAddress>P.O.BOX  76274</postalAddress><physicalAddress>P.O.BOX 76274</physicalAddress><fax></fax><telephone>+255756815800</telephone><mobile></mobile><email>siasele@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>WITNESS PAUL GAILANGA</accountName><bankAccount>0152201513700</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>885b2e2b42aa060903cb10252e749654</isaacompletechecksum></student>

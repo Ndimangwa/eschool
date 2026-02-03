@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>19</studentId>
+  <studentName>Salama H. Chum</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ubungo Islamic High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0671-0037</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilosa Clinical Officer Training Centre</institutionName>
+      <specialization>Diploma in Clinical Medicine</specialization>
+      <levelId>8</levelId>
+      <indexNumber>35583</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Loan bord</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>760688</postalAddress>
+      <physicalAddress>block no.46, Sum Nujoma Road</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helbs.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SULEIMAN H. CHUM</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O 72387</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0784333860</telephone>
+      <mobile>0784333860</mobile>
+      <email>dumez33@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

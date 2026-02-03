@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3399</studentId>
+  <studentName>SEVERINE MLUNGWANA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TABORA BOYS SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0155.0086.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147.0764.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es salaam</postalAddress>
+      <physicalAddress>76068 Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00255787101808</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YUDINA MISANA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>11 TABORA</postalAddress>
+      <physicalAddress>11 TABORA</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0756408522</mobile>
+      <email>mlungwana3@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MLUNGWANA, SEVERINE</accountName><bankAccount>0152261360800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b24b4b18f0385e6577a505253ce9bf4b</isaacompletechecksum></student>

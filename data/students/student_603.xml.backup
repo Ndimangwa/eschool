@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>603</studentId>
+  <studentName>onesmo ignasi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>oysterbay secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.3502.0225</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>azania secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0101.0652</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222669036</sponsorfax>
+      <mobile>0255222669039</mobile>
+      <email>info@heslb.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>caroline assey</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>35024</postalAddress>
+      <physicalAddress>mbezi beach</physicalAddress>
+      <fax/>
+      <telephone>+255657022006</telephone>
+      <mobile>0755627840</mobile>
+      <email>onesmoignas@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

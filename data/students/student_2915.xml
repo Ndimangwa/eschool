@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2915</studentId>
+  <studentName>AUDAX A TANDITSE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST Joseph's iterambogo seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0159.0006.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110.0533.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.B0X 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALPHONCE L TANDITSE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O B0x 42</postalAddress>
+      <physicalAddress>KASULU</physicalAddress>
+      <fax/>
+      <telephone>0762015780</telephone>
+      <mobile>0762015780</mobile>
+      <email>atanditse@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>TANDITSE, AUDAX A</accountName><bankAccount>0152326667400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>eaf15545f33199f70a99f62ad88e2960</isaacompletechecksum></student>

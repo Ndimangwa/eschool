@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>824</studentId>
+  <studentName>holyness philemon samson</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AMANI GIRLS SECONDARY SCHOOL </institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0262.0022.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MVUMI SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0804.0508.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHN AMITA AMITA</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>BOX 41</postalAddress>
+      <physicalAddress>MANYONI</physicalAddress>
+      <fax/>
+      <telephone>0758257601</telephone>
+      <mobile>0758257601</mobile>
+      <email>holynesssamson@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SAMSON, HOLYNESS PHILEMON</accountName><bankAccount>0152204992600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>439d02449052175e605b46ebda91141c</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6210</studentId>
+  <studentName>kuluthum shaban</studentName>
+  <accademicHistory><institution><institutionName>MWANZA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0333.0100.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MACHAME GIRLS SECONDARY SCHOOL</institutionName><specialization>CBN</specialization><levelId>8</levelId><indexNumber>S0212.0710.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>FATUMA ONESMO</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 10454 ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0753835914</telephone><mobile>0753835914</mobile><email>sfaith@gmail.com</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FATUMA ONESMO</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 10454 ARUSHA</postalAddress><physicalAddress>FATUMA ONESMO</physicalAddress><fax></fax><telephone>0753835914</telephone><mobile>0753835914</mobile><email>Sfaith540@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KULUTHUM SHABAN</accountName><bankAccount>000000000000</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7d633f5d570dec071591255f8ddd79e7</isaacompletechecksum></student>

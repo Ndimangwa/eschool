@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4297</studentId>
+  <studentName>grace aminieli mariki</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>aGAPE LUTHERAN J SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>so184-0015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO211/0544</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K.6 00</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ministrY OF HEAlTH AND SOCIAL WELfARE</employerName>
+      <postalAddress>s.l.p9083 dar es salaam</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>00255272758770</telephone>
+      <email>kibongoto@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>grace aminieli mariki</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 12 sanya juu</postalAddress>
+      <physicalAddress>lawatee</physicalAddress>
+      <fax/>
+      <sponsorfax>0714246799</sponsorfax>
+      <mobile>0714246799</mobile>
+      <email>graceaminieli@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELISANTE SIFUELI MASAKI</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>box 12 santa juu</postalAddress>
+      <physicalAddress>lawatee</physicalAddress>
+      <fax/>
+      <telephone>0763824728</telephone>
+      <mobile>0763824728</mobile>
+      <email>eliantonmasaki@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

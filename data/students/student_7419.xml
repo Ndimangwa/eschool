@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7419</studentId>
+  <studentName>PATRICK  F  ULOMI</studentName>
+  <accademicHistory><institution><institutionName>MAJENGO   SECONDARY</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>S0485.0496.2014</indexNumber><award>O  LEVEL   CERTIFICATY</award><grade>1.6GPA</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>MAJENGO   SECONDARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0485.0835.2017</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>IV  18  DIVISION</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>285671011cb08959f825b2113f0f708f</isaacompletechecksum></student>

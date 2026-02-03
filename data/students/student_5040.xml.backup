@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5040</studentId>
+  <studentName>Birth certificate</studentName>
+  <accademicHistory><institution><institutionName>MAUA SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0130.0012.2013</indexNumber><award>CSEE</award><grade>DIVISIN ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1187.0764.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+2552227002896</fax><telephone>+255222772432</telephone><mobile/><email>info@helsb.go.tz</email><financedItem>schools fees and accommodation</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>RICHARD P LYAMUYA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX.255 MARANGU</postalAddress><physicalAddress>MARANGU</physicalAddress><fax/><telephone>0754434075</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>INNOCENT R LYAMUYA</accountName><bankAccount>012345</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4f285f60a21b3f9b2c9815b41720d9d0</isaacompletechecksum></student>

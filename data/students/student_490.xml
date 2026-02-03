@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>490</studentId>
+  <studentName>Annie Bernard Masika</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Fountain of hope christian seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4209.0002.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St. Mary Goreti secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187.0515.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>025522269036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Bernard Masika</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>281</postalAddress>
+      <physicalAddress>Karatu</physicalAddress>
+      <fax/>
+      <telephone>0763911525</telephone>
+      <mobile>0763911525</mobile>
+      <email>Kalist.Masika@nbctz.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MASIKA, ANNIE BERNARD</accountName><bankAccount>0152327638500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cfcda4f04159b4b9e46f9b5eeee42e05</isaacompletechecksum></student>

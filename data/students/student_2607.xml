@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2607</studentId>
+  <studentName>EDNA-JOY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JANGWANI GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S204.0068</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.ANTHONY`S SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0534.0505</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI UNIVERSITY.KCMC</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0171</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ARUSHA REGIONAL ADMINISTRATIVE SECRETARY</employerName>
+      <postalAddress>P.O.BOX 3050</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <telephone>00255272543608</telephone>
+      <email>ras.arusha@pnoralg.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MOHSW</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 9083</postalAddress>
+      <physicalAddress>DAR ES SAALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222342000</sponsorfax>
+      <mobile>00255222342000</mobile>
+      <email>info@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GEOFREY MBOYA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>p.o.box 14982</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>00255787506488</telephone>
+      <mobile>00255787506488</mobile>
+      <email>eddie.mboya@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

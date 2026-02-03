@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2139</studentId>
+  <studentName>ADVERA VEDASTO MTATINA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ZANAKI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0222-0002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MKWAWA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0137-0613</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOI OF NURSING</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>24251</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DIRECTOR OF BARIADI TOWN COUNCIL</employerName>
+      <postalAddress>BOX  526</postalAddress>
+      <physicalAddress>BARIADI SIMIYU</physicalAddress>
+      <telephone>00255754063534</telephone>
+      <email>ellmodest-@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIABU MODEST MBUGUMA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>BOX 151</postalAddress>
+      <physicalAddress>BARIADI</physicalAddress>
+      <fax/>
+      <telephone>002557330067</telephone>
+      <mobile>002557330067</mobile>
+      <email>elly_modest@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

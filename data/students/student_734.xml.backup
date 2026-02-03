@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>734</studentId>
+  <studentName>glory lazaro mmari</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>masama girls secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.00223.0022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>tarakea day secondary</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0818.0520</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>lazaro vehankira mmari</kinName>
+      <relationship>father</relationship>
+      <postalAddress>16</postalAddress>
+      <physicalAddress>oldmoshi</physicalAddress>
+      <fax/>
+      <telephone>0763072158</telephone>
+      <mobile>0763072158</mobile>
+      <email>mmariglory@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

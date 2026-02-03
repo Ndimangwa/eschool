@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>82</studentId>
+  <studentName>INNOCENT JOSEPH</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NSUMBA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0144/0064</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0199/0596</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH TIBENDA BANGIRANA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O BOX 876 MWANZA</postalAddress>
+      <physicalAddress>BWIRU,ILEMELA,MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0787246051</telephone>
+      <mobile>0753887645</mobile>
+      <email>innobangirana@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

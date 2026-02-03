@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2912</studentId>
+  <studentName>EDWIIN C MUCHUNGUZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PEACE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1689.0124.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0135.0627.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>00222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPHAT CHRISANT</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 253</postalAddress>
+      <physicalAddress>MULEBA</physicalAddress>
+      <fax/>
+      <telephone>0757304443</telephone>
+      <mobile>0752863244</mobile>
+      <email>Edwin.chrisant@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUCHUNGUZI, EDWIN C</accountName><bankAccount>0152327796500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3d563ee79c065582236393272f822716</isaacompletechecksum></student>

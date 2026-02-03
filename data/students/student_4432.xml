@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4432</studentId>
+  <studentName>DANIEL MICHAEL</studentName>
+  <accademicHistory><institution><institutionName>NDEMBELA SECONDARY SCHOOL</institutionName><specialization>SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0434.0082.2005</indexNumber><award>CERTIFICATE</award><grade>THREE</grade><startYear>2002</startYear><endYear>2005</endYear></institution><institution><institutionName>ST.MATTHEW'S SECONDARY SCHOOL</institutionName><specialization>SECONDARY EDUCATION</specialization><levelId>8</levelId><indexNumber>S1071.0638.2008</indexNumber><award>CERTIFICATE</award><grade>TWO</grade><startYear>2006</startYear><endYear>2008</endYear></institution><institution><institutionName>MUHIMBILI UNIVERSITY</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>MD002124</indexNumber><award>DOCTORATE DEGREE</award><grade>PASS</grade><startYear>2008</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>CCBRT</employerName><postalAddress>P.O.BOX 23310</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222601544</fax><telephone>+255222601522</telephone><mobile>+255766689581</mobile><email>mh@ccbrt.or.tz</email><startYear>2015</startYear><endYear>2023</endYear><extraInformation>nil</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>ccbrt</sponsorName><payerId>10</payerId><postalAddress>P.O.BOX 23310</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222601544</fax><telephone>+255222601522</telephone><mobile>+255766689581</mobile><email>MH@ccbrt.or.tz</email><financedItem>TUITION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MICHAEL MUTHARIA</kinName><relationship>BIOLOGICAL FATHER</relationship><postalAddress>BOX 7643</postalAddress><physicalAddress>MWANZA</physicalAddress><fax></fax><telephone>+255732610020</telephone><mobile>+255784610020</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DANIEL MICHAEL MUTHARIA</accountName><bankAccount>20908100210</bankAccount><bankName>NMB</bankName><branchName>MUHIMBILI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4d30c76e2e434ab9e3b44468e0f1756c</isaacompletechecksum></student>

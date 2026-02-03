@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>128</studentId>
+  <studentName>Josephine Joakim</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Korogwe secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0209.0069.2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Korogwe secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0209.0574.2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS-MANYARA</employerName>
+      <postalAddress>310</postalAddress>
+      <physicalAddress>Babati-Manyara</physicalAddress>
+      <telephone>0272530267</telephone>
+      <email>rasmanyara@manyara.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Tanzania Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552227724323</sponsorfax>
+      <mobile>002552227724323</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Ludovick Joackim Akaro</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>12228</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <telephone>00255757460259</telephone>
+      <mobile>0784460259</mobile>
+      <email>ludovic81@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JOAKIM, JOSEPHINE</accountName><bankAccount> 0152328140300 </bankAccount><bankName> CRDB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d1feb5a5f879322ba8fc4573eb903876</isaacompletechecksum></student>

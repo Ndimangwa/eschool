@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5584</studentId>
+  <studentName>CHRISTINA WENGA</studentName>
+  <accademicHistory><institution><institutionName>MOROGORO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0332.0024.2013</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TUKUYU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1043.0665.2016</indexNumber><award>ACSEE</award><grade>DIVISION 4</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>CHRISTINE WENGA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 644,C/O RPC MOROGORO</postalAddress><physicalAddress>christinawenga@yahoo.com</physicalAddress><fax/><telephone>0782005694</telephone><mobile>0782005694</mobile><email>christinawenga@yahoo.com</email><financedItem>STUDIES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHRISTINE WENGA</kinName><relationship>GRANDMOTHER</relationship><postalAddress>P.O.BOX 644,C/O RPC MOROGORO</postalAddress><physicalAddress>christinawega@yahoo.com</physicalAddress><fax></fax><telephone>0782005694</telephone><mobile>0782005694</mobile><email>christinawenga@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>CHAP CHAP ACCOUNT</accountName><bankAccount>61410010232</bankAccount><bankName>NATIONAL MICROFINANCE BANK</bankName><branchName>TUKUYU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6864134bcf702656f293949548de3776</isaacompletechecksum></student>

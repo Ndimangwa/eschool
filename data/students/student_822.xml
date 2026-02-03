@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>822</studentId>
+  <studentName>FLAVIANA  J KITTALY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. MARGARET GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0242.0030.2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC</institutionName>
+      <specialization>PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>BABATI DISTRICT COUNCIL</employerName>
+      <postalAddress>S.L.P 400</postalAddress>
+      <physicalAddress>BABATI</physicalAddress>
+      <telephone>00255282845881</telephone>
+      <email>info@dedbabati.co.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD </sponsorName>
+      <payerId>11</payerId>
+      <postalAddress> S.L.P 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025527484989</sponsorfax>
+      <mobile>0025785202725</mobile>
+      <email>info@HESLB.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHN A KITALI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>S.L.P. 698</postalAddress>
+      <physicalAddress>BABATI</physicalAddress>
+      <fax/>
+      <telephone>0025527457755</telephone>
+      <mobile>00255785457755</mobile>
+      <email>info@johnk.ac.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KITTALY, FLAVIANA J</accountName><bankAccount>0152327718700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3bd2b84145aca8bacaf1d210d822a684</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5178</studentId>
+  <studentName>Edward.A.Manda</studentName>
+  <accademicHistory><institution><institutionName>BARAA</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1818.0107.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>ST.JUDE</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S4459.0535.2015</indexNumber><award>CERTIFICATE OF SECONDARY</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem>HIGHER EDUCATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ANDREW BAZIL STEPHANO</kinName><relationship>PARENT</relationship><postalAddress>P.O.BOX1768</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>0683021046</telephone><mobile>0683021046</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EDWARD.A.MANDA</accountName><bankAccount>0152333106400</bankAccount><bankName>CRDB</bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>978ae30df2c955a41c78e732687f76d7</isaacompletechecksum></student>

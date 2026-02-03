@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>388</studentId>
+  <studentName>anaam sayed abdulrahim kadri</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AL MUNTAZIR ISLAMIC SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>E0014.1418.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AL MUNTAZIR ISLAMIC SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>E0015.3025.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>RAHMA MOHAMMED</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>21249</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>0222181636</sponsorfax>
+      <mobile>0717639983</mobile>
+      <email>anaamkadri7@outlook.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RAHMA MOHAMMED</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>21249</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <telephone>0222181636</telephone>
+      <mobile>0773278872</mobile>
+      <email>anaamkadri7@outlook.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ANAAM S.A KADRI</accountName><bankAccount>0152241665300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a7b39ac955771abe2634e4b0192137da</isaacompletechecksum></student>

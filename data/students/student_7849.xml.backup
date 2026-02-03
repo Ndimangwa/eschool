@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7849</studentId>
+  <studentName>DORCAS E GEGA</studentName>
+  <accademicHistory><institution><institutionName>KALOLENI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1110.0016.2014</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL EDUCATION</award><grade>MERIT</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ENOCK DANIEL GEGA</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 14049 ARUSHA</postalAddress><physicalAddress>SANAWARI ARUSHA</physicalAddress><fax>+255222773980</fax><telephone>+255766877975</telephone><mobile>0766877975</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ENOCK DANIEL GEGA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX14049 ARUSHA</postalAddress><physicalAddress>SANAWARI ARUSHA</physicalAddress><fax>+255222773980</fax><telephone>+255766877975</telephone><mobile>0766877975</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>none</accountName><bankAccount>none</bankAccount><bankName>none</bankName><branchName>none</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>40b49f65bedd092172bad7821373f971</isaacompletechecksum></student>

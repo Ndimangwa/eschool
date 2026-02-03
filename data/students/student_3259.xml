@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3259</studentId>
+  <studentName>kaizali ivo msigwa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>hasanga boys secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3547.0077.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kibaha boys high school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119.0583.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>anathalia justin mgeni</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>3855</postalAddress>
+      <physicalAddress>mbeya</physicalAddress>
+      <fax/>
+      <telephone>0756719411</telephone>
+      <mobile>0756719411</mobile>
+      <email>caesarbeatus@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MSIGWA, KAIZALI IVO</accountName><bankAccount>0152254546500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7ef149f417bd15a312b14250d43df40c</isaacompletechecksum></student>

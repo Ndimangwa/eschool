@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3668</studentId>
+  <studentName>joseph,revocatus</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>St joseph junior seminary(sanu)</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0168/0045/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St joseph junior seminary(sanu)</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0168/0521/2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>abdon hamaro</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>55 mkuu rombo</postalAddress>
+      <physicalAddress>55 mkuu rombo</physicalAddress>
+      <fax/>
+      <sponsorfax>+255757800694</sponsorfax>
+      <mobile>+255757800694</mobile>
+      <email>abdonhamaro@ymail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>abdon hamaro</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>55 mkuu rombo</postalAddress>
+      <physicalAddress>55 mkuu rombo</physicalAddress>
+      <fax/>
+      <telephone>+255757800694</telephone>
+      <mobile>+255757800694</mobile>
+      <email>abdonhamaro@ymail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

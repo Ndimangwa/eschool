@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5215</studentId>
+  <studentName>THERESIA NORBERT MASANJA</studentName>
+  <accademicHistory><institution><institutionName>QUEEN OF FAMILY GIRLS' SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0297.0062.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S1187.0731.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Higher Education Student's Loan board</sponsorName><payerId>2</payerId><postalAddress>P.O Box 76068</postalAddress><physicalAddress>Dar Es salaam</physicalAddress><fax/><telephone>0222772432</telephone><mobile>0222772432</mobile><email>info@heslb.go.tz</email><financedItem>Tuition Fee</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>NORBERT MASANJA</kinName><relationship>FATHER</relationship><postalAddress>P.O Box 595</postalAddress><physicalAddress>Shinyanga</physicalAddress><fax></fax><telephone>0767649289</telephone><mobile>0767649289</mobile><email>masanjanorbert@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>THERESIA NORBERT MASANJA</accountName><bankAccount>0152208192400</bankAccount><bankName>CRDB</bankName><branchName>SHINYANGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1b63e46ac3fcb102cf775fe7894c7cb7</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2867</studentId>
+  <studentName>Frank  Stiphene  Ringo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kimochi secondary  school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2322-0061</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Sengerema  high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0151-0671</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Stiphene Moses Ringo</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>Box 45</postalAddress>
+      <physicalAddress>moshi vijijini</physicalAddress>
+      <fax/>
+      <telephone>00255784248331</telephone>
+      <mobile>00255784248331</mobile>
+      <email>Frankringo21@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

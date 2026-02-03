@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5558</studentId>
+  <studentName>LILIAN.L.LYIMO</studentName>
+  <accademicHistory><institution><institutionName>PALLOTI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0245.0041.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ASHIRA GIRLS SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0201.0737.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LEONARD LYIMO</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 159</postalAddress><physicalAddress>HANANG</physicalAddress><fax/><telephone>0784712080</telephone><mobile>0784712080</mobile><email/><financedItem>EDUCATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>LEONARD WILSON LYIMO</accountName><bankAccount>0152497925500</bankAccount><bankName>NMB</bankName><branchName>KATESH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a374a690a78969a834d8cda37e9423d9</isaacompletechecksum></student>

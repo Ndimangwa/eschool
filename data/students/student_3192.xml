@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3192</studentId>
+  <studentName>EMMA W MARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0485-0022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Majengo High School</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485-0546</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE MEDICAL TRAINING CENTRE-KCMC,MOSHI</institutionName>
+      <specialization>DIPLOMA IN PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>36148</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED RUNGWE</employerName>
+      <postalAddress>148-TUKUYU</postalAddress>
+      <physicalAddress>RUNGWE DISTRICT</physicalAddress>
+      <telephone>002552255171</telephone>
+      <email>tukuyumakandana@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>EMMA WILLIAM MARO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9742-Moshi</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>+255714533493</sponsorfax>
+      <mobile>+255714533493</mobile>
+      <email>maroemma47@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>QUEEN WILIAM MARO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>9742-Moshi</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255784476983</telephone>
+      <mobile>+255784476983</mobile>
+      <email>queenmaro@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

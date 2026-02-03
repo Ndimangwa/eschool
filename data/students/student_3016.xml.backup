@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3016</studentId>
+  <studentName>RASULI HASSANI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CHIDYA SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0105-OO68-2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KWIRO SECONDARY</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0123-0770-2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HASSANI MOHAMMED</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>31</postalAddress>
+      <physicalAddress>MTWARA</physicalAddress>
+      <fax/>
+      <telephone>0782849078</telephone>
+      <mobile>0782849078</mobile>
+      <email>RasuliHassani@Gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

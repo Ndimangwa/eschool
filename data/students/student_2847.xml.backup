@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2847</studentId>
+  <studentName>cuthbert baraka</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>URU SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0165-0005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187-0711</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Student's Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>P.O.BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>sweetbert hekima</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>1623,Moshi</postalAddress>
+      <physicalAddress>1623,Moshi</physicalAddress>
+      <fax/>
+      <telephone>0716278041</telephone>
+      <mobile>0716278041</mobile>
+      <email>hekima2012@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>585</studentId>
+  <studentName>isaack thomas pius</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>mundemu secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0988.0108.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>salesian seminary</institutionName>
+      <specialization>cbg</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0175.0537.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>thomas petro pius</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>4126</postalAddress>
+      <physicalAddress>dodoma</physicalAddress>
+      <fax/>
+      <sponsorfax>0756626163</sponsorfax>
+      <mobile>0756626163</mobile>
+      <email>isaackpius@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>thomas petro pius</kinName>
+      <relationship>father</relationship>
+      <postalAddress>4126</postalAddress>
+      <physicalAddress>dodoma</physicalAddress>
+      <fax/>
+      <telephone>0756626163</telephone>
+      <mobile>0756626163</mobile>
+      <email>isaackpius@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>PIUS, ISAACK THOMAS</accountName><bankAccount>0152447926300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>884cdd9ff69e8adbb5e5a9a5c7a6f14f</isaacompletechecksum></student>

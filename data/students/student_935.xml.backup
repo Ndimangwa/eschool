@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>935</studentId>
+  <studentName>GLORY BRAYSON LEMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DULUTI SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.3646/0007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>VISITATION SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0263/0514</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>DAR-ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669037</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BRAYSON JOSEPH LEMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.Box 7026</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0657305397</telephone>
+      <mobile>0657305397</mobile>
+      <email>brycesonlema@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

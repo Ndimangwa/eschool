@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1442</studentId>
+  <studentName>VICTOR KAMAZIMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RUBYA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0148/0018</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147/0674</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA CLINICAL OFFICERS TRAINING COLLEGE</institutionName>
+      <specialization>CLINICAL OFFICER</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CO/KIB/09/31</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED - KARATU</employerName>
+      <postalAddress>190 KARATU, ARUSHA</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <telephone>00255272534396</telephone>
+      <email>karatucouncil@bushlink.co.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 Dar es Salaam</postalAddress>
+      <physicalAddress>Sam Nujoma Road, Mwenge,</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FAUSTINE KASHAIJA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>95 BUKOBA</postalAddress>
+      <physicalAddress>BUKOBA TOWNSHIP</physicalAddress>
+      <fax/>
+      <telephone>0764087872</telephone>
+      <mobile>0764087872</mobile>
+      <email>kashaijafau@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

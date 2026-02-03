@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1560</studentId>
+  <studentName>julieth lalashowi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Bukoba secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0304/0077</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilakala secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206/0550</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ministry of health and social welfare</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 9083</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222120261</sponsorfax>
+      <mobile>+255222120261</mobile>
+      <email>info@mohsw.gov.lr</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Leticia buberwa</kinName>
+      <relationship>my mother</relationship>
+      <postalAddress>P.O.BOX 284 BUKOBA</postalAddress>
+      <physicalAddress>National housing kashai</physicalAddress>
+      <fax/>
+      <telephone>0687955790</telephone>
+      <mobile>0687955790</mobile>
+      <email>munisijuliette25.jm@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

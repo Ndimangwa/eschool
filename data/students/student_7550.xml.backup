@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7550</studentId>
+  <studentName>daniel elifuraha</studentName>
+  <accademicHistory><institution><institutionName>kcmuco</institutionName><specialization>physiotherapy</specialization><levelId>15</levelId><indexNumber>TUMA/BSc PHYSIO/0248</indexNumber><award>GOOD STUDENT</award><grade>PASS</grade><startYear>2016</startYear><endYear>2020</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f44721157f3df3947a26865aafda94c5</isaacompletechecksum></student>

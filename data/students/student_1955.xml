@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1955</studentId>
+  <studentName>FRANK E SWAI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AGAPE LUTHERAN J SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0184-0051</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AGAPE LUTHERAN J SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S184-0554</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es Salaam.</postalAddress>
+      <physicalAddress>mwenge,Dar es Salaam.</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PEREZ S J SWAI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>65041- dar es salaam</postalAddress>
+      <physicalAddress>dar es salaam-kimara</physicalAddress>
+      <fax/>
+      <telephone>+255754224369</telephone>
+      <mobile>+255754224369</mobile>
+      <email>perezsjtz@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

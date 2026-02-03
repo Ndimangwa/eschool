@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3627</studentId>
+  <studentName>MUSA MWALIMU SUYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>J K NYERERE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1038-0216</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0598</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SAALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MWALIMU MUSA SUYA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1034</postalAddress>
+      <physicalAddress>MOSHI MJINI</physicalAddress>
+      <fax/>
+      <telephone>00255754776464</telephone>
+      <mobile>0754776464</mobile>
+      <email>musasuya@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>947</studentId>
+  <studentName>BADAWIYU MUSTAPHA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KAIGARA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0880.0054.2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>RUBYA SCHOOL OF NURSING</institutionName>
+      <specialization>NURSE MIDWIFE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>0022255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MUSTAPHA KALINJUNA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>MULEBA</postalAddress>
+      <physicalAddress>BUKOBA</physicalAddress>
+      <fax/>
+      <telephone>0757950998</telephone>
+      <mobile>0757950998</mobile>
+      <email>badawiyu.mustapha@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUSTAPHA, BADAWIYU</accountName><bankAccount>0152215802800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4d420d9617700dc6f6ffe1d8404e0582</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1908</studentId>
+  <studentName>HOSIANA J.MO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MSALATO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0214/0043/2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NGANZA HIGH SCHOOL</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0216/0815/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JACOB MO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 244</postalAddress>
+      <physicalAddress>BABATI</physicalAddress>
+      <fax/>
+      <sponsorfax>0756257775</sponsorfax>
+      <mobile>0757865963</mobile>
+      <email>jacobmo@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JACOB MO</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>P.O.BOX 244</postalAddress>
+      <physicalAddress>BABATI</physicalAddress>
+      <fax/>
+      <telephone>0756257775</telephone>
+      <mobile>0757865963</mobile>
+      <email>jacobmo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

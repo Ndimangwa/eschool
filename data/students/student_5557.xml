@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5557</studentId>
+  <studentName>MATILDA .S. SWAI</studentName>
+  <accademicHistory><institution><institutionName>ANWARITE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0269.0030.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2013</endYear></institution><institution><institutionName>ASHIRA GIRLS SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0201.0756.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ESHI JONATHAN MUSHI</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 348</postalAddress><physicalAddress>HIMO</physicalAddress><fax/><telephone>0712519474</telephone><mobile>0655543488</mobile><email/><financedItem>EDUCATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ESHI JONATHAN MUSHI</kinName><relationship>MY MOTHER</relationship><postalAddress>P.O.BOX 348</postalAddress><physicalAddress>HIMO</physicalAddress><fax></fax><telephone>0712519474</telephone><mobile>0655543488</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MATILDA STANLEY SWAI</accountName><bankAccount>0152284772400</bankAccount><bankName>CRDB BANK</bankName><branchName>MARANGU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c54ae8dbb4ae97bc410a538c1210f7b5</isaacompletechecksum></student>

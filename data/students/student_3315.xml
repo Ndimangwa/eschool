@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3315</studentId>
+  <studentName>Joel J Nikupala</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Vwawa Secondar School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0538.0155.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kyela High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0757.0545.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Gideon N Mwakatima</kinName>
+      <relationship>Grandfather</relationship>
+      <postalAddress>443,vwawa,Mbozi</postalAddress>
+      <physicalAddress>Mbeya</physicalAddress>
+      <fax/>
+      <telephone>0754601458</telephone>
+      <mobile>0754601458</mobile>
+      <email>joelnikupala@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NIKUPALA, JOEL J</accountName><bankAccount>0152327992500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>770765ef5baa6d98ad89bbacac191b15</isaacompletechecksum></student>

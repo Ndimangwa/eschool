@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3671</studentId>
+  <studentName>RAMADHANI MOHAMED TEMBA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKOLE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2894/0114/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>EDMUND RICE SINON SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0629/0629/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.o.Box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00222669036</sponsorfax>
+      <mobile>00222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MOHAMED TEMBA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1621</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <telephone>0756257023</telephone>
+      <mobile>0756257023</mobile>
+      <email>temba088@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

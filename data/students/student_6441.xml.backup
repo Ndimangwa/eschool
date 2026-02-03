@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6441</studentId>
+  <studentName>HERRIETH M JANDWA</studentName>
+  <accademicHistory><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization> ARTS AND SCIENCE</specialization><levelId>4</levelId><indexNumber>S0485.0068.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIV 1, PTS 13</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KILAKALA GIRLS SECONDARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0206.0553.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIV. 1 POINTS 9</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.Box 76068 Dar es salaam</postalAddress><physicalAddress>SAM NUJOMA ROAD, MWENGE, DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+225222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>school fees and accommodation</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>HERRIETH MAGESSA JANDWA</accountName><bankAccount>0152326798700</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2e41ff1168b0fc376536476836282204</isaacompletechecksum></student>

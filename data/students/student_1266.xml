@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1266</studentId>
+  <studentName>VITUS KAJERERO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KARAGWE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0387/0095</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485/1166</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DAFROSA KAJERERO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 779 BUKOBA</postalAddress>
+      <physicalAddress>BUKOBA KAGERA</physicalAddress>
+      <fax/>
+      <telephone>00255755525090</telephone>
+      <mobile>00255755525090</mobile>
+      <email>dafrosakajerero@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

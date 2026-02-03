@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>372</studentId>
+  <studentName>YOHANA NAYAI MWANDA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BAGAMOYO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0351.0125.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>USAGARA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345.0656.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NAYAI MWANDA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 1396</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>0686485253</sponsorfax>
+      <mobile>0686485253</mobile>
+      <email>nayaimwanda@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NAYAI MWANDA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>p.o.box 1396</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <telephone>0686485253</telephone>
+      <mobile>0686485253</mobile>
+      <email>nayaimwanda@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MWANDA, YOHANA NAYAI</accountName><bankAccount>0152324439100</bankAccount><bankName> CRDB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6f04be90f26be2be5499eb4ccdc33a30</isaacompletechecksum></student>

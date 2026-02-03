@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1379</studentId>
+  <studentName>ABRAHAM  A  SWAGARYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MOREMBE DAY SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0849-OO69</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LYAMUNGO SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125-0667</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DAR</postalAddress>
+      <physicalAddress>P.O.BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GODBLESS  SWAGARYA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O.BOX 2774 DAR</postalAddress>
+      <physicalAddress>P.O. BOX 2774 DAR</physicalAddress>
+      <fax/>
+      <telephone>0754421292</telephone>
+      <mobile>0754421292</mobile>
+      <email>godaston002@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

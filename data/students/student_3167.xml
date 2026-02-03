@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3167</studentId>
+  <studentName>SENKONDO STEPHEN MBWAMBO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>manyara secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s06930048</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mazengo secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0131 0579</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCO</institutionName>
+      <specialization>MEDICAL DOCTER</specialization>
+      <levelId>15</levelId>
+      <indexNumber>0486</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>mt meru hospital</employerName>
+      <postalAddress>3092</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <telephone>00255716032738</telephone>
+      <email>mtmeru@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>senkondo stephen mbwambo</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3092</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>00255716032738</sponsorfax>
+      <mobile>0025516032738</mobile>
+      <email>ffsenk28@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>leticia mdaki</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>27</postalAddress>
+      <physicalAddress>kilimanjaro hai</physicalAddress>
+      <fax/>
+      <telephone>00255715748623</telephone>
+      <mobile>00255715748623</mobile>
+      <email>mdaki5@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

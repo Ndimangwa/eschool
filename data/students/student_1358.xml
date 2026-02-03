@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1358</studentId>
+  <studentName>Gloria Roman Lyimo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Visitation Girls' Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0263-0032</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilakala Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206-0530</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>P.O.Box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ROMAN LYIMO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>76021</postalAddress>
+      <physicalAddress>76021</physicalAddress>
+      <fax/>
+      <telephone>0755485252</telephone>
+      <mobile>0713850655</mobile>
+      <email>romanemma@live.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

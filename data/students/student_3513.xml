@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3513</studentId>
+  <studentName>SIRILA VALERIAN MREMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>st francis of asis</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>sirila valerian mrema</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ifakara high school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0370-0622</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Ifakara high school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0370-0622</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>valerian mablangeti mrema</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box1501</postalAddress>
+      <physicalAddress>dodoma</physicalAddress>
+      <fax/>
+      <sponsorfax>0754299963</sponsorfax>
+      <mobile>0754299963</mobile>
+      <email>cirilavmrema@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>valerian mablangeti mrema</kinName>
+      <relationship>father</relationship>
+      <postalAddress>p.o box1501</postalAddress>
+      <physicalAddress>dodoma</physicalAddress>
+      <fax/>
+      <telephone>0754299963</telephone>
+      <mobile>0754299963</mobile>
+      <email>cirilavmrema@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

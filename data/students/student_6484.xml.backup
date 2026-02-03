@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6484</studentId>
+  <studentName>KENNETH JOSEPH MLAY</studentName>
+  <accademicHistory><institution><institutionName>AGAPE LUTHERAN JUNIOR SEMINARY</institutionName><specialization>CSE</specialization><levelId>4</levelId><indexNumber>S0184.0044.2003</indexNumber><award>CSEE</award><grade>PASS</grade><startYear>2000</startYear><endYear>2003</endYear></institution><institution><institutionName>LUTHERAN JUNIOR SEMINARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0107.0573.2006</indexNumber><award>ACSE</award><grade>PASS</grade><startYear>2003</startYear><endYear>2006</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>K0444</indexNumber><award>DEGREE OF DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>2006</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH AND SOCIAL SERVICES </sponsorName><payerId>10</payerId><postalAddress>BOX 9083</postalAddress><physicalAddress>BOX 9083</physicalAddress><fax>+255222124500</fax><telephone>+255222124500</telephone><mobile>+255222124500</mobile><email>moh@yahoo.com</email><financedItem>FEES, RESEARCH</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>KENNETH JOSEPH MLAY</accountName><bankAccount>40301613900</bankAccount><bankName>NMB</bankName><branchName>MONDULI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>282ed66af3de0c1f4ce42445a174a213</isaacompletechecksum></student>

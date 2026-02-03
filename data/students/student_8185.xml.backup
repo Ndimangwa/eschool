@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8185</studentId>
+  <studentName>ESTOMIC J OFUNGUO</studentName>
+  <accademicHistory><institution><institutionName>KOLILA SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber> S0322.0044.2000</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>1997</startYear><endYear>2000</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>K0264</indexNumber><award>DOCTOR OF MEDICINE DEGREE</award><grade>PASS</grade><startYear>2004</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Ministry Of Health And Social Welfare</sponsorName><payerId>11</payerId><postalAddress>MoH</postalAddress><physicalAddress>P.O.Box 8901</physicalAddress><fax/><telephone/><mobile/><email/><financedItem>College Fee</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>My ACC</accountName><bankAccount>0000000000000</bankAccount><bankName>My ACC</bankName><branchName>Nelson</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fe2955f4c85cca08fd7c06be11757028</isaacompletechecksum></student>

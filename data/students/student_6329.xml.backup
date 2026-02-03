@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6329</studentId>
+  <studentName>HOSIANA PHILEMON SOMI</studentName>
+  <accademicHistory><institution><institutionName>DARAJANI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1075.0028.2013</indexNumber><award>CERTFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DUNCAN PHILEMON SOMI</sponsorName><payerId>4</payerId><postalAddress>P.O.BOX 21</postalAddress><physicalAddress>MARANGU</physicalAddress><fax/><telephone/><mobile>0762128278</mobile><email>duncansomi@yahoo.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PHILEMON SOMI</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 21</postalAddress><physicalAddress>MARANGU</physicalAddress><fax/><telephone>0763313124</telephone><mobile>0763313124</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>XXXX</accountName><bankAccount>XXXX</bankAccount><bankName>XXXX</bankName><branchName>XXXX</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d46e1bd9f6ddb0b2e7780e38bf264633</isaacompletechecksum></student>

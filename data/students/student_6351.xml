@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6351</studentId>
+  <studentName>SAFINA KADEGHE HASSANI</studentName>
+  <accademicHistory><institution><institutionName>MSANGENI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0787.0074.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATIO</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SONGEA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0029.0852.2016</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL EDUCATION</award><grade>DIVISION 3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>40f244932fbc31163c5853d8fce3d143</isaacompletechecksum></student>

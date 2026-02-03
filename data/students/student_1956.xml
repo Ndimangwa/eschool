@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1956</studentId>
+  <studentName>JORDAN DANIEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0107/0030</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MBEZI HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1278/0592</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PAUL G MTAE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>23721</postalAddress>
+      <physicalAddress>23721DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0784369008</sponsorfax>
+      <mobile>0754369008</mobile>
+      <email>paulmtae@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PAUL G MTAE</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>23721</postalAddress>
+      <physicalAddress>23721DSM</physicalAddress>
+      <fax/>
+      <telephone>0784369008</telephone>
+      <mobile>0754369008</mobile>
+      <email>paulmtae@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6464</studentId>
+  <studentName>ELYGIN E TIMBA</studentName>
+  <accademicHistory><institution><institutionName>MOSHI TECHNICAL SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0135.0074.2013</indexNumber><award>Certificate of secondary education</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TANGA TECHNICAL SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0156.0522.2016</indexNumber><award>Advanced certificate of secondary education</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>tution fees ,meals &amp;accomodation</financedItem><extraInformation>p.o.box 76068 dar es salaam,sam nujoma</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GLORY MAKEMA</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 1317 ARUSHA</postalAddress><physicalAddress>P.O.BOX 1317 ARUSHA</physicalAddress><fax></fax><telephone>0765480723</telephone><mobile>0765480723</mobile><email></email><extraInformation>P.O BOX 1317 ARUSHA</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>elygin timba</accountName><bankAccount>40810039302</bankAccount><bankName>NMB BANK</bankName><branchName>CLOCK TOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>90da82316247ec37a5038dec78af4ca8</isaacompletechecksum></student>

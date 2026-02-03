@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3809</studentId>
+  <studentName>MARIO J NTABAGI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ITAGA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0111.0032.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SONGEA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0153.0691.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P O BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>00222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALPHONSINA NZAMWITA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P 0 BOX 474</postalAddress>
+      <physicalAddress>NSEMULWA MPANDA</physicalAddress>
+      <fax/>
+      <telephone>+255767959411</telephone>
+      <mobile>0767959411</mobile>
+      <email>Alphonsinauwela@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NTABAGI, MARIO J</accountName><bankAccount>0152430130600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8dc30734de01d5f2b074c45e154d5aca</isaacompletechecksum></student>

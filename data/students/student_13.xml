@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>13</studentId>
+  <studentName>Innocent B. Mboya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Wazalendo Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S 1006-0038</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Bagamoyo Sec. School</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S 0351/00659</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUCCoBS</institutionName>
+      <specialization>Community Economic Development</specialization>
+      <levelId>15</levelId>
+      <indexNumber>FCCD/BA-CED/116/2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KCMU College</employerName>
+      <postalAddress>2240</postalAddress>
+      <physicalAddress>Moshi - Tanzania</physicalAddress>
+      <telephone>+2550272754377</telephone>
+      <email>PSEC@kcmucollege.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>THRiVE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>7072</postalAddress>
+      <physicalAddress>Kampala - Uganda</physicalAddress>
+      <fax/>
+      <sponsorfax>+256414530021</sponsorfax>
+      <mobile>+256414530021</mobile>
+      <email>info@thrive.or.ug</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Rev. Joel Senny</kinName>
+      <relationship>Mentor &amp; Pastor</relationship>
+      <postalAddress>15122</postalAddress>
+      <physicalAddress>Arusha - Tanzania</physicalAddress>
+      <fax/>
+      <telephone>+255754479867</telephone>
+      <mobile>+255754479867</mobile>
+      <email>viziersprotocol@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

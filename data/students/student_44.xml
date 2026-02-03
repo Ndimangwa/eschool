@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>44</studentId>
+  <studentName>Rehema Tenga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Weruweru Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0221-0138</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCM-College</institutionName>
+      <specialization>Diploma in health laboratory sciences</specialization>
+      <levelId>8</levelId>
+      <indexNumber>K0021</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS-Kilimanjaro</employerName>
+      <postalAddress>3070</postalAddress>
+      <physicalAddress>Kilimanjaro Region</physicalAddress>
+      <telephone>+225027542367</telephone>
+      <email>raskilimanjaro@pmorajg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mosses Alpha Tenga</kinName>
+      <relationship>My brother</relationship>
+      <postalAddress>27</postalAddress>
+      <physicalAddress>Mafinga</physicalAddress>
+      <fax/>
+      <telephone>+255718890807</telephone>
+      <mobile>+255762358295</mobile>
+      <email>moatalpha@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

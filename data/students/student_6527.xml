@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6527</studentId>
+  <studentName>JOYCE GASPER KWEKA</studentName>
+  <accademicHistory><institution><institutionName>MJIMPYA SECONDARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2257.0065.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0485.0617.2016</indexNumber><award>ACSE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JANE G KWEKA</kinName><relationship>SISTER</relationship><postalAddress>ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>0752858061</telephone><mobile>0752858061</mobile><email>janegaspery@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JOYCE GASPER KWEKA</accountName><bankAccount>0152326985700</bankAccount><bankName>CRDB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>80c048a9b49f9898f39a1cd47741749c</isaacompletechecksum></student>

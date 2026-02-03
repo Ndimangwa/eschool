@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5667</studentId>
+  <studentName>CHARLES EMMANUEL NGOWI</studentName>
+  <accademicHistory><institution><institutionName>UYOLE SECONDARY SCHOOL</institutionName><specialization>ORDINARY LEVEL</specialization><levelId>4</levelId><indexNumber>S1204.0131.2013</indexNumber><award>CERTIFFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,DAR ES SALAAM</postalAddress><physicalAddress>P.O.BOX 76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+2552552772433</mobile><email>info@heslb.go.tz</email><financedItem>EDUCATION LOAN</financedItem><extraInformation>WWW.HESLB.GO.TZ</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>CHARLES EMMANUEL NGOWI</accountName><bankAccount>0152577271700</bankAccount><bankName>CRDB</bankName><branchName>MBEYA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1173e1ee41e44878bddc53253f7f2b01</isaacompletechecksum></student>

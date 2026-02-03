@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1318</studentId>
+  <studentName>RAMADHANI NIA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBASILA HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0316-0262</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNUNIO BOYS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0582-0535</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CLINICAL OFFICERS TRAINING COLLEGE MTWARA</institutionName>
+      <specialization>CLINICAL OFFICER</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CO/MTWR/09/28</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED- NACHINGWEA</employerName>
+      <postalAddress>P.O.BOX 291</postalAddress>
+      <physicalAddress>NACHINGWEA</physicalAddress>
+      <telephone>00255732933112</telephone>
+      <email>nachingweaded@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068</postalAddress>
+      <physicalAddress>Mwenge Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MKOLA ABDALLAH KISESA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 30- NACHINGWEA</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>00255714899832</telephone>
+      <mobile>0714899832</mobile>
+      <email>rams201283@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

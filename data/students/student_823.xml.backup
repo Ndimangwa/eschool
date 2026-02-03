@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>823</studentId>
+  <studentName>TABITHA SIMON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SONGEA GIRLS</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0219-0179</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WERUWERU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0123-0134</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GOOD SAMARITAN FOUNDATION</employerName>
+      <postalAddress>3010KCMC</postalAddress>
+      <physicalAddress>3010KCMC</physicalAddress>
+      <telephone>002552754377</telephone>
+      <email>inf@kcmuco.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00025567890</sponsorfax>
+      <mobile>0654367897</mobile>
+      <email>helbs@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EMMANUEL URONU</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>30092KIBAHA</postalAddress>
+      <physicalAddress>30092KIBAHA</physicalAddress>
+      <fax/>
+      <telephone>00255541952</telephone>
+      <mobile>0754711952</mobile>
+      <email>emmus@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

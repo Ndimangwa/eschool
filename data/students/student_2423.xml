@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2423</studentId>
+  <studentName>Aniseth Malenga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Hai day</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P1288/0073</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Muhimbili University College of Health Sciences</institutionName>
+      <specialization>Diploma in Medical Laboratory Sciences</specialization>
+      <levelId>8</levelId>
+      <indexNumber>45447/DMLS/T.2003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Moshi Co-Oparative University</employerName>
+      <postalAddress>474 Moshi</postalAddress>
+      <physicalAddress>Sokoine Road</physicalAddress>
+      <telephone>+255272751833</telephone>
+      <email>info@mocu.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es salaam</postalAddress>
+      <physicalAddress>Plot no 8,Block no 465 Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772433</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mary Baraka Shinga</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>474 Moshi</postalAddress>
+      <physicalAddress>Ushirika</physicalAddress>
+      <fax/>
+      <telephone>0759515295</telephone>
+      <mobile>0759515295</mobile>
+      <email>marybaraka12@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

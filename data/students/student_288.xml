@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>288</studentId>
+  <studentName>MASEKE RICHARD MGABO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO129/077</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UMBWE SECONDARY SCHOOL</institutionName>
+      <specialization>ECA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO160/0535</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF DAR ES SALAAM</institutionName>
+      <specialization>BACHELOR OF ARTS</specialization>
+      <levelId>15</levelId>
+      <indexNumber>18788/T.96</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAKERERE UNIVERSITY</institutionName>
+      <specialization>MASTER OF ARTS IN SOCIOLOGY</specialization>
+      <levelId>17</levelId>
+      <indexNumber>2005/HD/14/3649T</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>INSTITUTE OF RURAL DEVELOPMENT PLANNING</employerName>
+      <postalAddress>138</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <telephone>+255262302147</telephone>
+      <email>rector@irdp.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>INSTITUTE OF RURAL DEVELOPMENT PLANNING</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>138</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255262302147</sponsorfax>
+      <mobile>+255262302147</mobile>
+      <email>rector@irdp.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SARAH MASEKE MGABO</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>2211</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <telephone>+255262302147</telephone>
+      <mobile>+255262302147</mobile>
+      <email>sarahmsalya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

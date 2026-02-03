@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5339</studentId>
+  <studentName>JUMANNE CHARLES</studentName>
+  <accademicHistory><institution><institutionName>BUGARAMA SECONDARY SCHOOL</institutionName><specialization>SECONDARY SCHOOL CERTIFICATE</specialization><levelId>4</levelId><indexNumber>S1885.0067.2013</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>NSUMBA SECONDARY SCHOOL</institutionName><specialization>ADVANCED LEVEL</specialization><levelId>8</levelId><indexNumber>S0144.0646.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0255222700286</fax><telephone>0255222772432</telephone><mobile>0222772432</mobile><email>info@heslb.go.tz</email><financedItem>school fees and meals and accommodation</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MPELWA BUGOLOLOKA</kinName><relationship>GRAND FATHER</relationship><postalAddress>P.O.BOX 1019</postalAddress><physicalAddress>BUGARAMA KAHAMA</physicalAddress><fax></fax><telephone>0762631322</telephone><mobile>0762631322</mobile><email></email><extraInformation>PEASANT</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JUMANNE CHARLES</accountName><bankAccount>0152431615900</bankAccount><bankName>CRDB</bankName><branchName>MWANZA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>20da355d9726b6bc9080224f0971b6b6</isaacompletechecksum></student>

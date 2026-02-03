@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1669</studentId>
+  <studentName>Aneth Odemary Lyamuya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Nyerere secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0614-0001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Ifunda girls high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0276/0646</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>002552669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Odemary Lyamuya</kinName>
+      <relationship>father</relationship>
+      <postalAddress>2240</postalAddress>
+      <physicalAddress>Kilimanjaro</physicalAddress>
+      <fax/>
+      <telephone>0752110262</telephone>
+      <mobile>0752110262</mobile>
+      <email>anethlyamuya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

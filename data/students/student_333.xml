@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>333</studentId>
+  <studentName>Salimba Bulunja</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mhande secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s2323-0066</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kaliua secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0936-0635</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kaliua secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0936-0635</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.o Box 76068 Dar</postalAddress>
+      <physicalAddress>Sam Nujoma Road Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Bulunja Luponya Jihelya</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.o box 88</postalAddress>
+      <physicalAddress>Ngudu Kwimba</physicalAddress>
+      <fax/>
+      <telephone>0788297937</telephone>
+      <mobile>00255788297937</mobile>
+      <email>Salimba.bulunja@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5152</studentId>
+  <studentName>Yusuph Mohamed</studentName>
+  <accademicHistory><institution><institutionName>SUMAYE SECONDARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1337.0188.2010</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1838a4ed4dfa1eeefea67dafd2b7aace</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7435</studentId>
+  <studentName>JOSEPH GODWIN MASSERA</studentName>
+  <accademicHistory><institution><institutionName>ECKERNFORDE CAMBRIDGE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2210.0025.2014</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>MERIT</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>MACECHU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S2278.0569.2017</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION EXAMINATION</award><grade>DIVISION 3</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>WILSON LUCAS</sponsorName><payerId>7</payerId><postalAddress>P.O.Box8551,NAMANGA</postalAddress><physicalAddress>KCMC</physicalAddress><fax/><telephone>0653393053</telephone><mobile>0653393053</mobile><email>wilsonmsangi@yahoo.com</email><financedItem>Tution fee</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>WILSON LUCAS</kinName><relationship>BROTHER</relationship><postalAddress>P.O.Box8551,NAMANGA</postalAddress><physicalAddress>KCMC</physicalAddress><fax></fax><telephone>0653393053</telephone><mobile>0653393053</mobile><email>wilsonmsangi@yahoo.com</email><extraInformation>none</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>upendo godwin masera</accountName><bankAccount>4177900008</bankAccount><bankName>NMB</bankName><branchName>MADARAKA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b2f2654bfb5c0f0891d7701dfa69fbc8</isaacompletechecksum></student>

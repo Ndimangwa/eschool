@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6114</studentId>
+  <studentName>SAMWEL ANDREA</studentName>
+  <accademicHistory><institution><institutionName>MKAALIE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3924.0036.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TANGA TECH SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0156.0574.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>STANLEY A NGODA</sponsorName><payerId>7</payerId><postalAddress>P.O BOX 75 BUMBULI</postalAddress><physicalAddress>BUMBULI</physicalAddress><fax/><telephone>0715149243</telephone><mobile>0672195971</mobile><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SAMWEL ANDREW</accountName><bankAccount>0152386799400</bankAccount><bankName>CRDB</bankName><branchName>TANGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>efa81713ed037119c21747394baef9d5</isaacompletechecksum></student>

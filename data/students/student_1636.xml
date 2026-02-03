@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1636</studentId>
+  <studentName>JONAS.I.MATULA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LEMARA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>1485-0150</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0135-0612</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JOSEPH.I.MATULA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>16567</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255787556005</sponsorfax>
+      <mobile>+255787556005</mobile>
+      <email>matulajoseph@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH I MATULA</kinName>
+      <relationship>RELATIVE</relationship>
+      <postalAddress>16567</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>+255787556005</telephone>
+      <mobile>+255787556005</mobile>
+      <email>matulajoseph@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

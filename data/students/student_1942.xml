@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1942</studentId>
+  <studentName>Irene Lisa Mwaipopo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Legae Academy</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>BW211/0820</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Legae Academy</institutionName>
+      <specialization>PCBM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>BW211/0986</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO Box  76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Obby Donald Moffat Mwaipopo</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>10024 Ramotswa Botswana</postalAddress>
+      <physicalAddress>Block 8 Gaborone Botswana</physicalAddress>
+      <fax/>
+      <telephone>002675380090</telephone>
+      <mobile>0026771675336</mobile>
+      <email>donmwaipopo@it.bw</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

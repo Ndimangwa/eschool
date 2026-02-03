@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3102</studentId>
+  <studentName>MOHAMEDI KATUNI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BAGAMOYO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0351.0099.2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NDANDA HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0338.0750.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED TUNDURU</employerName>
+      <postalAddress>POBOX 44 TUNDURU</postalAddress>
+      <physicalAddress>TUNDURU</physicalAddress>
+      <telephone>0252680004</telephone>
+      <email>dedtunduru@ruvuma.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AZIZI SALUM</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>POBOX 66 KARATU</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <fax/>
+      <telephone>0769026495</telephone>
+      <mobile>0769026495</mobile>
+      <email>aziz@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KATUNI, MOHAMEDI</accountName><bankAccount>0152326674700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2ac2d75755b9a7a2d4da8e6314b4bc93</isaacompletechecksum></student>

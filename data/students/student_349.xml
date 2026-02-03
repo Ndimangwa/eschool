@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>349</studentId>
+  <studentName>didace lufega</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kanawa secondary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0518/0009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>none</institutionName>
+      <specialization>none</specialization>
+      <levelId>8</levelId>
+      <indexNumber>none</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>didace lufega</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>ruangwa hospital,box 49</postalAddress>
+      <physicalAddress>ruangwa hospital,box 49</physicalAddress>
+      <fax/>
+      <sponsorfax>0757607729</sponsorfax>
+      <mobile>0757607729</mobile>
+      <email>didacelufega@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>aloyce iswalala</kinName>
+      <relationship>father</relationship>
+      <postalAddress>ngudu hospital,box 64</postalAddress>
+      <physicalAddress>ngudu hospital,box 64</physicalAddress>
+      <fax/>
+      <telephone>0757554287</telephone>
+      <mobile>0757554287</mobile>
+      <email>juliuspagu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

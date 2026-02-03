@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1098</studentId>
+  <studentName>PENDO PAUL SARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. FRANCIS GIRLS' SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0239/0067</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIFUNGILO GIRLS' SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0224/0541</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222700286</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SORANKIRA PAUL SARO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 1117</postalAddress>
+      <physicalAddress>IRINGA</physicalAddress>
+      <fax/>
+      <telephone>0754533857</telephone>
+      <mobile>0754533857</mobile>
+      <email>kanarich@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,33 @@
+ApprovalSequenceAlgorithm
+
+INITIATE--PART 
+//The Before Action and After Action has to be put in the report page, a page where the actual action is taking place
+//Before Action
+1. schemaId = getSchemasForThisOperation	{
+	-- This user is approvedTo
+	-- while checking keep a track of the firstSchema with no Strong approve 
+	-- if we did not find such a schema return the firstSchem with no Strong approve
+}
+2. if (is_null(schemaId))	{ 
+	return false
+}
+3. dataId = getApprovaDataFromSchemaAndLogin	{
+	if (record Is Found) return that id 
+	else {
+		//Create a New record   
+		-- getTheFirstJob which will approve , if not defined null assign
+		-- recordTime 
+		-- prepareInsertQuery 
+			--- if (getTheFirstJob)	{
+				write.query with nextJobToApprove
+			} else {
+				write.query without nextJobToApprove
+			}
+		-- return this newId 
+	}
+}
+4. data1 = new ApprovalSequenceData(dataId)
+5. if (is_null(data1.nextJobToApprove) && schema1->isNotStrongApprove) return true; //
+6. return data1.isCompleteApprove 
+//After Action 
+data1->commitDelete();

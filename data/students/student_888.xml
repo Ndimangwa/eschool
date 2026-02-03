@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>888</studentId>
+  <studentName>DHAHIRI  MNZAVA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Galalos Sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0142/0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lugoba Sec school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0549/0580</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ASHA DHAHIRI KIVAJU</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>311</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>0758970858</sponsorfax>
+      <mobile>0758970858</mobile>
+      <email>ashakivaju@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ASHA  DHAHIRI  KIVAJU</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>311</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>0758970858</telephone>
+      <mobile>0758970858</mobile>
+      <email>ashakivaju@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>456</studentId>
+  <studentName>RABSON BAGOKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0107-0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MZUMBE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0140-0557</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHIMBILI UNIVERSITY</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>41797/T.2003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ELCT KARAGWE DIOCESE</employerName>
+      <postalAddress>07 KARAGWE</postalAddress>
+      <physicalAddress>KARAGWE-KAGERA</physicalAddress>
+      <telephone>0784893414</telephone>
+      <email>main-nyakahanga@kad.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH AND SOCIAL WELFARE-TANZANIA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>11478 dar es salaam</postalAddress>
+      <physicalAddress>dar es salaam-tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222120261</sponsorfax>
+      <mobile>+255222120261</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NOELA N BWANA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>110 KARAGWE</postalAddress>
+      <physicalAddress>KARAGWE-KAGERA</physicalAddress>
+      <fax/>
+      <telephone>0766279491</telephone>
+      <mobile>0686215090</mobile>
+      <email>rabmode@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,57 @@
+seq_number,message_type, source_addr, dest_addr, action 
+
+seq_number [multiple of 10]
+source_addr [loginId, jobId, groupId or 0] -- zero means match all 
+dest_addr [loginId, jobId, groupId, or 0] -- zero means match all 
+message_type [message_type_id or 0] -- zero means match all 
+
+/*
+Algorithm -- Data Structure
+IN: loginId, message_type_id /* Data Structure is withreference to source loginId and message_type_id */
+1. Load user loginId, jobId, and all groups, or 0 from current group to root 
+2. Load all rules whose source_addr matches the number one above and message_type_id is the current operation [email, sms or local] or 0
+	preserve the sequence 
+	//Assume now is send_email operation
+	$rules[$i][0] = id or 0 /* If mesage_type_id was group so this will be groupId or 0 [Means all groups]*/
+	$rules[$i][1] = action [1/0] -- 1 for Accept & 0 for Reject
+
+Algorithm 
+/*
+Operation is according to destination
+*/ 
+//Data Structure rules AND dest_addr  [dest_addr comes from destinations you have selected, one by one, i.e groupId]
+//
+IN: dest_addr [ie group_id]
+//Default Reject //Implicit deny 
+1. accept_rule = false
+2. foreach ($rules as $arule1)	{
+		$__id = $arule1[0]
+		$__action = $arule1[0]
+		if($__id == dest_addr OR $__id == 0)	{
+			//decision point is reached 
+			accept_rule = true
+			break
+		} 
+   }
+3. return accept_rule
+
+//Objects to write 
+class: MessageAccessList ($database, filename, $conn)
+	internal data structure looks like this 
+	ds[i][0] = seq_number 
+	ds[i][1] = message_type 
+	ds[i][2] = source_addr 
+	ds[i][3] = dest_addr
+	ds[i][4] = action 
+	--addRule(seq_number, message_type, source_addr, dest_addr, action)
+	--removeRule(seq_number) 
+	--saveRules()	-- write back the datastructre to the file 
+	--loadMyRules(loginId, message_type)	//return this Object with saveRules.disabled
+	--isAccepted(dest_addr)
+	
+
+--
+10,1,2,17,19 //If Id is zero meaning all 
+
+The do course synchronization, use one more bit on profile enable auto_synchronization [Add/Edit] or not 
+Then ; Admission, once you admit a student you need to reallocate to his/her respective place 

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5545</studentId>
+  <studentName>ESTHER MBEWA</studentName>
+  <accademicHistory><institution><institutionName>SIKONGE SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0512.0003.2007</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL EDUCATION</award><grade>DIVISION FOUR</grade><startYear>2004</startYear><endYear>2007</endYear></institution><institution><institutionName>MWAMBANI SCHOOL OF NURSING</institutionName><specialization>NURSING</specialization><levelId>12</levelId><indexNumber>38596</indexNumber><award>DIPLOMA IN NURSING</award><grade>PASSED</grade><startYear>2014</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SAALAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0222700286</fax><telephone>0222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>EDUCATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BENSON MNYANYI</kinName><relationship>HUSBAND</relationship><postalAddress>P.O.BOX.446 SONGEA</postalAddress><physicalAddress>SONGEA</physicalAddress><fax></fax><telephone>0754494494</telephone><mobile>0754494494</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ESTHER H MBEWA</accountName><bankAccount>51201602853</bankAccount><bankName>NMB</bankName><branchName>SIKONGE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d1ff01feecdeae8ffeaea6e5afc962f7</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3108</studentId>
+  <studentName>MARK GODGAVE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KAHAMA MUSLIM SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1333/0133</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MWENGE OPEN ACADEMY SECONDARY SCHOOL</institutionName>
+      <specialization>HGE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0773/0568</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>hIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068  Dar es Salaam</postalAddress>
+      <physicalAddress>76068 Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MAGO</kinName>
+      <relationship>MARTHA CHAGULA</relationship>
+      <postalAddress>1348 MUSOMA</postalAddress>
+      <physicalAddress>1348 MUSOMA</physicalAddress>
+      <fax/>
+      <telephone>0752100294</telephone>
+      <mobile>0752100294</mobile>
+      <email>mchagula@nhif.or.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

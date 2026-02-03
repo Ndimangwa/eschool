@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>285</studentId>
+  <studentName>DONALD D TEMU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. JOSEPH MILLENIUM SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3674.0049.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. JOSEPHS CATHEDRAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4692.0598.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>SAM NUJOMA ROAD, MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DAUSEN EDWIN TEMU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>71981 DAR ES SALAAM</postalAddress>
+      <physicalAddress>NYAISHOZI,TEGETA</physicalAddress>
+      <fax/>
+      <telephone>0756699429</telephone>
+      <mobile>0784934534</mobile>
+      <email>dtemu@holtanbuilders.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>TEMU,  DONALD  D</accountName><bankAccount>0152293473500</bankAccount><bankName> CRDB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c33d21cfb15222195175a056541203a5</isaacompletechecksum></student>

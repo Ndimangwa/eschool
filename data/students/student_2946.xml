@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2946</studentId>
+  <studentName>DAUDI JONES WAPALILA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIDUGALA LUTHERAN SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0167-0020</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0107-0537</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/MD/0235</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MUHIMBILI NATIONAL HOSPITAL</employerName>
+      <postalAddress>P.O.Box 65000</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>0222151367</telephone>
+      <email>info@mnh.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 9083</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>02223420001</sponsorfax>
+      <mobile>02223420001</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JUBILATE STEPHEN MSANGI</kinName>
+      <relationship>SPOUSE</relationship>
+      <postalAddress>P.O.Box 5081</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>0714142820</telephone>
+      <mobile>0714142820</mobile>
+      <email>jubilatemsangi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

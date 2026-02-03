@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5883</studentId>
+  <studentName>Advanced certificate of secondary education</studentName>
+  <accademicHistory><institution><institutionName>NYASAKA ISLAMIC SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1665.0021.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KANYIGO SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0473.0504.2016</indexNumber><award>Advanced Certificate of Secondary Education</award><grade>DIVISION TWO`</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM </physicalAddress><fax>+225222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation>none</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>YAHYA SAID</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 983 BUKOBA</postalAddress><physicalAddress>BUKOBA</physicalAddress><fax></fax><telephone>0754754986</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FAUDHIA YAHYA SAID</accountName><bankAccount>0152201534600</bankAccount><bankName>CRDB</bankName><branchName>MBUYUNI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2a57e33d2729101934582dd560504bd9</isaacompletechecksum></student>

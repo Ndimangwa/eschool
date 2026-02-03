@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7539</studentId>
+  <studentName>ABDUL  J MBEGU</studentName>
+  <accademicHistory><institution><institutionName>TEMEKE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1722.0088.2014</indexNumber><award>DIVISION TWO</award><grade>3.4</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a5379f8be99e606bf5d4fc71bb8b8503</isaacompletechecksum></student>

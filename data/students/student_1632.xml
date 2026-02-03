@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1632</studentId>
+  <studentName>JAMES J. JAMES</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ARUSHA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0302/0276/2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110/0619/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>MSASANI, DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARY BERNARD IKHALA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>1162</postalAddress>
+      <physicalAddress>NJIRO RUSHA TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>0754592818</telephone>
+      <mobile>0754592818</mobile>
+      <email>mary_ikhala@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

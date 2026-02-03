@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5672</studentId>
+  <studentName>LEAH JOHN DUTTU</studentName>
+  <accademicHistory><institution><institutionName>QUEEN OF FAMILY GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0297.0041.2013</indexNumber><award>CSEE</award><grade>DIVISION 1.12</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>SCIENCE [PCB]</specialization><levelId>8</levelId><indexNumber>S0206.0581.2016</indexNumber><award>ACSEE</award><grade>DIVISION 1.7</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOHN DUTTU</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 05, KAHAMA,SHINYANGA</postalAddress><physicalAddress>P.O BOX 05, KAHAMA, SHINYANGA</physicalAddress><fax></fax><telephone>+255754397615</telephone><mobile>+255754616624</mobile><email>johnduttu@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>LEAH JOHN DUTTU</accountName><bankAccount>0152224875800</bankAccount><bankName>CRDB</bankName><branchName>KAHAMA TOWN</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ed12d8edc84587533f049bfaef1d5eae</isaacompletechecksum></student>

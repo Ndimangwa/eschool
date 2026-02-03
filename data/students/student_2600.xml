@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2600</studentId>
+  <studentName>Bwanali Haji jereni</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Nsanje Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>003782</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Chancellor College</institutionName>
+      <specialization>high school</specialization>
+      <levelId>8</levelId>
+      <indexNumber>1571</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>University of Malawi</institutionName>
+      <specialization>MBBS</specialization>
+      <levelId>15</levelId>
+      <indexNumber>1571</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Ministry of Health Malawi</employerName>
+      <postalAddress>Box 30377</postalAddress>
+      <physicalAddress>Lilongwe 3, Malawi</physicalAddress>
+      <telephone>00171789400</telephone>
+      <email>moh@malawi.co.mw</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ministry of health</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 30377</postalAddress>
+      <physicalAddress>Lilongwe 3, Malawi</physicalAddress>
+      <fax/>
+      <sponsorfax>00171789400</sponsorfax>
+      <mobile>00999938555</mobile>
+      <email>moh@malawi.co.mw</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Martha Jereni</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>Box 414</postalAddress>
+      <physicalAddress>Chichiri</physicalAddress>
+      <fax/>
+      <telephone>00888366433</telephone>
+      <mobile>0088366433</mobile>
+      <email>marthajereni@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>386</studentId>
+  <studentName>FLORENCE SOLOMON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IKIZU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0313-0007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MWENGE SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0334/0515</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>57263/DN/T.2005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ARUSHA CITY EXECUTIVE DIRECTOR</employerName>
+      <postalAddress>3013 ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <telephone>002552544330</telephone>
+      <email>arushamunico@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>FLORENCE SOLOMON</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>13559 ARUSHA</postalAddress>
+      <physicalAddress>SAKINA ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>002552508073</sponsorfax>
+      <mobile>0787076372</mobile>
+      <email>kpflosol@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LUKA MWALUSAMBA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>13559 ARUSHA</postalAddress>
+      <physicalAddress>SAKINA ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>002552508073</telephone>
+      <mobile>0755409940</mobile>
+      <email>lukamwalusamba@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

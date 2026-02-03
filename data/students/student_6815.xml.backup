@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6815</studentId>
+  <studentName>Lugata John</studentName>
+  <accademicHistory><institution><institutionName>Mwanza secondary School</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S0333.0387.2013</indexNumber><award>Pass</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8e9f977dd64579e91cb96fe85056b89d</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5594</studentId>
+  <studentName>MARY MAGATI</studentName>
+  <accademicHistory><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0206.0597.2016</indexNumber><award> DIVISION TWO</award><grade>10</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1a824cc89e0c58821facdc572000f3e3</isaacompletechecksum></student>

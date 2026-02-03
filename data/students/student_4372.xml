@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4372</studentId>
+  <studentName>NDANSHAU JACKLINE EBENEZA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MUVUTI SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>301713/081</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOL OF NURSING</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA  IN NURSING</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>BScNURSING</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K170014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH AND SOCIAL WELfARE</employerName>
+      <postalAddress>11478 DARES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>002552120261</telephone>
+      <email>magigem96@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>jackline ndanshau</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>152 hai</postalAddress>
+      <physicalAddress>boma ngombe</physicalAddress>
+      <fax/>
+      <sponsorfax>00255629364603</sponsorfax>
+      <mobile>00255629364603</mobile>
+      <email>jacklinendenshau@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FELIX KALENZO</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>152 hai</postalAddress>
+      <physicalAddress>boma ngombe</physicalAddress>
+      <fax/>
+      <telephone>00255719739990</telephone>
+      <mobile>00255719739990</mobile>
+      <email>kalenzo2003@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>655</studentId>
+  <studentName>JOSEPHA TONYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NDWIKA GIRLS</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0530.0028.2005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SONGEA GIRLS</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0219.0744.2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KCMC</employerName>
+      <postalAddress>3010 Moshi</postalAddress>
+      <physicalAddress>3010 Moshi</physicalAddress>
+      <telephone>0272754377</telephone>
+      <email>info@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>lucius tonya</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1503 Msasani</postalAddress>
+      <physicalAddress>1503 Msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>0222927721</sponsorfax>
+      <mobile>0713348422</mobile>
+      <email>Lucius.Thonya@Total.co.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>lucius tonya</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>1503 Msasani</postalAddress>
+      <physicalAddress>1503 Msasani</physicalAddress>
+      <fax/>
+      <telephone>0222927721</telephone>
+      <mobile>0713348422</mobile>
+      <email>Lucius.Thonya@Total.co.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>TONYA, JOSEPHA</accountName><bankAccount>40308103897</bankAccount><bankName>NMB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b53cd75b7ad34540dc3c1baf385cde18</isaacompletechecksum></student>

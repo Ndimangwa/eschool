@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3376</studentId>
+  <studentName>Fopoussi Nelly Guylene</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>College st coeur de Marie</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>j 032/051/PBD</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lyc&#xE9;e Bilingue de Mbalmayo</institutionName>
+      <specialization>Mathematics and biology</specialization>
+      <levelId>8</levelId>
+      <indexNumber>J 183/051/BAD</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Vision Mundi</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>POBOX 26003-Logrono</postalAddress>
+      <physicalAddress>POBOX 26003-Logrono</physicalAddress>
+      <fax/>
+      <sponsorfax>0034629678175</sponsorfax>
+      <mobile>0034629678175</mobile>
+      <email>covabascaran@yahoo.co.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Kouamo Tchouamo Bagou</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>POBOX 01 Bamenda</postalAddress>
+      <physicalAddress>POBOX 01 Bamenda</physicalAddress>
+      <fax/>
+      <telephone>+237678883263</telephone>
+      <mobile>+237678883263</mobile>
+      <email>tbangou@yahoo.fr</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

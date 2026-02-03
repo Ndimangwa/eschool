@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>481</studentId>
+  <studentName>CHARLENE KIMBERLEY FERNANDES</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>OSHWAL ACADEMY, MOMBASA, KENYA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>94139:0465/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JAFFERY ACADEMY, MOMBASA, KENYA</institutionName>
+      <specialization>BCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>94111:0059/2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>AGNELO FERNANDES</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o box 82262 MSA, KENYA</postalAddress>
+      <physicalAddress>KIZINGO, MOMBASA,KENYA</physicalAddress>
+      <fax/>
+      <sponsorfax>+254735269993</sponsorfax>
+      <mobile>+254723124596</mobile>
+      <email>stan@webrunner.co.ke</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AGNELO FERNANDES</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O BOX 82262 MSA, KENYA</postalAddress>
+      <physicalAddress>KIZINGO, MOMBASA, KENYA</physicalAddress>
+      <fax/>
+      <telephone>+254735269993</telephone>
+      <mobile>+254723124596</mobile>
+      <email>stan@webrunner.co.ke</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

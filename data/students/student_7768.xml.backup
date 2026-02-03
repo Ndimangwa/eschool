@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7768</studentId>
+  <studentName>AUGUSTINO .M. SAWAKI</studentName>
+  <accademicHistory><institution><institutionName>KISOMACH SECONDARY SCHOOL</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>S0474.0053.2014</indexNumber><award>PASS</award><grade>MERIT</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>LYAMUNGO HIGH SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0125.0661.2017</indexNumber><award>PASS</award><grade>PASS</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Michael Michael Mchagi</sponsorName><payerId>3</payerId><postalAddress>mosh,7884</postalAddress><physicalAddress>mohi</physicalAddress><fax/><telephone>0659870717</telephone><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>Mariy Mchagi</kinName><relationship>Mother</relationship><postalAddress>MOshi, 7884</postalAddress><physicalAddress>Moshi</physicalAddress><fax/><telephone>0756871980</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Mariy Mchagi</accountName><bankAccount>40210002491</bankAccount><bankName>NMB</bankName><branchName>Mwanga</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>90e3a1ce2dbb4f600002e7c678f53660</isaacompletechecksum></student>

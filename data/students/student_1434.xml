@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1434</studentId>
+  <studentName>DAVID J MSHABAHA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAWENZI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S 0328/ 126</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S 0119-0613</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es salaam</postalAddress>
+      <physicalAddress>Mwenge Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255787101808</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH MSHABAA MASSAWE</kinName>
+      <relationship>FARTHER</relationship>
+      <postalAddress>3041 MOSHI</postalAddress>
+      <physicalAddress>SAMBARAI KIBOSHO MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00757600962</telephone>
+      <mobile>0757600962</mobile>
+      <email>ogmshabaha.dm@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

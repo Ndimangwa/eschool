@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>16</studentId>
+  <studentName>ashley Hassan Al hinai</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Al Muntazir islamic seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>E0014.1410.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Al muntazir Islamic Seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>E0015.3025.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Hassan.S.Said Alhinai</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Hassan Saidy BOX 9024</postalAddress>
+      <physicalAddress>mombo street,temeke,dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255786899998</sponsorfax>
+      <mobile>0786899998</mobile>
+      <email>hassan.said@tanesco.co.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Hassan.S.Said Alhinai</kinName>
+      <relationship>father</relationship>
+      <postalAddress>Hassan Saidy BOX 9024</postalAddress>
+      <physicalAddress>Mombo street,temeke,dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>00255786899998</telephone>
+      <mobile>0786899998</mobile>
+      <email>hassan.said@tanesco.co.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ASHLEY HASSAN ALHINAI</accountName><bankAccount>0152209037800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>af338553dc8ba3eb504c94b214b837e6</isaacompletechecksum></student>

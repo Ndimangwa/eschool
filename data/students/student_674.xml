@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>674</studentId>
+  <studentName>RESTEARLY MPIPI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWILAMVA SECONDARY </institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2211.0018.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUKOBA SECONDARY SCHOOL </institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0304.0519.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MPIPI MPAPI MISIGARO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 139 BUKOBA</postalAddress>
+      <physicalAddress>PO BOX 139 BUKOBA</physicalAddress>
+      <fax/>
+      <telephone>0789179307</telephone>
+      <mobile>0789179307</mobile>
+      <email>mis_consol@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MPIPI, RESTEARLY</accountName><bankAccount>0152327640400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>349f99691c9242923a397dc034df27fe</isaacompletechecksum></student>

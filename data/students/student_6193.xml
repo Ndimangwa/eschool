@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6193</studentId>
+  <studentName>Shalu Kahemele</studentName>
+  <accademicHistory><institution><institutionName>Kilakala Secondary School</institutionName><specialization>CSEE</specialization><levelId>4</levelId><indexNumber>S0206.0071.2008</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE POINT 16</grade><startYear>2005</startYear><endYear>2008</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c3c31da8cdbceb02c6ab0497710a7973</isaacompletechecksum></student>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3375</studentId>
+  <studentName>LYDIA KAHGOMIA FOKUNANG</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>GOVERNMENT BILINGUAL HIGH SCHOOL YAOUNDE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>04/394353</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>GOVERNMENT BILINGUAL HIGH SCHOOL YAOUNDE</institutionName>
+      <specialization>S1</specialization>
+      <levelId>8</levelId>
+      <indexNumber>06/953601</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>GOVERNMENT BILINGUAL  HIGH SCHOOL YAOUNDE</institutionName>
+      <specialization>ADVANCED LEVEL</specialization>
+      <levelId>8</levelId>
+      <indexNumber>ORDINARY LEVEL</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF BUEA</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2013/271/UB</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GERMAN COMITTEE FOR THE PREVENTION OF BLINDNESS</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>121335 LUNEBURG</postalAddress>
+      <physicalAddress>121335 LUNEBURG</physicalAddress>
+      <fax/>
+      <sponsorfax>04131733674</sponsorfax>
+      <mobile>04131733674</mobile>
+      <email>charlotte.ellendorff@gmx.de</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NJIKAM ERIC</kinName>
+      <relationship>SPOUSE</relationship>
+      <postalAddress>01 NKEWN CAMEROON</postalAddress>
+      <physicalAddress>MBINGO CAMEROON</physicalAddress>
+      <fax/>
+      <telephone>0023769455628</telephone>
+      <mobile>0023769455628</mobile>
+      <email>njikamjude@yahoomail.fr</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

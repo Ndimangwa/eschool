@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>858</studentId>
+  <studentName>MADUL GAJENDRA SINGH</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>aloysius secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2252.0036.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mwanza secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0333.0577.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GAJENDRA PRATAP SINGH</kinName>
+      <relationship>father</relationship>
+      <postalAddress>149 mwanza</postalAddress>
+      <physicalAddress>mwanza</physicalAddress>
+      <fax/>
+      <telephone>0757750949</telephone>
+      <mobile>0757750949</mobile>
+      <email>sherrykwesiga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SINGH, MADUL GAJENDRA</accountName><bankAccount>0152356545600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>20c6597313870a47d4b6cee1217b67f6</isaacompletechecksum></student>

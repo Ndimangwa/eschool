@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1827</studentId>
+  <studentName>Magdalena J Massawe</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mkuu Rombo</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>p0544-0039</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilimanjaro Christian Medical College</institutionName>
+      <specialization>Health laboratory science</specialization>
+      <levelId>8</levelId>
+      <indexNumber>K0128</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Moshi Municipal Council</employerName>
+      <postalAddress>318 moshi</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <telephone>00255272754374</telephone>
+      <email>moshimunicipal@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher education students loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>msasani 76068</postalAddress>
+      <physicalAddress>msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>0765525858</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Aloyce M kisoli</kinName>
+      <relationship>mume</relationship>
+      <postalAddress>27 hai</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>00255272753843</telephone>
+      <mobile>0764929554</mobile>
+      <email>kisolialoyce@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

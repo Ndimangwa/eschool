@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3310</studentId>
+  <studentName>HAFIDH SHEHA HASSAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BEN BELLA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0383-0191</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUMUMBA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0326-0632</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCO</institutionName>
+      <specialization>MEDICAL DOCTOR</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K16 0040</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH</employerName>
+      <postalAddress>672</postalAddress>
+      <physicalAddress>zanzibar</physicalAddress>
+      <telephone>00242231987</telephone>
+      <email>mmrefhospital@hotmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ministry of health zanzibar</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>672</postalAddress>
+      <physicalAddress>zanzibar</physicalAddress>
+      <fax/>
+      <sponsorfax>00242231987</sponsorfax>
+      <mobile>+255777432465</mobile>
+      <email>mmrefhospital@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SHEHA HASSAN</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>672</postalAddress>
+      <physicalAddress>zanzibar</physicalAddress>
+      <fax/>
+      <telephone>00242231987</telephone>
+      <mobile>+255773320818</mobile>
+      <email>shamwaha@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

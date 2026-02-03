@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3665</studentId>
+  <studentName>LAURENT J MALIMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MTWARA TECHNICAL SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0139.0093.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AHMES SECONDARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S3881.0515.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522669036</sponsorfax>
+      <mobile>0025522669036</mobile>
+      <email>Info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH MALIMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>01</postalAddress>
+      <physicalAddress>MPANDA KATAVI</physicalAddress>
+      <fax/>
+      <telephone>0688922459</telephone>
+      <mobile>0688922459</mobile>
+      <email>josephmalima@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MALIMA, LAURENT J</accountName><bankAccount>70608100486</bankAccount><bankName>NMB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0cc7a067e1f3ca0d8c10658e44bdf4ae</isaacompletechecksum></student>

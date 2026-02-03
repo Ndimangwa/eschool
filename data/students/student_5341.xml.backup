@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5341</studentId>
+  <studentName>MASHAKA GERVAS</studentName>
+  <accademicHistory><institution><institutionName>BUSWELU SECONDARY SCHOOL</institutionName><specialization>SECONDARY SCHOOL</specialization><levelId>4</levelId><indexNumber>S0564.0145.2007</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2004</startYear><endYear>2007</endYear></institution><institution><institutionName>NGUDU SECONDARY SCHOOL</institutionName><specialization>SECONDARY SCHOOL</specialization><levelId>8</levelId><indexNumber>S0554.0592.2010</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2008</startYear><endYear>2010</endYear></institution><institution><institutionName>CATHOLIC UNIVERSITY OF HEALTH AND ALLIED SCIENCES-BUGANDO</institutionName><specialization>MEDICAL LABORATORY SCIENCES</specialization><levelId>12</levelId><indexNumber>CUHAS/LAB/7000163/T/10</indexNumber><award>DIPLOMA IN MEDICAL LABORATORY SCIENCES</award><grade>GPA: 4.2</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>SCHOOL FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>MASHAKA GERVAS KAJI</accountName><bankAccount>0112018452400</bankAccount><bankName>CRDB BANK</bankName><branchName>MWANZA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>13ce5059d1b56e48aed5beb9a769e123</isaacompletechecksum></student>

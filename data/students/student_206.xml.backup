@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>206</studentId>
+  <studentName>JALLOW B.JALLOW</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KING DAVID SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2353/0030</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUSIIME SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2499/0690</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DAR</postalAddress>
+      <physicalAddress>sam nujoma road mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JABIRI SAIDI LALI</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>482 MTWARA</postalAddress>
+      <physicalAddress>482 MTWARA</physicalAddress>
+      <fax/>
+      <telephone>0784360105</telephone>
+      <mobile>0784360105</mobile>
+      <email>jallowb1@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

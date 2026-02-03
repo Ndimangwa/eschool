@@ -1,0 +1,68 @@
+Results Algorithm, for a specific student, for non graduated students, transcript is for only graduated students 
+1. getCourseAndTransactionDataStructure, same map as Subjects
+	list[cummulativeSemester][index] = transactionId
+2. Initiate Results DataStructure
+	list[cummulativeSemester][index]['transactionId'] = transactionId
+	list[cummulativeSemester][index]['rawMarks'] = 80
+	list[cummulativeSemester][index]['gradeId'] = gradeId 
+3. Output Format is 
+	list[cummulativeSemester][resultsId][transactionId]['rawMarks'] = 80 
+	list[cummulativeSemester][resultsId][transactionId]['gradeId'] = gradeId 
+	
+	The Above Output Format is Obtained from Format in step 2 And list[cummulativeSemester][resultsId][indexb] = index [listResults1]
+4. batchListArray1 = student1->getBatchList 
+5. courseId = student1->getCourse->getCourseId 
+6. ds1 = array()
+7. foreach (list as cummulativeSemester => subjectArray)	{
+		yearAndSemester = System::getYearAndSemFromACuum(cummulativeSemester, profile1)
+		year = yearAndSemester['year']
+		semester = yearAndSemester['semester']
+		ds1[cummulativeSemester] = array();
+		foreach  (batchListArray1 as batch1)	{
+			resultsGroupId ResultsGroup::getResultsGroupFromCourseBatchYear(), if not continue 
+			resultsGroup1 = new ResultsGroup(resultsGroupId)
+			if (resultsGroup1->isLocked()) continue; //We are dealing with NOn Locked Groups 
+			resultsList1 = Results::getResultsBelongingToAGroup(resultsGroupId)
+			if (! resultsList1) continue 
+			foreach (resultsList1 as resultsId)	{
+				results1 = new Results(resultsId)
+				if (! results1->isLocked) continue
+				ds1[cummulativeSemester][resultsId] = array();
+				rawResultsFile1 = results1->getRawResultsFile()
+				gradedResultsFile1 = resultsFile1->getGradedResultsFile()
+				foreach (subjectArray as subjectData)	{
+					transactionId = subjectData['transactionId']
+					if (found(rawResultsFile1(studentId, transactionId)))	{
+						if (found(gradedResultsFile1(studentId, transactionId)))	{
+							ds1[cummulativeSemester][resultsId][transactionId] = array()
+							ds1[cummulativeSemester][resultsId][transactionId]['rawMarks'] = rawResultsFile1(studentId, transactionId)
+							ds1[cummulativeSemester][resultsId][transactionId]['gradeId'] = gradedResultsFile1(studentId, transactionId)
+						}
+					}
+				}
+			}
+		}
+}
+8. You need Only Results Whose gradeId is not null
+	tempDs1 = array()
+	foreach (ds1 as cummulativeSemester => resultsArray)	{
+		tempResultsArray = array()
+		foreach (resultsArray as resultsId => transactionArray)	{
+			tempTransactionArray = array()
+			foreach (transactionArray as transactionArray)	{
+				if (! is_null(transactionArray['gradeId']))	{
+					tempTransactionArray['rawMarks'] = transactionArray['rawMarks']
+					tempTransactionArray['gradeId'] = transactionArray['gradeId']
+				}
+			}
+			if (sizeof(tempTransactionArray) > 0)	{
+				tempResultsArray[resultsId] = tempTransactionArray
+			}
+		}
+		if (sizeof(tempResultsArray) > 0)	{
+			tempDs1[cummulativeSemester] = tempResultsArray
+		}
+	}
+	tempDs1 = ds1
+	return ds1
+	

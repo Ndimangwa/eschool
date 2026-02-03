@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2093</studentId>
+  <studentName>BEATRICE J HANKUNGWE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>VWAWA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.O538/0016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA TECHNICAL SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0108/0504</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522772432</sponsorfax>
+      <mobile>0025522772433</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DENIS KAPINGA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>PO BOX 27,MBEYA.</postalAddress>
+      <physicalAddress>MBEYA.</physicalAddress>
+      <fax/>
+      <telephone>0763806082</telephone>
+      <mobile>0763806082</mobile>
+      <email>kapingadenis@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

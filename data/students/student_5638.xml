@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5638</studentId>
+  <studentName>MKUZO E MKUZO</studentName>
+  <accademicHistory><institution><institutionName>KWASHUNGU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2865.0121.2013</indexNumber><award>CSEE</award><grade>DIVISION 1</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>LUGOBA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0549.0735.2016</indexNumber><award>ACSEE</award><grade>DIVISION 1</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>0222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ESTER ZUBERI</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 345</postalAddress><physicalAddress>MOROGORO</physicalAddress><fax></fax><telephone>0682187764</telephone><mobile>0682187764</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MKUZO EZRA MKUZO</accountName><bankAccount>0152327163700</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0994b20cb769d0808da18a312d9f9258</isaacompletechecksum></student>

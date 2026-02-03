@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3280</studentId>
+  <studentName>NEEMA EZEKIEL MAGANDI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IHALA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1502/0043</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HURUMA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0256-0524</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NZUAMUKULU</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>poBOX 6215</postalAddress>
+      <physicalAddress>MBEYA</physicalAddress>
+      <fax/>
+      <sponsorfax>0714645043</sponsorfax>
+      <mobile>0714645043</mobile>
+      <email>emagandi5@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NZUAMUKULU</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>POBOX 6215</postalAddress>
+      <physicalAddress>MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0714645043</telephone>
+      <mobile>0714645043</mobile>
+      <email>emagandi5@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

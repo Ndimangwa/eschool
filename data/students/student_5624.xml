@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5624</studentId>
+  <studentName>OKUL ISRAEL SWAI</studentName>
+  <accademicHistory><institution><institutionName>HALAMBEE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1324.0046.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0209.0590.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ISRAEL MELECK SWAI</sponsorName><payerId>3</payerId><postalAddress>PO.BOX 443,MOSHI</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0753168180</telephone><mobile>0753168180</mobile><email/><financedItem>SCHOOL FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELIMELECK ISRAEL SWAI</kinName><relationship>BROTHER</relationship><postalAddress>PO.BOX 443,MOSHI</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0753168180</telephone><mobile>0753168180</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ELIMELECK ISRAEL SWAI</accountName><bankAccount>0152083916700</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>40a5dd822a51d36af1627eb939386085</isaacompletechecksum></student>

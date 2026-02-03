@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6135</studentId>
+  <studentName>MARY SYLIVESTER</studentName>
+  <accademicHistory><institution><institutionName>ST JOSEPH GIRLS SEMINARY</institutionName><specialization>O LEVEL</specialization><levelId>4</levelId><indexNumber>S0240.0062.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MACHAME GIRLS SECONDARY</institutionName><specialization>A LEVEL</specialization><levelId>4</levelId><indexNumber>S0212.0717.2016</indexNumber><award>CERTIFICATE OF ADVANCED EDUCATION</award><grade>THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SYLIVESTER KAYUNGILO</sponsorName><payerId>3</payerId><postalAddress>PO BOX1685</postalAddress><physicalAddress>MWANZA </physicalAddress><fax/><telephone>0758519518</telephone><mobile/><email/><financedItem>TUTION FEE ,SFR,MA AND BS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>SYLVESTER KAYUNGILO</kinName><relationship>FATHER</relationship><postalAddress>PO BOX1685</postalAddress><physicalAddress>MWANZA </physicalAddress><fax></fax><telephone>0758519518</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>LUGODISHA MARY SYLVESTER</accountName><bankAccount>424426038634220</bankAccount><bankName>NBC</bankName><branchName>MWANZA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>048cb09695f7088e390e7737cc72a471</isaacompletechecksum></student>

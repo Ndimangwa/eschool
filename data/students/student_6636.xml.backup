@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6636</studentId>
+  <studentName>HASSAN MUSSA</studentName>
+  <accademicHistory><institution><institutionName>KAZAROHO SECONDARY SCHOOL</institutionName><specialization>SCIENCE SUBJECT</specialization><levelId>4</levelId><indexNumber>S4041.0020.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIV TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KALIUA HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0936.0599.2016</indexNumber><award>ACSEE</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HELSB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.ao.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MUSSA HASSAN</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 30, URAMBO</postalAddress><physicalAddress>URAMBO</physicalAddress><fax></fax><telephone>+255753176876</telephone><mobile>0753176876</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HASSAN MUSSA</accountName><bankAccount>40810038953</bankAccount><bankName>NMB</bankName><branchName>CLOCK TOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3c41cb9f0a61bd43cc87458017e4c535</isaacompletechecksum></student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3417</studentId>
+  <studentName>PETER NGWAMKAI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MINAKI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0133-0076</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110-0594</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HUBERT KAIRUKI MEMORIAL UNIVERSITY</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>NO.309</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DISTRICT EXECUTIVE DIRECTOR OF MUHEZA DISTRICT</employerName>
+      <postalAddress>20, MUHEZA</postalAddress>
+      <physicalAddress>20, MUHEZA</physicalAddress>
+      <telephone>00255272647303</telephone>
+      <email>info@kcmuco.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SELF</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>632 KOROGWE</postalAddress>
+      <physicalAddress>632 KOROGWE</physicalAddress>
+      <fax/>
+      <sponsorfax>002550714939983</sponsorfax>
+      <mobile>002550714939983</mobile>
+      <email>ngwamkaipeter@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GILBERT EMMANUEL NG'WAMKAI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>632, KOROGWE</postalAddress>
+      <physicalAddress>632, KOROGWE</physicalAddress>
+      <fax/>
+      <telephone>0719004416</telephone>
+      <mobile>0719004416</mobile>
+      <email>mwabutugily@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

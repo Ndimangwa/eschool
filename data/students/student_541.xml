@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>541</studentId>
+  <studentName>KAREN JULIUS MSUYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1187.0073.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187.0612.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JULIUS HENDRY MSUYA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>12255 ARUSHA</postalAddress>
+      <physicalAddress> ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0754370934</sponsorfax>
+      <mobile>0754370934</mobile>
+      <email>drmsuya2002@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KAREN JULIUS MSUYA</kinName>
+      <relationship>SINGLE</relationship>
+      <postalAddress>12255 ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0653352654</telephone>
+      <mobile>0653352654</mobile>
+      <email>info@kcmuco.ac.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MSUYA, KAREN JULIUS</accountName><bankAccount>0152204043500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>daae34e9d2affe0a792cbbcfac9cf4fa</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3436</studentId>
+  <studentName>ROJAS P MCHARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ailanga Lutheran junior seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0198.0064.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Ilboru Secondary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110.0639.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>0758340760</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PETER M MCHARO</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.O.Box 10</postalAddress>
+      <physicalAddress>Mwika</physicalAddress>
+      <fax/>
+      <telephone>0786063771</telephone>
+      <mobile>0786063771</mobile>
+      <email>pmasimba100@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MCHARO, ROJAS P.</accountName><bankAccount>0152327969900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c3c64bf82e78fc98581ad759d6187f29</isaacompletechecksum></student>

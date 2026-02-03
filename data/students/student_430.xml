@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>430</studentId>
+  <studentName>BAINE ANNETTE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST JOSEPHS GIRLS NSYAMBYA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>U0192/033</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BEV FACEY COMMUNITY HIGH SCHOOL</institutionName>
+      <specialization>BCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>2005-00176</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KHARKOV NATIONAL MEDICAL UNIVERSITY </institutionName>
+      <specialization>PHYSICIAN DOCTOR OF MEDICINE </specialization>
+      <levelId>15</levelId>
+      <indexNumber>004190</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>STEPHEN MWATHA KARUITA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>568 01030 gatundu</postalAddress>
+      <physicalAddress>kenyatta road plot no 156 gatundu</physicalAddress>
+      <fax/>
+      <sponsorfax>00254718151624</sponsorfax>
+      <mobile>00254718151624</mobile>
+      <email>dr.mwatha@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>STEPHEN KARUITA MWATHA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>568 01030 gatundu</postalAddress>
+      <physicalAddress>keyatta road plot no 156 gatundu</physicalAddress>
+      <fax/>
+      <telephone>00254718151624</telephone>
+      <mobile>00254718151624</mobile>
+      <email>dr.mwatha@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

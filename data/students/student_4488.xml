@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4488</studentId>
+  <studentName>Dr. Priyanka. R. Patel</studentName>
+  <accademicHistory><institution><institutionName>IMTU</institutionName><specialization>MBBS</specialization><levelId>15</levelId><indexNumber>2008CM135</indexNumber><award>Medical Doctor</award><grade>pass</grade><startYear>2008</startYear><endYear>2013</endYear></institution><institution><institutionName>MOMBASA ACADEMY</institutionName><specialization>LONDON GCE</specialization><levelId>8</levelId><indexNumber>EDEXCEL </indexNumber><award>PASS</award><grade>PASS</grade><startYear>2006</startYear><endYear>2008</endYear></institution><institution><institutionName>SHREE SWAMINARAYAN ACADEMY</institutionName><specialization>FORM 4</specialization><levelId>4</levelId><indexNumber>LGSE</indexNumber><award>LONDON GCSE</award><grade>PASS</grade><startYear>2000</startYear><endYear>2006</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>dc34919465a228610f51f5cdf548df50</isaacompletechecksum></student>

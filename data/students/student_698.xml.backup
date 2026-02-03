@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>698</studentId>
+  <studentName>MOLOLO NOAH MWANJALA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ITUNGE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3173-0107</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>META SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0443-0535</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>P.O.BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NOAH MWANJALA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.Box 156 KYELA</postalAddress>
+      <physicalAddress>P.O.Box 156 KYELA</physicalAddress>
+      <fax/>
+      <telephone>0713390931</telephone>
+      <mobile>0713390931</mobile>
+      <email>noamwanjala@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

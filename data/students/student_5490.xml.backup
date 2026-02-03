@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5490</studentId>
+  <studentName>TUNGU MAKELESIA PAWA</studentName>
+  <accademicHistory><institution><institutionName>KIDUGALA LUTHERAN SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0167.0073.2013</indexNumber><award>CSEE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIGONSERA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0120.0934.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@helsb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MAKERESIA PAWA</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 96,RUJEWA</postalAddress><physicalAddress>MBEYA</physicalAddress><fax/><telephone>+255755668882</telephone><mobile>+255755668882</mobile><email>pawaluhende@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>TUNGU MAKERESIA PAWA</accountName><bankAccount>0152201519100</bankAccount><bankName>CDRD BANK</bankName><branchName>MBUYUNI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b8633e94c2c6c58ffd2b2311c189593e</isaacompletechecksum></student>

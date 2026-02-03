@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>876</studentId>
+  <studentName>sakanda linus ndaserwa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Loliondo Sec.school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1274/0184/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lyamungo sec.School</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125/0797/2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669039</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Leornad Linus</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>PO.BOX 10 LOLIONDO</postalAddress>
+      <physicalAddress>0687051452</physicalAddress>
+      <fax/>
+      <telephone>0687051452</telephone>
+      <mobile>0687051452</mobile>
+      <email>Sakandalinus@gemail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

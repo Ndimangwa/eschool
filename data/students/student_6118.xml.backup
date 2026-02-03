@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6118</studentId>
+  <studentName>PRISCILLA M .STANSLAUS</studentName>
+  <accademicHistory><institution><institutionName>TABASAM SECONDARY</institutionName><specialization>O LEVEL</specialization><levelId>4</levelId><indexNumber>S4062.0027.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>BWIRU GIRLS SECONDARY</institutionName><specialization>A LEVEL</specialization><levelId>4</levelId><indexNumber>S0202.0571.2016</indexNumber><award>CERTIFICATE OF ADVANCED EDUCATION</award><grade>TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUTION FEE ,SFR,MA AND BS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>STANSLAUS LASABO</kinName><relationship>FATHER</relationship><postalAddress>PO BOX 288</postalAddress><physicalAddress>MWANZA </physicalAddress><fax/><telephone>0759077155</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>PRISCILLA MEJA STANSLAUS</accountName><bankAccount>0152335284800</bankAccount><bankName>CRDB BANK</bankName><branchName>MWANZA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8e8ec818a527f876113230f765c36d5f</isaacompletechecksum></student>

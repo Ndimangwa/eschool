@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6108</studentId>
+  <studentName>GOODLUCK MWAKYOMA</studentName>
+  <accademicHistory><institution><institutionName>IYUNGA TECH SECONDARY SCHOOL</institutionName><specialization>SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0112.0116.2008</indexNumber><award>ORDINARY CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>SCHOOL OF OPTOMETRY - KCMC</institutionName><specialization>OPTOMETRY</specialization><levelId>12</levelId><indexNumber>36578</indexNumber><award>DIPLOMA IN OPTOMETRY</award><grade>GPA 4.5</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DSM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222669039</fax><telephone>+2552226269036</telephone><mobile/><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GASPER MMARI</kinName><relationship>WORK PARTNER</relationship><postalAddress>P.O. BOX 3010</postalAddress><physicalAddress>KCMC</physicalAddress><fax></fax><telephone>+225220272753062</telephone><mobile>+255764150342</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GOODLUCK MWAKYOMA</accountName><bankAccount>0152209138200</bankAccount><bankName>CRDB BANK</bankName><branchName>AZIKIWE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7fb18b45ee36bcd3a4748023284cd572</isaacompletechecksum></student>

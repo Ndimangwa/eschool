@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3387</studentId>
+  <studentName>Ibrahim Ambakisye</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>sangu secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0341-0321</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>pugu secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0147-0701</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education student's loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068 DSM</postalAddress>
+      <physicalAddress>+2552150556</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AMBAKISYE ANDIMILE</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.O BOX 469 MBEYA</postalAddress>
+      <physicalAddress>P.O BOX 469 MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0765356012</telephone>
+      <mobile>0717286860</mobile>
+      <email>ambakisyemwatonoka@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

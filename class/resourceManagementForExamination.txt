@@ -1,0 +1,41 @@
+#Policy Based , Access for Results 
+ClassName.Reference (Resource ie BriefcaseGroup.id) Sequence Number ClassName.Reference (User) Flags Comments (if , then replace with !comma!) , NOTE: sequenceNumber are locally to resources
+
+0 in a classname means ALL 
+0 in a Reference means ALL 
+
+Flags treatment rw bit 0 --- write bit 
+				   bit 1 --- read bit
+You need md5 key 
+Example of filename =================
+Results.17,10,Login.11,3,Comment ya kwanza!comma!ya pili na ya tatu	
+Results.17,20,Login.11,3,Comment ya kwanza!comma!ya pili na ya tatu	
+Results.18,10,JobTitle.7,1,JobTitle tu write access only
+BriefcaseGroup.3,10,Student.2,2,All Students Read Only
+ResultsGroup.4,10,0,1,Any one can Write but not read ==Matches everything
+ResultsGroup.10,20,0,3,Any one can Read And Write 
+Briefcase.4,10,Student.0,2,All Students can Read Only
+=== Implicit Deny =======
+
+ds1[Results.17][seqNumber][index] == column Number 
+
+ResourceLine
+	- ResourceType ie Results 
+	- ResourceId ie 17 
+	- ResourceAndId ie Results.17 
+	- sequenceNumber 
+	- AccessorType ie Login  or 0
+	- AccessorId ie 18  or 0
+	- AccessorTypeAndId ie Login.18 or 0
+	- flags 
+	- comments
+	- line
+RecourcePolicyManager 
+	- ResourceLines[index] = ref 
+	- ResourceControlIndexArray[ResourceAndId][seqNumber] = index //ie ResourceControlIndexArray[Results.17][10] = index 
+	- database
+	- conn
+	- filename
+	- checksum //while loaded, it is important to query the value from the database just before saving, perhaps someone had saved while you were playing with policy 
+	
+	

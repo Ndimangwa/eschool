@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2462</studentId>
+  <studentName>Yusuph Mgaya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Jitegemee Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0496/0433</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Azania Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0101/776</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>DMLS</specialization>
+      <levelId>8</levelId>
+      <indexNumber>01365</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS - TANGA</employerName>
+      <postalAddress>Box 452</postalAddress>
+      <physicalAddress>Tanga</physicalAddress>
+      <telephone>002552686456322</telephone>
+      <email>rastanga@go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068</postalAddress>
+      <physicalAddress>Dar Es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222700286</sponsorfax>
+      <mobile>00255787101808</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Frank Vincent Mgaya</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>Box 70144</postalAddress>
+      <physicalAddress>Dar Es Salaam</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0714663684</mobile>
+      <email>mastermgaya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

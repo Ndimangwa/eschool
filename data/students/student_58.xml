@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>58</studentId>
+  <studentName>GERVAS KASULI MAKUKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>STAR HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.2421/0050</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0110/0601</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068, DARESSALAAM</postalAddress>
+      <physicalAddress>TIRDO COMPLEX, KIMWERI ROAD, MSASANI</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>THEOPISTA MAKUKA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>BOX 62748, DARESSALAAM</postalAddress>
+      <physicalAddress>TABATA KIMANGA</physicalAddress>
+      <fax/>
+      <telephone>00255786664776</telephone>
+      <mobile>00255753503760</mobile>
+      <email>jmakuka@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

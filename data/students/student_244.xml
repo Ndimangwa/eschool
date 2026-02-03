@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>244</studentId>
+  <studentName>EMMANUEL JOSSE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ANDERLAKE RIDGES SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3861/0023/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.JOSEPH CATHEDRAL HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4692/0604/2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068Dar</postalAddress>
+      <physicalAddress>Sam Nujoma Road, Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HARUN RASHID SENKUKU</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>433GEITA</postalAddress>
+      <physicalAddress>433GEITA</physicalAddress>
+      <fax/>
+      <telephone>0282520342</telephone>
+      <mobile>0784400334</mobile>
+      <email>senkukuh@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

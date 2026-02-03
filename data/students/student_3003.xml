@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3003</studentId>
+  <studentName>EMMA DAMIAN BADUNDWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.CLARA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4556.0019.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187.0544.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELLEN KAGIZE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>705</postalAddress>
+      <physicalAddress>DAR EAS SALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255715980290</telephone>
+      <mobile>+255715980290</mobile>
+      <email>ludaba8@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>BADUNDWA, EMMA DAMIAN</accountName><bankAccount>0152554230800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>72f48bd82afd30be7b4e81436b6384b8</isaacompletechecksum></student>

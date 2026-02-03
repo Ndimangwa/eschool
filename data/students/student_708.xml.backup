@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>708</studentId>
+  <studentName>HAMENYA ELIAS KIMILA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>STs RUFINO AND RINALDO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1530/0059</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MTWARA TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0139/0544</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MOSHI ELIAS KIMILA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>PO BOX 72 KASULU</postalAddress>
+      <physicalAddress>0765767174</physicalAddress>
+      <fax/>
+      <telephone>0765767174</telephone>
+      <mobile>0765767174</mobile>
+      <email>hamenyakimila@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

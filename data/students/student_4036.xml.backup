@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4036</studentId>
+  <studentName>KELISON K MTWANGE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0155/0044/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KAHORORO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0115/0655/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO.BOX</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>INFO@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KASSIAN MTWANGE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 12</postalAddress>
+      <physicalAddress>MPWAPWA</physicalAddress>
+      <fax/>
+      <telephone>0682291164</telephone>
+      <mobile>0682291164</mobile>
+      <email>kasianmtwange@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

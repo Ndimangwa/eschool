@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6670</studentId>
+  <studentName>GLORIA OLIVO MLOWE</studentName>
+  <accademicHistory><institution><institutionName>MWAMBANI SCHOOL OF NURSING</institutionName><specialization>DIPLOMA IN NURSING</specialization><levelId>4</levelId><indexNumber>S0708.0006.2001</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>1998</startYear><endYear>2001</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>TOWN EXECUTIVE OFFICER</employerName><postalAddress>PO BOX 577</postalAddress><physicalAddress>NJOMBE</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2008</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>GLORIA OLIVO MLOWE</sponsorName><payerId>1</payerId><postalAddress>PO BOX 577</postalAddress><physicalAddress>NJOMBE</physicalAddress><fax/><telephone/><mobile>0625220657</mobile><email>gloriamlowe@gmail.com</email><financedItem>FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GISBERT F. MPOGOLE</kinName><relationship>HUSBAND</relationship><postalAddress>PO BOX 577</postalAddress><physicalAddress>NJOMBE</physicalAddress><fax></fax><telephone>0754282029</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GLORIA O. MLOWE</accountName><bankAccount>60608000367</bankAccount><bankName>NMB</bankName><branchName>NJOMBE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>40b034eed3f653d686eeb262b1ca78db</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3034</studentId>
+  <studentName>LINAS APOLINARY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST JOSEPHS GIRLS SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0240.0029.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WERUWERU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0221.0674.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER STUDENTS EDUCATION LOARN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SAALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>00222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARTINA SHIRIMA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>140</postalAddress>
+      <physicalAddress>KILIMANJARO</physicalAddress>
+      <fax/>
+      <telephone>0769744451</telephone>
+      <mobile>0769744451</mobile>
+      <email>apoloapolinary@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>APOLINARY, LINAS</accountName><bankAccount>0152554230400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>35171745ffafc7bdce6f7c6bdd7f7902</isaacompletechecksum></student>

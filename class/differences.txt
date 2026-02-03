@@ -1,0 +1,14 @@
+Changes to be done
+1. Briefcase and Briefcase Group , system/index.php and class/system.php 
+2. ApprovalSequenceSchema [Search and Advance Year or Semester], profile/index.php, class/system.php, client/js/page.js 
+3. Change Registration Number, profile/index.php and class/system.php [Approval Sequence Schema]
+4. class/system.php Collection object
+5. ResultsFile->save() need to be updated
+
+managefiles 
+
+version 2.56
+
+Make sure briefcase folder do exists
+
+insert into contextPosition (cName, cPosition, caption) values('managefiles_compare', '411', 'Compare Files');

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3050</studentId>
+  <studentName>VIOLETH I UISO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NATIRO</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0459/0044</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WERUWERU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0221/0679</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>IMMANUELI UISO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.obox 26</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0756631045</sponsorfax>
+      <mobile>0756631045</mobile>
+      <email>vemauiso@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>IMMANUELI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>p.obox 26</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00255275663104</telephone>
+      <mobile>002552756631045</mobile>
+      <email>vemauiso@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

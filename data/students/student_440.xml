@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>440</studentId>
+  <studentName>Jetha Aqueel Amirali</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ecole Francaise de Bujumbura</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>1121291529</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Ecole Francaise de Bujumbura</institutionName>
+      <specialization>biology</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0314646224</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Zulfikar Asgherali Jaffer</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>273</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272752813</sponsorfax>
+      <mobile>0787189489</mobile>
+      <email>tehsinjaffer@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Zulfikar Asgherali Jaffer</kinName>
+      <relationship>Uncle</relationship>
+      <postalAddress>273</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>00255272752813</telephone>
+      <mobile>0787189489</mobile>
+      <email>tehsinjaffer@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

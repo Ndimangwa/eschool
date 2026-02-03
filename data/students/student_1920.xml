@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1920</studentId>
+  <studentName>Chandni Kamal Jethwa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Forest Hill Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0310/0012/2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Al-Muntazir Islamic Seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0437/0535/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068, DSM</postalAddress>
+      <physicalAddress>Plot No. 8, Block No. 46, Sam Nu</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Akshay Pratap</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>P. O. Box 4320, DSM</postalAddress>
+      <physicalAddress>Shanty Town</physicalAddress>
+      <fax/>
+      <telephone>+255713073252</telephone>
+      <mobile>+255713073252</mobile>
+      <email>akshaypratap@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5858</studentId>
+  <studentName>RACHEL TITUS PESHA</studentName>
+  <accademicHistory><institution><institutionName>KCM COLLEGE</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0205.0132.2010</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2007</startYear><endYear>2010</endYear></institution><institution><institutionName>KCM COLLEGE</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0175.0508.2013</indexNumber><award>CERTIFICATE OF ADVANCED SECONDARY LEVEL EDUCATION</award><grade>DIVISION ONE </grade><startYear>2011</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b552fcb0863e9d3d934c93fb0ba54319</isaacompletechecksum></student>

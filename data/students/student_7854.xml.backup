@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7854</studentId>
+  <studentName>GODEHARD MWENURA MJIGABA</studentName>
+  <accademicHistory><institution><institutionName>SENGEREMA SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0185.0008.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MAFINGA SEMINARY</institutionName><specialization>SCIENCE </specialization><levelId>8</levelId><indexNumber>S0113.0520.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ADELIPHINA MEELA</sponsorName><payerId>3</payerId><postalAddress>NYEGEZI PARISH,P.O.BOX 1809,MWANZA</postalAddress><physicalAddress>NONE</physicalAddress><fax/><telephone>0754349928</telephone><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>GODEHARD M MJIGABA</accountName><bankAccount>0152338143500</bankAccount><bankName>CRDB BANK</bankName><branchName>MWANZA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2524595cab18a3ee3bf980382d720540</isaacompletechecksum></student>

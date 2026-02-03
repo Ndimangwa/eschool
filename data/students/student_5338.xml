@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5338</studentId>
+  <studentName>JOSHUA AMOSI</studentName>
+  <accademicHistory><institution><institutionName>Majengo Secondary School</institutionName><specialization>Ordinary level secondary education</specialization><levelId>4</levelId><indexNumber>S0485.0317.2012</indexNumber><award>certificate of secondary education</award><grade>division one</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>Majengo secondary school</institutionName><specialization>Advanced level secondary education</specialization><levelId>8</levelId><indexNumber>S0485.0644.2015</indexNumber><award>advanced certificate of secondary education</award><grade>division one</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0bddb3999c70bd8c5237a8c7ed66ead2</isaacompletechecksum></student>

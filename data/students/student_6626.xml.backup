@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6626</studentId>
+  <studentName>Godfrey Mgaya</studentName>
+  <accademicHistory><institution><institutionName>Elly's Secondary School</institutionName><specialization>Science</specialization><levelId>4</levelId><indexNumber>S2455.0159.2009</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>Division One</grade><startYear>2006</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>93363bb3b15990b1a3a94f724a706b74</isaacompletechecksum></student>

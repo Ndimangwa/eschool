@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>418</studentId>
+  <studentName>Davis John</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Malangali secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0128-0045</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibaha secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119-0517</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Sokoine University of Agriculture</institutionName>
+      <specialization>Biotechnology and Laboratory Sciences</specialization>
+      <levelId>15</levelId>
+      <indexNumber>BLS/D/04/T.1974</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Vrije Universiteit Brussel</institutionName>
+      <specialization>Molecular Biology</specialization>
+      <levelId>17</levelId>
+      <indexNumber>103603</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GSF/KCRI</employerName>
+      <postalAddress>2236, Moshi, Tanzania</postalAddress>
+      <physicalAddress>KCMC</physicalAddress>
+      <telephone>00255272754201</telephone>
+      <email>kcriadmin@kcri.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>COSTECH</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>4302, Dar Es Salaam</postalAddress>
+      <physicalAddress>Ali Hassan Mwinyi Road</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222927538</sponsorfax>
+      <mobile>00255222927539</mobile>
+      <email>info@costech.or.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Flora Ruhangisa</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>3013, Arusha, Tanzania</postalAddress>
+      <physicalAddress>Mt. Meru Hospital, Arusha</physicalAddress>
+      <fax/>
+      <telephone>0716827492</telephone>
+      <mobile>0716827492</mobile>
+      <email>fruhangisa@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

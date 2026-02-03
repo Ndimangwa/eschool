@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>308</studentId>
+  <studentName>JOSEPH J MSAKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAGILA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0893.0116.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LWANDAI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0584.0536.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Dare-esalam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHN MSAKA</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>P.O.BOX 79</postalAddress>
+      <physicalAddress>MUHEZA </physicalAddress>
+      <fax/>
+      <telephone>00255755301405</telephone>
+      <mobile>00255713680552</mobile>
+      <email>josephmsaka@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MSAKA, JOSEPH J</accountName><bankAccount>0152328003000</bankAccount><bankName> CRDB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>bc1ded70d3c17a86025095d7913e5a58</isaacompletechecksum></student>

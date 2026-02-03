@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>339</studentId>
+  <studentName>JANE JANUARIUS ROGATHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DODOMA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P0135-0063</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>23847</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI UNIVERSITY COLLEGE (KCMC)</institutionName>
+      <specialization>Degree of Bachelor of science in Nursing</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2005/TU/BSCN/0075</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilimanjaro christian Medical University College</institutionName>
+      <specialization>Masters of science in epidemiology and Applied Biostatistiacs</specialization>
+      <levelId>17</levelId>
+      <indexNumber>Number 004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GOOD SAMARITAN FOUNDATION KCMC</employerName>
+      <postalAddress>3010</postalAddress>
+      <physicalAddress>KCMC</physicalAddress>
+      <telephone>0272754377</telephone>
+      <email>dirsec@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DANIDA PhD SCHOLARSHIP AWARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2240</postalAddress>
+      <physicalAddress>DANIDA/KCMC</physicalAddress>
+      <fax/>
+      <sponsorfax>0272751351</sponsorfax>
+      <mobile>0767510700</mobile>
+      <email>info@kcmco.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JANUARIUS ROGATHI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>122</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <telephone>000022278936</telephone>
+      <mobile>0754571342</mobile>
+      <email>jrogathi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

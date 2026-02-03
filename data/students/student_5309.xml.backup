@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5309</studentId>
+  <studentName>FRANCIS M CHILATO</studentName>
+  <accademicHistory><institution><institutionName>ST.MARTINS GIRLS' SECONDARY SCHOOL</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>S4094.0036.2013</indexNumber><award>TWELVE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>BWIRU BOYS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0104.0624.2016</indexNumber><award>TEN</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MAKULILE CHILATO</sponsorName><payerId>3</payerId><postalAddress>MAKULILE CHILATO,324 IFAKARA.</postalAddress><physicalAddress>IFAKARA</physicalAddress><fax/><telephone>0752688342</telephone><mobile>0752688342</mobile><email/><financedItem>FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GETRUDA</kinName><relationship>MOTHER</relationship><postalAddress>GETRUDA,324 IFAKARA.</postalAddress><physicalAddress>GETRUDA,324IFAKARA.</physicalAddress><fax/><telephone>0752688342</telephone><mobile>0752688342</mobile><email/><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FRANCIS MAKULILE CHILATO</accountName><bankAccount>0152201518600</bankAccount><bankName>CRDB</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e051ef5de9cdf1815ce288b6ce82c727</isaacompletechecksum></student>

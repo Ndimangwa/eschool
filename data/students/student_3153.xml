@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3153</studentId>
+  <studentName>SION LIKINDUBULU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>OLDONYOSAMBU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0977.0015.2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NURSING TRAINING CENTRE-KCMC</institutionName>
+      <specialization>DIPLOMA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MOSES.P.MABULA</employerName>
+      <postalAddress>190 karatu</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <telephone>+255272534047</telephone>
+      <email>karatucouncil@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LIKINDUBULU NDASIKOI KIVUYO</kinName>
+      <relationship>FUTHER</relationship>
+      <postalAddress>190 karatu</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0756384275</telephone>
+      <mobile>0756384275</mobile>
+      <email>sionkivuyo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LIKINDUBULU, SION</accountName><bankAccount>0152326706400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f5cb6f8d8ba631b80a4e7bd126248539</isaacompletechecksum></student>

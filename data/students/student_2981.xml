@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2981</studentId>
+  <studentName>SALOME EDWIN MSUYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1187.0126.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187.0687.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANNA EDWIN MSUYA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>79472</postalAddress>
+      <physicalAddress>DAR-ES -SALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255754373358</telephone>
+      <mobile>0784373358</mobile>
+      <email>salomemsuya95@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MSUYA, SALOME EDWIN</accountName><bankAccount>0152260016400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e1dc7dbbfc6f9901095e61da83ab0974</isaacompletechecksum></student>

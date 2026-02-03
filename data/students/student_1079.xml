@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1079</studentId>
+  <studentName>Ayubu E Mashambo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Pandahill Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0867-0045-2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Same Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150-0531-2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068</postalAddress>
+      <physicalAddress>Plot No. B, Block No. 46</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>00222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Eliesikia Eliamini Mashambo</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O Box 236</postalAddress>
+      <physicalAddress>Same</physicalAddress>
+      <fax/>
+      <telephone>00652450766</telephone>
+      <mobile>0652450766</mobile>
+      <email>eliesikiamashambo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

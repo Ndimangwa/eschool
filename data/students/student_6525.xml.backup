@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6525</studentId>
+  <studentName>NASRATH FADHILI</studentName>
+  <accademicHistory><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0206.0060.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MSALATO SECONDARY SCHOOL</institutionName><specialization>SCIENCE-PCB</specialization><levelId>8</levelId><indexNumber>S0214.0550.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOAN BODY</sponsorName><payerId>4</payerId><postalAddress>PO BOX 76068 DAR ESALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222700286</mobile><email>info@heslb.go.tz</email><financedItem>Higher education studies</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>NASRATH AHMED FADHILI</accountName><bankAccount>0152217655300</bankAccount><bankName>CRDB BANK</bankName><branchName>BUKOBA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3e6039c21795e2b206c95d897f1e77bb</isaacompletechecksum></student>

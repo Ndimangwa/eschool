@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4430</studentId>
+  <studentName>RaziyaGaffur</studentName>
+  <accademicHistory><institution><institutionName>Muhimbili University of Health and Allied Sciences</institutionName><specialization>Undergraduate</specialization><levelId>15</levelId><indexNumber>2007-04-00539</indexNumber><award>Doctor of Medicine</award><grade>Pass</grade><startYear>2007</startYear><endYear>2012</endYear></institution><institution><institutionName>Mount Kilimanjaro School</institutionName><specialization>Basic Sciences</specialization><levelId>4</levelId><indexNumber>S1112-0011</indexNumber><award>Division 2</award><grade>B and c</grade><startYear>2000</startYear><endYear>2003</endYear></institution><institution><institutionName>Mount Kilimanjaro School</institutionName><specialization>Basic Science</specialization><levelId>8</levelId><indexNumber>TZ015/0016</indexNumber><award>PASS</award><grade>C and D</grade><startYear>2004</startYear><endYear>2006</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>Regency Medical Centre</employerName><postalAddress>P.O.BOX 2029 DSM</postalAddress><physicalAddress>AlyKhan Road Upanga</physicalAddress><fax>+255222150180</fax><telephone>+255222150500</telephone><mobile/><email>info@regencymedicalcentre.com</email><startYear>2014</startYear><endYear>2016</endYear><extraInformation>nil</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>Nafisa Firoz Gaffur</sponsorName><payerId>7</payerId><postalAddress>P.O.BOX 723 Moshi</postalAddress><physicalAddress>Ushirika Road-Moshi Town</physicalAddress><fax/><telephone>+255713313941</telephone><mobile>+255713313941</mobile><email>nafisafiroz@gmail.com</email><financedItem>Tuition Fees and other expenses</financedItem><extraInformation>Nil</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>Nafisa Firoz Gaffur</kinName><relationship>sister</relationship><postalAddress>P.O.BOX 723 Moshi</postalAddress><physicalAddress>Ushrika Rad- Moshi Town</physicalAddress><fax></fax><telephone>+255713313941</telephone><mobile>+255713313941</mobile><email>nafisafiroz@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Raziya Firoz Gaffur</accountName><bankAccount>5772620006</bankAccount><bankName>Exim Bank</bankName><branchName>Moshi Branch</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9ee8330230da2edf4ae8ef8bc40cd6e4</isaacompletechecksum></student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3311</studentId>
+  <studentName>Clifford Silver Tarimo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Majengo secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0485-0126</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Ilboru Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110-0572</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>University f Dar es Salaam</institutionName>
+      <specialization>Microbiology</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2009-04-05104</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Dar es Salaam Institute of Technology</employerName>
+      <postalAddress>P.O.Box 2958 DSM</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <telephone>00222151870</telephone>
+      <email>principal@dit.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DAAD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 14050-00800</postalAddress>
+      <physicalAddress>Nairobi Kenya</physicalAddress>
+      <fax/>
+      <sponsorfax>+254733465720</sponsorfax>
+      <mobile>+254733465720</mobile>
+      <email>maureen@daadafrica.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Silver Joseph Tarimo</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O.Box 1024 KILIMANJARO</postalAddress>
+      <physicalAddress>Moshi Kilimanjaro</physicalAddress>
+      <fax/>
+      <telephone>0766987756</telephone>
+      <mobile>0766987756</mobile>
+      <email>tarimo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

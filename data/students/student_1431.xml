@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1431</studentId>
+  <studentName>BEATRICE ILOMO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LUGALO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0325-0015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SONGEA GILRS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO219-0771</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, DAR ES SALAAM</postalAddress>
+      <physicalAddress>MWENGE, DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>0754419031</mobile>
+      <email>INFo@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALICE ILOMO</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>611, IRINGA</postalAddress>
+      <physicalAddress>KIHESA, IRINGA</physicalAddress>
+      <fax/>
+      <telephone>0025528669036</telephone>
+      <mobile>0758764595</mobile>
+      <email>aliceilomo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

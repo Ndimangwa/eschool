@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>505</studentId>
+  <studentName>MARIA S MUSA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOWAK GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0241-0054</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MWANZA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0333-0578</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress> 76068,Dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MUSSA MASUNGA GICHALU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 66  MEATU,SIMIYU</postalAddress>
+      <physicalAddress>SIMIYU</physicalAddress>
+      <fax/>
+      <telephone>0784627150</telephone>
+      <mobile>0784627150</mobile>
+      <email>mariamusa21@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

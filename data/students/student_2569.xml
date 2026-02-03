@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2569</studentId>
+  <studentName>Edith Minde</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>St. Francis Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0239-0009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Makongo secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0731-0516</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>doctor of medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>MD000276</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS- Arusha</employerName>
+      <postalAddress>Box 3050</postalAddress>
+      <physicalAddress>Arusha Mjini</physicalAddress>
+      <telephone>002552545608</telephone>
+      <email>ras.arusha@pnoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MOHSW</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 9083</postalAddress>
+      <physicalAddress>Posta-Mpya Dar</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222342000</sponsorfax>
+      <mobile>00255222342000</mobile>
+      <email>info@mohsw.org.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Dr. Kusirye Ukio</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>Box 12985</postalAddress>
+      <physicalAddress>Njiro- rusha</physicalAddress>
+      <fax/>
+      <telephone>00255717730610</telephone>
+      <mobile>00255786505260</mobile>
+      <email>drkusirye@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

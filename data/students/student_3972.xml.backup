@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3972</studentId>
+  <studentName>BENJAMIN JACKSON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAZWI</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0547/0125/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NKASI</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0610/0524/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heSLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.O.BOX 76068</postalAddress>
+      <physicalAddress>p.O.BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>iNfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MEDAN NYAMBELE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>770 sumbawanga</postalAddress>
+      <physicalAddress>770 sumbawanga</physicalAddress>
+      <fax/>
+      <telephone>0755511037</telephone>
+      <mobile>0755511037</mobile>
+      <email>nyambele4sure@email.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

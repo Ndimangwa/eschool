@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6256</studentId>
+  <studentName>BENARD MINGA</studentName>
+  <accademicHistory><institution><institutionName>KANTALAMBA BOYS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0116.0021.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE POINT 13</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MINAKI HIGH SHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0133.0632.2016</indexNumber><award>CERTIFICATE OF ADVANCED EDUCATION</award><grade>DIVISION ONE POINT NINE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MARTHA PANTALEO</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 20</postalAddress><physicalAddress>NKASI</physicalAddress><fax></fax><telephone>+255753549894</telephone><mobile>+255753549894</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>BENARD MINGA</accountName><bankAccount>21410005827</bankAccount><bankName>NMB</bankName><branchName>KISARAWE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>48879091c982c59b25e90d41cb28503c</isaacompletechecksum></student>

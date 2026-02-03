@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3920</studentId>
+  <studentName>sumaiya juma masunga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ubungo islamic secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0671.0029.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>tusiime high school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2499.0550.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es Salaam Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mwajuma shabani</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>78911</postalAddress>
+      <physicalAddress>dar es Salaam Tanzania</physicalAddress>
+      <fax/>
+      <telephone>0022534764</telephone>
+      <mobile>00255713593863</mobile>
+      <email>sumeyahjuma@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MASUNGA, SUMAIYA JUMA</accountName><bankAccount>0152326906000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8f133d2674407aa2a6b8773f536588f1</isaacompletechecksum></student>

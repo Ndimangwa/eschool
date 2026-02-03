@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>937</studentId>
+  <studentName>RICHARD MNYELELE MIHAMBO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SEEKE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1845-0200</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KALIUA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0936-0696</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>002255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MNYELELE MIHAMBO JOHN</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 58</postalAddress>
+      <physicalAddress>GEITA</physicalAddress>
+      <fax/>
+      <telephone>0763564898</telephone>
+      <mobile>0763564898</mobile>
+      <email>mnyelelerichard@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5317</studentId>
+  <studentName>DANIEL N SAMWELI</studentName>
+  <accademicHistory><institution><institutionName>KALIUA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0936.0051.2014</indexNumber><award>CSE</award><grade>MERIT</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>NDAMO SAMWEL MASALA</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 36 KALIUA SECONDARY SCHOOL</postalAddress><physicalAddress>KALIUA</physicalAddress><fax/><telephone/><mobile>0782061807</mobile><email>samwelndamo03@gmail.com</email><financedItem>TUITION FEE</financedItem><extraInformation>NO</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>NIL</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2314ca253de5085cae7c16fbbcd774e7</isaacompletechecksum></student>

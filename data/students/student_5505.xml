@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5505</studentId>
+  <studentName>SHALLODY AMANI SALALI</studentName>
+  <accademicHistory><institution><institutionName>HURUMA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0256.0040.2013</indexNumber><award>CSE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KILAKALA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0206.0633.2016</indexNumber><award>ACSE</award><grade>DIVISION ONE </grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 </postalAddress><physicalAddress>DAR ES SALAAM - TANZANIAA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation>None</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>IRENE SALALI</kinName><relationship>MOTHER</relationship><postalAddress>P.O BOX 3</postalAddress><physicalAddress>MVUMI DODOMA</physicalAddress><fax>+255714408422</fax><telephone>+255714408422</telephone><mobile>+255714408422</mobile><email>muhembanoa@yahoo.com</email><extraInformation>NIL</extraInformation></nextOfKin><nextOfKin><kinName>AMANI MUHEMBANO</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 426</postalAddress><physicalAddress>DODOMA</physicalAddress><fax>+255714240826</fax><telephone>+255714240826</telephone><mobile>+255714240826</mobile><email>muhembanoa@gmail.com</email><extraInformation>NIL</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SHALLODY AMANI SALALI</accountName><bankAccount>0152220201200</bankAccount><bankName>CRDB</bankName><branchName>DODOMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>07ad45cfdbc06e7a9e60881d843c1598</isaacompletechecksum></student>

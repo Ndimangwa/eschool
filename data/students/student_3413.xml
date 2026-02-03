@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3413</studentId>
+  <studentName>DEOGRATIAUS FELIX MUSHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Green Bird Boys High's school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4456/0007/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>URU SEMINARY</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0165/0510/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>FELIX CASMIRI MUSHI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3041 moshi</postalAddress>
+      <physicalAddress>3041 moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>0759056826</sponsorfax>
+      <mobile>0759056826</mobile>
+      <email>deogratiausmushi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Felix Casmiri Mushi</kinName>
+      <relationship>Further</relationship>
+      <postalAddress>3041 MOSHI</postalAddress>
+      <physicalAddress>3041 MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0759056826</telephone>
+      <mobile>0759056826</mobile>
+      <email>info@kcmuco.ac.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

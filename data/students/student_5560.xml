@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5560</studentId>
+  <studentName>SHAKIRU MASWABILI</studentName>
+  <accademicHistory><institution><institutionName>BUSERESERE SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1153.0147.2013</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2013</endYear></institution><institution><institutionName>BUSERESERE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>P0112.0596.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SPONSOR HESLB</sponsorName><payerId>2</payerId><postalAddress>P. O. BOX 76068</postalAddress><physicalAddress>DAR- ES-SALAAM</physicalAddress><fax>+255222772432</fax><telephone>+255222700286</telephone><mobile>+255222700286</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MASWABILI RUGAKA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 19</postalAddress><physicalAddress>CHATO</physicalAddress><fax></fax><telephone>0763539875</telephone><mobile></mobile><email></email><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SHAKIRU SIMON MASWABILI</accountName><bankAccount>0152212234800</bankAccount><bankName>CRDB</bankName><branchName>CHATO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>469e6704e530a6b0a662d7440f37a975</isaacompletechecksum></student>

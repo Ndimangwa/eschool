@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5829</studentId>
+  <studentName>HEINRICK D BRAZZA</studentName>
+  <accademicHistory><institution><institutionName>SANU SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0168.0014.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIV II</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>NYERERE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0614.0525.2015</indexNumber><award>CERTIFICATE IN ADVANCED EDUCATION</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SOLGAT BRAZZA</sponsorName><payerId>3</payerId><postalAddress>POBOX 197 KATESH</postalAddress><physicalAddress>POBOX 197 KATESH</physicalAddress><fax/><telephone>0784539435</telephone><mobile>0784539435</mobile><email>mwlbrazza@ymail.com</email><financedItem>fees for HEINRICK D BRAZA</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>HEINRICK DOITA BRAZZA</accountName><bankAccount>0152497818000</bankAccount><bankName>CRDB BANK </bankName><branchName>BABATI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>234d30a81935afbe61520176bf010d44</isaacompletechecksum></student>

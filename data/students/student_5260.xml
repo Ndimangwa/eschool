@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5260</studentId>
+  <studentName>HARIETH MAKIRIYE</studentName>
+  <accademicHistory><institution><institutionName>ST.FRANCIS GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0239.0035.2013</indexNumber><award>CSE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0248.0561.2016</indexNumber><award>ACSE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LUCRESIA MAKIRIYE</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 6289 MBEYA</postalAddress><physicalAddress>MBEYA</physicalAddress><fax>0754301324</fax><telephone>0754301324</telephone><mobile>0754301325</mobile><email>Lucresia.makiriye@nmbtz.com</email><extraInformation>NIL</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HARIETH FELICIAN MAKIRIYE</accountName><bankAccount>0152292434200</bankAccount><bankName>CRDB</bankName><branchName>MBEYA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>dabd781e1fc20c51e5463196e7439430</isaacompletechecksum></student>

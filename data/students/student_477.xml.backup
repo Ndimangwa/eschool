@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>477</studentId>
+  <studentName>SHUKURU R SARIA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AGAPE LUTHERAN J SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0184-0108</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LYAMUNGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125-0961</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPHINE E MATEMBA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>PO BOX 99 MANYARA</postalAddress>
+      <physicalAddress>PO BOX 99 MANYARA</physicalAddress>
+      <fax/>
+      <telephone>0769235459</telephone>
+      <mobile>0787355321</mobile>
+      <email>matembajose@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3534</studentId>
+  <studentName>isdori elius kimario</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MRAMBA DAY SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2022/0077</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHEZA HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S3804/0641</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772433</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>alfred roman kimario</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>p.o.box 155</postalAddress>
+      <physicalAddress>korogwe</physicalAddress>
+      <fax/>
+      <telephone>0758427173</telephone>
+      <mobile>0758427173</mobile>
+      <email>elius.isdory.@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

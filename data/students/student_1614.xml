@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1614</studentId>
+  <studentName>MBISHI A MATUMBO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AGA KHAN MZIZIMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0335/0055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SHAABAN ROBERT SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0342/0604</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DR MARGARET T NYAMBO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>60040 DAR ES SALAAM</postalAddress>
+      <physicalAddress>PLOT NO.325 ALI BIN SAID, OYSTERBAY</physicalAddress>
+      <fax/>
+      <telephone>0222666859</telephone>
+      <mobile>+255784307046</mobile>
+      <email>mtnyambo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

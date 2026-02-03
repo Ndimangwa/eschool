@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7729</studentId>
+  <studentName>ELIZABETH KASAGAMA</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>HEALTH LABORATORY SCIENCES</specialization><levelId>15</levelId><indexNumber>K160059</indexNumber><award>DEGREE OF BACHELOR OF SCIENCE IN HEALTH LABORATORY SCIENCES</award><grade>B+</grade><startYear>2012</startYear><endYear>2015</endYear></institution><institution><institutionName>MSALATO GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0214.0515.2012</indexNumber><award>ADVANCED LEVEL EDUCATION</award><grade>DIVISION 3</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>RoNeCa GIRLS HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0284.0003.2009</indexNumber><award>ORDINARY LEVEL EDUCATION</award><grade>DIVISION 1</grade><startYear>2006</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>KCMC-DUKE UNIVERSITY COLLABORATION</employerName><postalAddress>MOSHI 3010</postalAddress><physicalAddress>MOSHI,KILIMANJARO</physicalAddress><fax/><telephone>+255754290413</telephone><mobile/><email>frank2000@gmail.com</email><startYear>2015</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>DELTAS SSACAB TANZANIA</sponsorName><payerId>4</payerId><postalAddress>KCMC MOSHI 2240</postalAddress><physicalAddress>MOSHI, KILIMANJARO</physicalAddress><fax>+255272751351</fax><telephone>+255272753616</telephone><mobile/><email>info@kcmuco.ac.tz</email><financedItem>MASTERS OF SCIENCE DEGREE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FROLA NKANGA</kinName><relationship>MOTHER</relationship><postalAddress>DAR ES SALAAM 22752</postalAddress><physicalAddress>YOMBO VITUKA DAR ES SALAAM</physicalAddress><fax></fax><telephone>+255754275084</telephone><mobile>+255754275084</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ELIZABETH KASAGAMA</accountName><bankAccount>0152237229300</bankAccount><bankName>CRDB BANK</bankName><branchName>AZIKIWE </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0844f1e29a9f162314dd070cfdef0731</isaacompletechecksum></student>

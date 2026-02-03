@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4770</studentId>
+  <studentName>revocatus genes chuwa</studentName>
+  <accademicHistory><institution><institutionName>URU SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0165.0043.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>2</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MAJENGO SECONDARY SHCOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0485.0752.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>GENES JOSAPHAT CHUWA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 1867</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile>0755029635</mobile><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GENES JOSAPHAT CHUWA</kinName><relationship>FATHER</relationship><postalAddress>S.L.P 8739</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>+255757354348</telephone><mobile>0755029635</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GENES JOSAPHAT CHUWA</accountName><bankAccount>40301607496</bankAccount><bankName>NMB</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7fb65c5872ef57504c5f06820f1047f1</isaacompletechecksum></student>

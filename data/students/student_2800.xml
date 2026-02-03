@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2800</studentId>
+  <studentName>FINA PROSPER MARANDU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIFUNGIRO GIRLS SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0224.0029.1995</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HURUMA SCHOOL OF NURSING</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MOSHI MUNICIPAL</employerName>
+      <postalAddress>BOX 318</postalAddress>
+      <physicalAddress>MOSHI MUNICIPAL</physicalAddress>
+      <telephone>+255272754371</telephone>
+      <email>mkurugenzi@moshimc.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GISELA PROSPRER MARANDU</kinName>
+      <relationship>YOUNG SISTER</relationship>
+      <postalAddress>BOX 3092</postalAddress>
+      <physicalAddress>MOUNT MERU,ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>+255789595947</telephone>
+      <mobile>+255789595947</mobile>
+      <email>giselahmarandu@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MARANDU, FINA</accountName><bankAccount>0152327965000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c4b90c4f5ec3b4ef30d868e4bd9b74a4</isaacompletechecksum></student>

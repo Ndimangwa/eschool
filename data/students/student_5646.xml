@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5646</studentId>
+  <studentName>JOSEPH D MNGUMI</studentName>
+  <accademicHistory><institution><institutionName>SANU SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0168.0038.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>URU SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0165.0545.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 2</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068</postalAddress><physicalAddress>PO BOX 76068</physicalAddress><fax>0222700286</fax><telephone>0222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PHELISTER LAIRUMBE</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 3041 MOSHI</postalAddress><physicalAddress>PO BOX 3041 MOSHI</physicalAddress><fax></fax><telephone>0789197880</telephone><mobile>0789197880</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JOSEPH DAVID MNGUMI</accountName><bankAccount>0152326990200</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>48a7bb7f6b2400695a824c362cab57c8</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7466</studentId>
+  <studentName>petro Julius</studentName>
+  <accademicHistory><institution><institutionName>Don bosco Secondary school</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0883.0567.2016</indexNumber><award>cERTIFICATE OF SECONDARY EDUCATION</award><grade>12</grade><startYear>2013</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8c97416385ac059f468bc76b41237b54</isaacompletechecksum></student>

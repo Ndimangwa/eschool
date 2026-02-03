@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5898</studentId>
+  <studentName>FLORA MUHINGA</studentName>
+  <accademicHistory><institution><institutionName>HEKIMA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0232.0037.2013</indexNumber><award>CERTFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1 POINT 13</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TABORA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0220.0540.2016</indexNumber><award>ADVANCED  CERTIFCATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO POINT 10</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>FLAVIATHA A RETEMBURA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 118 MULEBA</postalAddress><physicalAddress>MULEBA</physicalAddress><fax/><telephone>0754754883</telephone><mobile>0754754883</mobile><email/><financedItem>PAYING REMAINING TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>FLORA MUHINGA</accountName><bankAccount>0152489765500</bankAccount><bankName>CRDB BANK</bankName><branchName>TABORA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8e61e0146a898f0ee68a13af72414c45</isaacompletechecksum></student>

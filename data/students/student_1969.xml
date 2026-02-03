@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1969</studentId>
+  <studentName>HASSAN YUSSUF BAKAR</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>HAMAMNI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0390-0068</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SCHOOL OF PHYSIOTHERAPY KCMC</institutionName>
+      <specialization>DIPLOMA OF PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>027592</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HAFIDH YUSSUF BAKAR</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>4548 ZANZIBAR</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <telephone>+255714864062</telephone>
+      <mobile>+255714864062</mobile>
+      <email>ibrahimyussuf11@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

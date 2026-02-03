@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2801</studentId>
+  <studentName>STEVEN BENJAMIN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MGUGU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1173-0062</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SCHOOL OF NURSING AT BEREGA</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>No. 33803</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MWANZA CITY COUNCIL</employerName>
+      <postalAddress>BOX 1333</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <telephone>+255282501375</telephone>
+      <email>cd@mwanzacc.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HILDA MNZAVA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 320</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <sponsorfax>+255769382673</sponsorfax>
+      <mobile>+255769382673</mobile>
+      <email>mnzavasteven2015@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HILDA MNZAVA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>BOX 320</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>+255769382673</telephone>
+      <mobile>+255769382673</mobile>
+      <email>MNZAVAsteven2015@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

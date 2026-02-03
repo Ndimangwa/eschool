@@ -1,0 +1,9 @@
+192.168.0.5 /24 [255.255.255.0]  --- segment--1 --  192.168.0.0
+192.168.1.4 /24 [255.255.255.0] --- segmet -- 2 --- 192.168.1.0
+
+192.168.0.5 /23 [255.255.254.0]
+
+1. Attendance -- Mwalimu achukue ; make template  -- 
+2. Gateway SMS Account Creation
+3. Parserror logout
+4. Arrows on menu

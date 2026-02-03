@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4821</studentId>
+  <studentName>KELVIN R MAKYARA</studentName>
+  <accademicHistory><institution><institutionName>MOSHI TECHNICAL SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0135.0121.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>Division 3</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>LYAMUNGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0125.0919.2016</indexNumber><award>CSE</award><grade>DIVISION 3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>RONALD M MAKYARA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 12399</postalAddress><physicalAddress>K.I.A</physicalAddress><fax/><telephone>0767346879</telephone><mobile>0767346879</mobile><email>ronaldmosses255@gmail.com</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>RONALD MOSES MAKYARA</kinName><relationship>PARENT</relationship><postalAddress>P.O.BOX 12399</postalAddress><physicalAddress>K.I.A</physicalAddress><fax/><telephone>0767346879</telephone><mobile>0767346879</mobile><email>ronaldmosses255@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KELVIN R MAKYARA</accountName><bankAccount>1000000000</bankAccount><bankName>NMB</bankName><branchName>MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9fe3de7b122832cabf3ecb0ae4fcce23</isaacompletechecksum></student>

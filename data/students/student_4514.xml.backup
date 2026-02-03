@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4514</studentId>
+  <studentName>JUMA MOHAMED NAHONYO</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>K0443</indexNumber><award>DOCTOR OF MEDICINE</award><grade>SECOND CLASS</grade><startYear>2006</startYear><endYear>2011</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S485.0122.2002</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>1999</startYear><endYear>2002</endYear></institution><institution><institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0158.0631.2005</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2003</startYear><endYear>2005</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>SIMANJIRO DISTRICT EXECUTIVE DIRECTOR</employerName><postalAddress>PO BOX 14384 SIMANJIRO</postalAddress><physicalAddress>SIMANJIRO</physicalAddress><fax>0272555679</fax><telephone>0272552225</telephone><mobile/><email>simanjiro@gmail.com</email><startYear>2013</startYear><endYear>2050</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>private</sponsorName><payerId>1</payerId><postalAddress>PO BOX 14384 SIMANJIRO</postalAddress><physicalAddress>SIMANJIRO</physicalAddress><fax/><telephone/><mobile>0766170444</mobile><email>jumanahonyo@gmail.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>JUMA MOHAMED NAHONYO</accountName><bankAccount>42410001070</bankAccount><bankName>NMB</bankName><branchName>SIMANJIRO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>896e4677f52ee7cfb3cb4814427d5c4f</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>883</studentId>
+  <studentName>clive magomele</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYANZA ADVENTIST SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4131/0064</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147/0646</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education student loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX76068</postalAddress>
+      <physicalAddress>PO BOX76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>magomele chiriko</kinName>
+      <relationship>parent</relationship>
+      <postalAddress>570</postalAddress>
+      <physicalAddress>geita</physicalAddress>
+      <fax/>
+      <telephone>0784887076</telephone>
+      <mobile>0784887076</mobile>
+      <email>cmagomele@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

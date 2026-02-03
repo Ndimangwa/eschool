@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6103</studentId>
+  <studentName>ROBERT  EVARIST</studentName>
+  <accademicHistory><institution><institutionName>MTWARA TECHNICAL SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0139.0120.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISON ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MZUMBE SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>8</levelId><indexNumber>S0140.0546.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM </physicalAddress><fax>0222700286</fax><telephone>0222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEE AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ROBERT EVARIST REGU</accountName><bankAccount>0152246842100</bankAccount><bankName>CRDB</bankName><branchName>KAHAMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>df3daa0990c1d4a16520f116b62a29ef</isaacompletechecksum></student>

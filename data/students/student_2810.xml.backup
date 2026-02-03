@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2810</studentId>
+  <studentName>Grace Chanae</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mtwara Girls Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0215-0018</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Loleza secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211-0629</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068Dar-es-salaam</postalAddress>
+      <physicalAddress>+255222772432</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Eleuter Nguma</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>55106 Dar-es-salaam</postalAddress>
+      <physicalAddress>+255713212421</physicalAddress>
+      <fax/>
+      <telephone>+255713212421</telephone>
+      <mobile>+255713212421</mobile>
+      <email>gracechanae@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

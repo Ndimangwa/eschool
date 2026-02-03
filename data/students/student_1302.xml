@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1302</studentId>
+  <studentName>GILIADI E. MOSHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AGAPE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S084-0057</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAME</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150-0594</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GRANT</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JAPHET E. MOSHI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>90100 DAR ES SALAAM</postalAddress>
+      <physicalAddress>2240 kcmc</physicalAddress>
+      <fax/>
+      <telephone>0714781432</telephone>
+      <mobile>0714781432</mobile>
+      <email>nonmendelism@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

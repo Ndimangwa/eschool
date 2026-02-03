@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1881</studentId>
+  <studentName>AGNESS PHILBERT NDUNGURU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MSOLWA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0729-0001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0107-0502</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068</postalAddress>
+      <physicalAddress>MSASANI, DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00222669036</sponsorfax>
+      <mobile>00255752493472</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PHILBERT CASPAR NDUNGURU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>679, MOROGORO</postalAddress>
+      <physicalAddress>KIHONDA, MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>0756315566</telephone>
+      <mobile>0756315566</mobile>
+      <email>ndungurupc@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

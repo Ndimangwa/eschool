@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3598</studentId>
+  <studentName>BARAKA ROBINSON</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIGOMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0320.0046.2005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0150.0514.2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA CLINICAL OFFICER'S TRAINING COLLEGE</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>35269</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DARESALAM</postalAddress>
+      <physicalAddress>DA ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SHUKURU SAMWELI KALIHOSE</kinName>
+      <relationship>FATHER IN LAW</relationship>
+      <postalAddress>BOX 120, KILOSA-MOROGORO</postalAddress>
+      <physicalAddress>DUMILA</physicalAddress>
+      <fax/>
+      <telephone>+255759228917</telephone>
+      <mobile>+255759228917</mobile>
+      <email>barakah454@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ROBINSON, BARAKA</accountName><bankAccount>0152255995400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>60bd354f58797099285155d1cb6261a7</isaacompletechecksum></student>

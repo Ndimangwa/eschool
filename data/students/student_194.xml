@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>194</studentId>
+  <studentName>Mwanaidi Pambire Kudra</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kandoto Science Girls High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s2315.0054</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kandoto Science Girls High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.2315.0522</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Kudra Pambire Salum</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2044 Moshi</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>0755452055</sponsorfax>
+      <mobile>0715452055</mobile>
+      <email>mileycudra@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mary Sarya Sarmet</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>2044 Moshi</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <telephone>0754388153</telephone>
+      <mobile>0755452055</mobile>
+      <email>mwanaidikudra@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

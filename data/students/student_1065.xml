@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1065</studentId>
+  <studentName>SIMIYU IRENE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. ANTHONY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>U0681/038</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MT. ST. MARY'S</institutionName>
+      <specialization>PCB/M</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U00063/597</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SR. ANNE NASIMIYU</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 1891, JINJA</postalAddress>
+      <physicalAddress>JINJA.</physicalAddress>
+      <fax/>
+      <sponsorfax>+254713371573</sponsorfax>
+      <mobile>+256772774029</mobile>
+      <email>anasimiyu@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SR. ANNE NASIMIYU</kinName>
+      <relationship>SUPERIOR GENERAL</relationship>
+      <postalAddress>P.O BOX 1891, JINJA</postalAddress>
+      <physicalAddress>JINJA.</physicalAddress>
+      <fax/>
+      <telephone>+254713371573</telephone>
+      <mobile>+256772774029</mobile>
+      <email>anasimiyu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

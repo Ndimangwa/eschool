@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>462</studentId>
+  <studentName>PAUL MUCHAI MBUGUA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AQUINAS HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>41001/074</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JAMHURI HIGH SCHOOL</institutionName>
+      <specialization>MCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>41003/549</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF NAIROBI</institutionName>
+      <specialization>MBCHB</specialization>
+      <levelId>15</levelId>
+      <indexNumber>H31/2314/89</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF NAIROBI</institutionName>
+      <specialization>MMED SURGERY</specialization>
+      <levelId>17</levelId>
+      <indexNumber>H51/7750/98</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH</employerName>
+      <postalAddress>110-10100</postalAddress>
+      <physicalAddress>NYERI, KENYA</physicalAddress>
+      <telephone>0202425160</telephone>
+      <email>nyerihealthexecutive@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>COUNTY GOVERNMENT OF NYERI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>110-10100</postalAddress>
+      <physicalAddress>NYRI, KENYA</physicalAddress>
+      <fax/>
+      <sponsorfax>0202425160</sponsorfax>
+      <mobile>+254722676518</mobile>
+      <email>nyerihealthexecutive@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARGARET WANJIKU MURAGURI</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>391-10100</postalAddress>
+      <physicalAddress>NYERI,KENYA</physicalAddress>
+      <fax/>
+      <telephone>+254722238379</telephone>
+      <mobile>+254722238379</mobile>
+      <email>mmwanjiku@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

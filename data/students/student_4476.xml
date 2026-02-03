@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4476</studentId>
+  <studentName>ZAKARIA ABDI MASOLI</studentName>
+  <accademicHistory><institution><institutionName>MUHAS</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>MD000730</indexNumber><award>DOCTOR OF MEDICINE</award><grade>NOT APPLICABLE</grade><startYear>2004</startYear><endYear>2010</endYear></institution><institution><institutionName>KIBAHA SEC SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0119.0604.2003</indexNumber><award>ACSE</award><grade>DIVISION ONE POINT 5</grade><startYear>2001</startYear><endYear>2003</endYear></institution><institution><institutionName>KIBASILA SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0316.0280.2000</indexNumber><award>CSE</award><grade>DIVISION ONE POINT 11</grade><startYear>1997</startYear><endYear>2000</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>KIBAHA EDUCATION CENTRE</employerName><postalAddress>P.O.BOX 30051</postalAddress><physicalAddress>KIBAHA</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2011</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH </sponsorName><payerId>11</payerId><postalAddress>P.O.BOX 9083</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email/><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ATUGANILE MWALWAJO</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 31371</postalAddress><physicalAddress>SINZA</physicalAddress><fax></fax><telephone>0713458921</telephone><mobile>0787458922</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ZAKARIA ABDI MASOLI</accountName><bankAccount>01J2405809700</bankAccount><bankName>CRDB</bankName><branchName>VIJANA </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>07ac132ea326d191f660d92ee72f514d</isaacompletechecksum></student>

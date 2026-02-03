@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>428</studentId>
+  <studentName>WILHELLMUSS MAUKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.FRANCIS DE SALES SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0180-0032</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155-0565</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUGANDO MEDICAL COLLEGE</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>SAUT/BUCHS/MD/2816/T/06</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>NATIONAL BLOOD TRANSFUSION SERVICES</employerName>
+      <postalAddress>P.O BOX 823</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>0713446522</telephone>
+      <email>abdujuma@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SELF SPONSORSHIP</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 823, moshi</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0717632257</sponsorfax>
+      <mobile>0717632257</mobile>
+      <email>wilhemauka@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DOMINIC SABUNI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>CRDB BANK-KILOSA</postalAddress>
+      <physicalAddress>MOROGORO-KILOSA</physicalAddress>
+      <fax/>
+      <telephone>0715061100</telephone>
+      <mobile>0715061100</mobile>
+      <email>dominicsabuni@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

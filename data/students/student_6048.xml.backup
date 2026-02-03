@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6048</studentId>
+  <studentName>PASCHAL MANGU</studentName>
+  <accademicHistory><institution><institutionName>SENGEREMA SEMINARY</institutionName><specialization>SCIENCE AND ARTS</specialization><levelId>4</levelId><indexNumber>S0185.0026.2011</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8bdfc5204ccd696fd792850fa3a1c82c</isaacompletechecksum></student>

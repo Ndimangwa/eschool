@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4424</studentId>
+  <studentName>DENNIS KARUGU MUREITHI</studentName>
+  <accademicHistory><institution><institutionName>HUBERT KAIRUKI MEMORIAL UNIVERSITY</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>21</levelId><indexNumber>337</indexNumber><award>DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>2007</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>KIAMBU COUNTY GOVT</employerName><postalAddress>BOX 217 THIKA</postalAddress><physicalAddress>KIAMBU</physicalAddress><fax/><telephone>+254709877000</telephone><mobile/><email>info@kiambu.o.ke</email><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>DUNCAN KAGWANJA</sponsorName><payerId>3</payerId><postalAddress>BOX 2057 NAKURU</postalAddress><physicalAddress>FREEHOLD NAKURU</physicalAddress><fax/><telephone>+254722308731</telephone><mobile/><email/><financedItem>TUITION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LILIAN WANJIKU MURIITHI</kinName><relationship>SISTER</relationship><postalAddress>BOX 2057 NAKURU</postalAddress><physicalAddress>NAKA NAKURU</physicalAddress><fax></fax><telephone>+254711516533</telephone><mobile></mobile><email>mamahope.lx@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DENNIS KARUGU MUREITHI</accountName><bankAccount>0063145025798001</bankAccount><bankName>ECO BANK KENYA</bankName><branchName>THIKA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>56c24e18385091518f140169b8fecace</isaacompletechecksum></student>

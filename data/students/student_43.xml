@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>43</studentId>
+  <studentName>venosa patric</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>karatu</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0364.0053.2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ifunda girls</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0276.0611.2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>kcmc</employerName>
+      <postalAddress>3010</postalAddress>
+      <physicalAddress>kcmc</physicalAddress>
+      <telephone>002552754377</telephone>
+      <email>info@kcmuco.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>sam nujoma roard, mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PATRICK</kinName>
+      <relationship>MY FATHER</relationship>
+      <postalAddress>6872</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0759354996</telephone>
+      <mobile>0788030095</mobile>
+      <email>pat2009@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>PATRICK, VENOSA</accountName><bankAccount>40408100028 </bankAccount><bankName> NMB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>30d66defe5aae68dc9af5ac1250d3ca2</isaacompletechecksum></student>

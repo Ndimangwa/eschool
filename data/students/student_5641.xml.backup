@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5641</studentId>
+  <studentName>CSEE</studentName>
+  <accademicHistory><institution><institutionName>DE PAUL SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3631.0028.2013</indexNumber><award>CSEE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIGONSERA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0120.0900.2016</indexNumber><award>ACSEE</award><grade>DIVISION TWO </grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0222700286</fax><telephone>0222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MARIETHA KAYOMBO</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 14</postalAddress><physicalAddress>SONGEA</physicalAddress><fax/><telephone>0655336740</telephone><mobile>0655336740</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JUENI MROPE</accountName><bankAccount>0152201527400</bankAccount><bankName>CRDB BANK</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ea0065677ddb4070169a1c4a572931d8</isaacompletechecksum></student>

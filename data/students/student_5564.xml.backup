@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5564</studentId>
+  <studentName>ISAKA JOHNICK FUNGO</studentName>
+  <accademicHistory><institution><institutionName>MWAKAVUTA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0653.0070.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>IYUNGA SECONDARY SCHOOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0112.0550.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>P O BOX 76068 DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email/><financedItem>TUTION FEE ,SFR,MA AND BS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOHNICK FUNGO</kinName><relationship>PARENT</relationship><postalAddress>P O BOX 14 MAKETE</postalAddress><physicalAddress>P O BOX 14 MAKETE</physicalAddress><fax/><telephone>0755234974</telephone><mobile>0755234974</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ISAKA JHNICK FUNGO</accountName><bankAccount>0152201533200</bankAccount><bankName>CRDB BANK</bankName><branchName>MBUYUNI BRANCHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>88429578b84119a04b51a63212ac2fa6</isaacompletechecksum></student>

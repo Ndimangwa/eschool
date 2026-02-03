@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>853</studentId>
+  <studentName>FYBERT MUGETA SIKIRA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AIRWING SECONDARY  SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0784/0162. 1999</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBITI HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0413/0553. 2002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAFINGA MEDICAL COLLAGE</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CO.MAF/06/15</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>TEMEKE MUNICIPAL DIRECTOR </employerName>
+      <postalAddress>P.O.BOX 46343</postalAddress>
+      <physicalAddress>TEMEKE DSM</physicalAddress>
+      <telephone>0022851054</telephone>
+      <email>temekemanispaa@raha.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ELIAS MUGETA SIKIRA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 36076,DSM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255654139118</sponsorfax>
+      <mobile>00255654139118</mobile>
+      <email>sikirabaraka@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ROSE JOHN MPEMBO</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>P.O. BOX 36076, DSM</postalAddress>
+      <physicalAddress>UKONGA  DSM</physicalAddress>
+      <fax/>
+      <telephone>00255754829763</telephone>
+      <mobile>00255754829763</mobile>
+      <email>rosempembo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

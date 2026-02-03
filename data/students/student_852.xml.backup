@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>852</studentId>
+  <studentName>CHARLES RAPHAEL MSANGI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MLAMA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0508/0030/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0135/596/2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>AUGUSTINE LEON MALLYA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>8255</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>002550787142718</sponsorfax>
+      <mobile>002550787142718</mobile>
+      <email>almallya@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AUGUSTINE L MALLYA</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>8255</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>002550787142718</telephone>
+      <mobile>002550787142718</mobile>
+      <email>almallya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

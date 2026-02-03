@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>562</studentId>
+  <studentName>Maitanah Adrian</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>St. Joseph Millenium Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3674.0025.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mazinde Juu</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233.0568.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Adrian John</kinName>
+      <relationship>father</relationship>
+      <postalAddress>4725, Dar es salaam</postalAddress>
+      <physicalAddress>4725, Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0255784252622</telephone>
+      <mobile>0255784252622</mobile>
+      <email>afj@flintbest.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ADRIAN, MAITANAH</accountName><bankAccount>0152327638900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d5c8b2a694c026c3d24a414c4853b81e</isaacompletechecksum></student>

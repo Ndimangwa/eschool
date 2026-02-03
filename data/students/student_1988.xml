@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1988</studentId>
+  <studentName>ARBOGAST S MIKINDO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BIHAWANA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0169/0004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KASITA SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0117/0502</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD (HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 76068 DARESALAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CHRISTINA MBEYU</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O.BOX73 KONDOA</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <telephone>0683902196</telephone>
+      <mobile>0686069067</mobile>
+      <email>tinabernard@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

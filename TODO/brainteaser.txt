@@ -1,0 +1,29 @@
+Required to find Today:
+Step 1: Let us give days numbers [You can change the numbering System]
+	0 => Sunday
+	1 => Monday
+	2 => Tuesday
+	3 => Wednesday
+	4 => Thursday
+	5 => Friday
+	6 => Saturday
+
+Step 2: "If Yesterday was Tomorrow",
+	Let find what is really tomorrow
+	tomorrow = today + 1 [One day after today]
+	
+	Then, if.yesterday was tomorrow becomes
+	"if.yesterday" = today + 1 [The problem assumes yesterday were tomorrow, so assumed yesterday becomes now our actual tomorrow]
+
+Step 3: "Today would have been Saturday"
+	note : from step 2, "if.yesterday" = today + 1 [assumed yesterday]
+	then "if.today" = "if.yesterday" + 1 [Assumed today, a day after assumed yesterday]
+	so "if.today" = (today + 1) + 1 OR today + 2
+	But we know "if.today" = Saturday which is 6 [from step 1]
+	so "if.today" = 6 (Saturday) = today + 2
+	We get : today + 2 = 6
+	today = 6 -2
+	today  = 4
+	From step 1, 4 represents Thursday 
+We conclude the teacher made that statement on THURSDAY
+[By Ndimangwa N Fadhili]

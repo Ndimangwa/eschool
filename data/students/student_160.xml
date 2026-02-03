@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>160</studentId>
+  <studentName>james a msoffe</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>chanjale seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0420-0031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>muheza high school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s3804-0555</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068,dar</postalAddress>
+      <physicalAddress>sam nujoma road, mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>alex</kinName>
+      <relationship>father</relationship>
+      <postalAddress>p.o.box 35</postalAddress>
+      <physicalAddress>kilomeni mwanga</physicalAddress>
+      <fax/>
+      <telephone>00255785114277</telephone>
+      <mobile>00255785114277</mobile>
+      <email>msoffealex@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

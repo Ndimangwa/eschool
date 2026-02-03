@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5166</studentId>
+  <studentName>ANGELA MICHAEL LUUMI</studentName>
+  <accademicHistory><institution><institutionName>MARIA DE MATTIAS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4207.0008.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S1187.0514.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O . BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+225222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>ACADEMIC FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CELINA MUHALE CHUWA</kinName><relationship>MOTHER</relationship><postalAddress>P.O. BOX 910</postalAddress><physicalAddress>DODOMA</physicalAddress><fax></fax><telephone>0715364660</telephone><mobile>0715364660</mobile><email>chuwacel@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ANGELA MICHAEL LUUMI</accountName><bankAccount>0152220221700</bankAccount><bankName>CRDBR</bankName><branchName>DODOMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d16b7b5fc82d8e522176aafad6dfa406</isaacompletechecksum></student>

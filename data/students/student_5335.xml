@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5335</studentId>
+  <studentName>MOHAMED ABDALLAH SULTAN</studentName>
+  <accademicHistory><institution><institutionName>RAU SECONDARY SCHOOL</institutionName><specialization>SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S3675.0096.2008</indexNumber><award>SECONDARY EDUCATION</award><grade>PASS</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>KCMC</institutionName><specialization>PHYSIOTHERAPY</specialization><levelId>12</levelId><indexNumber>37337</indexNumber><award>DIPLOMA IN PHYSIOTHERAPY</award><grade>PASS</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>RAS KILIMANJARO</employerName><postalAddress>P.O BOX 3070</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile>0784270775</mobile><email>raskilimanjaro@pmoralg.go.tz</email><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR-ES-SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ABDALLAH HUSSEIN SULTAN</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 1376</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>+2550272755776</telephone><mobile>0755451189</mobile><email>abdalla.hussein1951@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MOHAMED A. SULTAN</accountName><bankAccount>0152328259800</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>dce4610159c9e0fc5d489050f38d3ae3</isaacompletechecksum></student>

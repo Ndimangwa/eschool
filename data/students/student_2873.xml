@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2873</studentId>
+  <studentName>LINNA ABRAHAM NJAU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UROKI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0514.0014.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NGANZA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0216.0731.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MARIAM SUMARY</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1816</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>00255766434535</sponsorfax>
+      <mobile>00255787399106</mobile>
+      <email>drfirmlynah@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARIAM SUMARY</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>1816</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00255766434535</telephone>
+      <mobile>00255787399106</mobile>
+      <email>drfirmlynah@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NJAU, LINNA ABRAHAM</accountName><bankAccount>0152327900700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1899d225776ec798eef4ecdb455048b4</isaacompletechecksum></student>

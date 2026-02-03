@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>714</studentId>
+  <studentName>LUCY ANDREA TARIMO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAJENGO SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0485.0099</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MSALATO GIRLS</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0214.0542</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DSM</postalAddress>
+      <physicalAddress>76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>andrew honorati tarimo</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>3024 MOSHI</postalAddress>
+      <physicalAddress>3024 MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0754748703</telephone>
+      <mobile>0754748703</mobile>
+      <email>www.andrewtarimo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

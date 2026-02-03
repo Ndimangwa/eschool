@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5421</studentId>
+  <studentName>HABIB HASSAN DAREMAJECK</studentName>
+  <accademicHistory><institution><institutionName>MAIRIVA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2295.0103.2013</indexNumber><award>CSEE</award><grade>3.28</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>EDMUND RICE SINON SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0629.0643.2016</indexNumber><award>ACSEE</award><grade>3.14</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HASSAN ATHMAN DAREMAJECK</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 12724</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0754309697</telephone><mobile>0754468231</mobile><email>habibuhassan257@gmail.com</email><financedItem>tuition fee</financedItem><extraInformation>none</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HASSAN ATHMAN DAREMAJECK</kinName><relationship>PARENTS</relationship><postalAddress>P.O.BOX 12724</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax>0754309697</fax><telephone>0754468231</telephone><mobile>0754460289</mobile><email>habibuhassan@gmail.com</email><extraInformation>none</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HABIBU HASSAN ATHMAN</accountName><bankAccount>035206009631</bankAccount><bankName>NATIONAL BANK OF COMERCE</bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2ba4561f2835c4bec761d73d34979563</isaacompletechecksum></student>

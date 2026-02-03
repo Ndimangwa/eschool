@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2966</studentId>
+  <studentName>KAJORO AUGUSTINO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UMOJA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0631/0048</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAZENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0131-0535</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>MD000184</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ST.GASPAR REF HOSP</employerName>
+      <postalAddress>P.O.Box 12 Itigi Singida</postalAddress>
+      <physicalAddress>P.O.Box 12 Itigi Singida</physicalAddress>
+      <telephone>00255732960684</telephone>
+      <email>info@stgasparhospital.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ST.GASPAR REF HOSP</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 12 Itigi Singida</postalAddress>
+      <physicalAddress>P.O.Box 12 Itigi Singida</physicalAddress>
+      <fax/>
+      <sponsorfax>00255732960684</sponsorfax>
+      <mobile>+255755454040</mobile>
+      <email>info@stgasparhospital.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MINANI AUGUSTINO</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>p.O.Box 12 Itigi Singida</postalAddress>
+      <physicalAddress>p.O.Box 12 Itigi Singida</physicalAddress>
+      <fax/>
+      <telephone>00255717548277</telephone>
+      <mobile>+255689893367</mobile>
+      <email>mphayozminani@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

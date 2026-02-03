@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>880</studentId>
+  <studentName>Jackson John Mbise</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Maji Ya Chai</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1098.0115.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Majengo</institutionName>
+      <specialization>Pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485.0843.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dsm</postalAddress>
+      <physicalAddress>76068 Dsm</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>John Johnson Malya</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>1098 Moshi</postalAddress>
+      <physicalAddress>1098 Moshi</physicalAddress>
+      <fax/>
+      <telephone>0753851859</telephone>
+      <mobile>0753851859</mobile>
+      <email>johnmalya@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MBISE, JACKSON JOHN</accountName><bankAccount>0152407837100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>bbd3558d0fa747506da0b9edc85fc105</isaacompletechecksum></student>

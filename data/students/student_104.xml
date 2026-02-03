@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>104</studentId>
+  <studentName>JENSON DANIEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. ANTHONY SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0534/0165</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AL-MUNTAZIR ISLAMIC SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0437/0538</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068</postalAddress>
+      <physicalAddress>DSM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DEOGRATIAS DANIEL NGEIYAMU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.Box 77789</postalAddress>
+      <physicalAddress>ILALA DSM</physicalAddress>
+      <fax/>
+      <telephone>+255764840430</telephone>
+      <mobile>+255764840430</mobile>
+      <email>danieldeo2007@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

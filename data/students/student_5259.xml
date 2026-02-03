@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5259</studentId>
+  <studentName>JACKSON LAURENCE NZIKU</studentName>
+  <accademicHistory><institution><institutionName>MBOGAMO SECONDARY SCHOOL</institutionName><specialization>ART AND SCIENCE</specialization><levelId>4</levelId><indexNumber>S3844.0037.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2014</endYear></institution><institution><institutionName>KALANGALALA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0706.0602.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEES,ACCOMODATION</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ANORD L NZIKU</kinName><relationship>BROTHER</relationship><postalAddress>S.L.P 902 MATALAWE SDA CHURCH</postalAddress><physicalAddress>NJOMBE</physicalAddress><fax></fax><telephone>0762779314</telephone><mobile>0762779314</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JACKSON LAURENCE NZIKU</accountName><bankAccount>0152351458300</bankAccount><bankName>CRDB BANK</bankName><branchName>NJOMBE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b45bb86becdde204090039c4a4df244f</isaacompletechecksum></student>

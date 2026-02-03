@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2846</studentId>
+  <studentName>happiness kayanda</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>bariadi secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0712.0010.2001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>bugando school of nursing</institutionName>
+      <specialization>diploma in nursing</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>arusha city director</employerName>
+      <postalAddress>box 3013</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <telephone>0732979842</telephone>
+      <email>arusha@arusha.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772433</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.gotz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>jacob makala</kinName>
+      <relationship>husband</relationship>
+      <postalAddress>box 1330</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <telephone>0755369090</telephone>
+      <mobile>0755369090</mobile>
+      <email>jacobmakala@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KAYANDA, HAPPINESS</accountName><bankAccount>0152326533800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c8f66babd897a89acfcba03a00c3958b</isaacompletechecksum></student>

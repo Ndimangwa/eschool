@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>370</studentId>
+  <studentName>Neema Emmanuel Kadogosa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Queen Of Family Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0297-0043</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Msalato Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0214-0542</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068 Dar</postalAddress>
+      <physicalAddress>Sam Nujoma Road,Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+225222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Emmanuel Kadogosa</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>104Kahama</postalAddress>
+      <physicalAddress>104Kahama</physicalAddress>
+      <fax/>
+      <telephone>0756171757</telephone>
+      <mobile>0756171757</mobile>
+      <email>stephenbunbala@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

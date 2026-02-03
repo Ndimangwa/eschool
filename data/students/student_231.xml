@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>231</studentId>
+  <studentName>Rachel Titus Pesha</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kibosho secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0205/0132</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Salesian Seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0175/0508</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Titus Kazon Pesha</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>2718 Dodoma</postalAddress>
+      <physicalAddress>Area D</physicalAddress>
+      <fax/>
+      <telephone>0713897325</telephone>
+      <mobile>0713897325</mobile>
+      <email>tkpesham@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

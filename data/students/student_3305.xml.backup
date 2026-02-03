@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3305</studentId>
+  <studentName>KULWA JOHN BATULE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LAMADI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2244-0112</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KWIRO SECONDARY SCHOOL</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0123-0652</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>OLD MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>P0134-0540</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068 DAR</postalAddress>
+      <physicalAddress>P.O.BOX 76068 DAR</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BECHA</kinName>
+      <relationship>SINGLE</relationship>
+      <postalAddress>P.O.BOX 2240 MOSHI</postalAddress>
+      <physicalAddress>P.O.BOX 2240 MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0768743739</telephone>
+      <mobile>0674522953</mobile>
+      <email>baturejohnd@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

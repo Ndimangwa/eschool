@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5287</studentId>
+  <studentName>DEOGRASIAS FERDINAND NZOBAKENGA</studentName>
+  <accademicHistory><institution><institutionName>ST.JOSEPH'S ITERAMBOGO SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0159.0009.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE  </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIBAHA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0119.0565.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION &amp; STIPEND </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FERDINAND KUHANGAIKA</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX  KASULU193</postalAddress><physicalAddress>KASULU ,KIGOMA</physicalAddress><fax></fax><telephone>0768534445</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DEOGRASIAS FERDINAND NZOBAKENGA</accountName><bankAccount>0152201515100</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e695b48a2b4c42fe83c934ac7f343365</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3309</studentId>
+  <studentName>AMANI Y MSANGI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SINON SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1147/0169</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UMBWE SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO160-0794</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 dar es salaam</postalAddress>
+      <physicalAddress>mwenge, dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>amani yasini msangi</kinName>
+      <relationship>single</relationship>
+      <postalAddress>13191 arusha</postalAddress>
+      <physicalAddress>sinoni, arusha</physicalAddress>
+      <fax/>
+      <telephone>0752961337</telephone>
+      <mobile>0752961337</mobile>
+      <email>ammanyassin@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3371</studentId>
+  <studentName>Gasper P Temba</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISHUMUNDU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0492-0024</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0542</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLEGE</institutionName>
+      <specialization>DEGREE OF DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K160089</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DISTRICT EXECUTIVE DIRECTOR</employerName>
+      <postalAddress>686</postalAddress>
+      <physicalAddress>MLELE-KATAVI</physicalAddress>
+      <telephone>0252957107</telephone>
+      <email>mleledc@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MLELE DISTRICT COUNCIL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>686</postalAddress>
+      <physicalAddress>MLELE-KATAVI</physicalAddress>
+      <fax/>
+      <sponsorfax>0252957107</sponsorfax>
+      <mobile>+255754599107</mobile>
+      <email>mleledc@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIZABETH PAUL TEMBA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>1334</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+2550759823313</telephone>
+      <mobile>+2550759823313</mobile>
+      <email>eliza@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

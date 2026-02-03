@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3935</studentId>
+  <studentName>Glory Oswald Kibona</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>St.Clara Girls' Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4556.0025.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St.Christina High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0255.0538.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD(HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es Salaam ,Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Osward Elia</kinName>
+      <relationship>father</relationship>
+      <postalAddress>240</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <telephone>0784209019</telephone>
+      <mobile>0784209019</mobile>
+      <email>oswaldelia@jti.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KIBONA, GLORY OSWALD</accountName><bankAccount>0152387830600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9e02928c494e335dadba1c07bd3c39f4</isaacompletechecksum></student>

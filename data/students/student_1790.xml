@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1790</studentId>
+  <studentName>HUSNA SALUM LUSASI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILOMENI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0491/0024</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST MATTHEW'S SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1071/0595</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARY E. NSALAMBA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>2 URAMBO</postalAddress>
+      <physicalAddress>2 URAMBO</physicalAddress>
+      <fax/>
+      <telephone>+255784642204</telephone>
+      <mobile>+255784642204</mobile>
+      <email>husna.lusasi2@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

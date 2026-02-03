@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3031</studentId>
+  <studentName>FIDES BALTAZAR MAMIRO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UOMBONI SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0486-0005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHEZA NURSING TRAINING CENTRE</institutionName>
+      <specialization>NURSE OFFICER</specialization>
+      <levelId>8</levelId>
+      <indexNumber>20139</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS-KILIMANJARO</employerName>
+      <postalAddress>3070</postalAddress>
+      <physicalAddress>KILIMANJARO</physicalAddress>
+      <telephone>0272754236</telephone>
+      <email>ras.kilimanjaro@pmoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>BODI YA MKOPO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>002552772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CLEMENCE A MALLYA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>1352</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0759216322</telephone>
+      <mobile>0759216322</mobile>
+      <email>clemencemallya26@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

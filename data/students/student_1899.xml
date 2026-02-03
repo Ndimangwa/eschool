@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1899</studentId>
+  <studentName>TATHEER ZULFIQAR MOHAMEDALI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TZ023</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TZ023</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>TAHIR MOHAMEDALI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>15173</postalAddress>
+      <physicalAddress>MOROGORO STREET</physicalAddress>
+      <fax/>
+      <sponsorfax>0712743888</sponsorfax>
+      <mobile>0712743888</mobile>
+      <email>tahir@evac.co.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ZULFIQAR MOHAMEDALI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>15173</postalAddress>
+      <physicalAddress>aggrey street</physicalAddress>
+      <fax/>
+      <telephone>0787362949</telephone>
+      <mobile>0787362949</mobile>
+      <email>zully@evac.co.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

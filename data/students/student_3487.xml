@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3487</studentId>
+  <studentName>Sadiq Sibtain Dawood</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>The Cambridge High School Dubai</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>AE105/0019</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>English Medium School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>T011896</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Hubert Kairuki Memorial University</institutionName>
+      <specialization>No</specialization>
+      <levelId>15</levelId>
+      <indexNumber>0314</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Jaffery Charitable Medical Services</employerName>
+      <postalAddress>109, Moshi</postalAddress>
+      <physicalAddress>Moshi, TANZANIA</physicalAddress>
+      <telephone>0272751843</telephone>
+      <email>jcmsmoshi@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Sadiq Sibtain Dawood</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>109, Moshi</postalAddress>
+      <physicalAddress>KSIJ Complex, Arusha Road, Moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>0684036307</sponsorfax>
+      <mobile>0684036307</mobile>
+      <email>sadiqdawood@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Anila Dawood</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>109, Moshi</postalAddress>
+      <physicalAddress>Dar es Salaam, TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>0783183153</telephone>
+      <mobile>0783183153</mobile>
+      <email>anilad@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

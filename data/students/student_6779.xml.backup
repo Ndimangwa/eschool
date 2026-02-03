@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6779</studentId>
+  <studentName>Tosten Baltazary Minja</studentName>
+  <accademicHistory><institution><institutionName>Mlang'a secondary school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S4517.0147.2013</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0485.0772.2016</indexNumber><award>ACSEE</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX76068</postalAddress><physicalAddress>P.O.BOX76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>FEE AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Tosten Minja</accountName><bankAccount>4107733804455475</bankAccount><bankName>CRDB</bankName><branchName>MARANGU MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>321319b3e71a253ea5038d6dac8d9ab3</isaacompletechecksum></student>

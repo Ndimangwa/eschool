@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2639</studentId>
+  <studentName>Bartholomeo Nicholaus Ngowi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mawenzi secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0328-0111</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Old Moshi secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0512</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tumaini University-KCMCollege</institutionName>
+      <specialization>doctor of medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K 0328</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GSF KCMC</employerName>
+      <postalAddress>box 3010</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <telephone>0272754377</telephone>
+      <email>info@KCMC.org</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GSF KCMC</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 3010</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>0272754377</sponsorfax>
+      <mobile>0272754377</mobile>
+      <email>info@KCMC.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Getrude Temba</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>Box 7353</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>0757573909</telephone>
+      <mobile>0757573909</mobile>
+      <email>getemba@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

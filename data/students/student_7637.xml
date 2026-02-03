@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7637</studentId>
+  <studentName>SEVERA FRATERN MINJA</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DIPLOMA IN HEALTH LABORATORY SCIENCE</specialization><levelId>4</levelId><indexNumber>S1038.0068.2014</indexNumber><award>NONE</award><grade>MERIT 2.9</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>AUGUST THADEUS MINJA</sponsorName><payerId>7</payerId><postalAddress>P.O.BOX.11726</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>+255787378442</telephone><mobile>0787378442</mobile><email/><financedItem>COLLEGE FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FRATERN CASMIRI MINJA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX.922</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>+255759360014</telephone><mobile>0759360014</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SEVERA FRATERN MINJA</accountName><bankAccount>0147084503001</bankAccount><bankName>DTB </bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e1ccf362dcdbdcf4a21748c54d4feacd</isaacompletechecksum></student>

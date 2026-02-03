@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>417</studentId>
+  <studentName>Selina Habash</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Usagara Secondary Schol</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0345-016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Popatlal Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0340-0502</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tumaini University of KCM College</institutionName>
+      <specialization>Doctor of Medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>S97/TZ/0002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tumaini University of KCM College</institutionName>
+      <specialization>Clinical Research</specialization>
+      <levelId>17</levelId>
+      <indexNumber>KCMC/MSc CLRS/T001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>NIMR</employerName>
+      <postalAddress>P.O.Box 5004</postalAddress>
+      <physicalAddress>Bombo area, Tanga</physicalAddress>
+      <telephone>00255272647957</telephone>
+      <email>marthalemnge@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>COSTECH</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 4302</postalAddress>
+      <physicalAddress>Ally Hassan Mwinyi Road, Kijitonyama</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222700745</sponsorfax>
+      <mobile>00255222700745</mobile>
+      <email>info@costech.or.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Isaack Mandara</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>P.O.Box 1128</postalAddress>
+      <physicalAddress>Karume Road MB64</physicalAddress>
+      <fax/>
+      <telephone>00255784446622</telephone>
+      <mobile>00255784446622</mobile>
+      <email>ick.mandara@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

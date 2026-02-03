@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4899</studentId>
+  <studentName>KESSY JOSEPH MARCO</studentName>
+  <accademicHistory><institution><institutionName>ST. CHARLES LWANGA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E0016.3965.2011</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>B-</grade><startYear>2008</startYear><endYear>2011</endYear></institution><institution><institutionName>EDMUND RICE SINON SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0629.0670.2014</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2012</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation>www.heslb.go.tz</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GRACEANNA DIDAS SHAYO</kinName><relationship>PARENT</relationship><postalAddress>P.O.BOX 7182</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>+255687318261</telephone><mobile>+255687318261</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KESSY JOSEPH MARCO</accountName><bankAccount>0152204863000</bankAccount><bankName>CRDB </bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>57999ef57309d3012dcb038a817e8ba7</isaacompletechecksum></student>

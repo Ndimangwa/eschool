@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3613</studentId>
+  <studentName>JACKLINE  LETUS  KIMBE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ISIMILA  SECONDARY  SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1144-0039</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>27813</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED  MB0ZI</employerName>
+      <postalAddress>70</postalAddress>
+      <physicalAddress>MBOZI</physicalAddress>
+      <telephone>0252580272</telephone>
+      <email>ded.mbozi@mbeya.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>JACKLINE  LETUS  KIMBE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>70</postalAddress>
+      <physicalAddress>MBOZI</physicalAddress>
+      <fax/>
+      <sponsorfax>0754694604</sponsorfax>
+      <mobile>0754694604</mobile>
+      <email>Jacklinekimbe@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ERICK  LETUS  KIMBE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>KILOSA</postalAddress>
+      <physicalAddress>KILOSA</physicalAddress>
+      <fax/>
+      <telephone>0763173823</telephone>
+      <mobile>0763173823</mobile>
+      <email>erickkimbe@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

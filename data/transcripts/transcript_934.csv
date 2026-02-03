@@ -1,0 +1,202 @@
+@-header,flags_!_0,,,,,,,,,,,,,
+@-header,studentId_!_934,,,,,,,,,,,,,
+@-header,dateOfBirth_!_1994:5:24:00:00:00,,,,,,,,,,,,,
+@-header,sexId_!_2,,,,,,,,,,,,,
+@-header,sexName_!_Female,,,,,,,,,,,,,
+@-header,profileId_!_1,,,,,,,,,,,,,
+@-header,profileName_!_Kilimanjaro Christian Medical University College,,,,,,,,,,,,,
+@-header,profileCity_!_Moshi,,,,,,,,,,,,,
+@-header,profilePostalAddress_!_P.O Box 2240, Moshi,,,,,,,,,,,,,
+@-header,profileWebsite_!_www.kcmuco.ac.tz,,,,,,,,,,,,,
+@-header,profileCountryId_!_227,,,,,,,,,,,,,
+@-header,profileCountryName_!_Tanzania,,,,,,,,,,,,,
+@-header,systemName_!_University Management Information System,,,,,,,,,,,,,
+@-header,postalAddress_!_294,,,,,,,,,,,,,
+@-header,physicalAddress_!_TANGA,,,,,,,,,,,,,
+@-header,countryId_!_227,,,,,,,,,,,,,
+@-header,countryName_!_Tanzania,,,,,,,,,,,,,
+@-header,registrationNumber_!_TUMA/KCMUCo/BScHLSc.2014/2015/TZ/0345,,,,,,,,,,,,,
+@-header,fullname_!_MARYJMSUMARI,,,,,,,,,,,,,
+@-header,firstname_!_MARY,,,,,,,,,,,,,
+@-header,middlename_!_JOHN,,,,,,,,,,,,,
+@-header,lastname_!_MSUMARI,,,,,,,,,,,,,
+@-header,compilationTime_!_2018:04:09:11:43:58,,,,,,,,,,,,,
+@-header,fileType_!_transcript,,,,,,,,,,,,,
+@-header,courseId_!_8,,,,,,,,,,,,,
+@-header,courseCode_!_BScHLSc,,,,,,,,,,,,,
+@-header,courseName_!_Bachelor of Science in Health Laboratory Science,,,,,,,,,,,,,
+@-header,duration_!_3,,,,,,,,,,,,,
+@-header,levelId_!_15,,,,,,,,,,,,,
+@-header,levelName_!_Bachelor Degree,,,,,,,,,,,,,
+@-header,levelCode_!_8,,,,,,,,,,,,,
+@-header,departmentId_!_2,,,,,,,,,,,,,
+@-header,departmentName_!_Faculty of Medicine,,,,,,,,,,,,,
+@-header,admissionYearId_!_6,,,,,,,,,,,,,
+@-header,admissionYearName_!_2014/2015,,,,,,,,,,,,,
+@-header,admissionYearNumber_!_6,,,,,,,,,,,,,
+@-header,currentBatchId_!_6,,,,,,,,,,,,,
+@-header,currentBatchName_!_2014/2015,,,,,,,,,,,,,
+@-header,currentBatchNumber_!_6,,,,,,,,,,,,,
+@-header,lastResultsCummulativeSemester_!_6,,,,,,,,,,,,,
+@-header,currentCummulativeSemester_!_6,,,,,,,,,,,,,
+@-header,allSemestersIncluded_!_1,,,,,,,,,,,,,
+@-header,numberOfSemestersPerYear_!_2,,,,,,,,,,,,,
+@-header,graduated_!_0,,,,,,,,,,,,,
+@-header,grade_0_id_!_1,,,,,,,,,,,,,
+@-header,grade_0_name_!_A,,,,,,,,,,,,,
+@-header,grade_0_point_!_5,,,,,,,,,,,,,
+@-header,grade_0_lowestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_0_highestMarks_!_101,,,,,,,,,,,,,
+@-header,grade_0_extraInformation_!_Excellent,,,,,,,,,,,,,
+@-header,grade_1_id_!_2,,,,,,,,,,,,,
+@-header,grade_1_name_!_B+,,,,,,,,,,,,,
+@-header,grade_1_point_!_4,,,,,,,,,,,,,
+@-header,grade_1_lowestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_1_highestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_1_extraInformation_!_Very Good,,,,,,,,,,,,,
+@-header,grade_2_id_!_3,,,,,,,,,,,,,
+@-header,grade_2_name_!_B,,,,,,,,,,,,,
+@-header,grade_2_point_!_3,,,,,,,,,,,,,
+@-header,grade_2_lowestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_2_highestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_2_extraInformation_!_Good,,,,,,,,,,,,,
+@-header,grade_3_id_!_4,,,,,,,,,,,,,
+@-header,grade_3_name_!_C,,,,,,,,,,,,,
+@-header,grade_3_point_!_2,,,,,,,,,,,,,
+@-header,grade_3_lowestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_3_highestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,grade_4_id_!_5,,,,,,,,,,,,,
+@-header,grade_4_name_!_D,,,,,,,,,,,,,
+@-header,grade_4_point_!_1,,,,,,,,,,,,,
+@-header,grade_4_lowestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_4_highestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_4_extraInformation_!_Supplimentary,,,,,,,,,,,,,
+@-header,grade_5_id_!_6,,,,,,,,,,,,,
+@-header,grade_5_name_!_E,,,,,,,,,,,,,
+@-header,grade_5_point_!_0,,,,,,,,,,,,,
+@-header,grade_5_lowestMarks_!_0,,,,,,,,,,,,,
+@-header,grade_5_highestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_5_extraInformation_!_Supplementary,,,,,,,,,,,,,
+@-header,grade_6_id_!_7,,,,,,,,,,,,,
+@-header,grade_6_name_!_I,,,,,,,,,,,,,
+@-header,grade_6_point_!_0,,,,,,,,,,,,,
+@-header,grade_6_lowestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_highestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_extraInformation_!_Incomplete,,,,,,,,,,,,,
+@-header,award_0_id_!_1,,,,,,,,,,,,,
+@-header,award_0_name_!_First Class,,,,,,,,,,,,,
+@-header,award_0_lowestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_0_highestGPA_!_5.1,,,,,,,,,,,,,
+@-header,award_0_extraInformation_!_First Class,,,,,,,,,,,,,
+@-header,award_1_id_!_2,,,,,,,,,,,,,
+@-header,award_1_name_!_Upper Second,,,,,,,,,,,,,
+@-header,award_1_lowestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_1_highestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_1_extraInformation_!_Upper Second,,,,,,,,,,,,,
+@-header,award_2_id_!_3,,,,,,,,,,,,,
+@-header,award_2_name_!_Lower Second,,,,,,,,,,,,,
+@-header,award_2_lowestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_2_highestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_2_extraInformation_!_Lower Second,,,,,,,,,,,,,
+@-header,award_3_id_!_4,,,,,,,,,,,,,
+@-header,award_3_name_!_Pass,,,,,,,,,,,,,
+@-header,award_3_lowestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_3_highestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,award_4_id_!_5,,,,,,,,,,,,,
+@-header,award_4_name_!_No Award,,,,,,,,,,,,,
+@-header,award_4_lowestGPA_!_0.0,,,,,,,,,,,,,
+@-header,award_4_highestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_4_extraInformation_!_No Award,,,,,,,,,,,,,
+@-header,sem_1_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_1_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_1_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_1_totalModulePoints_!_204,,,,,,,,,,,,,
+@-header,sem_1_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_1_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_1_gpa_!_3.4,,,,,,,,,,,,,
+@-header,sem_2_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_2_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_2_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_2_totalModulePoints_!_166,,,,,,,,,,,,,
+@-header,sem_2_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_2_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_2_gpa_!_2.7,,,,,,,,,,,,,
+@-header,sem_3_awardId_!_4,,,,,,,,,,,,,
+@-header,sem_3_awardName_!_Pass,,,,,,,,,,,,,
+@-header,sem_3_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_3_totalModulePoints_!_145.7,,,,,,,,,,,,,
+@-header,sem_3_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_3_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_3_gpa_!_2.4,,,,,,,,,,,,,
+@-header,sem_4_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_4_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_4_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_4_totalModulePoints_!_180,,,,,,,,,,,,,
+@-header,sem_4_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_4_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_4_gpa_!_3,,,,,,,,,,,,,
+@-header,sem_5_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_5_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_5_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_5_totalModulePoints_!_162,,,,,,,,,,,,,
+@-header,sem_5_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_5_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_5_gpa_!_2.7,,,,,,,,,,,,,
+@-header,sem_6_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_6_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_6_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_6_totalModulePoints_!_218,,,,,,,,,,,,,
+@-header,sem_6_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_6_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_6_gpa_!_3.6,,,,,,,,,,,,,
+@-header,gpa_!_2.9,,,,,,,,,,,,,
+@-header,awardId_!_3,,,,,,,,,,,,,
+@-header,awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,cleared_!_,,,,,,,,,,,,,
+@-header,filename_!_transcript_934.csv,,,,,,,,,,,,,
+@-business-logic-begin,,,,,,,,,,,,,,
+208,1,6,2014/2015,0,,,Communication Skills,CS 100,,68,3,B,3,4
+209,1,6,2014/2015,0,,,Computer Applications,IT 101,,74,2,B+,4,4
+210,1,6,2014/2015,0,,,Basic Chemistry,CEM 100,,63,3,B,3,12
+211,1,6,2014/2015,0,,,Basic Physics,PHY 100,,71,2,B+,4,12
+367,1,6,2014/2015,0,,,Development Studies,BDS118,,83,1,A,5,4
+928,1,6,2014/2015,0,,,Anatomy,ANA 114,,66,3,B,3,12
+929,1,6,2014/2015,0,,,Physiology,PH 104,,61,3,B,3,12
+218,2,6,2014/2015,0,,,Biochemistry,BIOC 101,,57,4,C,2,11
+219,2,6,2014/2015,0,,,Histotechnology,HIST 101,,65,3,B,3,9
+359,2,6,2014/2015,0,,,Haematology,HEM 122,,64,3,B,3,6
+360,2,6,2014/2015,0,,,Health Laboratory Management,MAN 3619,,65,3,B,3,10
+361,2,6,2014/2015,0,,,Blood Transfussion,BT 102,,72,2,B+,4,6
+362,2,6,2014/2015,0,,,Physiology,DOC1102,,67,3,B,3,9
+363,2,6,2014/2015,0,,,Anatomy,DOC1101,,58,4,C,2,9
+207,3,7,2015/2016,0,,,Parasitology,PAR 3626,,64,3,B,3,7.2
+223,3,7,2015/2016,0,,,Clinical Chemistry,CC 201,,57,4,C,2,9.8
+224,3,7,2015/2016,0,,,Histotechnology,HIST 201,,50,4,C,2,8.5
+335,3,7,2015/2016,0,,,Haematology,HAE 201,,60,3,B,3,4
+336,3,7,2015/2016,0,,,Blood Transfussion Science,BTS 201,,53,4,C,2,5
+339,3,7,2015/2016,0,,,Foundation of Faith,BFF119,,75,2,B+,4,2.5
+355,3,7,2015/2016,0,,,Lab Animal Sciences,LA 100,,60,3,B,3,3.5
+356,3,7,2015/2016,0,,,Basic Pathology,BP201,,50,4,C,2,6
+357,3,7,2015/2016,0,,,Immunology,IM201,,69,3,B,3,6
+358,3,7,2015/2016,0,,,Microbiology,MIC 2423,,50,4,C,2,7.5
+228,4,7,2015/2016,0,,,Clinical Chemistry,CC 202,,59,4,C,2,9.5
+229,4,7,2015/2016,0,,,Histotechnology,HIST 202,,68,3,B,3,8.5
+231,4,7,2015/2016,0,,,Paraitologyand Entomology,PARA 202,,59,4,C,2,7
+375,4,7,2015/2016,0,,,Blood Transfusion,BTR 202,,65,3,B,3,9
+377,4,7,2015/2016,0,,,Basic Pathology,BAP 202,,78,2,B+,4,9
+379,4,7,2015/2016,0,,,Microbiology,MIB 202,,66,3,B,3,9.5
+961,4,7,2015/2016,0,,,Haematology,HAE 301,,71,2,B+,4,7.5
+232,5,8,2016/2017,0,,,Molecular  Biology,BIO 301,,62,3,B,3,15
+291,5,8,2016/2017,0,,,Lab Quality System,LQS0301,,65,3,B,3,12
+351,5,8,2016/2017,0,,,Research Methodology ,RSM 304,,53,4,C,2,18
+962,5,8,2016/2017,0,,,Epidemiology and Biostatistics,EPIBIO 301,,63,3,B,3,15
+242,6,8,2016/2017,0,,,Clinical Chemistry,CC 302,,61,3,B,3,9
+243,6,8,2016/2017,0,,,Histotechnology,HIST 302,,64,3,B,3,9
+244,6,8,2016/2017,0,,,Haematology and Transfusion Science,HAEM  302,,69,3,B,3,9
+245,6,8,2016/2017,0,,,Parasitology and Entomology,PARA 302,,69,3,B,3,5
+698,6,8,2016/2017,0,,,Microbiology,MIN 104,,71,2,B+,4,9
+703,6,8,2016/2017,0,,,Blood Transfusion,BTR 202,,75,2,B+,4,9
+706,6,8,2016/2017,0,,,Research Report,RER 300,,83,1,A,5,10
+@-business-logic-end,,,,,,,,,,,,,,

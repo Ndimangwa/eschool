@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5216</studentId>
+  <studentName>ALOYCE G MLYOMI</studentName>
+  <accademicHistory><institution><institutionName>NEW ERA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1375.0125.2013</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KAZIMA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0314.0532.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GEORGE FREDERICK MPEPO</kinName><relationship>FATHER</relationship><postalAddress>P O BOX 174 TABORA MUNICIPAL</postalAddress><physicalAddress>TABORA MUNICIPAL</physicalAddress><fax></fax><telephone>0754487781</telephone><mobile>0787487781</mobile><email>georgempepo@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ALOYCE G MLYOMI</accountName><bankAccount>00000000000</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b338fa5699e9901436cd5df050336897</isaacompletechecksum></student>

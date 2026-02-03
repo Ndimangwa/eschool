@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>115</studentId>
+  <studentName>Daniel Chale</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kigonsera Sec. School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0120-0042</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Al-Haramain Sec Centre/Korogwe TC Centre</institutionName>
+      <specialization>HGL</specialization>
+      <levelId>8</levelId>
+      <indexNumber>P0493-0550/P0798-0521</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Korogwe Teachers College</institutionName>
+      <specialization>Diploma in Education</specialization>
+      <levelId>8</levelId>
+      <indexNumber>E505-0165</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Institute of Rural Development Planning</institutionName>
+      <specialization>Bachelor Degree in Population and Development Planning</specialization>
+      <levelId>15</levelId>
+      <indexNumber>IRDP/BDP/06/1866</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>National Institute for Medical Research</employerName>
+      <postalAddress>9653</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <telephone>00255222121400</telephone>
+      <email>info@nimr.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Department of Epidemiology and Biostatistics</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2240</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272754381</sponsorfax>
+      <mobile>00255783388686</mobile>
+      <email>Jim.Todd@lshtm.ac.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mariam Paulo Chihimba</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>312</postalAddress>
+      <physicalAddress>Tanga</physicalAddress>
+      <fax/>
+      <telephone>00255272647957</telephone>
+      <mobile>00255755748763</mobile>
+      <email>mariampaulo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

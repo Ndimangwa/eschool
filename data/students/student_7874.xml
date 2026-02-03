@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7874</studentId>
+  <studentName>RAYMOND JUMA NG\'ITU</studentName>
+  <accademicHistory><institution><institutionName>KIDUGALA LUTHERAN SEMINARY SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0167.0077.2012</indexNumber><award>CERTIFICTE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2008</startYear><endYear>2012</endYear></institution><institution><institutionName>AGAPE LUTHERAN JUNIOUR SEMINARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0184.0553.2015</indexNumber><award>ADVANCED  CERTIFCATE OF SECONDARY EDUCATION</award><grade>GPA 2.7</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0f56448b0370f666eef91e37122f47d4</isaacompletechecksum></student>

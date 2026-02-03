@@ -1,0 +1,43 @@
+/*
+This is Database from Lidya
+*/
+Sex
+Sex 	
+{
+	class: Sex 
+	table: sex
+	column: sexid; type: text; property: sexId; role: primary
+	column: sexname; type: text; property: sexName; role: others 
+	column: sexNo; type: text; property: sexNumber; role: others 
+}
+MaritalStatus 	
+{
+	class: MaritalStatus 
+	table: maritalstatus
+	column: maritalid; type: text; property: maritalId; role: primary
+	column: maritalname; type: text; property: maritalName; role: others 
+	column: maritalNo; type: text; property: maritalNumber; role: others 
+}
+Profession
+{
+	class: Profession 
+	table: profession
+	column: professionId; type: text; property: professionId; role: primary 
+	column: professionName; type: text; property: professionName; role: others
+}
+Student
+{
+	class: Student
+	table: student
+	column: studentid; type: text; property: studentId; role: primary 
+	column: firstname; type: text; property: firstname; role: others
+	column: middlename; type: text; property: middlename; role: others
+	column: lastname; type: text; property: lastname; role: others
+	column: sexid; type: object; property: sex,Sex; role: others
+	column: maritalId; type: object; property: maritalStatus,MaritalStatus; role: others
+	column: age; type: text; property: age; role: others
+	column: professionList; type: listObject; property: professionList, Profession; role: others 
+	column: businessList; type: list; property: businessList; role: others 
+	column: tall; type: boolean; property: tall; role: others
+}
+END_OF_CODE

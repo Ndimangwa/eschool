@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5298</studentId>
+  <studentName>ACSEE</studentName>
+  <accademicHistory><institution><institutionName>BWIRU BOYS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0104.0624.2016</indexNumber><award>ACSEE</award><grade>10</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>03b97c703fbfe3e94764e978990b9f0d</isaacompletechecksum></student>

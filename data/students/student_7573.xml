@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7573</studentId>
+  <studentName>ZAITUNI J MCHOMVU</studentName>
+  <accademicHistory><institution><institutionName>KALOLENI SECONDARY SCHOOL</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>S1110.0085.2014</indexNumber><award>DIVISION TWO</award><grade>DIVISION TWO</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JUMANNE MCHOMVU</sponsorName><payerId>3</payerId><postalAddress>PO BOX 14500</postalAddress><physicalAddress>PO BOX 14500</physicalAddress><fax/><telephone>0754994253</telephone><mobile>0754994253</mobile><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JUMANNE MCHOMVU</kinName><relationship>FATHER</relationship><postalAddress>PO B0X 14500</postalAddress><physicalAddress>PO BOX 14500</physicalAddress><fax></fax><telephone>0754994253</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ZAITUNI MCHOMVU</accountName><bankAccount>0152276155000</bankAccount><bankName>CRDB BANK</bankName><branchName>CLORKTOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>62c55346ec2b0ed341d04fbfd89c26f0</isaacompletechecksum></student>

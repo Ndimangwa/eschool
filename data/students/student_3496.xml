@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3496</studentId>
+  <studentName>JOHNSTONE KAYANDABILA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWADUI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0363-0060</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155-0532</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0360</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ARUSHA LUTHERAN MEDICAL CENTER</employerName>
+      <postalAddress>P.O. Box 17047 ARUSHA</postalAddress>
+      <physicalAddress>ALMC, ARUSHA</physicalAddress>
+      <telephone>0272548030</telephone>
+      <email>gm@imagedoctors.org</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ARUSHA LUTHERAN MEDICAL CENTER</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>ALMC, Box 17047 ARUSHA</postalAddress>
+      <physicalAddress>ALMC, ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0272548030</sponsorfax>
+      <mobile>0769042443</mobile>
+      <email>gm@imagedoctors.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DIANA D. KAYANDABILA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>Box 17047 ARUSHA</postalAddress>
+      <physicalAddress>JANDU STREET, 66B, ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0767138730</telephone>
+      <mobile>0767138730</mobile>
+      <email>ddomet2008@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

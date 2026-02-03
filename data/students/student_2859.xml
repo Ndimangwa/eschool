@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2859</studentId>
+  <studentName>VAILETH SIMBERT KOMBA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LILIAN KIBO HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3536.0012.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0220.0558.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESBL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@hesbl.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SIMBERT BARNABAS KOMBA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 9024 DSM</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <telephone>+255766000049</telephone>
+      <mobile>+255766000049</mobile>
+      <email>simbert.komba@tanesco.co.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KOMBA, VAILETH SIMBERT</accountName><bankAccount>0152489033300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4757b3d32b8d386a0cc3a302517c12ff</isaacompletechecksum></student>

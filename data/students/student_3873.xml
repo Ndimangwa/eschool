@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3873</studentId>
+  <studentName>HAIKA JULIUS MTINDI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SINON SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1147.0062.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0209.0606.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, Dar es salaam</postalAddress>
+      <physicalAddress>Plot No.8,Block No.46</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Iinfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JULIUS ZAKARIA MTINDI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>11077</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0755014412</telephone>
+      <mobile>0755014412</mobile>
+      <email>haikamtindi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>HAIKA JULIUS MTINDI</accountName><bankAccount>0152554220800</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>833e765746c6b643f6b2affc39bf8f6b</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8021</studentId>
+  <studentName>SWEET B. AUGUSTI</studentName>
+  <accademicHistory><institution><institutionName>SINON SECONDARY SECONDARY</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S1147.0122.2014</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>G.P.A.1.1</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>KCMC SCHOOL OF NURSING</institutionName><specialization>COMMUNITY HEALTH NURSING</specialization><levelId>11</levelId><indexNumber>NS1147/0122/2014</indexNumber><award>CERTIFICATE</award><grade>G.P.A. 2.9</grade><startYear>2015</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>PARENTS (BAZILY AUGUST &amp; MODESTER TAIRO)</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 1O47</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone/><mobile>0756605858</mobile><email/><financedItem>TUITION FEE,MEALS AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BAZILY AUGUSTI</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 1O47 MOSHI</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>+255756605858</telephone><mobile>0756605858</mobile><email></email><extraInformation>none</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SWEET BAZILY AUGUSTI</accountName><bankAccount>059203003251</bankAccount><bankName>NBC</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7c08c0863131bfd8c9ec53613524d415</isaacompletechecksum></student>

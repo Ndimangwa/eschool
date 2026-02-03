@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1616</studentId>
+  <studentName>KISAKA KACHUA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>USAGARA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0345/0287</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAGAMBA SEC SCHOOL</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0126/0536</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>TANGA CITY COUNCIL</employerName>
+      <postalAddress>BOX 178 TANGA</postalAddress>
+      <physicalAddress>BOX 178 TANGA</physicalAddress>
+      <telephone>025502644530</telephone>
+      <email>kaributanga@co.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD (HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>BOX 76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Magreth msangi</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>BOX 6180 TNGA</postalAddress>
+      <physicalAddress>BOX 6180 TANGA</physicalAddress>
+      <fax/>
+      <telephone>00255788284161</telephone>
+      <mobile>00255788284161</mobile>
+      <email>maggymsangi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

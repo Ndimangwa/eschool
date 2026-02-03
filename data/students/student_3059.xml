@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3059</studentId>
+  <studentName>Aziza Adam Hussein</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MUDIO ISLAMIC HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0825/0005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485/0770</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Adam Hussein Chobu</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>12402</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>0786426072</sponsorfax>
+      <mobile>0786426072</mobile>
+      <email>azizaadam7@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Adam Hussein Chobu</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>12402</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <telephone>0786426072</telephone>
+      <mobile>0786426072</mobile>
+      <email>azizaadam7@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

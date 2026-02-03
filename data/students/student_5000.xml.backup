@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5000</studentId>
+  <studentName>EDWIN C MUCHUNGUZI</studentName>
+  <accademicHistory><institution><institutionName>PEACE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1689.0124.2012</indexNumber><award>CSE</award><grade>DIVISION1</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>359d08f69bbf581cc74a16bea23c71e7</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>569</studentId>
+  <studentName>DORCUS ESTOMIH MDUMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KANDOTO SAYANSI GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2315-0029</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0248-0537</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>Info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ESTOMIH MDUMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>8617</postalAddress>
+      <physicalAddress>MOSHI MJINI,KILIMANJARO</physicalAddress>
+      <fax/>
+      <telephone>002552275119</telephone>
+      <mobile>0789558622</mobile>
+      <email>estomduma@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

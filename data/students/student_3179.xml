@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3179</studentId>
+  <studentName>ASHURA SELEMAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYAMPULUKANO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0613.0012.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MKOLANI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1051.0503.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX76068</postalAddress>
+      <physicalAddress>MWENGE DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JAMILA SELEMAN</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>IRINGA</postalAddress>
+      <physicalAddress>IRINGA</physicalAddress>
+      <fax/>
+      <telephone>0753662541</telephone>
+      <mobile>0753662541</mobile>
+      <email>jamisuu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SELEMAN, ASHURA</accountName><bankAccount>0152432370300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ca911011f30d7ca5a19762a8bc2e30f5</isaacompletechecksum></student>

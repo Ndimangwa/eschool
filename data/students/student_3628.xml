@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3628</studentId>
+  <studentName>ZAWADI VIRGILY JOHN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ARUSHA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0302/0147</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KOROGWE</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0209/0591</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>AGNESS JOROJICK</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>13755</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754800064</sponsorfax>
+      <mobile>00255716655050</mobile>
+      <email>emzawadidr@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AGNESS JOROJICK</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>13755</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>+255754800064</telephone>
+      <mobile>00255716655050</mobile>
+      <email>emzawadidr@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

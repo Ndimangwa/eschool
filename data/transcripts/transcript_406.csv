@@ -1,0 +1,206 @@
+@-header,flags_!_0,,,,,,,,,,,,,
+@-header,studentId_!_406,,,,,,,,,,,,,
+@-header,dateOfBirth_!_1992:11:19:00:00:00,,,,,,,,,,,,,
+@-header,sexId_!_1,,,,,,,,,,,,,
+@-header,sexName_!_Male,,,,,,,,,,,,,
+@-header,profileId_!_1,,,,,,,,,,,,,
+@-header,profileName_!_Kilimanjaro Christian Medical University College,,,,,,,,,,,,,
+@-header,profileCity_!_Moshi,,,,,,,,,,,,,
+@-header,profilePostalAddress_!_P.O Box 2240, Moshi,,,,,,,,,,,,,
+@-header,profileWebsite_!_www.kcmuco.ac.tz,,,,,,,,,,,,,
+@-header,profileCountryId_!_227,,,,,,,,,,,,,
+@-header,profileCountryName_!_Tanzania,,,,,,,,,,,,,
+@-header,systemName_!_University Management Information System,,,,,,,,,,,,,
+@-header,postalAddress_!_2345,,,,,,,,,,,,,
+@-header,physicalAddress_!_2345,,,,,,,,,,,,,
+@-header,countryId_!_227,,,,,,,,,,,,,
+@-header,countryName_!_Tanzania,,,,,,,,,,,,,
+@-header,registrationNumber_!_TUMA/KCMUCo/DOT.2013/2014/TZ/0129,,,,,,,,,,,,,
+@-header,fullname_!_THOMAS MYAGIRA,,,,,,,,,,,,,
+@-header,firstname_!_THOMAS,,,,,,,,,,,,,
+@-header,middlename_!_JOSEPH,,,,,,,,,,,,,
+@-header,lastname_!_MYAGIRA,,,,,,,,,,,,,
+@-header,compilationTime_!_2017:12:15:11:50:51,,,,,,,,,,,,,
+@-header,fileType_!_transcript,,,,,,,,,,,,,
+@-header,courseId_!_2,,,,,,,,,,,,,
+@-header,courseCode_!_DOT,,,,,,,,,,,,,
+@-header,courseName_!_Diploma in Occupational Therapy,,,,,,,,,,,,,
+@-header,duration_!_3,,,,,,,,,,,,,
+@-header,levelId_!_12,,,,,,,,,,,,,
+@-header,levelName_!_Ordinary Diploma (NTA Level 6),,,,,,,,,,,,,
+@-header,levelCode_!_6,,,,,,,,,,,,,
+@-header,departmentId_!_4,,,,,,,,,,,,,
+@-header,departmentName_!_Faculty of Rehabilitation Medicine,,,,,,,,,,,,,
+@-header,admissionYearId_!_5,,,,,,,,,,,,,
+@-header,admissionYearName_!_2013/2014,,,,,,,,,,,,,
+@-header,admissionYearNumber_!_5,,,,,,,,,,,,,
+@-header,currentBatchId_!_6,,,,,,,,,,,,,
+@-header,currentBatchName_!_2014/2015,,,,,,,,,,,,,
+@-header,currentBatchNumber_!_6,,,,,,,,,,,,,
+@-header,lastResultsCummulativeSemester_!_6,,,,,,,,,,,,,
+@-header,currentCummulativeSemester_!_6,,,,,,,,,,,,,
+@-header,allSemestersIncluded_!_1,,,,,,,,,,,,,
+@-header,numberOfSemestersPerYear_!_2,,,,,,,,,,,,,
+@-header,graduated_!_0,,,,,,,,,,,,,
+@-header,grade_0_id_!_20,,,,,,,,,,,,,
+@-header,grade_0_name_!_A,,,,,,,,,,,,,
+@-header,grade_0_point_!_5,,,,,,,,,,,,,
+@-header,grade_0_lowestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_0_highestMarks_!_101,,,,,,,,,,,,,
+@-header,grade_0_extraInformation_!_,,,,,,,,,,,,,
+@-header,grade_1_id_!_21,,,,,,,,,,,,,
+@-header,grade_1_name_!_B+,,,,,,,,,,,,,
+@-header,grade_1_point_!_4,,,,,,,,,,,,,
+@-header,grade_1_lowestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_1_highestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_1_extraInformation_!_,,,,,,,,,,,,,
+@-header,grade_2_id_!_22,,,,,,,,,,,,,
+@-header,grade_2_name_!_B,,,,,,,,,,,,,
+@-header,grade_2_point_!_3,,,,,,,,,,,,,
+@-header,grade_2_lowestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_2_highestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_2_extraInformation_!_,,,,,,,,,,,,,
+@-header,grade_3_id_!_23,,,,,,,,,,,,,
+@-header,grade_3_name_!_C,,,,,,,,,,,,,
+@-header,grade_3_point_!_2,,,,,,,,,,,,,
+@-header,grade_3_lowestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_3_highestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_3_extraInformation_!_,,,,,,,,,,,,,
+@-header,grade_4_id_!_24,,,,,,,,,,,,,
+@-header,grade_4_name_!_D,,,,,,,,,,,,,
+@-header,grade_4_point_!_1,,,,,,,,,,,,,
+@-header,grade_4_lowestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_4_highestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_4_extraInformation_!_,,,,,,,,,,,,,
+@-header,grade_5_id_!_25,,,,,,,,,,,,,
+@-header,grade_5_name_!_E,,,,,,,,,,,,,
+@-header,grade_5_point_!_0,,,,,,,,,,,,,
+@-header,grade_5_lowestMarks_!_0,,,,,,,,,,,,,
+@-header,grade_5_highestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_5_extraInformation_!_,,,,,,,,,,,,,
+@-header,grade_6_id_!_26,,,,,,,,,,,,,
+@-header,grade_6_name_!_I,,,,,,,,,,,,,
+@-header,grade_6_point_!_0,,,,,,,,,,,,,
+@-header,grade_6_lowestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_highestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_extraInformation_!_,,,,,,,,,,,,,
+@-header,award_0_id_!_14,,,,,,,,,,,,,
+@-header,award_0_name_!_First Class,,,,,,,,,,,,,
+@-header,award_0_lowestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_0_highestGPA_!_5.1,,,,,,,,,,,,,
+@-header,award_0_extraInformation_!_,,,,,,,,,,,,,
+@-header,award_1_id_!_15,,,,,,,,,,,,,
+@-header,award_1_name_!_Upper Second,,,,,,,,,,,,,
+@-header,award_1_lowestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_1_highestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_1_extraInformation_!_,,,,,,,,,,,,,
+@-header,award_2_id_!_16,,,,,,,,,,,,,
+@-header,award_2_name_!_Lower Second,,,,,,,,,,,,,
+@-header,award_2_lowestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_2_highestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_2_extraInformation_!_,,,,,,,,,,,,,
+@-header,award_3_id_!_17,,,,,,,,,,,,,
+@-header,award_3_name_!_Pass,,,,,,,,,,,,,
+@-header,award_3_lowestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_3_highestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_3_extraInformation_!_,,,,,,,,,,,,,
+@-header,award_4_id_!_18,,,,,,,,,,,,,
+@-header,award_4_name_!_No Award,,,,,,,,,,,,,
+@-header,award_4_lowestGPA_!_0.0,,,,,,,,,,,,,
+@-header,award_4_highestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_4_extraInformation_!_,,,,,,,,,,,,,
+@-header,sem_1_awardId_!_15,,,,,,,,,,,,,
+@-header,sem_1_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_1_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_1_totalModulePoints_!_262.5,,,,,,,,,,,,,
+@-header,sem_1_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_1_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_1_gpa_!_4.3,,,,,,,,,,,,,
+@-header,sem_2_awardId_!_15,,,,,,,,,,,,,
+@-header,sem_2_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_2_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_2_totalModulePoints_!_237.5,,,,,,,,,,,,,
+@-header,sem_2_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_2_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_2_gpa_!_3.9,,,,,,,,,,,,,
+@-header,sem_3_awardId_!_15,,,,,,,,,,,,,
+@-header,sem_3_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_3_totalUnits_!_30,,,,,,,,,,,,,
+@-header,sem_3_totalModulePoints_!_126,,,,,,,,,,,,,
+@-header,sem_3_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_3_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_3_gpa_!_4.2,,,,,,,,,,,,,
+@-header,sem_4_awardId_!_15,,,,,,,,,,,,,
+@-header,sem_4_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_4_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_4_totalModulePoints_!_242,,,,,,,,,,,,,
+@-header,sem_4_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_4_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_4_gpa_!_4,,,,,,,,,,,,,
+@-header,sem_5_awardId_!_15,,,,,,,,,,,,,
+@-header,sem_5_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_5_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_5_totalModulePoints_!_234,,,,,,,,,,,,,
+@-header,sem_5_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_5_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_5_gpa_!_3.9,,,,,,,,,,,,,
+@-header,sem_6_awardId_!_14,,,,,,,,,,,,,
+@-header,sem_6_awardName_!_First Class,,,,,,,,,,,,,
+@-header,sem_6_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_6_totalModulePoints_!_279.6,,,,,,,,,,,,,
+@-header,sem_6_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_6_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_6_gpa_!_4.6,,,,,,,,,,,,,
+@-header,gpa_!_4.1,,,,,,,,,,,,,
+@-header,awardId_!_15,,,,,,,,,,,,,
+@-header,awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,cleared_!_,,,,,,,,,,,,,
+@-header,filename_!_transcript_406.csv,,,,,,,,,,,,,
+@-business-logic-begin,,,,,,,,,,,,,,
+247,1,6,2014/2015,0,,,Anatomy,DOC1101,,87,20,A,5,8
+248,1,6,2014/2015,0,,,Physiology,DOC1102,,76,21,B+,4,8
+249,1,6,2014/2015,0,,,Sociology,DOC1103,,72,21,B+,4,7
+250,1,6,2014/2015,0,,,Psychology,DOC1104,,90,20,A,5,7
+251,1,6,2014/2015,0,,,Clinical Science,DOC1105,,86,20,A,5,7.5
+252,1,6,2014/2015,0,,,Practical Media,DOC1106,,73,21,B+,4,7
+253,1,6,2014/2015,0,,,Primary Health Care,DOC1107,,76,21,B+,4,7.5
+254,1,6,2014/2015,0,,,Foundation Ot Practice,DOC1109,,72,21,B+,4,8
+256,2,6,2014/2015,0,,,Anatomy,DOC2101,,65,22,B,3,7
+257,2,6,2014/2015,0,,,Physiology,DOC2102,,90,20,A,5,7
+258,2,6,2014/2015,0,,,Clinical Science Pediatric Conditions,DOC21051,,77,21,B+,4,6
+259,2,6,2014/2015,0,,,Practical Media,DOC2106,,74,21,B+,4,6
+260,2,6,2014/2015,0,,,Foundation Of Ot Practice,DOC2109,,79,21,B+,4,7.5
+261,2,6,2014/2015,0,,,Adapting &Adaptive Equipment,DOC2111,,63,22,B,3,8.5
+262,2,6,2014/2015,0,,,Community,DOC2112,,84,20,A,5,6
+263,2,6,2014/2015,0,,,Ot App. Physical Dysfunction,DOC2113,,77,21,B+,4,6
+264,2,6,2014/2015,0,,,Ot Aplied To Pediatrics,DOC2114,,73,21,B+,4,6
+266,3,7,2015/2016,0,,,Foundation Of Ot Practice,DOC3209,,84,20,A,5,8
+267,3,7,2015/2016,0,,,Community,DOC3212,,74,21,B+,4,6
+268,3,7,2015/2016,0,,,Ot Aplied To Pediatrics,DOC3214,,74,21,B+,4,9
+269,3,7,2015/2016,0,,,Clinical Science Pediatric Conditions,DOC32052,,81,20,A,5,6
+270,3,7,2015/2016,0,,,Practical Media,DOC3206,,64,22,B,3,8
+963,3,7,2015/2016,0,,,PHYSICAL DYSFUNCTION,DOC 3028,,65,22,B,3,7
+964,3,7,2015/2016,0,,,FIELD WORK,DOC 3029,,79,21,B+,4,10
+965,3,7,2015/2016,0,,,CLINICAL SCIENCE PSYCHIATRIC,DOC 32052,,77,21,B+,4,6
+273,4,7,2015/2016,0,,,Kinesiology,DOC4216,,77,21,B+,4,4
+275,4,7,2015/2016,0,,,Ot Aplied To Pediatrics,DOC4214,,75,21,B+,4,7
+276,4,7,2015/2016,0,,,Ot Applied To Physical Dysfunction,DOC4213,,71,21,B+,4,7
+277,4,7,2015/2016,0,,,Ot Aplied To Mental Health,DOC4215,,84,20,A,5,7
+278,4,7,2015/2016,0,,,Practical Media,DOC4206,,64,22,B,3,4
+279,4,7,2015/2016,0,,,Fieldwork (6 Weeks),DOC4210,,78,21,B+,4,24
+966,4,7,2015/2016,0,,,COMMUNITY,DOC 4212,,74,21,B+,4,2
+968,4,7,2015/2016,0,,,RESEARCH,DOC42017,,90,20,A,5,5
+280,5,8,2016/2017,0,,,Reaserch,DOC5317,,65,22,B,3,12
+281,5,8,2016/2017,0,,,Ot App. Physical Dysfunction,DOC5313,,66,22,B,3,6
+282,5,8,2016/2017,0,,,Ot Aplied To Pediatrics,DOC5315,,71,21,B+,4,6
+283,5,8,2016/2017,0,,,Ot Aplied To Mental Health,DOC5314,,65,22,B,3,6
+969,5,8,2016/2017,0,,,FIELD WORK (6 WEEKS),DOC  4210,,80,20,A,5,24
+972,5,8,2016/2017,0,,,ADMINISTRATION &MANAGEMENT,DOC 5318,,67,22,B,3,6
+284,6,8,2016/2017,0,,,Administration & Management,DOC6318,,64,22,B,3,6
+285,6,8,2016/2017,0,,,Research,DOC6316,,65,22,B,3,2.4
+286,6,8,2016/2017,0,,,Ot App. Physical Dysfunction,DOC6313,,71,21,B+,4,1.2
+287,6,8,2016/2017,0,,,Ot Aplied To Pediatrics,DOC6314,,76,21,B+,4,1.2
+288,6,8,2016/2017,0,,,Ot Aplied To Mental Health,DOC6315,,77,21,B+,4,1.2
+970,6,8,2016/2017,0,,,FIELD WORK (6 WEEKS),DOC  4210,,86,20,A,5,24
+971,6,8,2016/2017,0,,,Fieldwork Elective,DOC63102,,91,20,A,5,24
+@-business-logic-end,,,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7338</studentId>
+  <studentName>MOHAMED ABDULKADIR OMAR</studentName>
+  <accademicHistory><institution><institutionName>KHAMIS HIGH SCHOOL</institutionName><specialization>HIGH SCHOOL</specialization><levelId>4</levelId><indexNumber>E1061.0221.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>B-</grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>LUGANSK STATE MEDICAL UNIVERSITY</institutionName><specialization>MEDICAL OFFICER</specialization><levelId>15</levelId><indexNumber>E0246.46.2013</indexNumber><award>DEGREE OF MEDICINE</award><grade>I MEDICINE - B,SURGERY- B,OBS &amp; GYN - A,PAEDS - A,HYGIENE -B.</grade><startYear>2007</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>LAMU COUNTY</employerName><postalAddress>P.O BOX 45</postalAddress><physicalAddress>LAMU</physicalAddress><fax/><telephone>+254773870537</telephone><mobile>+254773870537</mobile><email>lamucdh@gmail.com</email><startYear>2015</startYear><endYear>2017</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>ABDULKADIR OMAR MOHAMED</sponsorName><payerId>1</payerId><postalAddress>P.O BOX 43519</postalAddress><physicalAddress>MOMBASA</physicalAddress><fax/><telephone>+254704276362</telephone><mobile>+254704276362</mobile><email>abduladede@gmail.com</email><financedItem>MASTER OF MEDICINE IN SURGERY</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FAT-HIYA FARID AHMED</kinName><relationship>WIFE</relationship><postalAddress>P.O BOX 43519</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>+255786992818</telephone><mobile>+255786992818</mobile><email>farid.faty@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ABDULKADIR OMAR MOHAMED</accountName><bankAccount>0130856801</bankAccount><bankName>GULF AFRICAN BANK</bankName><branchName>NKURUMAH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c52b3364b6bba61c1ceb15351ed03bcf</isaacompletechecksum></student>

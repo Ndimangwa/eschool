@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7986</studentId>
+  <studentName>Samwel k Alhayo</studentName>
+  <accademicHistory><institution><institutionName>Moshono secondary school</institutionName><specialization>Science</specialization><levelId>4</levelId><indexNumber>S1316.0193.2013</indexNumber><award>Division One</award><grade>B,B+,B+,B,B+,B+,B+,B+,A</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SAnya juu secondary school</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1183.0533.2016</indexNumber><award>Division One</award><grade>C,C,C</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>SAM NUJOMA  </physicalAddress><fax>+255222669039</fax><telephone>+255222629036</telephone><mobile>+255222669036</mobile><email>Info@heslb.go.tz</email><financedItem>School Fees</financedItem><extraInformation>none</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SAMWEL K ALPHAYO</accountName><bankAccount>40810042661</bankAccount><bankName>NMB</bankName><branchName>CLOCK TOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>36e8af9e963a55b1a778b09bab95bb35</isaacompletechecksum></student>

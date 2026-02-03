@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3892</studentId>
+  <studentName>Theresia Remmy Temba</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Shimbwe Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1012/0039</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Muheza High School</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S3804/0609</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 Dar</postalAddress>
+      <physicalAddress>P.O.BOX 76068 Dar</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Remmy Severini Temba</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.0.B0X 214,Iringa</postalAddress>
+      <physicalAddress>P.O.BOX 214, Iringa</physicalAddress>
+      <fax/>
+      <telephone>0752430405</telephone>
+      <mobile>0752430405</mobile>
+      <email>teddytemba@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

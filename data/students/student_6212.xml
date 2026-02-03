@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6212</studentId>
+  <studentName>WHITESON JOHN</studentName>
+  <accademicHistory><institution><institutionName>KCMUCO</institutionName><specialization>OCCUPATIONAL THERAPY</specialization><levelId>8</levelId><indexNumber>S0629.0724.2014</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>2012</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c4f4674dec9dd65833af94586b08fca1</isaacompletechecksum></student>

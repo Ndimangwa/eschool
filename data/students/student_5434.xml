@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5434</studentId>
+  <studentName>simon matajiri</studentName>
+  <accademicHistory><institution><institutionName>USONGWE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0913.0247.2013</indexNumber><award>CSEE</award><grade>DIVISION ONE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SENGEREMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0151.0764.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE </grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4e05a6cb9e64b1a6939e2e2f94d4d1b0</isaacompletechecksum></student>

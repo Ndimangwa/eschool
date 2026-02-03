@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>645</studentId>
+  <studentName>SABRINA ALI ISSA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SOS HERMANN GMEINER SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0995-0031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SOS HERMANN GMEINER SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0995-0521</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ZULEKHA ALI ISSA</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>PO BOX 219 ZANZIBAR</postalAddress>
+      <physicalAddress>MJINI-ZANZIBAR</physicalAddress>
+      <fax/>
+      <telephone>0773536466</telephone>
+      <mobile>0773536466</mobile>
+      <email>chabidokta@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

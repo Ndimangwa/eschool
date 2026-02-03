@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7534</studentId>
+  <studentName>piala fulgensi lasway </studentName>
+  <accademicHistory><institution><institutionName>Makiidi Secondary School </institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S2856.0045.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>division three </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>st. Matthew's Secondary School</institutionName><specialization>science </specialization><levelId>8</levelId><indexNumber>S1071.0645.2016</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>56047f645a8ca89a056745245ff0f3b2</isaacompletechecksum></student>

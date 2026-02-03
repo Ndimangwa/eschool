@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>185</studentId>
+  <studentName>MABULA MUSSA MABELELE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BUSWELU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0564-0153</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS SEC. SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155-0533</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, Dar es salaam</postalAddress>
+      <physicalAddress>Sam Nujoma Road, Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222772432</sponsorfax>
+      <mobile>0255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MUSSA PAUL MABELELE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>75, magu</postalAddress>
+      <physicalAddress>magu</physicalAddress>
+      <fax/>
+      <telephone>0784501046</telephone>
+      <mobile>0784501046</mobile>
+      <email>mmabelele@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

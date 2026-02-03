@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6011</studentId>
+  <studentName>VICTORIA MASUE</studentName>
+  <accademicHistory><institution><institutionName>USAGARA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0345.0135.2009</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2006</startYear><endYear>2009</endYear></institution><institution><institutionName>MUHEZA HIGH SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S3804.0548.2012</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DIPLOMA IN HEALTH LABORATORY SCIENCE</specialization><levelId>12</levelId><indexNumber>TUMA.KCMUco.DHLSc.2012.TZ.0196</indexNumber><award>DIPLOMA IN HEALTH LABORATORY SCIENCE</award><grade>AVERAGE B</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>89ee8d9a32d4daeec18d82074c1b6686</isaacompletechecksum></student>

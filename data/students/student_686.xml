@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>686</studentId>
+  <studentName>LILIAN EVARIST</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KALOLENI SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1110/0084/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHEZA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.3804/0513/2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>INNOCENT EVARIST</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3081 ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0755211725</sponsorfax>
+      <mobile>0755211725</mobile>
+      <email>innomat@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>INNOCENT EVARIST</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>3081 ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0755211725</telephone>
+      <mobile>0755211725</mobile>
+      <email>innomat@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

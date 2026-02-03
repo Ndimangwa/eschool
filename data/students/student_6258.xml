@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6258</studentId>
+  <studentName>BERNADETHA LAURIAN</studentName>
+  <accademicHistory><institution><institutionName>MAWENZI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0328.0017.1997</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>1994</startYear><endYear>1997</endYear></institution><institution><institutionName>THE MEDICAL TRAINING CENTER-KCMC</institutionName><specialization>DIPLOMA IN OPTOMETRY</specialization><levelId>13</levelId><indexNumber>S.1711.1998.2001</indexNumber><award>DIPLOMA IN OPTOMETRY</award><grade>DIPLOMA</grade><startYear>1998</startYear><endYear>2001</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DED BAGAMOYO</employerName><postalAddress>P.O.BOX 59</postalAddress><physicalAddress>BAGAMOYO</physicalAddress><fax/><telephone>0232440164</telephone><mobile>0232440164</mobile><email>pwanibagamoyo@yahoo.com</email><startYear>2006</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>LAPF</sponsorName><payerId>11</payerId><postalAddress>P.O BOX 29</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>02662320004</telephone><mobile>02662320004</mobile><email>info@lapftz.org</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ASNATH LAURIAN</kinName><relationship>SISTER</relationship><postalAddress>P.O BOX 29</postalAddress><physicalAddress>BAGAMOYO</physicalAddress><fax></fax><telephone>0767266793</telephone><mobile>0767266793</mobile><email>noelabetram@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>BERNADETHA LAURIAN LYIMO</accountName><bankAccount>21002401398</bankAccount><bankName>NMB</bankName><branchName>BAGAMOYO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d3377c9cd3b300e0b833388eab0ff0ad</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3610</studentId>
+  <studentName>FURAHA GOLDEN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILAKALA GIRLS SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0206.0030.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MTWARA TECHNICAL SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0139.0508.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DAINES IBENGWE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P O BOX 34,</postalAddress>
+      <physicalAddress>RUJEWA, MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0752467243</telephone>
+      <mobile>0752467243</mobile>
+      <email>FUrahagolden@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>GOLDEN, FURAHA</accountName><bankAccount>0152503821300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c319785d55d33e69c64037e1a3367b54</isaacompletechecksum></student>

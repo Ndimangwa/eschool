@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6248</studentId>
+  <studentName>HANCE NGEMERA</studentName>
+  <accademicHistory><institution><institutionName>MARA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0129.0052.2006</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>TWO</grade><startYear>2003</startYear><endYear>2006</endYear></institution><institution><institutionName>LONGIDO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0857.0663.2009</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>THREE</grade><startYear>2007</startYear><endYear>2009</endYear></institution><institution><institutionName>THE MEDICAL TRAINING CENTRE-MAFINGA</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>34740</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>UPPER SECOND CLASS</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DED IRINGA</employerName><postalAddress>P.O.BOX 108</postalAddress><physicalAddress>IRINGA</physicalAddress><fax/><telephone/><mobile/><email>deiringa@yahoo.com</email><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 7606</postalAddress><physicalAddress>SAM NUJOMA,</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.ao.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>HANCE KATUNZI NGEMERA</accountName><bankAccount>0112056927900</bankAccount><bankName>CRDB</bankName><branchName>IRINGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c155fcea930fa98634ed924da94118ae</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5771</studentId>
+  <studentName>ADVANCED EDUCATION CERTIFICATE</studentName>
+  <accademicHistory><institution><institutionName>LYAMUNGO SECONDARY SCHOOL</institutionName><specialization>SCIENCEE</specialization><levelId>8</levelId><indexNumber>S0125.0898.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution><institution><institutionName>SOMSOM SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1513.0083.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>GASPER JOSEPH MUSHI</sponsorName><payerId>1</payerId><postalAddress>P O BOX 6428 MOSHI</postalAddress><physicalAddress>P O BOX 6428 MOSHI</physicalAddress><fax/><telephone>0712044725</telephone><mobile/><email/><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOSEPH GAUDENCE MUSHI</kinName><relationship>PARENT</relationship><postalAddress>P O BOX 6428 MOSHI</postalAddress><physicalAddress>P O BOX 6428 MOSHI</physicalAddress><fax/><telephone>0717128028</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GASPER JOSEPH MUSHI</accountName><bankAccount>0152326927800</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7bd4f80c10562be3927192c69262aef9</isaacompletechecksum></student>

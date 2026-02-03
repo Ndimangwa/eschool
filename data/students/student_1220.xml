@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1220</studentId>
+  <studentName>JOHN WILSON MASSESA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWANZA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0333/0191</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TAMBAZA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0347/0695</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 Dar</postalAddress>
+      <physicalAddress>PO BOX 76068 Dar</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JORAM MASSESA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>PO BOX 144 MWANZA</postalAddress>
+      <physicalAddress>PO BOX 144 MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0766906676</telephone>
+      <mobile>0766906676</mobile>
+      <email>jojo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

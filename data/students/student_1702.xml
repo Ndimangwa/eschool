@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1702</studentId>
+  <studentName>Marcella Gennyasaye Yoseph</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>EASTHAMPSTEAD PARK SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>51119/1249</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>EASTHAMPSTEAD PARK SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>51119/1249</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Yoseph</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>150 MUSOMA</postalAddress>
+      <physicalAddress>150 MUSOMA</physicalAddress>
+      <fax/>
+      <telephone>00255788666912</telephone>
+      <mobile>00255788666912</mobile>
+      <email>nyambegaotieno@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

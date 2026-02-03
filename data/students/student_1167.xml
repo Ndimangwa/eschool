@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1167</studentId>
+  <studentName>TRYPHONE MUTAGAYALA RWEGASIRA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PAUL BOMANI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO817-0058</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SENGEREMA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO151-0592</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SENGEREMA CLINICAL OFFICERS TRAINING CENTER</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>26882</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED USHETU COUNCIL KAHAMA</employerName>
+      <postalAddress>PO BOX 50</postalAddress>
+      <physicalAddress>KAHAMA TOWN</physicalAddress>
+      <telephone>+255762710642</telephone>
+      <email>kahamatowncouncil@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>02227724373</sponsorfax>
+      <mobile>02227724373</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Dr. Gration M Rwegasira</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>PO BOX  3005</postalAddress>
+      <physicalAddress>SUA-MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>+255754595058</telephone>
+      <mobile>+255754595058</mobile>
+      <email>grwegasira@suanet.actz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

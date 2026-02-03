@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2043</studentId>
+  <studentName>STEPHEN SELLA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IMBORU SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0368/0149</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCO</institutionName>
+      <specialization>LAB.TECHNICIAN</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TU/LTS/0046</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED-KARATU</employerName>
+      <postalAddress>190-KARATU</postalAddress>
+      <physicalAddress>KARATU,ARUSHA</physicalAddress>
+      <telephone>+255272534047</telephone>
+      <email>karatucouncil@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VIRIDIANA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>204</postalAddress>
+      <physicalAddress>KARATU,ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0785054601</telephone>
+      <mobile>0786029115</mobile>
+      <email>stephentarmo689@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

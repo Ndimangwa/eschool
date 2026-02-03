@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>327</studentId>
+  <studentName>SEBASTIAN S KAMARA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ELERAI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2265-0431</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHEZA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S3804-0573</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SEVERIN KAMARA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2343</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>+225753895256</sponsorfax>
+      <mobile>0753895256</mobile>
+      <email>kamarasebastian@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SEVERIN KAMARA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>2343</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>+255753895256</telephone>
+      <mobile>0753895256</mobile>
+      <email>kamarasebastian@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

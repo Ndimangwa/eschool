@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4907</studentId>
+  <studentName>JESCA DEOGRATIAS WILLIAM</studentName>
+  <accademicHistory><institution><institutionName>ST.MARY GORETI SECONDARY SHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1187.0073.2013</indexNumber><award>CSE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST.MARY GORETI SECONDARY SCHOOL</institutionName><specialization>SCIENCE PCB</specialization><levelId>8</levelId><indexNumber>S1187.0636.2016</indexNumber><award>ACEE</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress><fax>0222700286</fax><telephone>02227724323</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem>HIGHER EDUCATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>JESCA DEOGRATIAS WILLIAM</accountName><bankAccount>0152216446100</bankAccount><bankName>CRDB BANK</bankName><branchName>MBAGALA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>891d8f169b5947a5423f28710c7c82f3</isaacompletechecksum></student>

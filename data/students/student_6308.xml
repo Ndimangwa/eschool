@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6308</studentId>
+  <studentName>Ritte Ladislaus Paul</studentName>
+  <accademicHistory><institution><institutionName>Kursk State Medical University</institutionName><specialization>GENERAL MEDICINE</specialization><levelId>15</levelId><indexNumber>K 58478</indexNumber><award>DOCTOR OF MEDICINE</award><grade>Three</grade><startYear>2005</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>baec16fe3b16b2506bdf68780d68ea61</isaacompletechecksum></student>

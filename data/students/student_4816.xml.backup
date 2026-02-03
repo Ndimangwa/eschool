@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4816</studentId>
+  <studentName>SAIDA MOHAMMED ALLY</studentName>
+  <accademicHistory><institution><institutionName>ALMUNTAZIR ISLAMIC SECONDARY SCHOOL</institutionName><specialization>ORDINARY LEVEL</specialization><levelId>4</levelId><indexNumber>P0023.0133.2014</indexNumber><award>SECONDARY LEVEL</award><grade>MERIT</grade><startYear>2010</startYear><endYear>2014</endYear></institution><institution><institutionName>ALMUNTAZIR ISLAMIC SECONDARY SCHOOL</institutionName><specialization>ADVANCED LEVEL</specialization><levelId>8</levelId><indexNumber>P0023.0456.2016</indexNumber><award>ADVANCED LEVEL</award><grade>CACA</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName> HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>SAM NUJOMA ROAD, MWENGE, DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772433</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE, ACCOMODATION AND MEALS</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ZAKIA ALLY SAID</kinName><relationship>MOTHER</relationship><postalAddress>NONE</postalAddress><physicalAddress>KIGOGO, MBUYUNI,DAR ES SALAAM</physicalAddress><fax></fax><telephone>0713442366</telephone><mobile>0713442366</mobile><email></email><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SAIDA MOHAMMED ALLY</accountName><bankAccount>0152327160300</bankAccount><bankName>CRDB </bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>23dd21a7756c908f616c7a230edb6baf</isaacompletechecksum></student>

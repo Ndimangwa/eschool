@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3043</studentId>
+  <studentName>EPIPHANIA S MOSHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>STAR HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2421/0003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARY'S MAZINDE JUU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233/0536</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SIMPHORIAN MOSHI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>10275</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0754225212</sponsorfax>
+      <mobile>0754225212</mobile>
+      <email>Simphorianmoshi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SIMPHORIAN MOSHI</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>10275</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0754225212</telephone>
+      <mobile>0754225212</mobile>
+      <email>Simphorianmoshi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>396</studentId>
+  <studentName>Mujahid Manji</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Jaffery High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0971/0028</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Jaffery High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>90705/0012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Salim Manji</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 1235</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>00255754382100</sponsorfax>
+      <mobile>00255754382100</mobile>
+      <email>smanji786@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mehdiyah Manji</kinName>
+      <relationship>Sister</relationship>
+      <postalAddress>P.O.Box 1235 </postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <telephone>00255788656077</telephone>
+      <mobile>00255788656077</mobile>
+      <email>mehdiya786@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

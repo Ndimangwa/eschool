@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6205</studentId>
+  <studentName>EVELYNE LUDOVICK</studentName>
+  <accademicHistory><institution><institutionName>MARIAN GIRLS SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0248.0035.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIAN GIRLS SEC SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0248.0553.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>INfo@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FLORENSIA MOSHA</kinName><relationship>MOTHER</relationship><postalAddress>SLP 1878 ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>0754417142</telephone><mobile>0754417142</mobile><email>moshaflorence@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EVELYNE LUDOVICK</accountName><bankAccount>0152201533000</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8e1ad2a443039aef427e7b17117e0128</isaacompletechecksum></student>

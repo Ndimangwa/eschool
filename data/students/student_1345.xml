@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1345</studentId>
+  <studentName>INNOCENT K KILIAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MKUU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0544/0144</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485/0780</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF EDUCATION</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9121</postalAddress>
+      <physicalAddress>Dar es Salaam-Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>002552110146</sponsorfax>
+      <mobile>002552110150</mobile>
+      <email>ps@moe.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LADISLAUS KANJE</kinName>
+      <relationship>AUNCLE</relationship>
+      <postalAddress>2111 MOROGORO</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>+255765181188</telephone>
+      <mobile>+255765181188</mobile>
+      <email>innocentkilian@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

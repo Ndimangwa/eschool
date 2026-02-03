@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>410</studentId>
+  <studentName>Ndimangwa Fadhili Ngoya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ilboru Secondary </institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>F4616/768</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kibaha Secondary School</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>F6123/987</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>sponsor Ndimangwa</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 2240, Moshi</postalAddress>
+      <physicalAddress>No 789 Moshi, Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>0787100890</sponsorfax>
+      <mobile>0787100900</mobile>
+      <email>sponsorndi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>kin Ndimangwa</kinName>
+      <relationship>uncle</relationship>
+      <postalAddress>P.O Box 2240, Moshi</postalAddress>
+      <physicalAddress>No 789 Moshi</physicalAddress>
+      <fax/>
+      <telephone>0787100809</telephone>
+      <mobile>0787100809</mobile>
+      <email>kinndimangwa@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

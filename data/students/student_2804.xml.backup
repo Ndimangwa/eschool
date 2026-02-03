@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2804</studentId>
+  <studentName>Joachim Mmasi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Rosmini Secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0692/0051</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kibaha Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119/0577</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box76068</postalAddress>
+      <physicalAddress>Dar es laam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Rahel Ngitoria Lukumay</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>Box 615,korogwe</postalAddress>
+      <physicalAddress>Tanga</physicalAddress>
+      <fax/>
+      <telephone>+255716592403</telephone>
+      <mobile>+255716592403</mobile>
+      <email>rahellukumay@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

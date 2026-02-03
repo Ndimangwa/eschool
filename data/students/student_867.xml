@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>867</studentId>
+  <studentName>joyce m ewald</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>lombeta secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0371.0013.2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HURUMA SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ded rombo</employerName>
+      <postalAddress>po box 52</postalAddress>
+      <physicalAddress>mkuu-rombo</physicalAddress>
+      <telephone>002552757148</telephone>
+      <email>hurumasschoolofnursing@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ewald hilary marenge</kinName>
+      <relationship>father</relationship>
+      <postalAddress>po box 470 rombo</postalAddress>
+      <physicalAddress>mkuu-rombo</physicalAddress>
+      <fax/>
+      <telephone>0784842602</telephone>
+      <mobile>00255784842602</mobile>
+      <email>joytilya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>EWALD, JOYCE M</accountName><bankAccount>0152327719100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>11b64b70db8aedfe7288a2d1b6c9e1c6</isaacompletechecksum></student>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>868</studentId>
+  <studentName>Shufaa Rajabu Uvila</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Morogoro Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0332-0128</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Machame Girls Secondary School</institutionName>
+      <specialization>CBN</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0212-0560</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Eastern Africa Statistical Training Centre</institutionName>
+      <specialization>Diploma in Statistics</specialization>
+      <levelId>8</levelId>
+      <indexNumber>117D/2007/2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mzumbe  University</institutionName>
+      <specialization>Bsc. Applied Statistics</specialization>
+      <levelId>15</levelId>
+      <indexNumber>10431/T09</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Tanzania Postal Corporation</employerName>
+      <postalAddress>95531</postalAddress>
+      <physicalAddress>Head Quorter</physicalAddress>
+      <telephone>00255747658961</telephone>
+      <email>info@posta.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Shufaa Rajabu Uvila</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76777 Dar es Salaam</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255756868671</sponsorfax>
+      <mobile>+255719868671</mobile>
+      <email>uvillla2013@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Ally Abbas Ruhega</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>76777 Dar es Salaam</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <telephone>+255758801995</telephone>
+      <mobile>+255715513333</mobile>
+      <email>atruhega@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

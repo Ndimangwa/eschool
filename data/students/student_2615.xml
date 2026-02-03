@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2615</studentId>
+  <studentName>JANETH NELSON MONGI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RAU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3675/0045</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MASWA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBN</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0227/0569</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SARAH MCHOMVU</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>POBOX 369moshi</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0787497226</sponsorfax>
+      <mobile>0659255951</mobile>
+      <email>sarahmchomvu@yaho.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SARAH MCHOMVU</kinName>
+      <relationship>MY PARENT</relationship>
+      <postalAddress>POBOX 369 MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0787497226</telephone>
+      <mobile>0673142142</mobile>
+      <email>sarahmchomvu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

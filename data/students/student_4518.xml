@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4518</studentId>
+  <studentName>PRISCA ASIIMWE KWEYAMBA</studentName>
+  <accademicHistory><institution><institutionName>MORULA SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E.0026617586.2009</indexNumber><award>INTERNATIONAL GENERAL CERTIFICATE OF SECONDARY EDUCATION</award><grade>PASS</grade><startYear>2006</startYear><endYear>2009</endYear></institution><institution><institutionName>UNIVERSITY OF NAMIBIA</institutionName><specialization>BACHELOR DEGREE OF MICROBIOLOGY AND BIOCHEMISTRY</specialization><levelId>15</levelId><indexNumber>0031278</indexNumber><award>BACHELOR OF SCIENCE HONOURS</award><grade>LOWER SECOND</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>PROJEST ARCHARD KWEYAMBA</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 1611</postalAddress><physicalAddress>BOBONONG, BOTSWANA</physicalAddress><fax/><telephone/><mobile>0716842169</mobile><email>p_kweyamba@yahoo.com</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JAMES KWEYAMBA</kinName><relationship>BROTHER</relationship><postalAddress>P.O BOX 19864</postalAddress><physicalAddress>SINZA</physicalAddress><fax></fax><telephone>0758396630</telephone><mobile>0716842169</mobile><email>pkweyamba@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>PRISCA ASIIMWE KWEYAMBA</accountName><bankAccount>0152257902200</bankAccount><bankName>CRDB</bankName><branchName>KIGOMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6a4581b49bcac72ab9bd1d59e25d1530</isaacompletechecksum></student>

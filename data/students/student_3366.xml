@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3366</studentId>
+  <studentName>OLIVER MALIMI NYANDA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BUKUMBI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0235.0111.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFAKARA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0370.0597.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENT'S LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MALIMI ITENGA NYANDA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 124</postalAddress>
+      <physicalAddress>KAHAMA</physicalAddress>
+      <fax/>
+      <telephone>+255783227182</telephone>
+      <mobile>+255783227182</mobile>
+      <email>olivermalimi5@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NYANDA, OLIVER MALIMI</accountName><bankAccount>0152327965600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c369b23ab4ebd90e66a4c6a8bd99e7b1</isaacompletechecksum></student>

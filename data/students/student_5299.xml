@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5299</studentId>
+  <studentName>HUSSEIN YUSUPH</studentName>
+  <accademicHistory><institution><institutionName>NZASA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3226.0215.2012</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>MOSHI TECHNICAL SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0135.0652.2015</indexNumber><award>ACSEE</award><grade>MERIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation>NO</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FATUMA ABDARAHAMANI MNYANI</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 46343</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>+255719092308</telephone><mobile>+255719092308</mobile><email>fatumamnyani50@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HUSSEIN YUSUPH</accountName><bankAccount>0152327162700</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ef3ae15232867724bd53179a521bfa4c</isaacompletechecksum></student>

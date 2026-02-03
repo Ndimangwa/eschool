@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>925</studentId>
+  <studentName>ELIANASO LUKE MALISA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0485/0012/2002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>DIPLOMA IN ORTHOPAEDIC TECHNOLOGY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>2006/02/00230</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH</employerName>
+      <postalAddress>9083</postalAddress>
+      <physicalAddress>9083</physicalAddress>
+      <telephone>00229120261</telephone>
+      <email>minofthealth@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>76068 Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>002552669036</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NOEL ISSAYA KATONGO</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>13111</postalAddress>
+      <physicalAddress>13111</physicalAddress>
+      <fax/>
+      <telephone>+255764705049</telephone>
+      <mobile>+255764705049</mobile>
+      <email>noekatongo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

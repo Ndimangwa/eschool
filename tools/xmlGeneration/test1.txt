@@ -1,0 +1,87 @@
+productGoodReceivedNote
+{
+	referenceOrder
+	{
+		referenceOrderNumber
+		<
+			$refOrderNumber
+		>
+		supplierName
+		<
+			$supplierName
+		>
+	}
+	tap
+	{
+		title
+		[
+		Tanzania Adventist Press
+		]
+		address
+		[
+		P.O Box 635, Morogoro Tanzania
+		]
+		email
+		[
+		tapmorogoro@yahoo.com
+		]
+		website
+		[
+		www.adventistap.org
+		]
+	}
+	orderTitle
+	[
+	Product Good Received Note
+	]
+	documentType
+	[
+	productgoodreceivednote
+	]
+<?php 
+	$mydate = $note1->getOrderDate();
+	$dt = $mydate->getDay()."/".$mydate->getMonth()."/".$mydate->getYear();
+?>
+	orderDate
+	<
+	$dt
+	>
+	orderNumber
+	<
+	$note1->getOrderNumber()
+	>
+	products
+<?php 
+	foreach ($list as $alist)	{
+?>
+	{
+		product
+		{
+			productId
+			<
+			$alist[0]
+			>
+<?php 
+	$product1 = null;
+	try	{
+		$product1 = new Product($database, $alist[0], $conn);
+	} catch (Exception $e)	{ die($e->getMessage()); }
+?>
+			productName
+			<
+			$product1->getProductName()
+			>
+			quantity
+			<
+			$alist[1]
+			>
+			price
+			<
+			$alist[2]
+			>
+		}
+	}
+<?php	
+	}
+?>
+}

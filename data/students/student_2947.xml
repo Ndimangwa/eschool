@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2947</studentId>
+  <studentName>Saqalain Sibtain Kassamali</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Jaffery Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0971/0031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>WEST LONDON LEARNING CENTRE</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TZ051/0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>DEGREE OF DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K 16 007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Africa federation</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o. box 6710</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222151341</sponsorfax>
+      <mobile>0222151341</mobile>
+      <email>education@africafederation.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Raziya Hassam</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>p.o. box 721</postalAddress>
+      <physicalAddress>market street</physicalAddress>
+      <fax/>
+      <telephone>0784318378</telephone>
+      <mobile>0784318378</mobile>
+      <email>raziya_h@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

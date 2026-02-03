@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>512</studentId>
+  <studentName>EMMANUEL ATHANASE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MALANGALI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO128-0054</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>USAGARA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO345-0527</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>DDS</specialization>
+      <levelId>15</levelId>
+      <indexNumber>47627/T.2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED NEWALA</employerName>
+      <postalAddress>P.O.BOX 16</postalAddress>
+      <physicalAddress>NEWALA DC</physicalAddress>
+      <telephone>0232410251</telephone>
+      <email>afya.newala@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DED NEWALA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 16</postalAddress>
+      <physicalAddress>NEWALA DC</physicalAddress>
+      <fax/>
+      <sponsorfax>0232410211</sponsorfax>
+      <mobile>0754362488</mobile>
+      <email>afya.newala@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CLEMENT RUBUGA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>BOX 2488</postalAddress>
+      <physicalAddress>IRINGA</physicalAddress>
+      <fax/>
+      <telephone>0782863316</telephone>
+      <mobile>0782863316</mobile>
+      <email>clementrubuga@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

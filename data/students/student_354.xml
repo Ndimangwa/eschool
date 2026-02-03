@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>354</studentId>
+  <studentName>Richard Nickanory Martini</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mkonze Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2893.0102.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tanga Technicai Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0156.0554.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068 </postalAddress>
+      <physicalAddress>Sam Mujoma ,Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Nickanory Martini</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>259 Dodoma</postalAddress>
+      <physicalAddress>KIKUYU, Dodoma</physicalAddress>
+      <fax/>
+      <telephone>0758943191</telephone>
+      <mobile>0758943191</mobile>
+      <email>mrichard329@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>840</studentId>
+  <studentName>DONATH MKENDA VALERIAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILAMACHO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2839.0057.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LONGIDO HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0857.0569.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VALERIAN SAMWEL</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O BOX 81</postalAddress>
+      <physicalAddress>MKUU-ROMBO</physicalAddress>
+      <fax/>
+      <telephone>0762653751</telephone>
+      <mobile>0762653751</mobile>
+      <email>donathvalerian@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>VALERIAN, DONATH MKENDA</accountName><bankAccount>0152284717900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a76f2e5c8015d4dbff3cdd440d866a30</isaacompletechecksum></student>

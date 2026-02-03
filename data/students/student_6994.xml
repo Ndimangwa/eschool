@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6994</studentId>
+  <studentName>ELIAS A MAYO</studentName>
+  <accademicHistory><institution><institutionName>TANZANIA ADVENTIST SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1198.0068.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MINAKI HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0113.0647.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.Box 76068 </postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone></telephone><mobile></mobile><email></email><financedItem>TUITION FEE</financedItem><extraInformation></extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ALPHONCE A MAYO</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 315</postalAddress><physicalAddress>SAME</physicalAddress><fax/><telephone>0765149952</telephone><mobile>0765149952</mobile><email>mayoalphonce@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ELIAS A MAYO</accountName><bankAccount>0152202192400</bankAccount><bankName>CRDB BANK</bankName><branchName>SAME</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fddbe1fd0a1f66b2c7a366c56cadf945</isaacompletechecksum></student>

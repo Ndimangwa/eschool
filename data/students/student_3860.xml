@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3860</studentId>
+  <studentName>CLEMENT JOSEPH MBOJE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JAMHURI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0465.0151.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147.0645.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>helsb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>P.O BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOSEPH MBOJE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O BOX 980 DODOMA</postalAddress>
+      <physicalAddress>P.O BOX 980 DODOMA</physicalAddress>
+      <fax/>
+      <telephone>+255754873494</telephone>
+      <mobile>0754873494</mobile>
+      <email>clementmboje@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MBOJE, CLEMENT JOSEPH</accountName><bankAccount>0152274748500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1fdcbd0ed0519d70700913c5ae1105b3</isaacompletechecksum></student>

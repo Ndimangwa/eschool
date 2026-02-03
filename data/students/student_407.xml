@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>407</studentId>
+  <studentName>arbogast vicent</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SAIT PETERS SS NAALYA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>U0896/106</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MIDLAND HIGH SCHOOL </institutionName>
+      <specialization>PEM/A</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U0915/501</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SCOLAH .A. MARANDU</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2440 moshi</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255754282959</sponsorfax>
+      <mobile>00255715282956</mobile>
+      <email>vinnymarandu@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SCOLAH .A. MARANDU</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>2240 moshi</postalAddress>
+      <physicalAddress>dar ee salaam</physicalAddress>
+      <fax/>
+      <telephone>00255754282959</telephone>
+      <mobile>00255754282959</mobile>
+      <email>vinnymarandu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

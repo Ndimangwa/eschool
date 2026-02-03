@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5118</studentId>
+  <studentName>FABIAN B NTIGGA</studentName>
+  <accademicHistory><institution><institutionName>MOSHI TECHNICAL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0135.0085.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1.11</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ILBORU SECONDARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0110.0599.2016</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1.8</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LAZARO NTIGGA WAGAMASSA</sponsorName><payerId>3</payerId><postalAddress>PO BOX 182 TARIME</postalAddress><physicalAddress>TARIME</physicalAddress><fax/><telephone>0752385883</telephone><mobile/><email/><financedItem>FEES</financedItem><extraInformation/></sponsor><sponsor><sponsorName> HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email/><financedItem>FEES,ACCOMODATION,STATIONARY,RESEARCH,SPECIAL FACULT REQUIRMENT</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LAZARO NTIGGA WAGAMASSA</kinName><relationship>FATHER</relationship><postalAddress>PO BOX 182 TARIME</postalAddress><physicalAddress>TARIME</physicalAddress><fax></fax><telephone>0752385883</telephone><mobile>0752385883</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FABIAN NTIGGA WAGAMASSA</accountName><bankAccount>0112041559600</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>baa1dea06d2ff53078f128bdd60b3c1f</isaacompletechecksum></student>

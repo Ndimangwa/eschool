@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>161</studentId>
+  <studentName>JOSEPH THADEI MBEYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIWANJA CHA NDEGE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0958-0118</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TANGA TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0156-0532</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068 DAR</postalAddress>
+      <physicalAddress>SAM NUJOMA,MWENGE</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222700286</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VENERANDA ADAM MGOBA</kinName>
+      <relationship>MY AUNT</relationship>
+      <postalAddress>p.o box 201 dodoma</postalAddress>
+      <physicalAddress>AREA C,DODOMA</physicalAddress>
+      <fax/>
+      <telephone>0262322456</telephone>
+      <mobile>0754318630</mobile>
+      <email>veneadam@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2197</studentId>
+  <studentName>MARY H LUSUNIKE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISOMACHI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO474-037</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>02295</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DISTRICT EXECUTIVE DIRECTOR LONGIDO</employerName>
+      <postalAddress>P.O BOX 84</postalAddress>
+      <physicalAddress>LONGIDO DISTRICT</physicalAddress>
+      <telephone>0272539602</telephone>
+      <email>mary.lusunikes@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOHN SIMON MAEDA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>P.O BOX 1972</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0754312968</telephone>
+      <mobile>0754312968</mobile>
+      <email>elinsoyohana@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

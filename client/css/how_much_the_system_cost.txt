@@ -1,0 +1,30 @@
+UNIVERSITY MANAGEMENT INFORMATION SYSTEM
+Product Installation 
+1. Product Base Code -- 19,100,000 [No matter what the module the client will purchase, this is fixed]
+	-- This base contains the following
+		1. User Management
+		2. AAA (Authentication, Authorization & Auding) Services 
+		3. Approval Sequence Management 
+		4. Excel/CSV Data Management 
+		5. Search Engine
+		6. System Extension Supporting Code 
+	
+2. Installation Server, --- 1,000,000 
+	[Institution having less than 10,000 students]
+		-- DELL, Computer 
+			-- 4GB RAM, 500GB HDD, > 3GHz , Installed with Fedora Server > 22version 
+			-- User should be given protection agaist server virus intrusion 
+		
+3. Registration & Admission System --- 2,000,000 
+4. Examination & Results Management -- 3,500,000
+5. Grade, Class of Award, Education Level, Course, Subject & Course.Subject Mapping --- 1,000,000 
+6. All other system 500,000 
+	[The client should not be charged per other existing systems like timetable etc]
+	
+	
+TOTAL 27,100,000 
+VAT    4,878,000 
+
+GRAND TOTAL 31,978,000 (apprx. 32,000,000)
+	
+

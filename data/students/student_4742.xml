@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4742</studentId>
+  <studentName>MUSA RAHIM</studentName>
+  <accademicHistory><institution><institutionName>MINAKI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0133.0692.2015</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>MERIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution><institution><institutionName>KIBAHA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0119.0078.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 1</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JASI RAHIM</kinName><relationship>BROTHER</relationship><postalAddress>P.O.BOX </postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>+255787128895</telephone><mobile>+255787128895</mobile><email></email><extraInformation>BUSINESS MAN</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MUSA RAHIM SENDOKI</accountName><bankAccount>0152261310500</bankAccount><bankName>CRDB</bankName><branchName>ILALA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4759a46fac97d0da591e73499e164ef5</isaacompletechecksum></student>

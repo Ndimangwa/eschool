@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5474</studentId>
+  <studentName>REVINA KAJUMLA</studentName>
+  <accademicHistory><institution><institutionName>BWERANYANGE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0296.0051.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATIONS</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>LOLEZA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0211.0899.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile/><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MASTIDIA KAJUMLA</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 198 KARAGWE</postalAddress><physicalAddress>KARAGWE KAGERA</physicalAddress><fax></fax><telephone>0755705549</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>  CRDB</accountName><bankAccount>0152249522700</bankAccount><bankName>CRDB BANK</bankName><branchName>KAYANGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>da15a581e0e248a549b2762e7d3fe04a</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5607</studentId>
+  <studentName>INNOCENT MBOYA</studentName>
+  <accademicHistory><institution><institutionName>BISMARCK</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1194.0032.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION 3</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a8cb2bc9cf73fa5e6f8795d11ba3f86b</isaacompletechecksum></student>

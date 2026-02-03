@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7921</studentId>
+  <studentName>ENOCK HASHIM DOLLI</studentName>
+  <accademicHistory><institution><institutionName>JORDAN SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S1432.0049.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE  </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MINAKI HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0133.0655.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM </physicalAddress><fax>0222700286</fax><telephone>0222772432</telephone><mobile>0222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES,ACCOMODATION,MEALS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ARON SHOLLA</kinName><relationship>BROTHER IN LAW</relationship><postalAddress>P.O.BOX 60080 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM </physicalAddress><fax></fax><telephone>0656537653</telephone><mobile>0656537653</mobile><email>enockdolli@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ENOCK HASHIM DOLLI</accountName><bankAccount>0152294662400</bankAccount><bankName>CRDB BANK</bankName><branchName>MBEZI BEACH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c8755d3a32477d5976dded11e620f75c</isaacompletechecksum></student>

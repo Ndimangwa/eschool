@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5092</studentId>
+  <studentName>ADVELLAH ADERALD RWEIKIZA</studentName>
+  <accademicHistory><institution><institutionName>ST.VICENT PALLOTI GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0245.0001.2013</indexNumber><award>ORDINARY LEVEL CERTIFICATE</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIBOSHO GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0205.0060.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ADERALD RWEIKIZA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 60,MANYONI</postalAddress><physicalAddress>SINGIDA</physicalAddress><fax/><telephone>0754512335</telephone><mobile>0754309964</mobile><email/><financedItem>TUITION FEES,ACCOMODATION,MEALS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ADERALD RWEIKIZA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 60,MANYONI</postalAddress><physicalAddress>SINGIDA</physicalAddress><fax></fax><telephone>0754512335</telephone><mobile>0754309964</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ADVELLAH ADERALD RWEIKIZA</accountName><bankAccount>0152203377100</bankAccount><bankName>CRDB</bankName><branchName>DODOMA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d8ac84ae99cb9976ce88f05222f142ae</isaacompletechecksum></student>

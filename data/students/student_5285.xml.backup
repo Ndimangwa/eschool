@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5285</studentId>
+  <studentName>GRACE D NYITI</studentName>
+  <accademicHistory><institution><institutionName>KIKATITI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0687.0018.2013</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>NYAMPULUKANO SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0613.0530.2016</indexNumber><award>ACSEE</award><grade>Division THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ELIREHEMA AMINIEL NYITI</sponsorName><payerId>3</payerId><postalAddress>P.OBOX 396,USA RIVER</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0768016182</telephone><mobile>0768016182</mobile><email/><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELIREHEMA NYITI</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 396, USA RIVER</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0768016182</telephone><mobile>0768016182</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GRACE DAIMAEL NYITI</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>129be7cd58fcc15a3a785bd9399a3bc8</isaacompletechecksum></student>

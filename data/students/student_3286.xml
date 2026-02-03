@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3286</studentId>
+  <studentName>ROCKY KANGONGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MOROGORO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0332-0207</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>PUGU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0147-0723</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUGANDO UNIVERSITY COLLEGE OF HEALTH SCIENCES</institutionName>
+      <specialization>GENERAL MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>SAUT/BUCHS/MD/1728/05</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>TANZANIA PEOPLE DEFENCE FORCE</employerName>
+      <postalAddress>9203</postalAddress>
+      <physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress>
+      <telephone>+255754387278</telephone>
+      <email>Ttpdf@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Ministry of health</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9083</postalAddress>
+      <physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222342000</sponsorfax>
+      <mobile>+255222342000</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>rogatus duwe</kinName>
+      <relationship>friend</relationship>
+      <postalAddress>155</postalAddress>
+      <physicalAddress>kiomboi, iramba</physicalAddress>
+      <fax/>
+      <telephone>+255759538912</telephone>
+      <mobile>+255759538912</mobile>
+      <email>rogatus@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

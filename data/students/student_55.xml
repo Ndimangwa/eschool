@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>55</studentId>
+  <studentName>lugembe sospeter</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ngudu sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>so554-0052</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>medical training centre-singida</institutionName>
+      <specialization>laboratory assistant</specialization>
+      <levelId>8</levelId>
+      <indexNumber>10245</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ded ukerewe</employerName>
+      <postalAddress>box 41nansio-ukerewe</postalAddress>
+      <physicalAddress>box41nansio-ukerewe</physicalAddress>
+      <telephone>+255732981174</telephone>
+      <email>ukerewdc@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>district exerctive directer</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 41nansio-ukerewe</postalAddress>
+      <physicalAddress>box41nansio-ukerewe</physicalAddress>
+      <fax/>
+      <sponsorfax>+255732981174</sponsorfax>
+      <mobile>+255732981174</mobile>
+      <email>ukerewedc@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>thomas ndaki</kinName>
+      <relationship>uncle</relationship>
+      <postalAddress>box 55nansio-ukerewe</postalAddress>
+      <physicalAddress>box 55 nansio-ukerewe</physicalAddress>
+      <fax/>
+      <telephone>0784847535</telephone>
+      <mobile>0784847535</mobile>
+      <email>inf@t.ndakicom.ac.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

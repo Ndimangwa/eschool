@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>717</studentId>
+  <studentName>ELVIS C SILAYO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>URU SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0165/0013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. JOSEPH CATHEDRAL HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S4692/0638</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DSM</postalAddress>
+      <physicalAddress>76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VIRGINIA C SILAYO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>176 MOSHI</postalAddress>
+      <physicalAddress>176 MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0784816700</telephone>
+      <mobile>0272753344</mobile>
+      <email>virginiasilayo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

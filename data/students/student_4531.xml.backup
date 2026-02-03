@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4531</studentId>
+  <studentName>EMMIA NUUSIKU MUNENGUNI</studentName>
+  <accademicHistory><institution><institutionName>ST JOSEPH SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E6635.2500.1986</indexNumber><award>GRADE 12</award><grade>GRADE 12, DIVISION THREE</grade><startYear>1982</startYear><endYear>1986</endYear></institution><institution><institutionName>HUBERT KAIRUKI MEMORIAL UNIVERSITY</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>21</levelId><indexNumber>041</indexNumber><award>BACHELOR DEGREE IN MEDICINE AND GENERAL SURGERY</award><grade>PASS</grade><startYear>2001</startYear><endYear>2006</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH AND SOCIAL SERVICES</employerName><postalAddress>P/BAG 13918, WINDHOEK</postalAddress><physicalAddress>HARVEY STREET, WINDHOEK WEST</physicalAddress><fax>00264272286</fax><telephone>+264612032531</telephone><mobile>+264814112997</mobile><email>ekambaru@gmail.com</email><startYear>2006</startYear><endYear>2016</endYear><extraInformation>STILL EMPLOYED BY THE MINISTRY </extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH AND SOCIAL SERVICES</sponsorName><payerId>10</payerId><postalAddress>P/BAG 13918, WINDHOEK</postalAddress><physicalAddress>HARVEY STREET, WINDHOEK WEST</physicalAddress><fax>00264272286</fax><telephone>002642032531</telephone><mobile>+264814112997</mobile><email>ekambaru@gmail.com</email><financedItem>SCHOLARSHIP</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FRITZ SHILONGO MUNENGUNI</kinName><relationship>SON</relationship><postalAddress>P.O. BOX 95072, KATUTURA, WINDHOEK</postalAddress><physicalAddress>ERF 829, OKARAMBA STREET, WANAHEDA, WINDHOEK</physicalAddress><fax/><telephone>+264812020334</telephone><mobile>+264814843037</mobile><email>fritzshilongo@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DR EMMIA NUUSIKU MUNENGUNI</accountName><bankAccount>60550712951</bankAccount><bankName>FIRST NATIONAL BANK</bankName><branchName>EXCLUSIVE BANKING SUITE, WINDHOEK</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>aa2cdd5300db1d13b5a2cffb7124864a</isaacompletechecksum></student>

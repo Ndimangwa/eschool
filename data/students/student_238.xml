@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>238</studentId>
+  <studentName>LUIZA DEO KUNDY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BARAA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1818/0056</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAIRIVA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2295/0512</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DEO PATRICK KUNDY</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>7124</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>002552545612</sponsorfax>
+      <mobile>00255754282175</mobile>
+      <email>deokundy@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DEO PATRICK KUNDY</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>7124</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>002552545612</telephone>
+      <mobile>00255754282175</mobile>
+      <email>deokundy@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

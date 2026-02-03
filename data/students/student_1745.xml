@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1745</studentId>
+  <studentName>TASILO T. KAMENYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. BENEDICT NAMUPA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0141-0025</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0119-0628</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>IMELDA</kinName>
+      <relationship>TASILO</relationship>
+      <postalAddress>49 NDANDA</postalAddress>
+      <physicalAddress>NDANDA</physicalAddress>
+      <fax/>
+      <telephone>0688336321</telephone>
+      <mobile>0688336321</mobile>
+      <email>tasilokamenya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

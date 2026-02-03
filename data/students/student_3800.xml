@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3800</studentId>
+  <studentName>GLORY YOHANA SIAO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>URU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0357.0015.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0209.0604.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELBS</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Dar e salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272758770</sponsorfax>
+      <mobile>025576710900</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>TUMSIFU</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>1345 MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>07575904204</telephone>
+      <mobile>07575904204</mobile>
+      <email>tumsifu.munuo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SIAO, GLORY YOHANA</accountName><bankAccount>0152266566000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>30a7fb708664d815506b27864c6f825b</isaacompletechecksum></student>

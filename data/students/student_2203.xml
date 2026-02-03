@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2203</studentId>
+  <studentName>Petro Jacob Gurti</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Slahhamo secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1401-0070</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lyamungo secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125-0770</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068 mwenge</postalAddress>
+      <physicalAddress>+255222700286</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Piniel Kambey</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>P.O.Box 08 Arusha</postalAddress>
+      <physicalAddress>0766824967</physicalAddress>
+      <fax/>
+      <telephone>0766824967</telephone>
+      <mobile>+255766824967</mobile>
+      <email>pinielalphayo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

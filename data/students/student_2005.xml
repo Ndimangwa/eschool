@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2005</studentId>
+  <studentName>KASTORY S. MALLEY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>WEL WEL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1370-0104</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAFINGA SEMINARY</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0113-0526</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SILVESTER M. MALLEY</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 270 KARATU</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <fax/>
+      <telephone>0767976907</telephone>
+      <mobile>0767976907</mobile>
+      <email>kastorymalley100@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>69</studentId>
+  <studentName>ABDALLAH AZIZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JAMHURI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0465-0062</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MEDICAL TRAINING CENTRE</institutionName>
+      <specialization>LAB CERTIFICATE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>10866</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>AZIZI HUSSEIN</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3092 ARUSHA</postalAddress>
+      <physicalAddress>KALOLENI</physicalAddress>
+      <fax/>
+      <sponsorfax>00255752648734</sponsorfax>
+      <mobile>00255752648734</mobile>
+      <email>azizi.abdallah@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AZIZI HUSSEIN</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>3092 ARUSHA</postalAddress>
+      <physicalAddress>KALOLENI</physicalAddress>
+      <fax/>
+      <telephone>00255752648734</telephone>
+      <mobile>00255752648734</mobile>
+      <email>azizi.abdallah@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

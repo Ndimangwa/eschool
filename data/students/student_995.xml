@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>995</studentId>
+  <studentName>KUWODO KOKOU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LYCEE D'AGOE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>6314</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ENAM LOME</institutionName>
+      <specialization>ORTHOPEDIC TECHNOLOGIST</specialization>
+      <levelId>8</levelId>
+      <indexNumber>6035</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Ministere de la Sante -CNAO</employerName>
+      <postalAddress>BP:3173</postalAddress>
+      <physicalAddress>BP:3173 lome togo</physicalAddress>
+      <telephone>0022822214673</telephone>
+      <email>pindadora@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PAGRHSM-Lome</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>07BP:12449</postalAddress>
+      <physicalAddress>Lome -Togo</physicalAddress>
+      <fax/>
+      <sponsorfax>0022822222428</sponsorfax>
+      <mobile>0022890272662</mobile>
+      <email>cfdenkey@yahoo.fr</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KUWODO kodjo</kinName>
+      <relationship>Ancle</relationship>
+      <postalAddress>sc/ BP:3173</postalAddress>
+      <physicalAddress>Lome</physicalAddress>
+      <fax/>
+      <telephone>0022890265332</telephone>
+      <mobile>0022890265332</mobile>
+      <email>kuwodo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

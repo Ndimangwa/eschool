@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6805</studentId>
+  <studentName>HIGHNESS PROSPER SHAO</studentName>
+  <accademicHistory><institution><institutionName>MLAMA SECONDARY SCHOOL</institutionName><specialization>SCIENCE SUBJECT</specialization><levelId>4</levelId><indexNumber>S0508.0012.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SAINT MARY GORETTI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1187.0613.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,DAR ES SALAAM</postalAddress><physicalAddress>DAR</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772832</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES &amp; ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELICHILIA SHAO</kinName><relationship>UNCLE</relationship><postalAddress>P.O.BOX 3010</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0784491622</telephone><mobile>0784491622</mobile><email>elichilia2004@yahoo.co.uk</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ELICHILIA </accountName><bankAccount>017201078727</bankAccount><bankName>NBC</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e29545bac3752007d4c95e2cdd53ea2b</isaacompletechecksum></student>

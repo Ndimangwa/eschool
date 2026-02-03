@@ -1,0 +1,55 @@
+/* RESULTS FILE STARTS HERE */
+1. @-header,instruction: Please DO NOT CHANGE THE STRUCTURE OF THIS FILE
+2. @-header,compilationTime: 2016:12:09:00:00:01,
+3. @-header,columnCount: 9
+4. @-header,maximumScore: 100 //marks out of 100
+5. @-header,fileType: results,
+6. @-header,fileTypeCode: md5(Object::$resultsFileCode)
+7. @-header,courseId: 5
+8. @-header,courseName: Calculus in Sociology 
+9. @-header,year: 2 
+10. @-header,semester: 1
+11. @-header,batchId: 12 //Results for batch 2011/2012 --results belong to one batch only , student who has repeated a year should be a member of this batch to get their results
+12. @-header,batchName: 2017/2018 
+13. #### re
+14. # reserved 
+15. Ref_Student,Is Repeating,RegNumber,reserved,reserved,reserved,subject Name 1, subject Name 2, Microbiology, ..,Sayansi Kilimo//Subject Name Unique 
+16. studentId,isRepeating,regNumber,res,res,res,13,1,11,14,...17 //transactionId, should be Unique
+3,0,#,#,87,19,100,..32
+5,0,#,#,12,92,72,..12 
+.
+.
+.
+.
+167,0,#,#,18,91,23,..12
+/* RESULTS FILE ENDS HERE */
+^-- In Above format, the system should make sure from 17th row (index = 16), where data begins the student is a member of a course in a mentioned year and semester at that batch 
+^-- The results data should be in a sorted ascending order of studentId
+
+/*
+You may define a new class StudentMin , just for specific operations on results , studentId, flags, batchList
+How to get results template 
+1. Select Course Name 
+2. Select Batch Number 
+3. Select Year 
+4. Select Semester
+5. Maximum Score
+6. Select Subjects to Include  //Step 2
+7. Then Download 
+*/
+/*
+How to upload Results 
+1. Create Results Object [if Not Created]
+2. Go to Upload , Select Results 
+3. Do Upload 
+The System will 
+--Save as a temporary file 
+--Verify Header if correct, batchId, year, semester, courseName etc 
+--If there exists other subjects loaded, do merge process , update Headers accordingly //Make sure backup is created first , columnWill be Added , 
+if subjectColumnAlready exists do skip it, if studentRow does not exists in original add it after adjusting to this new format 
+-- Calculate Checksum and save 
+
+
+*/
+
+http://www.jqueryrain.com/demo/jquery-selectbox-plugin/

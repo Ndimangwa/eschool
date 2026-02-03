@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>9</studentId>
+  <studentName>Naelijwa Jack Manongi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.Christopher secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>KE011/0699</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Asia-pacific International university</institutionName>
+      <specialization>Bachelor of Science in bioscience</specialization>
+      <levelId>8</levelId>
+      <indexNumber>201300079</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Asia-Pacific International University</institutionName>
+      <specialization>Bachelor of Science in Bioscience</specialization>
+      <levelId>15</levelId>
+      <indexNumber>201300079</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Jack Nathaniel Manongi</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Private Bag 00503</postalAddress>
+      <physicalAddress>Mbagathi 00503 Nairobi, Kenya</physicalAddress>
+      <fax/>
+      <sponsorfax>+254736659000</sponsorfax>
+      <mobile>+254736659000</mobile>
+      <email>manongij@yahoo.co.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Jack Nathaniel Manongi</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>Private Bag 00503</postalAddress>
+      <physicalAddress>Mbagathi 00503 Nairobi Kenya</physicalAddress>
+      <fax/>
+      <telephone>+254736659000</telephone>
+      <mobile>+254736659000</mobile>
+      <email>manongij@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

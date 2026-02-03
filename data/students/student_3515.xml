@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3515</studentId>
+  <studentName>DOMINICK ELIAS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWILAMVYA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2211.0053.2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KABANGA SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED BUHIGWE</employerName>
+      <postalAddress>P. O Box 443 Buhigwe</postalAddress>
+      <physicalAddress>P.O Box 443Buhigwe</physicalAddress>
+      <telephone>+225767016237</telephone>
+      <email>buhigwedc@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>P.O Box 76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EVODIA ELIAS KWIFASHE</kinName>
+      <relationship>My Sister</relationship>
+      <postalAddress>42 Kasulu</postalAddress>
+      <physicalAddress>42 Kasulu</physicalAddress>
+      <fax/>
+      <telephone>+225767791640</telephone>
+      <mobile>+225767791640</mobile>
+      <email>dominickelias88@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ELIAS, DOMINICK</accountName><bankAccount>0152327972200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>313629199fbc4685949f9c7b478ae7f4</isaacompletechecksum></student>

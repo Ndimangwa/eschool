@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1984</studentId>
+  <studentName>NEBATH DAIMONI SILAU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BAGAMOYO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0351-093</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MKWAWA HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0137-0925</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MEDICAL LABORATORY ASSISTANT TRAINING COLLEGE</institutionName>
+      <specialization>MEDICAL LABORATORY ASSISTANT</specialization>
+      <levelId>8</levelId>
+      <indexNumber>00052</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>LOCAL GOVERNMENT TRAINING INSTITUTE (LGTI)</employerName>
+      <postalAddress>1125 dodoma</postalAddress>
+      <physicalAddress>1125 dodoma</physicalAddress>
+      <telephone>0262961101</telephone>
+      <email>info@lgti.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>RECTOR LOCAL GOVERNMENT TRAINING INSTITUTE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1125 dodoma</postalAddress>
+      <physicalAddress>1125 dodoma</physicalAddress>
+      <fax/>
+      <sponsorfax>0262961101</sponsorfax>
+      <mobile>0262961101</mobile>
+      <email>info@lgti.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JENIPHER J SILAU</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>1125 dodoma</postalAddress>
+      <physicalAddress>1125 dodoma</physicalAddress>
+      <fax/>
+      <telephone>00255753339495</telephone>
+      <mobile>0753339495</mobile>
+      <email>nebath@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

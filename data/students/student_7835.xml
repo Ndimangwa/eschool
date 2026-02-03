@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7835</studentId>
+  <studentName>OTHMANI S OTHMANI</studentName>
+  <accademicHistory><institution><institutionName>NYASAKA ISLAMIC SECONDARY SCHOOL</institutionName><specialization>O-level-SCIENCE</specialization><levelId>4</levelId><indexNumber>S1665.0140.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>MARIAN BOYS HIGH SCHOOL</institutionName><specialization>A-LEVEL-PCB</specialization><levelId>8</levelId><indexNumber>S4213.0574.2015</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3aaeeb6324e196caae89a98f2e612547</isaacompletechecksum></student>

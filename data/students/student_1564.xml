@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1564</studentId>
+  <studentName>CECILIA MWINGIRA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIFUNGILO GIRLS SECONDARY SCHOOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0224/0016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. ANTHONY'S HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0534/0019</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PETER MWINGIRA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2590</postalAddress>
+      <physicalAddress>ZANZIBAR</physicalAddress>
+      <fax/>
+      <sponsorfax>+255658305315</sponsorfax>
+      <mobile>0658305315</mobile>
+      <email>gamkeya@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PETER MWINGIRA</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>2590</postalAddress>
+      <physicalAddress>ZANZIBAR</physicalAddress>
+      <fax/>
+      <telephone>+255658305315</telephone>
+      <mobile>0658305315</mobile>
+      <email>gamkeya@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

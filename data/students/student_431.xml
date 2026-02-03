@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>431</studentId>
+  <studentName>BHAVYA MAYUR DOSHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST MARY GORETTI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1187/0013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST MARY GORETTI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187/0524</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MAYUR RASIKLAL DOSHI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 582</postalAddress>
+      <physicalAddress>MOSHI TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272750386</sponsorfax>
+      <mobile>0754039726</mobile>
+      <email>kunjdoshi@msn.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MAYUR DOSHI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 582</postalAddress>
+      <physicalAddress>MOSHI TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>00255272750386</telephone>
+      <mobile>0754039726</mobile>
+      <email>kunjdoshi@msn.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

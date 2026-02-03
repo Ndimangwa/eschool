@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6134</studentId>
+  <studentName>CERTIFICATE OF SECONDARY EDUCATION</studentName>
+  <accademicHistory><institution><institutionName>KITUMBA SEC SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S2245.0119.2010</indexNumber><award>CERTIFICATE</award><grade>DIVISION THREE </grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SAMWELI BONIFANCE</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 14141</postalAddress><physicalAddress>MARA</physicalAddress><fax>0678278660</fax><telephone>0673013741</telephone><mobile>0786993006</mobile><email>samwelibonifance@gmail.com</email><financedItem>SCHOOL FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>NBC</accountName><bankAccount>048213001619</bankAccount><bankName>NBC</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e67c34bfc4df0a10ce290da84e110350</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2038</studentId>
+  <studentName>EMMANUEL PAUL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PAUL BOMANI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.08170021</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SEONDARY  SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.01510524</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>TIRDO COMPLEX KIMWERI ROAD DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EMMANUEL PETER SEGEJA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>BOX 31902 DAR ES SALAAM</postalAddress>
+      <physicalAddress>BUSWELU MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0754825521</telephone>
+      <mobile>0754825521</mobile>
+      <email>salomenkulru@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7819</studentId>
+  <studentName>EMANUEL HALERIGHT MLAY</studentName>
+  <accademicHistory><institution><institutionName>KCMC</institutionName><specialization>DIPLOMA IN HEALTH LABORATORY</specialization><levelId>4</levelId><indexNumber>S1147.0165.2014</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>MERIT</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HALERIGHT MLAY</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 2240</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0752507449</telephone><mobile>0752507449</mobile><email>emlay065@gmail.com</email><financedItem>SCHOOL FEES</financedItem><extraInformation>GOVERNMENT EMPLOYEE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>EMANUEL H MLAY</accountName><bankAccount>0123452345</bankAccount><bankName>NMB</bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>08c865dc1f063076d6e3d917f71d7667</isaacompletechecksum></student>

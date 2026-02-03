@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5461</studentId>
+  <studentName>ernest richard masanja</studentName>
+  <accademicHistory><institution><institutionName>kilimanjaro christian medical college</institutionName><specialization>MD</specialization><levelId>8</levelId><indexNumber>S0823.0620.2013</indexNumber><award>advanced certificate of secondary education</award><grade>division two</grade><startYear>2011</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>090f53657db4fdafd9d9e737107d16f3</isaacompletechecksum></student>

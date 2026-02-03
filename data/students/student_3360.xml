@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3360</studentId>
+  <studentName>EBENEZER LAZARO MMARI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOLILA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0322.0058.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>USAGARA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345.0595.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Glory Lazaro Mmari</kinName>
+      <relationship>sister</relationship>
+      <postalAddress>3073</postalAddress>
+      <physicalAddress>moshi vijijini</physicalAddress>
+      <fax/>
+      <telephone>+255768383903</telephone>
+      <mobile>+255768383903</mobile>
+      <email>glorymmari@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MMARI, EBEN-EZER LAZARO</accountName><bankAccount>0152386612000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4350edfa49b3a7f72d0321a48caa48c1</isaacompletechecksum></student>

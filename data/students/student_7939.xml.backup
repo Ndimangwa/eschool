@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7939</studentId>
+  <studentName>SABUSHIMIKE DORIANE</studentName>
+  <accademicHistory><institution><institutionName>LYCEE SOS HG </institutionName><specialization>SCIENCES </specialization><levelId>4</levelId><indexNumber>E4433.1783.2007</indexNumber><award>PASS</award><grade>PLUS GRAND FRUIT</grade><startYear>2000</startYear><endYear>2007</endYear></institution><institution><institutionName>NATIONAL UNIVERSITY OF RWANDA</institutionName><specialization>BACHELOR OF MEDECINE AND SURGERY</specialization><levelId>15</levelId><indexNumber>E1020.9363.2013</indexNumber><award>PASS</award><grade>SECOND CLASS HONOURS, LOWER DIVISION</grade><startYear>2008</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>NDAYIZEYE JUDITH</sponsorName><payerId>3</payerId><postalAddress>BUJUMBURA1324</postalAddress><physicalAddress>BUJUMBURA</physicalAddress><fax/><telephone>+257222201300</telephone><mobile>+257769925430</mobile><email>ndayizeyejud@yahoo.fr</email><financedItem>TUITION FEES AND ALL OTHER EXPENSES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SABUSHIMKE DORIANE</accountName><bankAccount>0252800922600</bankAccount><bankName>CRDB</bankName><branchName>NYENYERI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>037eaba9e6bfb89f3ed8bc80d2bb8665</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4425</studentId>
+  <studentName>Marianne</studentName>
+  <accademicHistory><institution><institutionName>International Medical And Technological University</institutionName><specialization>General Surgery</specialization><levelId>15</levelId><indexNumber>2000CMG008</indexNumber><award>Pass</award><grade>Pass</grade><startYear>2000</startYear><endYear>2006</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>Kilimanjaro Christian Medical Centre</employerName><postalAddress>P.O.Box 3010</postalAddress><physicalAddress>Moshi</physicalAddress><fax/><telephone/><mobile>0786280648</mobile><email>kcmcadmin@kcmc.ac.tz</email><startYear>2009</startYear><endYear>2012</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>Marianne Gnanamuttupulle</sponsorName><payerId>1</payerId><postalAddress>P.O.Box 38477</postalAddress><physicalAddress>Dar es Salaam</physicalAddress><fax/><telephone/><mobile>0689789736</mobile><email>drmarianne.pulle@gmail.com</email><financedItem>school fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Marianne Gnanauttupulle</accountName><bankAccount>9120000159016</bankAccount><bankName>Stanbic</bankName><branchName>Mwanza</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fc334e90de8dc1eceb200780c4d58f70</isaacompletechecksum></student>

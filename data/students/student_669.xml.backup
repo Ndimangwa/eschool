@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>669</studentId>
+  <studentName>ramadhani s magero</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>rosmini</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0692-0069</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>al muntazir</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0437-0515</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po box 76068</postalAddress>
+      <physicalAddress>po box 66068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222660936</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mariam magero</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>po box 9024 dam</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0754570311</telephone>
+      <mobile>0754570311</mobile>
+      <email>allymagero@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

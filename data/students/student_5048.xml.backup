@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5048</studentId>
+  <studentName>ELIZABETH JAPHET SWAI</studentName>
+  <accademicHistory><institution><institutionName>NARUMU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0557.0013.2013</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>BWIRU GIRLS SECONDARY  SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0202.0637.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JAPHET</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 659</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax/><telephone>0754945888</telephone><mobile/><email/><financedItem>SCHOOL FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JAPHET</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 659</postalAddress><physicalAddress>KILIMANJARO</physicalAddress><fax/><telephone>0754945888</telephone><mobile/><email/><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NIL</accountName><bankAccount>NIL</bankAccount><bankName>NIL</bankName><branchName>NIL</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3d78814543bf1cd4eddef8b55629bc0a</isaacompletechecksum></student>

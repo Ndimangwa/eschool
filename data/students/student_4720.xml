@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4720</studentId>
+  <studentName>SUZANA PHILBERT SOMOKA</studentName>
+  <accademicHistory><institution><institutionName>S.S.RUFINO RINALDO SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S1530.0016.2013</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL EDUCATION</award><grade>DIVISION ONE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MSALATO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0214.0567.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,DAR ES SALAAM</postalAddress><physicalAddress>PLOT NO.8, BLOCK NO. 46;SAM NUJOMA ROAD</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BONIFACE MICHAEL BALAMWEZI</kinName><relationship>BROTHER</relationship><postalAddress>P.O.BOX 1352 MOSHI</postalAddress><physicalAddress>KIBOSHO</physicalAddress><fax></fax><telephone>0716080807</telephone><mobile>0716080807</mobile><email>bonymm2@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SUZANA PHILBERT SOMOKA</accountName><bankAccount>0152201511800</bankAccount><bankName>CRDB BANK</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4a154be8ea35ec2ae9a5bdeba55491ab</isaacompletechecksum></student>

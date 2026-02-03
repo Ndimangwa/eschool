@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4572</studentId>
+  <studentName>HADIJA YASINI</studentName>
+  <accademicHistory><institution><institutionName>MASASI SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S0213.0018.2003</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2000</startYear><endYear>2003</endYear></institution><institution><institutionName>BENJAMIN WILLIAM MKAPA HIGH SCHOOL</institutionName><specialization>CBN</specialization><levelId>8</levelId><indexNumber>S0960.0510.2006</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2004</startYear><endYear>2006</endYear></institution><institution><institutionName>SOKOINE UNIVERSITY OF AGRICULTURE</institutionName><specialization>HOME ECONOMICS AND HUMAN NUTRITION</specialization><levelId>15</levelId><indexNumber>HE.D.06.T.6971</indexNumber><award>DEGREE OF HOME ECONOMICS AND HUMAN NUTRITION</award><grade>GPA 3.7</grade><startYear>2006</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>ILALA MUNICIPAL DIRECTOR</employerName><postalAddress>DAR ES SALAAM 20950</postalAddress><physicalAddress>DAR ES SALAAM 20950 </physicalAddress><fax/><telephone/><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HADIJA YASINI LYELLU</sponsorName><payerId>1</payerId><postalAddress>DSM 75670</postalAddress><physicalAddress>DAR ES SALAAM </physicalAddress><fax/><telephone/><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PATRICK PATRICK KAHEMELE</kinName><relationship>HUSBAND</relationship><postalAddress>DAR ES SALAAM 75670</postalAddress><physicalAddress>DAR ES SALAAM </physicalAddress><fax></fax><telephone>+255755805689</telephone><mobile>+255716840068</mobile><email>ppkahemele@yahoo.com</email><extraInformation>ppkahemele@gmail.com</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HADIJA YASINI LYELLU</accountName><bankAccount>41208000605</bankAccount><bankName>NMB</bankName><branchName>MBULU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c90eb5a81b6bd657e049a57912a2d145</isaacompletechecksum></student>

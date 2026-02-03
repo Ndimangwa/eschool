@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7785</studentId>
+  <studentName>BERNARD LOSINA ADOLPH</studentName>
+  <accademicHistory><institution><institutionName>MASHATI SECONDAR SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2849.0091.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ADOLPH LOSINA UISSO</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 375 MKUU-ROMBO</postalAddress><physicalAddress>P.O.BOX 375 MKUU-ROMBO</physicalAddress><fax/><telephone>0756712803</telephone><mobile/><email/><financedItem>TUITION FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ROSE LOSINA</kinName><relationship>AUNT</relationship><postalAddress>P.O.BOX 219 DODOMA</postalAddress><physicalAddress>P.O.BOX 219 DODOMA</physicalAddress><fax></fax><telephone>0767438777</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NBC</accountName><bankAccount>017101001339</bankAccount><bankName>NBC</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f6f0d3fd98acd1f513ddd517ab5edd1a</isaacompletechecksum></student>

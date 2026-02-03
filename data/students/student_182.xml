@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>182</studentId>
+  <studentName>Julieth Sebba Bilakwate</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Loyola High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0800/0024</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Marian Girls Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0248/0567</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar</postalAddress>
+      <physicalAddress>Sam Nujoma Rd Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Amelia Sylvery Buriyo</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>35060</postalAddress>
+      <physicalAddress>Botany Department UDSM</physicalAddress>
+      <fax/>
+      <telephone>00255713271775</telephone>
+      <mobile>00255752271775</mobile>
+      <email>buriyo@udsm.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7759</studentId>
+  <studentName>advanced certificate</studentName>
+  <accademicHistory><institution><institutionName>chinangali </institutionName><specialization>primary</specialization><levelId>1</levelId><indexNumber>4923</indexNumber><award>primary certificate</award><grade>23</grade><startYear>2000</startYear><endYear>2006</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c7891c95ac7ec0bb1415ec6e978ac16b</isaacompletechecksum></student>

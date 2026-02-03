@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3533</studentId>
+  <studentName>ERICK DERECK MUHAYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AZANIA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0101.0137.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KAZIMA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0314.0512.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P..BOX 76068,DAR</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002550653227627</sponsorfax>
+      <mobile>002550244530</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SUZAN SOMI</kinName>
+      <relationship>AUNTIE</relationship>
+      <postalAddress>P.0 BOX 777</postalAddress>
+      <physicalAddress>MOSHI,TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>0652266506</telephone>
+      <mobile>0652266506</mobile>
+      <email>Sus-jon2004@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUHAYA, ERICK DERECK</accountName><bankAccount>0152327972400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>804cf3be3d3bd2c2eebc0f9654e20651</isaacompletechecksum></student>

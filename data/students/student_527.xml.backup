@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>527</studentId>
+  <studentName>Jonas Manai</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Lyamungo secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0125-0173</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>School of physiotherapy-kcmc-moshi</institutionName>
+      <specialization>Physiotherapist</specialization>
+      <levelId>8</levelId>
+      <indexNumber>Physio/kcmc/11/13</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Regional administrative secretary</employerName>
+      <postalAddress>5 singida</postalAddress>
+      <physicalAddress>5 Singida</physicalAddress>
+      <telephone>0255502170</telephone>
+      <email>ras@singida.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P O BOX 76068 DSM</postalAddress>
+      <physicalAddress>P O BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Vicent manai lema</kinName>
+      <relationship>Parent</relationship>
+      <postalAddress>65070 Dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>0754499108</telephone>
+      <mobile>0754499108</mobile>
+      <email>jonasmanai@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

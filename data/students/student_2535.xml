@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2535</studentId>
+  <studentName>vanessa william dallaris</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>st. Constantine's International School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>TZ010/0423</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St. Constantine's International School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TZ010/0423</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Jovita Costa Dallaris</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box6127, Arusha</postalAddress>
+      <physicalAddress>Ng'arenaro,Arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>0754745213</sponsorfax>
+      <mobile>0784745213</mobile>
+      <email>jovitacostas@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Jovita Costa Dallaris</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>P.O.Box6127, Arusha</postalAddress>
+      <physicalAddress>Ng'arenaro,Arusha</physicalAddress>
+      <fax/>
+      <telephone>0754745213</telephone>
+      <mobile>0784745213</mobile>
+      <email>jovitacostas@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

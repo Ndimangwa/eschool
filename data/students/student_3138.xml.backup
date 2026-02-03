@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3138</studentId>
+  <studentName>JENADY GERODY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILOSA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0367-0076</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MIONO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S5145-0604</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>nujoma road-mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+225222772432</sponsorfax>
+      <mobile>+225222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GERODY ENOCK NGOGO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 4506</postalAddress>
+      <physicalAddress>MBALIZI-MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0767237670</telephone>
+      <mobile>0767237670</mobile>
+      <email>boscofelick@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

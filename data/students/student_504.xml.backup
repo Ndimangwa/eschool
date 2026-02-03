@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>504</studentId>
+  <studentName>sarah lugwisha</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Anderlek ridges secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3861-0031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Msalato girls</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0214-0564</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Boniphace Ndalahwa Lugwisha</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 10 geita</postalAddress>
+      <physicalAddress>geita</physicalAddress>
+      <fax/>
+      <sponsorfax>0784169213</sponsorfax>
+      <mobile>0784169213</mobile>
+      <email>sarahlugwisha@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Boniphace Ndalahwa Lugwisha</kinName>
+      <relationship>parent</relationship>
+      <postalAddress>box 10 geita</postalAddress>
+      <physicalAddress>geita</physicalAddress>
+      <fax/>
+      <telephone>0784169213</telephone>
+      <mobile>0784169213</mobile>
+      <email>sarahlugwisha@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

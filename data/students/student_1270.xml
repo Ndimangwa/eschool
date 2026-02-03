@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1270</studentId>
+  <studentName>Andulile G Mwakyusa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ikolo sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s1505/0128</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Songea boys' sec school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0153/0708</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Esther</kinName>
+      <relationship>Aunt</relationship>
+      <postalAddress>PO BOX 78694 DSM</postalAddress>
+      <physicalAddress>PO BOX 78694 DSM</physicalAddress>
+      <fax/>
+      <telephone>0713336314</telephone>
+      <mobile>0713336314</mobile>
+      <email>etkilima@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

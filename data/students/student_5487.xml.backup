@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5487</studentId>
+  <studentName>ESSAU SIMON</studentName>
+  <accademicHistory><institution><institutionName>MAWEN SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1939.0042.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MKUU DAY SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0544.0724.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SIMON MWANSANGA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 111,CHUNYA -MBEYA</postalAddress><physicalAddress>P.O. BOX 111,CHUNYA-MBEYA</physicalAddress><fax/><telephone>+255768343397</telephone><mobile>+255768343397</mobile><email/><financedItem>FATHER</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>STAIN ATUPELE</kinName><relationship>SISTER</relationship><postalAddress>P.O.BOX 111,CHUNYA-MBEYA</postalAddress><physicalAddress>P.O. BOX 111,CHUNYA-MBEYA</physicalAddress><fax/><telephone>+255768292981</telephone><mobile>+255768292981</mobile><email>egwamaka@yahoo.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KCMU COLLEGE</accountName><bankAccount>017I0100I339</bankAccount><bankName>NBC</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1f8c3f2ceea8eea81b8b2ec6197d2fcb</isaacompletechecksum></student>

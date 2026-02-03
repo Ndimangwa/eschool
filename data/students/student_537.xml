@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>537</studentId>
+  <studentName>TIMOTHY KANYONGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.THOMAS AQUINAS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1049.0138.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155.0564.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DSM</postalAddress>
+      <physicalAddress>76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WILLIAM KANYONGA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>72 KAHAMA</postalAddress>
+      <physicalAddress>72 KAHAMA</physicalAddress>
+      <fax/>
+      <telephone>0782093802</telephone>
+      <mobile>0782093802</mobile>
+      <email>timothykanyonga.tk@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KANYONGA, TIMOTHY</accountName><bankAccount>0152489063900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ea9269da892990f993c879c50cbd1d5f</isaacompletechecksum></student>

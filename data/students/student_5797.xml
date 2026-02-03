@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5797</studentId>
+  <studentName>PENDO JOHN</studentName>
+  <accademicHistory><institution><institutionName>EINOTI SECONDARY SCHOOL</institutionName><specialization>ARTS</specialization><levelId>4</levelId><indexNumber>S0973.0013.2006</indexNumber><award>CSE</award><grade>DIVISION FOUR</grade><startYear>2003</startYear><endYear>2006</endYear></institution><institution><institutionName> MUHEZA SCHOOL OF NURSING</institutionName><specialization>NURSING</specialization><levelId>12</levelId><indexNumber>E30529</indexNumber><award>DIPLOMA</award><grade>GPA 5</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>DED KARATU</employerName><postalAddress>P.O.BOX 190</postalAddress><physicalAddress>KARATU</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2015</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>LOAN BOAD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX.76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222772432</fax><telephone>+255222700286</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEES,ACCOMODATION,MEALS </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOSEPH KIZENGA MAKALA</kinName><relationship>ANKLE</relationship><postalAddress>P.0.BOX 35176 UKONGA MOMBASA </postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+2550222775391</fax><telephone>0756725726</telephone><mobile>0756725726</mobile><email>makala@aru.ac.tz</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NMB BANK</accountName><bankAccount>41310004790</bankAccount><bankName>PENDO JOHN MARIWA</bankName><branchName>ARUSHA MARKET</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1e66c32a89b5ad155181a8ddeef6afbc</isaacompletechecksum></student>

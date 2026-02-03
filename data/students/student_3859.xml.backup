@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3859</studentId>
+  <studentName>Shabani said</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>bwiru boys technical secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0104-0115</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mwanza secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0333-0580</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DSM</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>kashinje jani abdallah</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>6369,mwanza</postalAddress>
+      <physicalAddress>nzega,tabora</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0758292091</mobile>
+      <email>shabanisaid377@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

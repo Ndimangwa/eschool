@@ -1,0 +1,1 @@
+<div class="ui-widget ui-widget-footer" style="text-align: center; font-size: 0.9em; margin-top: 12px; z-index: 0;">System Version: 6.44 <span title="University Management Information System;" style="font-size: 0.8em;">(Version: 6.44)</span><br/ <b>Full Version</b></div>

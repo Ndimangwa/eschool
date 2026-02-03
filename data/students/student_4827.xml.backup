@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4827</studentId>
+  <studentName>PENDONSIA GIFT USSIRI</studentName>
+  <accademicHistory><institution><institutionName>MASAMA GIRLS HIGH SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S0223.0058.2013</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL EDUCATION</award><grade>DIVISION THREE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MASAMA GIRLS HIGH SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>S0223.0524.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>GIFT S USSIRI</sponsorName><payerId>3</payerId><postalAddress>POBOX 386 KARATU</postalAddress><physicalAddress>KARATU</physicalAddress><fax/><telephone>0754746354</telephone><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>GIFT S USSIRI</kinName><relationship>PARENT</relationship><postalAddress>POBOX 386 KARATU</postalAddress><physicalAddress>KARATU</physicalAddress><fax/><telephone>0754746354</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NONE</accountName><bankAccount>NONE</bankAccount><bankName>NONE</bankName><branchName>NONE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9fba766f4bff028ab55efadc511ca27e</isaacompletechecksum></student>

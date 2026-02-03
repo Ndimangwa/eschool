@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>141</studentId>
+  <studentName>Njiku Kimu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mwenge Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0334-113</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mzumbe Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0140-0573</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>University of Dar es salaam</institutionName>
+      <specialization>Medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>19335/T.96</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>General Surgery</specialization>
+      <levelId>17</levelId>
+      <indexNumber>HD/MUH/T.34/2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Muhimbili National Hospital</employerName>
+      <postalAddress>65000 Dar es salaam</postalAddress>
+      <physicalAddress>Upanga Dar es salaam</physicalAddress>
+      <telephone>+255222151367</telephone>
+      <email>ed@mnh.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Ministry of Health and Social Welfare</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9083 Dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222120261</sponsorfax>
+      <mobile>+255222120261</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Jasmine William Chadewah</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>65000 Dar es salaam</postalAddress>
+      <physicalAddress>Kinondoni Dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>+255756691682</telephone>
+      <mobile>+255717288980</mobile>
+      <email>jchadewah@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

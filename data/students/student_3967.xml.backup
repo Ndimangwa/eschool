@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3967</studentId>
+  <studentName>ERICK FRATERN TEMU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARANGU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0388-0101</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158-0719</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>FRATERN TEMU</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>335-SIMIYU</postalAddress>
+      <physicalAddress>SIMIYU</physicalAddress>
+      <fax/>
+      <sponsorfax>0282500881</sponsorfax>
+      <mobile>0784501216</mobile>
+      <email>ericktem.79@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRATERN TEMU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>335-SIMIYU</postalAddress>
+      <physicalAddress>SIMIYU</physicalAddress>
+      <fax/>
+      <telephone>0282500881</telephone>
+      <mobile>0784501216</mobile>
+      <email>ericktem.79@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

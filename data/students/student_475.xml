@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>475</studentId>
+  <studentName>BILAL AHMAD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>EDEXCEL, IGCSE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>97927/1001/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CAMBRIDGE</institutionName>
+      <specialization>PCBM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TZ025/0003/2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GHULAM MURTAZA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BUJU 3020</postalAddress>
+      <physicalAddress>BUJUMBURA, BURUNDI</physicalAddress>
+      <fax/>
+      <sponsorfax>0025771939858</sponsorfax>
+      <mobile>0025775939858</mobile>
+      <email>ghulammurtaza87@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GHULAM MURTAZA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>BUJU, 3020, BURUNDI</postalAddress>
+      <physicalAddress> BUJUMBURA , BURUNDI</physicalAddress>
+      <fax/>
+      <telephone>0025771939858</telephone>
+      <mobile>0025775939858</mobile>
+      <email>ghulammurtaza87@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

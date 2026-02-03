@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1884</studentId>
+  <studentName>KIKOTI JUMAA MORIJO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MSANGENI SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0787/0056</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>POPATLAL HIGH SCHOLL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S340/0513</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>kasongo morijo</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>box 57</postalAddress>
+      <physicalAddress>KONGWA DODOMA</physicalAddress>
+      <fax/>
+      <telephone>+255754976430</telephone>
+      <mobile>0754956430</mobile>
+      <email>kasongomorijo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

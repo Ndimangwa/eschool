@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>551</studentId>
+  <studentName>MAGNUS M NGALAWAGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KASITA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0117.0028.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155.0535.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DSM</postalAddress>
+      <physicalAddress>76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ESTERIMINA MPILI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>644 IFAKARA</postalAddress>
+      <physicalAddress>644 IFAKARA</physicalAddress>
+      <fax/>
+      <telephone>0758573243</telephone>
+      <mobile>0758573243</mobile>
+      <email>magnusngalawaga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NGALAWAGA, MAGNUS M</accountName><bankAccount>0152488981100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>bbc7d9b89d3c6f49e51dd925ed1d9140</isaacompletechecksum></student>

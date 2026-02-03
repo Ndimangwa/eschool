@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4618</studentId>
+  <studentName>mrike secondary school</studentName>
+  <accademicHistory><institution><institutionName>kcmc school of nurse</institutionName><specialization>nurse</specialization><levelId>12</levelId><indexNumber>s0504-0016</indexNumber><award>four</award><grade>division iv</grade><startYear>1998</startYear><endYear>2001</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d9e502d1237d51ef87f91a0bbb2551e4</isaacompletechecksum></student>

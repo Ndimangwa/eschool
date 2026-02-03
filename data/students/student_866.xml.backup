@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>866</studentId>
+  <studentName>jenipha v silayo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>narumu sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0557/0037</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>tarakea sec school</institutionName>
+      <specialization>cbg</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0818/0530</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ded rombo</employerName>
+      <postalAddress>223 mkuu rombo</postalAddress>
+      <physicalAddress>rombo</physicalAddress>
+      <telephone>0752436786</telephone>
+      <email>jenipha2000@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po box 76068 dsm</postalAddress>
+      <physicalAddress>po box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>valentine willbard silayo</kinName>
+      <relationship>father</relationship>
+      <postalAddress>470mkuu rombo</postalAddress>
+      <physicalAddress>rombo</physicalAddress>
+      <fax/>
+      <telephone>0759415616</telephone>
+      <mobile>0759415616</mobile>
+      <email>jenipha2000@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

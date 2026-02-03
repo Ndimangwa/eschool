@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4965</studentId>
+  <studentName>GLORIA A. NGILISHO</studentName>
+  <accademicHistory><institution><institutionName>VISITATION GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0263.0029.2013</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIBOSHO GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0205.0585.2016</indexNumber><award>ACSEE</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ADAM MARK NGILISHO</sponsorName><payerId>3</payerId><postalAddress>MOSHI 2280</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0754299372</telephone><mobile>0754484660</mobile><email>adamark66@gmail.com</email><financedItem>TUITION FEES</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>GLORIA A. NGILISHO</accountName><bankAccount>0152326918400</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a5769a067164ed2a65b70c2e89d1c100</isaacompletechecksum></student>

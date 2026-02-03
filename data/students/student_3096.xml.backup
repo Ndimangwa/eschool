@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3096</studentId>
+  <studentName>HAPPINESS PARTICK</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DIGODIGO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0978\0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HURUMA SCHOOL OF NURSING</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>27677</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,Da es salaam</postalAddress>
+      <physicalAddress>mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>henry temba</kinName>
+      <relationship>husband</relationship>
+      <postalAddress>90 moshi</postalAddress>
+      <physicalAddress>magereza</physicalAddress>
+      <fax/>
+      <telephone>0759457473</telephone>
+      <mobile>0759457473</mobile>
+      <email>henrytemba@gail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

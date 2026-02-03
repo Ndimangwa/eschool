@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4135</studentId>
+  <studentName>JESCA NGODA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOROGWE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO209-0081</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHEZA TRAINING CENTRE</institutionName>
+      <specialization>DIPROMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>24304</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>District executive director</employerName>
+      <postalAddress>po.box 89</postalAddress>
+      <physicalAddress>pangani</physicalAddress>
+      <telephone>0272630012</telephone>
+      <email>mmadikah@yahoo.co</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669037</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HAbil ngoda</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>po.box 551</postalAddress>
+      <physicalAddress>korogwe</physicalAddress>
+      <fax/>
+      <telephone>0653256565</telephone>
+      <mobile>0653256565</mobile>
+      <email>jescangoda28@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

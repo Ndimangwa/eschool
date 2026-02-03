@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>944</studentId>
+  <studentName>joash jacob</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>isenye</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0661.0065</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>meatu</institutionName>
+      <specialization>cbg</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0641.0518</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>flora ogaja</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>box 20</postalAddress>
+      <physicalAddress>tarime</physicalAddress>
+      <fax/>
+      <telephone>0787615919</telephone>
+      <mobile>0787615919</mobile>
+      <email>joashjacob1@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6227</studentId>
+  <studentName>HAMISI VICENT MKUKU</studentName>
+  <accademicHistory><institution><institutionName>STS RUFINO AND RINALDO</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1530.0060.2011</indexNumber><award>PASS</award><grade>DIVISION THREE</grade><startYear>2008</startYear><endYear>2011</endYear></institution><institution><institutionName>KARATU SECONDARY SCHOOL CENTER</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>P0364.0518.2015</indexNumber><award>PASS</award><grade>GPA:0.7</grade><startYear>2014</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HALIMA SAIDI FARAJI</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 12 KIGOMA</postalAddress><physicalAddress>KIGOMA TOWN</physicalAddress><fax/><telephone>0752022132</telephone><mobile>0752022132</mobile><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HALIMA SAIDI FARAJI</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 12 KIGOMA</postalAddress><physicalAddress>KIGOMA TOWN</physicalAddress><fax></fax><telephone>0752022132</telephone><mobile>0752022132</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HAMISI VICENT MKUKU</accountName><bankAccount>51610013245</bankAccount><bankName>NMB </bankName><branchName>KIGOMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5e3b9bf4938deed29eb9529817d2ae9a</isaacompletechecksum></student>

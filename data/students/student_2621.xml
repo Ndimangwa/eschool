@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2621</studentId>
+  <studentName>Anthony Japhet</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Makumira Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0329-0088</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mwenge Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0334-0525</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilimanjaro christian medical university college</institutionName>
+      <specialization>Medical Doctor</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/MD/0152</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilimanjaro christian medical university college</institutionName>
+      <specialization>Orthopaedics and Trauma</specialization>
+      <levelId>17</levelId>
+      <indexNumber>TUMA/KCMUco/Mmed/0263</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>The Good Samaritan Foundation of Tanzania</employerName>
+      <postalAddress>BOX 3010, MOSHI</postalAddress>
+      <physicalAddress>BOX 3010, MOSHI</physicalAddress>
+      <telephone>00255754461400</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>KCMC-RADBOUDUMCN</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 3010, MOSHI</postalAddress>
+      <physicalAddress>BOX 3010, MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>00255754461400</sponsorfax>
+      <mobile>00255754461400</mobile>
+      <email>Kcmcadmin@kcmc.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Apaililia Soine Mafie</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>B0X 3010, Moshi</postalAddress>
+      <physicalAddress>LONGUO B</physicalAddress>
+      <fax/>
+      <telephone>00255754356967</telephone>
+      <mobile>00255754356967</mobile>
+      <email>happymafie@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

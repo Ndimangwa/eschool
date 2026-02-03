@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3244</studentId>
+  <studentName>Grace M.M.S.Peter</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Maramba Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0541-016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Muhimbili School of Nursing</institutionName>
+      <specialization>Diploma in General Nursing and Midwifery</specialization>
+      <levelId>8</levelId>
+      <indexNumber>4109</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED IRINGA</employerName>
+      <postalAddress>P.O.BOX108,</postalAddress>
+      <physicalAddress>iringa</physicalAddress>
+      <telephone>002552702585</telephone>
+      <email>ded@iringadc.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068 Dar es Salaam</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Faraja Charles Makonyola</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>Box 93, Iringa.</postalAddress>
+      <physicalAddress>Mufindi, Iringa</physicalAddress>
+      <fax/>
+      <telephone>0768064728</telephone>
+      <mobile>0784995539</mobile>
+      <email>fmakonyola5@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

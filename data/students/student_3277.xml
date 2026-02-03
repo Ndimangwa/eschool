@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3277</studentId>
+  <studentName>ALEX E JOHN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ITENDE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0741.0116.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158.0677.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 dar es Salaam</postalAddress>
+      <physicalAddress>76068 dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>victar E JOHN</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>5270 MBEYA,uyole</postalAddress>
+      <physicalAddress>5270 mbeya,uyole</physicalAddress>
+      <fax/>
+      <telephone>0756465466</telephone>
+      <mobile>0756465466</mobile>
+      <email>alexeliahjohn@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JOHN, ALEX E</accountName><bankAccount>0152244228900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2980b95c5f302305bcb5e8dca797672b</isaacompletechecksum></student>

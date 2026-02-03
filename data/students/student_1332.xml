@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1332</studentId>
+  <studentName>MICHAEL TSINGAY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ENDAROFTA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO0451-0045</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IMBORU SECONDARY SCHOOL</institutionName>
+      <specialization>CBA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0368-0536</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED KARATU</employerName>
+      <postalAddress>P.O. BOX 169</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <telephone>+255272534047</telephone>
+      <email>karatucouncil@yahoo.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helbs.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>TSINGAY TARMO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O. BOX 169</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <fax/>
+      <telephone>+255765214543</telephone>
+      <mobile>+255765214543</mobile>
+      <email>tsingaymichael85@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

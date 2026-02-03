@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>710</studentId>
+  <studentName>ALFRED MESHUKO LOISHIYE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ENYOITO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1125.0117.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KALANGALALA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0706.0503.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MESHUKO LOISHIYE NDAKARU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 11945 ARUSHA</postalAddress>
+      <physicalAddress>PO BOX 11945 ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0752582250</telephone>
+      <mobile>0752582250</mobile>
+      <email>meshukoloishiye@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LOISHIYE, ALFRED MESHUKO</accountName><bankAccount>0152204864300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9b98d630cc23335091f71e113091e27e</isaacompletechecksum></student>

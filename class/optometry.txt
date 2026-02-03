@@ -1,0 +1,8 @@
+Tarehe 08-February-2017, prayers for ATAPE
+
+listOfFiles[]
+
+    Focus Optometry, 
+		de.opto@gmail.com 
+
+for (i=0; i < sizeof())

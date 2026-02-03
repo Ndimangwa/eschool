@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3341</studentId>
+  <studentName>GODFREY CYPRIAN MANYAHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST MATTHEWS' SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1071.0332.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOYOLA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0800.0621.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education student loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068</postalAddress>
+      <physicalAddress>dar es salaam Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>02227724323</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Alfred Cyprian Manyahi</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>p.o box2476</postalAddress>
+      <physicalAddress>temeke dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>+255782743399</telephone>
+      <mobile>+255689009292</mobile>
+      <email>alfredcyprian@ymail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MANYAHI, GODFREY C</accountName><bankAccount>0152327971600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d1e78abcb74512066c335a636e897d95</isaacompletechecksum></student>

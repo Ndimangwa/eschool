@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3512</studentId>
+  <studentName>YONA NDANGALAS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILOSA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0367-0120</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TOSAMAGANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158-0851</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>RUAHA UNIVERSITY COLLEGE</institutionName>
+      <specialization>DIPLOMA IN MEDICAL LABORATORY SCIENCE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0168/DMLS/T/07</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P .o BOX 76068</postalAddress>
+      <physicalAddress>P. o BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CALISTUS NZOTA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>BOX 14 KILOSA</postalAddress>
+      <physicalAddress>BOX 14 KILOSA</physicalAddress>
+      <fax/>
+      <telephone>+255769461598</telephone>
+      <mobile>+255769461598</mobile>
+      <email>nzotac@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

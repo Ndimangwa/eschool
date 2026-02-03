@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6551</studentId>
+  <studentName>FADHILI NUHU NYALUSI</studentName>
+  <accademicHistory><institution><institutionName>MAGUVANI  SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1691.0104.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3da0bf37070ece46107d4e7a5ae5f156</isaacompletechecksum></student>

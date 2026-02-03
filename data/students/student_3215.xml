@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3215</studentId>
+  <studentName>EUNICE JULIUS KISANGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARANGU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0388/0027/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485/0885/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GRACE KISANGA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>125 himo</postalAddress>
+      <physicalAddress>125 himo</physicalAddress>
+      <fax/>
+      <sponsorfax>002552755015310</sponsorfax>
+      <mobile>0755015310</mobile>
+      <email>gracekisanga1@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DORIS KISANGA</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>125 HIMO</postalAddress>
+      <physicalAddress>125 HIMO</physicalAddress>
+      <fax/>
+      <telephone>002552755015310</telephone>
+      <mobile>0755015310</mobile>
+      <email>doriskisanga2@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

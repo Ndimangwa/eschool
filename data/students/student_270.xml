@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>270</studentId>
+  <studentName>Jackson Peter Claver Mushumbusi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Katoke Seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0118.0020.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Longido Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0857.0642.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068, Dar</postalAddress>
+      <physicalAddress>Sam NUjoma Road, Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Peter Claver Mushumbusi</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>528, karagwe</postalAddress>
+      <physicalAddress>Karagwe, Kagera</physicalAddress>
+      <fax/>
+      <telephone>0754757159</telephone>
+      <mobile>0754757159</mobile>
+      <email>peterclaver@ac.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUSHUMBUS, JACKSON PETER-CLAVER</accountName><bankAccount>3191603900</bankAccount><bankName> NMB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f087fb8fd45092a634ca39bdcc6f27a1</isaacompletechecksum></student>

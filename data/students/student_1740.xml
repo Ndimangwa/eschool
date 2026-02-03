@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1740</studentId>
+  <studentName>ORESTA P. MNALI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NANYAMBA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0608-0021</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0276-0589</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>BOX 76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SALMA J. SALMA</kinName>
+      <relationship>AUNT</relationship>
+      <postalAddress>BOX 72, TANDAHIMBA</postalAddress>
+      <physicalAddress>BOX 72, TANDAHIMBA</physicalAddress>
+      <fax/>
+      <telephone>0787293100</telephone>
+      <mobile>0655293100</mobile>
+      <email>salmaj@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

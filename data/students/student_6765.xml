@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6765</studentId>
+  <studentName>Tosten Baltazary Minja</studentName>
+  <accademicHistory><institution><institutionName>MLANG'A SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4517.0147.2013</indexNumber><award>CSEE</award><grade>DIVISION TWO </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MAJENGO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0485.0772.2016</indexNumber><award>ACSEE</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>BALTAZARY MINJA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 147 MARANGU</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0746282656</telephone><mobile>0746282656</mobile><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BALTAZARY MINJA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 147 MARANGU</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0746282656</telephone><mobile>0746282656</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>TOSTEN MINJA</accountName><bankAccount>0000000000</bankAccount><bankName>CRDB BANK</bankName><branchName>MARANGU MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0a96591d9a5e60a3b0267942dc7a15c6</isaacompletechecksum></student>

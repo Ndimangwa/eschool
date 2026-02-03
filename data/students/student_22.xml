@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>22</studentId>
+  <studentName>Dorin Peter Sawala</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Visitation Girls Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0263/0012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St.Mary Goreti Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187/0547</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068 DAR</postalAddress>
+      <physicalAddress>P.O.BOX 76068 DAR </physicalAddress>
+      <fax/>
+      <sponsorfax>0222669036</sponsorfax>
+      <mobile>0222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Digna Peter Sawala</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O.BOX 3030 MOSHI</postalAddress>
+      <physicalAddress>P.O.BOX 3030 MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0754295017</telephone>
+      <mobile>0719656927</mobile>
+      <email>Digna.Sawala@nbctz.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

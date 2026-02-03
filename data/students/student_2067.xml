@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2067</studentId>
+  <studentName>HAKIZIMANA MARTIN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>EAV NTENDEZI</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>40161TC008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>G.S KIGEME</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>40161SI008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHIMBILI UNIVERSITY</institutionName>
+      <specialization>ORTHOPAEDIC TECHNOLOGY</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2008-02-01153</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>UNIVERSITY OF RWANDA-CMHS</employerName>
+      <postalAddress>P.O.BOX 3286 KIGALI</postalAddress>
+      <physicalAddress>KIGALI/RWANDA</physicalAddress>
+      <telephone>00250572172</telephone>
+      <email>haframa@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ISPO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BE-1000BRUXELS,BELGIUM</postalAddress>
+      <physicalAddress>22-24 RUE DU LUXEMBOURG</physicalAddress>
+      <fax/>
+      <sponsorfax>003222131379</sponsorfax>
+      <mobile>00441698296655</mobile>
+      <email>sandra@ispoint.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>UWANYIRIGIRA SOLANGE</kinName>
+      <relationship>MY WIFE</relationship>
+      <postalAddress>85 RUSIZI</postalAddress>
+      <physicalAddress>KIGALI/RWANDA</physicalAddress>
+      <fax/>
+      <telephone>00250788430714</telephone>
+      <mobile>00250788430714</mobile>
+      <email>uwanyirigirasolange@yahoo.fr</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>10</studentId>
+  <studentName>Chambega Mhina Chambega</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Loyola High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0800/0069</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Shaaban Robert Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0342/0544</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068, Dar</postalAddress>
+      <physicalAddress>Sam Nujoma Road, Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Emma Mhina Chambega </kinName>
+      <relationship>Sister</relationship>
+      <postalAddress>P.O.Box 1392, Dar</postalAddress>
+      <physicalAddress>Posta, Dar es Salaam, Tanzania</physicalAddress>
+      <fax/>
+      <telephone>+255713942994</telephone>
+      <mobile>+255713942994</mobile>
+      <email>chambega01@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

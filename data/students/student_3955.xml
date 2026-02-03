@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3955</studentId>
+  <studentName>Charles M Msuya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Usagara Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0345.0180.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Usagara Secondary School</institutionName>
+      <specialization>Pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0345.0591.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Getrude Ramadhan</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.0.Box 2,maramba tanga</postalAddress>
+      <physicalAddress>P.O.Box 2,maramba Tanga</physicalAddress>
+      <fax/>
+      <telephone>0653083171</telephone>
+      <mobile>0653083171</mobile>
+      <email>Charlesmsuya15@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MSUYA, CHARLES M</accountName><bankAccount>0152385021601</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0de0bfad88cb910cbd723a139acc4968</isaacompletechecksum></student>

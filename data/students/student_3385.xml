@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3385</studentId>
+  <studentName>MAKOLO MISSANGU MAKOLO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MLAMA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0508-0065</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0155-0535</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>SAMNUJOMA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MISSANGU MAKOLO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX KAHAMA</postalAddress>
+      <physicalAddress>PO BOX 2 KAHAMA</physicalAddress>
+      <fax/>
+      <telephone>0764309668</telephone>
+      <mobile>0764309668</mobile>
+      <email>makolomissangu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>423</studentId>
+  <studentName>SUNGWA IDDI MATONDO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>B.W. MKAPA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0960-0238</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>B.W. MKAPA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0960-0589</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI UNIVERSITY KCM-COLLEGE</institutionName>
+      <specialization>HEALTH LABORATORY SCIENCES</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/BSc.hl/0032</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI MAKUMIRA KCMU-COLLEGE</institutionName>
+      <specialization>MEDICAL MICROBIOLOGY IMMUNOLOGY WITH MOLECULAR BIOLOGY</specialization>
+      <levelId>17</levelId>
+      <indexNumber>TU/MSc.MMIM/003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KCMC</employerName>
+      <postalAddress>P.O. BOX 3010, MOSHI</postalAddress>
+      <physicalAddress>BOX 3010, MOSHI</physicalAddress>
+      <telephone>00255272754377</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ROYAL DANISH MINISTRY OF FOREIGN AFFAIRS</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>ASIATISK PLAD 2, DK-1448</postalAddress>
+      <physicalAddress>ASIATISK PLAD 2, DK-1448, COPEN</physicalAddress>
+      <fax/>
+      <sponsorfax>004533920000</sponsorfax>
+      <mobile>004533920000</mobile>
+      <email>um@um.dk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>OMARY MATONDO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O. BOX 32150, DAR</postalAddress>
+      <physicalAddress>P.O. BOX 32150, DAR</physicalAddress>
+      <fax/>
+      <telephone>00255713332246</telephone>
+      <mobile>00255713332246</mobile>
+      <email>miamiestate2@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

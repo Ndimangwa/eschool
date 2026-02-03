@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1887</studentId>
+  <studentName>Francisca N. Pratap</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Academic International Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>TZ017/0219</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Haven of Peace Academy</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TZ022/0523</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Nilesh Pratap</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 8396</postalAddress>
+      <physicalAddress>Msasani, Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222129162</sponsorfax>
+      <mobile>+255713120110</mobile>
+      <email>sai@bol.co.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Nilesh Pratap</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O.Box 8396</postalAddress>
+      <physicalAddress>Msasani, Dar es Salaam</physicalAddress>
+      <fax/>
+      <telephone>0222129162</telephone>
+      <mobile>+255713120110</mobile>
+      <email>sai@bol.co.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

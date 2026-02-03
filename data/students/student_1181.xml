@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1181</studentId>
+  <studentName>RASHID IDDI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MPECHI  SECONDARY SCHOOL CENTRE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P 0428/0134</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAKONGO HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S 0731/0871</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH AND SOCIAL WELFARE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 11478 Dar es Salaam</postalAddress>
+      <physicalAddress>Samora Machel Avenue</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222342000</sponsorfax>
+      <mobile>00255222342005</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>IDDI AMIRI BOIMANDA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>BOX 7 NJOMBE</postalAddress>
+      <physicalAddress>CHALINZE</physicalAddress>
+      <fax/>
+      <telephone>0714499162</telephone>
+      <mobile>0757315383</mobile>
+      <email>amiriiddi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

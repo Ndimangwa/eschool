@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3780</studentId>
+  <studentName>KATUNZI MUTALEMWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>HUMURA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0841.0091.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TARAKEA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0818.0598.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DANSTAN MUTALEMWA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 155 RUBYA BUKOBA</postalAddress>
+      <physicalAddress>MULEBA</physicalAddress>
+      <fax/>
+      <sponsorfax>0784851120</sponsorfax>
+      <mobile>0784851120</mobile>
+      <email>mutalemwa6@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MUTALEMWA KYABUGERA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 20 MULEBA</postalAddress>
+      <physicalAddress>KAGERA</physicalAddress>
+      <fax/>
+      <telephone>0784851120</telephone>
+      <mobile>0784851120</mobile>
+      <email>mutalemwa6@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUTALEMWA, KATUNZI</accountName><bankAccount>0152218111200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>df8c9474db48487efd4cd76515af5de0</isaacompletechecksum></student>

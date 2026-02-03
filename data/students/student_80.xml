@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>80</studentId>
+  <studentName>MERCY MWAMZANYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MBEYA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0330-0088</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE MEDICAL TRAINING CENTER BUGANDO</institutionName>
+      <specialization>LABORATORY ASSISTANT</specialization>
+      <levelId>8</levelId>
+      <indexNumber>LA.BU/09/24</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>CHRISTOPHER MWAMZANYA MSWIMA  </sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 6597</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <sponsorfax>0787602213</sponsorfax>
+      <mobile>00255787602213</mobile>
+      <email>cmwamzanya@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CHRISTOPHER MWAMZANYA MSWIMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 6597 MOROGORO</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <fax/>
+      <telephone>0787602213</telephone>
+      <mobile>00255787602213</mobile>
+      <email>cmwamzanya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

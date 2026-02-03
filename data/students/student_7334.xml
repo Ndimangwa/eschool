@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7334</studentId>
+  <studentName>Ninteretse Divin Pascal</studentName>
+  <accademicHistory><institution><institutionName>Independent School</institutionName><specialization>Science</specialization><levelId>4</levelId><indexNumber>E0116.1410.2004</indexNumber><award>PASS</award><grade>PASS</grade><startYear>1997</startYear><endYear>1998</endYear></institution><institution><institutionName>Saint Joseph Seminary</institutionName><specialization>Science</specialization><levelId>4</levelId><indexNumber>E0116.1410.2004</indexNumber><award>Pass</award><grade>Pass</grade><startYear>1999</startYear><endYear>2001</endYear></institution><institution><institutionName>Holy Spirit High School </institutionName><specialization>Science</specialization><levelId>8</levelId><indexNumber>E0116.1410.2004</indexNumber><award>Pass</award><grade>Satisfaction</grade><startYear>2002</startYear><endYear>2004</endYear></institution><institution><institutionName>University of Rwanda</institutionName><specialization>Medical Doctor</specialization><levelId>15</levelId><indexNumber>CMHS/BMS 0000050</indexNumber><award>MD</award><grade>Pass</grade><startYear>2006</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>Ninteretse Gervais</sponsorName><payerId>3</payerId><postalAddress>P O Box 712 Bujumbura-Burundi</postalAddress><physicalAddress>Avenue Des Hipoppotames No5,Bujumbura-Burundi</physicalAddress><fax>+255710854135</fax><telephone>+255710854135</telephone><mobile>+255710854135</mobile><email>bisanzage@yahoo.fr</email><financedItem>Ninteretse Divin Pascal</financedItem><extraInformation>MD, Mmed</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>Niyungeko K.Lisette</kinName><relationship>My Wife</relationship><postalAddress>P O Box 712 Bujumbura-Burundi</postalAddress><physicalAddress>Bujumbura-Burundi</physicalAddress><fax>+255710854135</fax><telephone>+255710854135</telephone><mobile>+255710854135</mobile><email>kaniylis@hotmail.com</email><extraInformation>Hotel Management</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>Ninteretse Divin Pascal</accountName><bankAccount>6012893110302271</bankAccount><bankName>BCB BANK</bankName><branchName>BURUNDI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>51e96df9932040bc1e11a3372de6cc5f</isaacompletechecksum></student>

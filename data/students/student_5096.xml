@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5096</studentId>
+  <studentName>NICHOLAUS NYEMBA</studentName>
+  <accademicHistory><institution><institutionName>JAMHURI HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0465.0157.2010</indexNumber><award>CSSE</award><grade>DIVISION 3</grade><startYear>2007</startYear><endYear>2010</endYear></institution><institution><institutionName>BAGAMOYO HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0351.0602.2016</indexNumber><award>ACSEE</award><grade>DIVISION 3</grade><startYear>2011</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MUNIC INTERNATIONAL</sponsorName><payerId>4</payerId><postalAddress>MUNIC GERMANY</postalAddress><physicalAddress>MUNIC GERMANY</physicalAddress><fax/><telephone/><mobile/><email/><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOSEPHINE NYEMBA</kinName><relationship>SISTER</relationship><postalAddress>DAR ES SALAAM</postalAddress><physicalAddress>DODOMA</physicalAddress><fax></fax><telephone>0766499116</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NICHOLAUS NYEMBA</accountName><bankAccount>09875635446</bankAccount><bankName>NMB</bankName><branchName>MAWENZI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>be60d159d15a6df0254fa7289c38df02</isaacompletechecksum></student>

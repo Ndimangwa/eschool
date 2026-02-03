@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>889</studentId>
+  <studentName>NOEL G MDENDE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KYENGEGE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2646-0071</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TARAKEA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0818-0614</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068DARESSAAM</postalAddress>
+      <physicalAddress>BLOCK No.46,Sam Nujoma road,Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANTON L NKANGO</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>542</postalAddress>
+      <physicalAddress>KINAMPANDA</physicalAddress>
+      <fax/>
+      <telephone>0752939083</telephone>
+      <mobile>0752939083</mobile>
+      <email>antonluther20@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

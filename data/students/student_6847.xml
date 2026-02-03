@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6847</studentId>
+  <studentName>EMMANUEL J. AWE</studentName>
+  <accademicHistory><institution><institutionName>DAREDA SEC. SCHOOL</institutionName><specialization>CERTIFICATE</specialization><levelId>4</levelId><indexNumber>S0643.0051.1998</indexNumber><award>SEC. CERTIFICATE</award><grade>DIVISION FOUR</grade><startYear>1995</startYear><endYear>1998</endYear></institution><institution><institutionName>IMBORU SEC.</institutionName><specialization>HGK</specialization><levelId>8</levelId><indexNumber>P0368.0557.2011</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>2010</startYear><endYear>2011</endYear></institution><institution><institutionName>RUAHA UNIVERSITY COLLEGE</institutionName><specialization>LABORATORY</specialization><levelId>12</levelId><indexNumber>004.DMLS.T.2011</indexNumber><award>ORDINARY DIPLOMA</award><grade>SECOND UPPER CLASS</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>TED  MBULU</employerName><postalAddress>P.O.BOX 164</postalAddress><physicalAddress>MBULU</physicalAddress><fax>+2552722533330</fax><telephone>+2552722533331</telephone><mobile/><email>mbulutowncouncil@gmail.com</email><startYear>2007</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>EMMENUEL JOSEPH AWE</sponsorName><payerId>1</payerId><postalAddress>S.L.P 3</postalAddress><physicalAddress>MBULU</physicalAddress><fax/><telephone>0786286756</telephone><mobile>0786286756</mobile><email>emajawe@gmail.com</email><financedItem>school fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DAUDI MIHINDI</kinName><relationship>BROTHER IN LAW</relationship><postalAddress>S.L.P 3</postalAddress><physicalAddress>MBULU</physicalAddress><fax></fax><telephone>0684843384</telephone><mobile>0684843384</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EMMANUEL JOSEPH AWE</accountName><bankAccount>4128000184</bankAccount><bankName>NMB</bankName><branchName>MBULU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ef6aa1bd9a23ef6962c29d9dea2d8776</isaacompletechecksum></student>

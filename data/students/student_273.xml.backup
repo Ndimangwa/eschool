@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>273</studentId>
+  <studentName>Emmanuel Visent Michael</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Makutupora Secondary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1207-0086</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Salesian Seminary</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0175-0517</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068 Dar</postalAddress>
+      <physicalAddress>Sam Najoma Road,Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222700286</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Visent Michael Mnyinga</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O.Box 3573 Dodoma</postalAddress>
+      <physicalAddress>Veyula</physicalAddress>
+      <fax/>
+      <telephone>0755006503</telephone>
+      <mobile>0718659549</mobile>
+      <email>mnyingaemmanuel@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

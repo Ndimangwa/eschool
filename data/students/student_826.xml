@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>826</studentId>
+  <studentName>vicent charles</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>sumbawanga secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s1648/0197/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>same secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0150/0877</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>suzan edward kalinde</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p o box 421 sumbawanga</postalAddress>
+      <physicalAddress>0766246865</physicalAddress>
+      <fax/>
+      <sponsorfax>0766246865</sponsorfax>
+      <mobile>0766246865</mobile>
+      <email>vicent_charles@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>suzan kalinde</kinName>
+      <relationship>single</relationship>
+      <postalAddress>box 421 sumbawanga</postalAddress>
+      <physicalAddress>0766246865</physicalAddress>
+      <fax/>
+      <telephone>0766246865</telephone>
+      <mobile>0766246865</mobile>
+      <email>vicent_charles@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,67 @@
+Tests databases
+Path data/briefcase/
+
+Rules
+managebriefcase
+managebriefcasegroup
+briefcaseGroup	
+	-- groupId
+	-- groupName
+	-- accademicYearId
+	-- examinationId
+	-- loginId [Creator of this Group]
+	-- listOfOwners [loginList, creator of this group should be among them and can not be detached]
+	-- rawMarksCSVFile 	[briefcasegroup_id.csv]
+	-- rawMarksCSVFileChecksum 
+	-- gradedMarksCSVFile 	[briefcasegroup_id.csv.graded]
+	-- gradedMarksCSVFileChecksum
+	-- extraFilter
+	-- extraInformation
+	-- flags 
+	
+briefcase 
+	-- briefcaseId 
+	-- groupId
+	-- weight 
+	-- rawMarksCSVFile [briefcase_id.csv]
+	-- rawMarksCSVFileChecksum 
+	-- gradedMarksCSVFile [briefcase_id.csv.graded]
+	-- gradedMarksCSVFileChecksum
+	-- extraFilter
+	-- extraInformation
+	-- flags
+	
+[] If Briefcase is Locked show results and graded to student  
+[] if Group is Locked show the combined results [] at this time show also the individual results , student needs to know how the individual results were calculate 
+[][] The Briefcase Results [whether briefcase or its group] should be shown only if there exists no results for the examination linked to the group 
+
+
+http://halotel.co.tz/loginfail.html <-- Write to Halotel check tanzania spelling , t should be capitalized
+
+You need to modify the existing ApprovalSequenceSchema to handle results too ,
+my idea for today, in the schema we can add the specialOperation in the schema , specialOperation can further explain the operationCode
+Example 
+	specialOperation can be CAT.EXAM.UPLOAD 
+							UE.EXAM.UPLOAD,
+							Note: Though both case the OperationCode will be EXAMINATION_UPLOAD, however the specialInstruction will give further details 
+								If the specialInstruction is null [default], just move as we used to, but if it is not empty then schema should be returned which matches the operationCode and specialInstruction
+								
+								
+dbSchema	= array(
+	"1" => "Change Name"
+	.
+	.
+	"21" => "Upload Examination"
+)
+dbSchemaSpecialInstruction = array()	{
+	"21" => array()	{
+		"1" => "Continuous Examination",    [You can save this as 21.1]
+		"2" => "University Examination"		[You can save this as 21.2] .. since no conflict of these numbers
+	}
+	.
+	.
+	.
+	,"29" => array()	{
+	
+	}
+}

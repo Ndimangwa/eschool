@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>648</studentId>
+  <studentName>jonathan joseph ngwira</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kigirunyembe sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0359-192</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>minaki Sec school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0133-546</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>THE MEDICAL TRAINING CENTER IFAKARA</institutionName>
+      <specialization>clinical medicine</specialization>
+      <levelId>8</levelId>
+      <indexNumber>No.00005528</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>Degree of Doctor of medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K 0359</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Jeshi la Ulinzi la Wananchi wa Tanzania</employerName>
+      <postalAddress>Box 9203 </postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <telephone>002552150556</telephone>
+      <email>signalcentre@cats-net.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Jeshi la Ulinzi la Wananchi wa Tanzania</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 9203</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552150556</sponsorfax>
+      <mobile>002552150557</mobile>
+      <email>signalcentre@cats-net.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>james ngwira</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>Box 9083 </postalAddress>
+      <physicalAddress>mbagala </physicalAddress>
+      <fax/>
+      <telephone>+255715047854</telephone>
+      <mobile>+255715047854</mobile>
+      <email>jimmyngwira@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

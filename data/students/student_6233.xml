@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6233</studentId>
+  <studentName>ALKALDO KILEMO BENEDICTO</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>BSc.PROSTHETICS AND ORTHOTICS</specialization><levelId>4</levelId><indexNumber>S3750.0030.2010</indexNumber><award>CERTIFICATE IN SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@helsb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PONSIAN BENEDICTO</kinName><relationship>BROTHER</relationship><postalAddress>P.O BOX 288</postalAddress><physicalAddress>KASULU</physicalAddress><fax></fax><telephone>+255764000085</telephone><mobile>0678423168</mobile><email>ponsianbenedicto@gmail.com</email><extraInformation>CLINICAL ASSISTANT OFFICER</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ALKADO BENEDICTO KILEMO</accountName><bankAccount>51410005721</bankAccount><bankName>NMB</bankName><branchName>KASULU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8f63081f7836dec871c5a9ef2d15e22c</isaacompletechecksum></student>

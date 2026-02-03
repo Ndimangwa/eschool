@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4493</studentId>
+  <studentName>ZENA JUMA MALEWA</studentName>
+  <accademicHistory><institution><institutionName>KISUTU GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0208.0196.2002</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>1998</startYear><endYear>2002</endYear></institution><institution><institutionName>TAMBAZA HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0347.0633.2005</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2003</startYear><endYear>2005</endYear></institution><institution><institutionName>IMTU UNIVERSITY</institutionName><specialization>DOCTER OF MEDICINE</specialization><levelId>15</levelId><indexNumber>0112</indexNumber><award>DOCTER OF MEDICINE</award><grade>PASS</grade><startYear>2006</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MUHIMBILI NATIONAL HOSPITAL</employerName><postalAddress>POBOX 65000</postalAddress><physicalAddress>UPANGA ILALA MUNICIPAL</physicalAddress><fax>+255222150534</fax><telephone>+2552221513679</telephone><mobile>+2552221513679</mobile><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>ZENA MALEWA</sponsorName><payerId>1</payerId><postalAddress>POBOX 77651</postalAddress><physicalAddress>TABATA KINYEREZI</physicalAddress><fax/><telephone>0715752575</telephone><mobile>0715752575</mobile><email>drmalewazj@yahoo.com</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ABDALLAH SHAWEJI</kinName><relationship>HUSBAND</relationship><postalAddress>POBOX 77651</postalAddress><physicalAddress>TABATA KINYEREZI</physicalAddress><fax></fax><telephone>0715509988</telephone><mobile>0715509988</mobile><email>shawejiay@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ZENA MALEWA</accountName><bankAccount>01J2414018100</bankAccount><bankName>CRDB</bankName><branchName>KIJITONYAMA DSM</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7b0659fa34faf69ac1c31f54dd55ff1e</isaacompletechecksum></student>

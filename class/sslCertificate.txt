@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=naZpU6g2bEg
+
+Do this: https://docs.fedoraproject.org/en-US/Fedora/14/html/Deployment_Guide/s2-apache-mod_ssl-genkey.html
+
+MORE ACCURATE :: http://tecadmin.net/create-and-install-self-signed-certificate-in-apache/#

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3224</studentId>
+  <studentName>BENAZIRI NICODEMUS MUSHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SANGITI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0663/0009/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFAKARA SECONDARY SCHOOL</institutionName>
+      <specialization>CBA</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0370/0523/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BOSCO MUSHI</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>327,singida</postalAddress>
+      <physicalAddress>327,singida</physicalAddress>
+      <fax/>
+      <telephone>0754562483</telephone>
+      <mobile>0715562483</mobile>
+      <email>defranciumladolce@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

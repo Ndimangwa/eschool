@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5844</studentId>
+  <studentName>Ramadhani Mohamed Temba</studentName>
+  <accademicHistory><institution><institutionName>Edmund rice secondary school</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>S0629.0629.2015</indexNumber><award>certificate </award><grade>B B B</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ee10e38575bb1c913a6855d887942dbc</isaacompletechecksum></student>

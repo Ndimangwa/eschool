@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3297</studentId>
+  <studentName>DAVID NDOMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>POMERINI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0652-0044</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>POMERINI SECONDARY SCHOOL</institutionName>
+      <specialization>HGK</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0652-0521</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SENGEREMA CLINICAL OFFICERS TRAINNING CENTRE</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE.</specialization>
+      <levelId>8</levelId>
+      <indexNumber>20449</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED HANDENI</employerName>
+      <postalAddress>BOX 355</postalAddress>
+      <physicalAddress>HANDENI</physicalAddress>
+      <telephone>00255755797723</telephone>
+      <email>davis44tz@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772433</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NEVERSHY MAGAVA</kinName>
+      <relationship>COUSINE</relationship>
+      <postalAddress>BOX 75502</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>00255754602727</telephone>
+      <mobile>00255718510005</mobile>
+      <email>davis44tz@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

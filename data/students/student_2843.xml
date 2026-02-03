@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2843</studentId>
+  <studentName>DIVA JAMES</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RUNGWE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0149-0110</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAZENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0131-0520</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCo</institutionName>
+      <specialization>MEDICAL DOCTOR</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/MD/0429</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED KOROGWE</employerName>
+      <postalAddress>PO BOX 584</postalAddress>
+      <physicalAddress>KOROGWE</physicalAddress>
+      <telephone>0272640748</telephone>
+      <email>korogwedc@yahoo.co.uk</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN LAPF</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 1501 DODOMA</postalAddress>
+      <physicalAddress>BARABARA YA MTENDENI</physicalAddress>
+      <fax/>
+      <sponsorfax>0262321758</sponsorfax>
+      <mobile>0262321758</mobile>
+      <email>info@lapftz.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AGNES KESSY</kinName>
+      <relationship>SPAUSE</relationship>
+      <postalAddress>PO BOX 571</postalAddress>
+      <physicalAddress>LONGUO</physicalAddress>
+      <fax/>
+      <telephone>0716903150</telephone>
+      <mobile>0716903150</mobile>
+      <email>abbykalinga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

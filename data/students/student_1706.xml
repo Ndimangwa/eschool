@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1706</studentId>
+  <studentName>DEBORA MDEGELLA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ASHIRA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0201-0029</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILAKALA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206-0515</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELBS</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIADH MDEGELLA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O. box 10248 DSM</postalAddress>
+      <physicalAddress>KIMARA</physicalAddress>
+      <fax/>
+      <telephone>+255713282806</telephone>
+      <mobile>+255713282806</mobile>
+      <email>tgideonson@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5115</studentId>
+  <studentName>NEEMA SHABANI</studentName>
+  <accademicHistory><institution><institutionName>ITIGI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1032.0007.2007</indexNumber><award>CSE</award><grade>DIVISION FOUR</grade><startYear>2003</startYear><endYear>2007</endYear></institution><institution><institutionName>ST GASPAR NURSING SCHOOL</institutionName><specialization>DIPLOMA IN NURSING</specialization><levelId>12</levelId><indexNumber>30228</indexNumber><award>DIPLOMA IN NURSING</award><grade>4.6</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MOSHI CO-OPERATIVE UNIVERSITY</employerName><postalAddress>P.O.BOX 474 MOSHI</postalAddress><physicalAddress>SOKOINE ROAD P.O.BOX 474</physicalAddress><fax>+255272750806</fax><telephone>+255272754401</telephone><mobile>0769582007</mobile><email>info@mocu.ac.tz</email><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>NEEMA SHABANI NKUWI</accountName><bankAccount>0152324348000</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4cd4e8cac9a86266cb579c0dcf7f4e3f</isaacompletechecksum></student>

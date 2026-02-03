@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>165</studentId>
+  <studentName>MUNYARADZI TSABASVI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>EMMANUEL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>Z2076/0124</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SAINT AUGUSTINE SCHOOL PENHALONGA</institutionName>
+      <specialization>MBC</specialization>
+      <levelId>8</levelId>
+      <indexNumber>Z2320/5026</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF ZIMBABWE</institutionName>
+      <specialization>BACHELOR OF MEDICINE AND BACHELOR OF SURGERY DEGREES</specialization>
+      <levelId>15</levelId>
+      <indexNumber>M0111</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>TSABASVI MUNYARADZI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2240</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>00255718140572</sponsorfax>
+      <mobile>00255718140572</mobile>
+      <email>mtsabasvi@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SANDRA TSABASVI</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>26</postalAddress>
+      <physicalAddress>zimbabwe</physicalAddress>
+      <fax/>
+      <telephone>00263772725081</telephone>
+      <mobile>00263772725081</mobile>
+      <email>stsrakab@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

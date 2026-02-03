@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3032</studentId>
+  <studentName>JEREMIA J.PYUZA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>GUMANGA</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0950.0083.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0103.0619.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>HEALTH LABORATORY SCIENCE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>BSc HLS 210</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Dr AMOS MWASAMWAJA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 3010</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0754577574</sponsorfax>
+      <mobile>0754577574</mobile>
+      <email>aimbilike3077@yahoo.co.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SARA MHESA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 1077</postalAddress>
+      <physicalAddress>SINGIDA</physicalAddress>
+      <fax/>
+      <telephone>0754577574</telephone>
+      <mobile>0754577574</mobile>
+      <email>jeremiajpyuza@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JEREMIA J.PYUZA</accountName><bankAccount>50508101364</bankAccount><bankName>NMB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f3745438cc9698ec7eea5f247ee57c5e</isaacompletechecksum></student>

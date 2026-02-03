@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>336</studentId>
+  <studentName>THECLA S KISUSI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. JOSEPH MILLENIUM SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S 3674/0028</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. JOSEPH CATHEDRAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S 4692/0564</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>THOMAS JOSEPH KISUSI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P O BOX 22605</postalAddress>
+      <physicalAddress>0715603918</physicalAddress>
+      <fax/>
+      <sponsorfax>0715603918</sponsorfax>
+      <mobile>0715603918</mobile>
+      <email>gnmahiga@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>THOMAS JOSEPH KISUSI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P O BOX 22605</postalAddress>
+      <physicalAddress>0715603918</physicalAddress>
+      <fax/>
+      <telephone>0715603918</telephone>
+      <mobile>0715603918</mobile>
+      <email>gnmahiga@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5157</studentId>
+  <studentName>AMON MWANDUTE</studentName>
+  <accademicHistory><institution><institutionName>MARANATHA</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2655.0078.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TOSAMAGANGA</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0158.0747.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.Box 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ASAJILE MWANDUTE</kinName><relationship>PARENT</relationship><postalAddress>P.O.BOX4515 MBEYA</postalAddress><physicalAddress>MBEYA MBALIZI</physicalAddress><fax/><telephone>+255757491749</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>TEMBO CARD</accountName><bankAccount>0152574381500</bankAccount><bankName>CRDB BANK</bankName><branchName>MKWAWA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>eb6bcc9b254ebdb771d6c6147034157c</isaacompletechecksum></student>

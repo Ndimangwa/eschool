@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>927</studentId>
+  <studentName>KAMARUDIN KHALID</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KANTALAMBA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0116-0064</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LYAMUNGO HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125-0928</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>KHADIJA HAMIS</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o box 2973 dodoma</postalAddress>
+      <physicalAddress>p.o box 2973 dodoma</physicalAddress>
+      <fax/>
+      <sponsorfax>0753641516</sponsorfax>
+      <mobile>0753641516</mobile>
+      <email>khadhami@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ZAKUANI ATHUMAN</kinName>
+      <relationship>GRAND FATHER</relationship>
+      <postalAddress>P.O PBOX 50 ISAKA</postalAddress>
+      <physicalAddress>P.O PBOX 50 ISAKA</physicalAddress>
+      <fax/>
+      <telephone>0714522492</telephone>
+      <mobile>0714522492</mobile>
+      <email>Khadhami@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

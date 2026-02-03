@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6152</studentId>
+  <studentName>JUSTINA EDWARD NDYAI</studentName>
+  <accademicHistory><institution><institutionName>WERUWERU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0221.0085.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>KIBOSHO SCHOOL OF NURSING</institutionName><specialization>NURSING</specialization><levelId>12</levelId><indexNumber>30837</indexNumber><award>DIPLOMA IN NURSING</award><grade>[G.P.A ] 4.6</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>GOOD SAMARITAN FOUNDATION</institutionName><specialization>NURSING</specialization><levelId>12</levelId><indexNumber>30837</indexNumber><award>DIPLOMA IN NURSING</award><grade>[G.P.A] 4.6</grade><startYear>2013</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>GOOD SAMARITAN FOUNDATION</employerName><postalAddress>P.O BOX 3010</postalAddress><physicalAddress>KILIMANJARO CHRISTIAN MEDICAL CENTER</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>sam Nujoma</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ILUMINATA EDWARD NDYAI</kinName><relationship>MOTHER</relationship><postalAddress>P.O . BOX 23 LOLIONDO</postalAddress><physicalAddress>DIGODIGO</physicalAddress><fax/><telephone>0762831581</telephone><mobile>0787076558</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JUSTINA EDWARD NDYAI</accountName><bankAccount>40301612980</bankAccount><bankName>NMB</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c69461c08941b5e8850e9ebbf1289ba3</isaacompletechecksum></student>

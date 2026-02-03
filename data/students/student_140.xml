@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>140</studentId>
+  <studentName>LAMECK</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MUGEZA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0407-0058</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IHUNGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0109-0552</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HKMU</institutionName>
+      <specialization>MD</specialization>
+      <levelId>15</levelId>
+      <indexNumber>00100</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>PRESIDENT OFFICE</employerName>
+      <postalAddress>P.O.BOX 9173</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>002552668680</telephone>
+      <email>semzimba@hotmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PRESIDENT OFFICE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 9173</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552668680</sponsorfax>
+      <mobile>00255713410123</mobile>
+      <email>semzimba@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FLORA AMEDEUS LEMGOHA</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>P.O.BOX 9173</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <fax/>
+      <telephone>002552668680</telephone>
+      <mobile>00255784075369</mobile>
+      <email>flora@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

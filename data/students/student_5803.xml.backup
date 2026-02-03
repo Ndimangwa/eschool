@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5803</studentId>
+  <studentName>ANASTAZIA DIAMERI RUTHA</studentName>
+  <accademicHistory><institution><institutionName>MACHAME GIRS HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0212.0578.2016</indexNumber><award>DIVISION THREE</award><grade>15</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2cfc3afbf23a6671914080baaaefda5d</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4954</studentId>
+  <studentName>KAISI MUSSA</studentName>
+  <accademicHistory><institution><institutionName>USAGARA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0345.0632.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution><institution><institutionName>MASASI DAY SECONDARY SCHOOL</institutionName><specialization>SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0648.0123.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>BOX, 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255754880388</mobile><email>info@heslb.go.tz</email><financedItem>TUITION AND STIPEND</financedItem><extraInformation>TILL EMPLOYED BY THE MINISTRY </extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>KARIMU MUSSA ATHUMANI</kinName><relationship>BROTHER</relationship><postalAddress>BOX,11</postalAddress><physicalAddress>MASASI</physicalAddress><fax>0787293987</fax><telephone>0787293987</telephone><mobile>0787293987</mobile><email>kaismussa@gmail.com</email><extraInformation>A FARMER</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KAISI MUSSA</accountName><bankAccount>0152386951200</bankAccount><bankName>CRDB</bankName><branchName>TANGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>59e72b9c2c1815597cf6c5ebed628a76</isaacompletechecksum></student>

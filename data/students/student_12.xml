@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>12</studentId>
+  <studentName>wondwossen ergete woldeab</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>diredawa comprhensive secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>57006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>diredawa comprhensive secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>57006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>yodit hailemichael</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>362, addis ababa</postalAddress>
+      <physicalAddress>bole subcity addis ababa , ethiopia</physicalAddress>
+      <fax/>
+      <sponsorfax>+251911647216</sponsorfax>
+      <mobile>+251911647216</mobile>
+      <email>yoditgebreyessus@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>yodit hailemichael gebreyessus</kinName>
+      <relationship>spouse</relationship>
+      <postalAddress>362, addis ababa</postalAddress>
+      <physicalAddress>bole subcity ,addid ababa , ethiopia</physicalAddress>
+      <fax/>
+      <telephone>+251911647216</telephone>
+      <mobile>+251911647216</mobile>
+      <email>yoditgebreyessus@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>143</studentId>
+  <studentName>jafari hamisi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>tabora boys</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0155/0043</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mzumbe</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0140/0523</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>sam nujoma road, mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mr.hamisi hiyuka majengo</kinName>
+      <relationship>father</relationship>
+      <postalAddress>1086</postalAddress>
+      <physicalAddress>singida</physicalAddress>
+      <fax/>
+      <telephone>0753161870</telephone>
+      <mobile>0753161870</mobile>
+      <email>hamis.hiyuka@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

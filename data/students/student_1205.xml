@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1205</studentId>
+  <studentName>HAMISI R. SEMBE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>EDMUND RICE SINON SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO629/0129</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO485/0778</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es Salaam.</postalAddress>
+      <physicalAddress>Mwenge,Dar es Salaam.</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>002552222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RASHIDI SEMBE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1020 MOROGORO</postalAddress>
+      <physicalAddress>MASASI</physicalAddress>
+      <fax/>
+      <telephone>0655650458</telephone>
+      <mobile>0655650458</mobile>
+      <email>rasheedysembe@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

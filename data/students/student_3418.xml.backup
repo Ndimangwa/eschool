@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3418</studentId>
+  <studentName>neema munisi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>arusha secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0494493</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>moringe sokoine secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0021833</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loaN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068, Dar-es-salaam</postalAddress>
+      <physicalAddress>76068, Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0255272758770</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>abraham</kinName>
+      <relationship>father</relationship>
+      <postalAddress>13817arusha</postalAddress>
+      <physicalAddress>13817arusha</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0753319798</mobile>
+      <email>neemamunisi533@gmal.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

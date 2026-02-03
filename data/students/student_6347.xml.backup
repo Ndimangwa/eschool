@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6347</studentId>
+  <studentName>HALIMA A SALIM</studentName>
+  <accademicHistory><institution><institutionName>UBUNGO ISLAMIC HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0671.0010.2007</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2004</startYear><endYear>2007</endYear></institution><institution><institutionName>MAKONGO HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0731.0577.2010</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION THREE</grade><startYear>2008</startYear><endYear>2010</endYear></institution><institution><institutionName>LUGALO MILITARY MEDICAL SCHOOL</institutionName><specialization>CLINICAL OFFICER</specialization><levelId>12</levelId><indexNumber>LUG/CO/10/11</indexNumber><award>ORDINARY DIPLOMA </award><grade>LOWER SECOND CLASS</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>KIGAMBONI MUNICIPAL DIRECTOR</employerName><postalAddress>PO BOX 36O76</postalAddress><physicalAddress>DAR ES SALAAM.TANZANIA</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2015</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>ALLY SALIM ABDALLAH</sponsorName><payerId>1</payerId><postalAddress>P O BOX 31386</postalAddress><physicalAddress>DAR ES SALAAM.TANZANIA</physicalAddress><fax/><telephone/><mobile>0783345695</mobile><email>alabryh@gmail.com</email><financedItem>TUITON FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>HALIMA A SALIM</accountName><bankAccount>25510013755</bankAccount><bankName>NMB </bankName><branchName>MLIMANI CITY</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fc1882663872bd32a08237d3235f6e90</isaacompletechecksum></student>

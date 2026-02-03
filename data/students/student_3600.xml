@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3600</studentId>
+  <studentName>SHARIFA THABIT NGATOLUWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBASILA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0316-0114</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AZANIA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0101-0522</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SOKOINE UNIVERSITY OF AGRICULTURE</institutionName>
+      <specialization>HUMAN NUTRITION</specialization>
+      <levelId>15</levelId>
+      <indexNumber>HNU/M/10/T/0090</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NURU GULILA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0767810121</sponsorfax>
+      <mobile>0715810121</mobile>
+      <email>nurugulila@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NURU GULILA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0767810121</telephone>
+      <mobile>0715810121</mobile>
+      <email>nurugulila@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

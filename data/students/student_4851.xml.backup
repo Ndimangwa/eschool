@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4851</studentId>
+  <studentName>HUSNA  SAID MBOYA</studentName>
+  <accademicHistory><institution><institutionName>MASAMA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0223.0029.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>RUVU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0369.0562.2016</indexNumber><award>ACSE</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>EVETHA MBOYA</sponsorName><payerId>3</payerId><postalAddress>PO.BOX 1224</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile>0765392610</mobile><email/><financedItem>SCHOOL FEES AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>WINNIFRIDA SHIRIMA</kinName><relationship>SISTER</relationship><postalAddress>PO.BOX 24</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>+255766516683</telephone><mobile>+255766516683</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HUSNA SAID MBOYA</accountName><bankAccount>21210007034</bankAccount><bankName>NMB BANK</bankName><branchName>KIBAHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b721f9b384cdc54f8769bec2e54dc59b</isaacompletechecksum></student>

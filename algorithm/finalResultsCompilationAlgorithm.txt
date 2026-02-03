@@ -1,0 +1,34 @@
+Results Algorithm, for a specific student, for non graduated students , transcript is for only graduated students
+1. getCourseAndTransactionDataStucture , use the same map used for displaying Subjects 
+	list[cummulativeSemester][index] = mapId
+2. initiate Results Data Structure 
+	list[cummulativeSemester][index]['transactionId'] = transactionId
+	list[cummulativeSemester][index]['rawMarks'] = 80	//Initially put empty space
+	list[cummulativeSemester][index]['gradeId'] = "A+"; //Initially put empty space 
+3. batchListArray1 = student1->getBatchList 
+4. courseId = student->getCourse->getCourseId
+5. storedCurrentYear = 0
+6. foreach (list as cummulativeSemester => subjectArray)	{
+		yearAndSemester = System::getYearAndSemesterFromACummulativeSemester(cummulativeSemester, profile1)
+		year = yearAndSemester['year']
+		semester = yearAndSemester['semester']
+		foreach (batchListArray1 as batchId)	{
+			resultsGroupId = ResutlsGroup::getResultsGroupFromCourseBatchYear()  , if not found continue 
+			resultsGroup1 = new ResultsGroup(resultsGroupId)
+			if (! resultsGroup1->isLocked) continue// we are dealing with Only locked group 
+			rawResultsFile1 = resultsGroup->getRawResultsFile()
+			rawResultsFile1 = rawResultsFile1->semester(semester)
+			foreach (subjectArray as subjectData)	{
+				mapId = subjectData['mapId']
+				if (found(rawResultsFile1(studentId, mapId)))	{
+					gradedResultsFile1 = resultsGroup1->getGradedResultsFile()
+					gradedResultsFile1 = gradedResultsFile1->semester(semester)
+					if (found(gradedResultsFile1(studentId, mapId)))	{
+						subjectData['raw'] = rawResultsFile1(studentId, mapId)
+						subjectData['graded'] = gradedResultsFile1(studentId, mapId)
+					}
+				}
+			}
+		}
+}
+7. return list

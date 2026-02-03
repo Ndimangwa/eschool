@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6766</studentId>
+  <studentName>Thomas B Hotay</studentName>
+  <accademicHistory><institution><institutionName>Sanu seminary</institutionName><specialization>O-level</specialization><levelId>4</levelId><indexNumber>S0168.0037.2009</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>FORM FOUR</grade><startYear>2006  </startYear><endYear>2009</endYear></institution><institution><institutionName>Ilboru high school</institutionName><specialization>A-level</specialization><levelId>8</levelId><indexNumber>S0110.0676.2012</indexNumber><award>aDVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>FORM SIX</grade><startYear>2010</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>71000871b18d1b28423e361bd4bf0387</isaacompletechecksum></student>

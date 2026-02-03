@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5464</studentId>
+  <studentName>EVARINE  H  KANYAMA</studentName>
+  <accademicHistory><institution><institutionName>NALYELYE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2925.0032.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MPANDA GIRS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0228.0583.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>SCHOOL FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>TABITHA KANYAMA</kinName><relationship>SISTER</relationship><postalAddress>POBOX 66</postalAddress><physicalAddress>MLOWO PRIMARY SCHOOL</physicalAddress><fax></fax><telephone>0763710376</telephone><mobile>0763710376</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EVARINE HONGWI KANYAMA</accountName><bankAccount>0152327163600</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>362600df5dad20a9873b260402fee4de</isaacompletechecksum></student>

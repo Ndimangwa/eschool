@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3652</studentId>
+  <studentName>WALLECE B LYIMO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. MATHEW SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1071.0497.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.JOSEPH CATHEDRAL HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.4692.0660.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>STELLER BARLOW LYIMO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>45390</postalAddress>
+      <physicalAddress>ilala-DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0762667173</telephone>
+      <mobile>0762667173</mobile>
+      <email>MARRYSTELLER71@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

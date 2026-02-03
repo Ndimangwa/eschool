@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7434</studentId>
+  <studentName>DATIVA P MINJA</studentName>
+  <accademicHistory><institution><institutionName>Joyland Girls Sec School</institutionName><specialization>ordinary level</specialization><levelId>4</levelId><indexNumber>S3964.0015.2014</indexNumber><award>secondary school certificate</award><grade>GPA 3.4</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>PASTOR V MINJA</sponsorName><payerId>3</payerId><postalAddress>PO BOX 813</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0754262295</telephone><mobile/><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PASTOR V MINJA</kinName><relationship>PARENT   </relationship><postalAddress>PO BOX 813</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0754262295</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DATIVA P MINJA</accountName><bankAccount>0152327071700</bankAccount><bankName>CRDB BANK</bankName><branchName>KCMC BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f65d2baed0c3ab779645faeb5123fd9e</isaacompletechecksum></student>

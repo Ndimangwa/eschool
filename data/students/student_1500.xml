@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1500</studentId>
+  <studentName>Tumaini Mathias Matandala</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIDUGALA LUTHERAN SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0167-0067</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUTHERAN  JUNIOR SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0107-0635</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD  HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DR. MATHIAS MATANDALA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 171 IRINGA</postalAddress>
+      <physicalAddress>IRINGA</physicalAddress>
+      <fax/>
+      <telephone>00255767414877</telephone>
+      <mobile>0767414877</mobile>
+      <email>matandala@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

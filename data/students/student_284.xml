@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>284</studentId>
+  <studentName>Leopold Daniel Methusela</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Loyola High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0800/0114</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Loyola High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0800/0690</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068,dar</postalAddress>
+      <physicalAddress>sam nujoma road, mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222700286</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Leah Daniel Methusela</kinName>
+      <relationship>Sister</relationship>
+      <postalAddress>p.o. box 76330</postalAddress>
+      <physicalAddress>Universty of dar es salaam</physicalAddress>
+      <fax/>
+      <telephone>00255279770</telephone>
+      <mobile>0717350912</mobile>
+      <email>leahmethus@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

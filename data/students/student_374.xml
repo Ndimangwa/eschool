@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>374</studentId>
+  <studentName>OSWARD MWALUKASA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TOSAMAGANGA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0158/0075</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAKITA SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1186/0547</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.o box 76068</postalAddress>
+      <physicalAddress>Dar es  salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NOEYE SIMON MWAMPETA</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>P.o box 26 </postalAddress>
+      <physicalAddress>TUKUYU</physicalAddress>
+      <fax/>
+      <telephone>0713220242</telephone>
+      <mobile>0765906721</mobile>
+      <email>mwampeta@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

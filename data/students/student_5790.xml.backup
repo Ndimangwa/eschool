@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5790</studentId>
+  <studentName>ZAKAYO AUGUSTINO DIDDI</studentName>
+  <accademicHistory><institution><institutionName>MZUMBE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0140.0109.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TABORA BOYS' SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0155.0565.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>2</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOAN BODY</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>AUGUSTINO DIDDI</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 1516</postalAddress><physicalAddress>SINGIDA</physicalAddress><fax/><telephone>0753440625</telephone><mobile>0753440625</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ZAKAYO AUGUSTINO DIDDI</accountName><bankAccount>0152327148100</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e7794591485ff1ee70afa9965533d5fa</isaacompletechecksum></student>

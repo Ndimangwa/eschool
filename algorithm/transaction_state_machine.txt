@@ -1,0 +1,30 @@
+TECHNICAL SUP [TECHNICAL FAIL or TECHNICAL DISQUALIFY]
+
+0: startEvent 
+1: Cleared
+2: Failed
+3: Disqualified 
+
+STATE:0 	+	1 =	STATE:1
+			+	2 = STATE:2
+			+	3 = STATE:3
+			
+STATE:1			Cleared [No transition Change Applys]
+
+STATE:2		+	1 = STATE:1
+			+	2 = STATE:3 -- Double Carry
+			+	3 = STATE:3 [This movement can not happen]
+			
+STATE:3		+	1 = STATE:1
+			+	2 = STATE:2 [Can Happen, assume fail, then fail and fails again, get a clear clarification of this movement]
+			+	3 = STATE:3
+			
+if ((transactionId.state == 2) && (transactionId.symbol == 2)) {
+	transactionId.state = 3 //Consequetive carry is called disqualified, 
+} else if (transactionId.state == 1)	{
+	//DO NOTHING , you were already cleared , so do not disturb us
+} else  {
+	transactionId.state = transactionId.symbol 
+}
+return transactionId.state which are not 0 and which are not 1 [Only uncleared ones]
+			

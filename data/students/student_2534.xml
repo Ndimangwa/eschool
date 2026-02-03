@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2534</studentId>
+  <studentName>FRED MMBAGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Umoja secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0631-0088</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Majengo High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485-0775</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Irene Mmbaga</kinName>
+      <relationship>Young Sister</relationship>
+      <postalAddress>P.O Box 75</postalAddress>
+      <physicalAddress>Simiyu</physicalAddress>
+      <fax/>
+      <telephone>+255683547065</telephone>
+      <mobile>0683547065</mobile>
+      <email>Irene_mmbaga@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

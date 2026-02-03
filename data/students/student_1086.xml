@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1086</studentId>
+  <studentName>andrea hamisi ibrahim</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>dr salmin amour secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0921/0079</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>usagara high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0345/0579</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>hESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>POST.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255763887584</mobile>
+      <email>info@heslb.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Elizabeth nyungu</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>PO.BOX 298 SINGIDA</postalAddress>
+      <physicalAddress>SINGIDA</physicalAddress>
+      <fax/>
+      <telephone>00255222669036</telephone>
+      <mobile>0756905287</mobile>
+      <email>drandre44@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

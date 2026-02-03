@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>95</studentId>
+  <studentName>Jacquiline Mchilla</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Moshi secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0134-0008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Jitegemee secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0496-0542</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tumaini University-KCMCollege</institutionName>
+      <specialization>Medical doctor</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/MD/0199</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED-Monduli</employerName>
+      <postalAddress>12</postalAddress>
+      <physicalAddress>monduli</physicalAddress>
+      <telephone>002550272538314</telephone>
+      <email>dmomonduli@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>CBM</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>58000</postalAddress>
+      <physicalAddress>parkland-Nairobi</physicalAddress>
+      <fax/>
+      <sponsorfax>00254023751654</sponsorfax>
+      <mobile>00254023751654</mobile>
+      <email>contact@cbm.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Isaac Kallaghe</kinName>
+      <relationship>husband</relationship>
+      <postalAddress>box 223</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>00255655282817</telephone>
+      <mobile>00255782282817</mobile>
+      <email>kallagheisaac78@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

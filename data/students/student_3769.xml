@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3769</studentId>
+  <studentName>ISSACK  D MBOYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SHAURITANGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0389.0061.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TARAKEA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0818.0588.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box76068Dar es salaam</postalAddress>
+      <physicalAddress>kimweri complex msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>00255767151445</sponsorfax>
+      <mobile>002555222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALEX ANTONY MBOYA</kinName>
+      <relationship>BRother</relationship>
+      <postalAddress>BOX 34207</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0712348443</telephone>
+      <mobile>000712348443</mobile>
+      <email>alexmboya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MBOYA, ISSACK D</accountName><bankAccount>0152461256200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>88ac98d7fb789737544f85cabaf23317</isaacompletechecksum></student>

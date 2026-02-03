@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3726</studentId>
+  <studentName>NICHOLAUS MPEMBA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAWEMATATU</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2593/0098</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LULUMBA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0607/0561</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>info@heslb.go.tz</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MPEMBA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 10850</postalAddress>
+      <physicalAddress>nicmpemba@gmail.com</physicalAddress>
+      <fax/>
+      <telephone>0769179941</telephone>
+      <mobile>0769179941</mobile>
+      <email>nicmpemba@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

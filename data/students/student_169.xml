@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>169</studentId>
+  <studentName>HILOLIMS EMANUERY MLELWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>WINO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1987.0105.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MWINYI SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0922.0523.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ENGLIBERT EMANUERY MLELWA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 15,MADABA,SONGEA</postalAddress>
+      <physicalAddress>P.O.BOX 15,MADABA,SONGEA</physicalAddress>
+      <fax/>
+      <sponsorfax>0755277782</sponsorfax>
+      <mobile>0755277782</mobile>
+      <email>englibertmlelwa@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ENGLIBERT EMANUERY MLELWA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 15,MADABA,SONGEA</postalAddress>
+      <physicalAddress>P.O.BOX 15,MADABA,SONGEA</physicalAddress>
+      <fax/>
+      <telephone>0755277782</telephone>
+      <mobile>0755277782</mobile>
+      <email>englibertmlelwa@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MLELWA, HILOLIMS EMANUERY</accountName><bankAccount>0152328026500</bankAccount><bankName> CRDB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5a948a24df9139d3f38af9fb451710c0</isaacompletechecksum></student>

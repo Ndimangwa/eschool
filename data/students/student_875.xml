@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>875</studentId>
+  <studentName>Lucy Mathew Shewiyo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Rau Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3675.0065.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Majengo Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485.0787.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068 DSM</postalAddress>
+      <physicalAddress>P.O.Box 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Marcelina Shewiyo</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O.Box 180 Moshi</postalAddress>
+      <physicalAddress>Moshi urban Rau</physicalAddress>
+      <fax/>
+      <telephone>0787364737</telephone>
+      <mobile>0787364737</mobile>
+      <email>lucy.shewiyo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SHEWIYO, LUCY MATHEW</accountName><bankAccount>0152328314000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>05e8e3103ff8b36b345b94f40b015553</isaacompletechecksum></student>

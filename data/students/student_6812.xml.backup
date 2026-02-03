@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6812</studentId>
+  <studentName>ikungu lusanza</studentName>
+  <accademicHistory><institution><institutionName>KILOSA SECONDARY SCHOOL</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>S0367.0070.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>LUGOBA HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0549.0650.2015</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>MERIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem>TUITION AND OTHER ALLOWANCES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>IKUNGU LUSANZA TELEJA</accountName><bankAccount>0152201533300</bankAccount><bankName>CRDB BANK</bankName><branchName>MBUYUNI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2c8d11d2909bfa4ef7d29807283f5705</isaacompletechecksum></student>

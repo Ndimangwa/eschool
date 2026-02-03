@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>942</studentId>
+  <studentName>machriner john ngasi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IRINGA GIRL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>P0203-0116</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MIREMBE SCHOOL OF NURSING</institutionName>
+      <specialization>PSYCHIATRY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>17934</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>municipal executive  director</employerName>
+      <postalAddress>166</postalAddress>
+      <physicalAddress>morogoro</physicalAddress>
+      <telephone>00255232614727</telephone>
+      <email>info@morogoromc.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>machriner john ngasi</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1642</postalAddress>
+      <physicalAddress>morogoro</physicalAddress>
+      <fax/>
+      <sponsorfax>00255713983166</sponsorfax>
+      <mobile>00255755035194</mobile>
+      <email>macngasi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>felister john ngasi</kinName>
+      <relationship>sister</relationship>
+      <postalAddress>2214</postalAddress>
+      <physicalAddress>arusha</physicalAddress>
+      <fax/>
+      <telephone>00255655227444</telephone>
+      <mobile>00255783227444</mobile>
+      <email>feingasi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

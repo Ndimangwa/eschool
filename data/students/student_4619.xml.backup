@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4619</studentId>
+  <studentName>HELLEN BENEDICT ASSEY</studentName>
+  <accademicHistory><institution><institutionName>MSIGANI SECONDARY SCHOOL</institutionName><specialization>SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S1582.0023.2008</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION </award><grade>DIVISION THREE</grade><startYear>2006</startYear><endYear>2008</endYear></institution><institution><institutionName>TUSIIME SECONDARY SCHOOL</institutionName><specialization>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>8</levelId><indexNumber>S2499.0533.2012</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION III</grade><startYear>2010</startYear><endYear>2012</endYear></institution><institution><institutionName>INTERNATIONAL MEDICAL AND TECHNOLOGICAL UNIVERSITY</institutionName><specialization>MEDICAL LABORATORY SCIENTIST</specialization><levelId>15</levelId><indexNumber>B.SC-MLT-1522</indexNumber><award>BACHELOR OF SCIENCE IN MEDICAL LABORATORY TECHNOLOGY</award><grade>LOWER SECOND</grade><startYear>2012</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>BENEDICT GABRIEL ASSEY</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 52</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile>+255754266328</mobile><email>bene.assey@gmail.com</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>BENEDICT ASSEY</accountName><bankAccount>01J2006050600</bankAccount><bankName>CRDB</bankName><branchName>UBUNGO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>80bae9c70a27caf8972a07fec9fe6b13</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3875</studentId>
+  <studentName>BENNO LYAKABOGO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KATOKE SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0118.0007.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155.0510.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Loarn Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.O BOX 76068Daressalaam</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JOEL LYAKABOGO</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>Box 486</postalAddress>
+      <physicalAddress>Karagwe</physicalAddress>
+      <fax/>
+      <telephone>0758042103</telephone>
+      <mobile>+225758042103</mobile>
+      <email>joel3@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LYAKABOGO, BENNO</accountName><bankAccount>0152248242500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>be4352c3d351b1f280898f52e5c82765</isaacompletechecksum></student>

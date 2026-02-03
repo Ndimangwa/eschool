@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3761</studentId>
+  <studentName>ANDASON SAMWEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KITUNTU SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1833.0112.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0102.0521.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 76068 dar es lama</postalAddress>
+      <physicalAddress>kimweri complex msasani</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DAUSON SAMWEL</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>box 486 kagera</postalAddress>
+      <physicalAddress>kaRAGWE</physicalAddress>
+      <fax/>
+      <telephone>0755394325</telephone>
+      <mobile>+255755394325</mobile>
+      <email>amos@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>SAMWEL, ANDASON</accountName><bankAccount>0152221327000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d91b790ec27eedac0bba05d240b9f12d</isaacompletechecksum></student>

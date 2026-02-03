@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>743</studentId>
+  <studentName>INNOCENT LUKIZA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LUTHERAN JONIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0107.0043.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KWIRO</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0123.0656.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helbs.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GEOFREY KEMITI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>7962</postalAddress>
+      <physicalAddress>7962</physicalAddress>
+      <fax/>
+      <telephone>0787360004</telephone>
+      <mobile>0787360004</mobile>
+      <email>Gkemiti@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LUKIZA, INNOCENT</accountName><bankAccount>0152327660700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3257d33edf6d452caf970738656f63b5</isaacompletechecksum></student>

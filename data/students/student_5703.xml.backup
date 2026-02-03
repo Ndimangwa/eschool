@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5703</studentId>
+  <studentName>EDWARD T. MAJOR</studentName>
+  <accademicHistory><institution><institutionName>KCMUCo</institutionName><specialization>DIPLOMA IN SCINCE IN HEALTH LABORATORY SCINCE</specialization><levelId>12</levelId><indexNumber>TUMA/KCMUCo/DHLSc./2011/2013/TZ/0159</indexNumber><award>DIPLOMA IN SCINCE IN HEALTH LABORATORY SCINCE</award><grade>ORDINARY DIPLOMA IN HEALTH LABORATORY SCIENCE</grade><startYear>2011</startYear><endYear>2014</endYear></institution><institution><institutionName>SANGITI SECONDARY SCHOOL</institutionName><specialization>O-LEVEL</specialization><levelId>4</levelId><indexNumber>S0663.0039.2007</indexNumber><award>O-LEVEL</award><grade>DIVISION THREE</grade><startYear>2004</startYear><endYear>2007</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>EDWARD T.MAJOR</sponsorName><payerId>1</payerId><postalAddress>P.O BOX 3010</postalAddress><physicalAddress>KCMC-MOSHI</physicalAddress><fax>0755647392</fax><telephone>0755647392</telephone><mobile>0755647392</mobile><email>edutom81@gmail.com</email><financedItem>TUITION FEES,ACCOMODATION,MEALS </financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>EDWARD THOMAS MAJOR</accountName><bankAccount>42208101704</bankAccount><bankName>NMB</bankName><branchName>MAWENZI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4100dc0bc8d946dc686942d5ba3cf26a</isaacompletechecksum></student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2592</studentId>
+  <studentName>GISSELA NYAKUNGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MSALATO GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0214-0022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILAKALA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206-0542</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MOHSW</employerName>
+      <postalAddress>9083</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <telephone>00255222342000</telephone>
+      <email>marietasingo@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MOHSW</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9083</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222124500</sponsorfax>
+      <mobile>00255222342000</mobile>
+      <email>tantci@intafrica.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FOCUS</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>7475, moshi</postalAddress>
+      <physicalAddress>kcmc, SHANTY TOWN, MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00255767454653</telephone>
+      <mobile>00255767454653</mobile>
+      <email>de.opto@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

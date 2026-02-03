@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4799</studentId>
+  <studentName>RAHMA .A. SHAYO</studentName>
+  <accademicHistory><institution><institutionName>ARUSHA DAY SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0781.0067.2013</indexNumber><award>CSE</award><grade>DIV 3</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>WERUWERU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0221.0070.2016</indexNumber><award>ACSE</award><grade>DIV 3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ALLY .S.SHAYO</sponsorName><payerId>3</payerId><postalAddress>ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>+225754278364</telephone><mobile>+255754278364</mobile><email>Ally.shayo@gmail.com</email><financedItem>HE</financedItem><extraInformation>FATHER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>RAHMA.ALLY SHAYO</accountName><bankAccount>0152327928300</bankAccount><bankName>CRDB</bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>857ddc8341de8186d2c73fa14e00ffec</isaacompletechecksum></student>

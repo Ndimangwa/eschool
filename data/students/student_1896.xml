@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1896</studentId>
+  <studentName>GODWIN ABDIEL NNKO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ailanga Lutheran junior seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0198-0046/2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>lutheran junior seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0107-0587/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es salaam</postalAddress>
+      <physicalAddress>sam nujoma road mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222700286</sponsorfax>
+      <mobile>+255222700286</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Abdiel malaki nnko</kinName>
+      <relationship>father</relationship>
+      <postalAddress>11129 Arusha</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <telephone>+255687425054</telephone>
+      <mobile>+255687425054</mobile>
+      <email>gnnko93@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3169</studentId>
+  <studentName>GASTO K ELIUD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LUBALA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1645-0149</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110-0568</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>00222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Eliud W Kibona</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O BOX 326 TUKUYU</postalAddress>
+      <physicalAddress>Kiwira</physicalAddress>
+      <fax/>
+      <telephone>00755194295</telephone>
+      <mobile>00755194295</mobile>
+      <email>gastokeliud@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

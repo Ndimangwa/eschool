@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>584</studentId>
+  <studentName>stephen albert bura</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>d.c.t.jubilee</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1621.0042.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>msufini</institutionName>
+      <specialization>cbg</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0635.0521.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>albert martini bura</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o box 2643</postalAddress>
+      <physicalAddress>dodoma</physicalAddress>
+      <fax/>
+      <sponsorfax>0764444412</sponsorfax>
+      <mobile>0764444412</mobile>
+      <email>burastephen@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>albert martini bura</kinName>
+      <relationship>father</relationship>
+      <postalAddress>p.o box 2643</postalAddress>
+      <physicalAddress>dodoma</physicalAddress>
+      <fax/>
+      <telephone>0764444412</telephone>
+      <mobile>0764444412</mobile>
+      <email>burastephen@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>BURA, STEPHEN ALBERT</accountName><bankAccount>0152219170100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5fb9d994c0066f5d440fcef6f4f48280</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6012</studentId>
+  <studentName>asteria medard busungu</studentName>
+  <accademicHistory><institution><institutionName>BUKUMBI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0235.0009.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATIONS</award><grade>DIVION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>RUGAMBWA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0218.0512.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION SYSTEAM OF LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHRISPINE BUSUNGU</kinName><relationship>BROTHER</relationship><postalAddress>P.O BOX 84</postalAddress><physicalAddress>MWANZA</physicalAddress><fax></fax><telephone>0766580847</telephone><mobile>0766580847</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ASTERIA MEDARD BUSUNGU</accountName><bankAccount>0152201530500</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>695944ea5326c2d8aa6fd7547a21cd7c</isaacompletechecksum></student>

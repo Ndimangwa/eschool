@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6203</studentId>
+  <studentName>HILARY TONHELY KADIONDE</studentName>
+  <accademicHistory><institution><institutionName>MAKWEMA SECONDARY SCHOOL</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S4725.0048.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>SAM NUJOMA  </physicalAddress><fax/><telephone>+255222772432</telephone><mobile>+255222700286</mobile><email>Info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>TONHELY KADINDE</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 2324</postalAddress><physicalAddress>IRINGA</physicalAddress><fax></fax><telephone>0767166365</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HILARY TONHELY KADINDE</accountName><bankAccount>0152201533100</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8f7d3667a293dd5f0222c1f2f2879381</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5184</studentId>
+  <studentName>JOSEPH OLOMI</studentName>
+  <accademicHistory><institution><institutionName>GALANOS SECONDARY SHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0142.0092.2008</indexNumber><award>CERTIFICATE IN SECONDARY EDUCATION</award><grade>DIVISION 3</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>GREEN ACRESS HIGH SHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1197.0612.2011</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION 3</grade><startYear>2009</startYear><endYear>2011</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName><specialization>DIPLOMA IN HEALTH LABORATORY</specialization><levelId>12</levelId><indexNumber>K180003.2014</indexNumber><award>DIPLOMA IN HEALTH LABORATORY SCIENCE</award><grade>PASS</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>PSPF</sponsorName><payerId>11</payerId><postalAddress>P.O BOX 16300</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax>+255222120930</fax><telephone>+255272544297</telephone><mobile/><email>arusha@pspf-tz.org</email><financedItem>SCHOOL FEES </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>FELICIAN LASWAI</kinName><relationship>MOTHER</relationship><postalAddress>P.O BOX 11105</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax></fax><telephone>0754535993</telephone><mobile>0754535993</mobile><email>laswaifelisian@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JOSEPH DANIEL OLOMI</accountName><bankAccount>01000396147</bankAccount><bankName>TANZANIA POSTAL BANK</bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>543a695e2477635998ce79452635bb6d</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1597</studentId>
+  <studentName>Jehangir Mohamed Sheriff</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Jaffery Academy</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0637711</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Jaffery Academy</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>025/0058</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Mohamed Sheriff</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. Box 175 Arusha</postalAddress>
+      <physicalAddress>Somali/Wapare Street Arusha</physicalAddress>
+      <fax/>
+      <sponsorfax>+255272753616</sponsorfax>
+      <mobile>+255754822188</mobile>
+      <email>mhs_dr@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mohamed Sheriff</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O. Box 175 Arusha</postalAddress>
+      <physicalAddress>Somali/Wapare Street Arusha</physicalAddress>
+      <fax/>
+      <telephone>+255272753616</telephone>
+      <mobile>+255754822188</mobile>
+      <email>mhs_dr@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

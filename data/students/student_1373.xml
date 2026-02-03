@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1373</studentId>
+  <studentName>JOACHIM F MAGOMA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LOMWE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0355-0121</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0485-1147</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. Box76068</postalAddress>
+      <physicalAddress>Daressalam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HULDA MAGOMA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.Box 7298, Moshi</postalAddress>
+      <physicalAddress>MAJENGO MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0754285824</telephone>
+      <mobile>0754285824</mobile>
+      <email>huldamagoma@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

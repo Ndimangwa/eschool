@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2343</studentId>
+  <studentName>CALISTUS NZOTA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>UWEMBA SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0430-0051</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>RUCO</institutionName>
+      <specialization>LABORATORY TECHNOLOGIST</specialization>
+      <levelId>8</levelId>
+      <indexNumber>16978</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669039</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CHRISTINA</kinName>
+      <relationship>FRIEND</relationship>
+      <postalAddress>16</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <telephone>0712204667</telephone>
+      <mobile>0712204667</mobile>
+      <email>kashiririka@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

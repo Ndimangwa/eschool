@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1642</studentId>
+  <studentName>JACKLINE A NLULA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MACHAME GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0212-0092</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAJENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0485/1124</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NICKOLAUS NLULA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O.BOX 104</postalAddress>
+      <physicalAddress>MACHAME</physicalAddress>
+      <fax/>
+      <telephone>00255794258</telephone>
+      <mobile>0718794258</mobile>
+      <email>jacklinenlula@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>254</studentId>
+  <studentName>ADELINE ROBERT</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0209.0001.2006</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NURSING TRAINING CENTRE KCMC</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Sam nujoma road ,mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIA ASANTERABI SWAI</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>2202 MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0717396739</telephone>
+      <mobile>0717396739</mobile>
+      <email>elia.aswai@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ROBERT, ADELINE</accountName><bankAccount>40710003744 </bankAccount><bankName> NMB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>48fadc86f0c7f3bb25cdef60dba28aff</isaacompletechecksum></student>

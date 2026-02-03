@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>98</studentId>
+  <studentName>WILLIAM.KLETH.FAUSTINE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RUNDUGAI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2125/0051</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LWANDAI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0584-0542</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MARY MSANGI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 15561</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255754892626</sponsorfax>
+      <mobile>00255754892626</mobile>
+      <email>williamcleth@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARY MSANGI</kinName>
+      <relationship>PARENT</relationship>
+      <postalAddress>P.O.BOX 15561</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>00255754892626</telephone>
+      <mobile>00255754892626</mobile>
+      <email>williamcleth@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

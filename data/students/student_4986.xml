@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4986</studentId>
+  <studentName>BENNIE ABDISON KALE</studentName>
+  <accademicHistory><institution><institutionName>KOMAKYA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0926.0115.2012</indexNumber><award>CSE</award><grade>Division 3</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>SAME SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0150.0627.2015</indexNumber><award>ACSE</award><grade>MERIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ad30b1b299f3bfcb1376f1641c724ccd</isaacompletechecksum></student>

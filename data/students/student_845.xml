@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>845</studentId>
+  <studentName>GETRUDE GILBETH LWENA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MFARANYAKI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3248.0009.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0276.0513.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO.BOX 76068DSM</postalAddress>
+      <physicalAddress>PO.BOX 76068DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DEOGRATIUS GILBETH LWENA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>PO.BOX 8889</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0714842916</telephone>
+      <mobile>0714842916</mobile>
+      <email>Dlwena2007@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LWENA, GETRUDE GILBETH</accountName><bankAccount>0152327644900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>70944c62f7f0cf5197de5b73b63b0fa5</isaacompletechecksum></student>

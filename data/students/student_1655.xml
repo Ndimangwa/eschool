@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1655</studentId>
+  <studentName>ANNETH GREGORY TEU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.FRANCIS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0239/0005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AGHA KHAN MZIZIMA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0335/0501</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM, TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARGRETH TEU</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>P.O.BOX 105161</postalAddress>
+      <physicalAddress>DAR ES SALAAM, TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>00255758980226</telephone>
+      <mobile>00255758980226</mobile>
+      <email>margaret_teu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

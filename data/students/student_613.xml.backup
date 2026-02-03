@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>613</studentId>
+  <studentName>JOSELINA BEATUS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIPONZELO SECONDARY  SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1533-0041</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>META SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0443-O5O3</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOARN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BEATUS MFUGALE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>2324-KIHANGA</postalAddress>
+      <physicalAddress>KIHANGA -IRINGA</physicalAddress>
+      <fax/>
+      <telephone>0759525659</telephone>
+      <mobile>0255759525659</mobile>
+      <email>beatusjoselina@mail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

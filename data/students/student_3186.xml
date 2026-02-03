@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3186</studentId>
+  <studentName>Hilda Galda Francis</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LORETO GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0249.0045.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUNDA TECHNICALSECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0108.0510.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUGANDO</institutionName>
+      <specialization>LABORATORY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CUHAS/LAB/7000266/T.12</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar,es,salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552227272432</sponsorfax>
+      <mobile>002552227272432</mobile>
+      <email>info@hesib.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Francis Marcellus Nchimbi</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>8272</postalAddress>
+      <physicalAddress>dar,es,salaam</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0752504880</mobile>
+      <email>hildafrancis11@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>FRANCIS, HILDA G</accountName><bankAccount>0152215151400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4cc52ffd24248fe12a020a2c06a9f750</isaacompletechecksum></student>

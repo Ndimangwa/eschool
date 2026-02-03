@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6463</studentId>
+  <studentName>STEVEN AIDAN KOMBA</studentName>
+  <accademicHistory><institution><institutionName>LIKONDE SEMINARY</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S0124.0029.2013</indexNumber><award>CSEE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIBAHA SECONDARY SCHOOL</institutionName><specialization>PCB </specialization><levelId>8</levelId><indexNumber>S0119.0609.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOANS BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@helsb.go.tz</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>STEVEN AIDAN KOMBA</accountName><bankAccount>0152295640300</bankAccount><bankName>CRDB BANK</bankName><branchName>MBINGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>eb84ab47dab2ed1cfad26210d65afbc4</isaacompletechecksum></student>

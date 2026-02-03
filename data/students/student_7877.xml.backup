@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7877</studentId>
+  <studentName>RAYMOND JUMA NG\'ITU</studentName>
+  <accademicHistory><institution><institutionName>KIDUGALA LUTHERAN SEMINARY SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0167.0077.2012</indexNumber><award>CERTIFICTE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>AGAPE LUTHERAN JUNIOUR SEMINARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0184.0553.2015</indexNumber><award>ADVANCED  CERTIFCATE OF SECONDARY EDUCATION</award><grade>GPA 2.7</grade><startYear>2013</startYear><endYear>2015</endYear></institution><institution><institutionName>INTERNATIONAL MEDICAL AND TECHNOLOGICAL UNIVERSITY</institutionName><specialization>MBBS</specialization><levelId>15</levelId><indexNumber>2015CM121</indexNumber><award>FIRST YEAR TRANSCRIPT</award><grade>GPA 2.5</grade><startYear>2015</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHE EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES AND ACCOMMODATION MONEY</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LUGANO WILSON MWANDENGA</kinName><relationship>GUARDIAN</relationship><postalAddress>P.O.BOX 10142 DAR ES SALAAM</postalAddress><physicalAddress>TEMEKE</physicalAddress><fax/><telephone>0754549952</telephone><mobile>0754549952</mobile><email/><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>RAYMOND JUMA NG\'ITU</accountName><bankAccount>0152284743900</bankAccount><bankName>CRDB BANK</bankName><branchName>MARANGU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>61882660ec0be4d574816513167ab1a6</isaacompletechecksum></student>

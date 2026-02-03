@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3602</studentId>
+  <studentName>Yahya Athumani</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Same Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0150-057</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Moshi Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0576</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Sokoine University of Agriculture</institutionName>
+      <specialization>Bahelor of Veterinary Medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>5321/T.98</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>University of Dar es Salaam</institutionName>
+      <specialization>Molecular Biology</specialization>
+      <levelId>17</levelId>
+      <indexNumber>2009-06-00837</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>National Institute for Medical Research</employerName>
+      <postalAddress>P. O. Box 9653</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <telephone>00255222121400</telephone>
+      <email>hq@nimr.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Guiyun Yan</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. 0. box 9653</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222121400</sponsorfax>
+      <mobile>00254736650929</mobile>
+      <email>guiyun@uci.edu</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Zuhura Kivaju</kinName>
+      <relationship>Spouse</relationship>
+      <postalAddress>P. 0. Box 311</postalAddress>
+      <physicalAddress>MOSHI,KILIMANJARO</physicalAddress>
+      <fax/>
+      <telephone>0272750247</telephone>
+      <mobile>0715336695</mobile>
+      <email>zeddykv@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

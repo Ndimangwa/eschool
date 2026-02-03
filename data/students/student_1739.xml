@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1739</studentId>
+  <studentName>IBRAHIM HAMIDU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MSAMALA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1220/0070/2007</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NDANDA SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0338/0791/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669037</sponsorfax>
+      <mobile>+255222669039</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ISMAIL HAMIDU GAWAZA</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>985</postalAddress>
+      <physicalAddress>SONGEA</physicalAddress>
+      <fax/>
+      <telephone>0713407543</telephone>
+      <mobile>0758796260</mobile>
+      <email>ibrahhamidu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

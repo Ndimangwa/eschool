@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3285</studentId>
+  <studentName>Ahlam Ali Amour</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SOS HERMANN GMEINER SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0995-0001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARYS MAZINDE JUU</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0233-0504</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HUBERT KAIRUKI UNIVERSITY</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>HK/MD/05/237</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH ZANZIBAR</employerName>
+      <postalAddress>236</postalAddress>
+      <physicalAddress>MNAZI MMOJA ZANZIBAR</physicalAddress>
+      <telephone>+255212233454</telephone>
+      <email>afyasmz@zanlink.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH ZANZIBAR</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>236</postalAddress>
+      <physicalAddress>mnazi mmoja ZANZIBAR</physicalAddress>
+      <fax/>
+      <sponsorfax>+255212233454</sponsorfax>
+      <mobile>+255777432465</mobile>
+      <email>afyasmz@zanlink.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ABDULLAH MIKIDADI AYOUB</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>1227</postalAddress>
+      <physicalAddress>chukwani</physicalAddress>
+      <fax/>
+      <telephone>+255772129930</telephone>
+      <mobile>+255777474079</mobile>
+      <email>dumikidadi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

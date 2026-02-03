@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3655</studentId>
+  <studentName>DEBORA JOSEPHAT MBILINYI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.GETRUDE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0270.0015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.LUISE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0234.0502</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ANASTAZIA SANGA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 700</postalAddress>
+      <physicalAddress>IKONDA HOSPITAL -NJOMBE</physicalAddress>
+      <fax/>
+      <sponsorfax>0763374855</sponsorfax>
+      <mobile>00255718726895</mobile>
+      <email>Anasanga@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANASTAZIA  SANGA</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>BOX 700</postalAddress>
+      <physicalAddress>IKONDA HOSPITAL -NJOMBE</physicalAddress>
+      <fax/>
+      <telephone>0763374855</telephone>
+      <mobile>00255718726895</mobile>
+      <email>anasanga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

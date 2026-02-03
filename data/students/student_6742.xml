@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6742</studentId>
+  <studentName>ALKALDO KILEMO BENEDICTO</studentName>
+  <accademicHistory><institution><institutionName>KINYAKA SEC. SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3750.0030.2010</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>3</grade><startYear>2007</startYear><endYear>2010</endYear></institution><institution><institutionName>MAGU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0539.0532.2013</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>3</grade><startYear>2011</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068, DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>0713233118</mobile><email>info@heslb.ao.tz</email><financedItem>SCHOOL FEES AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PONSIAN BENEDICTO</kinName><relationship>BROTHER</relationship><postalAddress>P.O.BOX 690 KIBATI</postalAddress><physicalAddress>PANDAMBILI MVOMERO</physicalAddress><fax></fax><telephone>0764000085</telephone><mobile>0678423168</mobile><email>ponsianbenedicto@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ALKADO BENEDICTO KILEMO</accountName><bankAccount>51410005721</bankAccount><bankName>NMB BANK</bankName><branchName>KASULU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3b3c3117eacc0b9829c59c53c1c90cee</isaacompletechecksum></student>

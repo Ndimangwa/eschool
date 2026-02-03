@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>663</studentId>
+  <studentName>KWEJI LUFUNGULO KOMANYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KANDAWE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1841.0017.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BUKOBA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0304.0513.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KOMANYA LUFUNGULO MASELEMA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 24</postalAddress>
+      <physicalAddress>PO BOX 24</physicalAddress>
+      <fax/>
+      <telephone>0783256665</telephone>
+      <mobile>0783256665</mobile>
+      <email>kwejilufungulo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KOMANYA, KWEJI LUFUNGULO</accountName><bankAccount>0152327640300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3fd544b6eb42d5406f0347461ef536a1</isaacompletechecksum></student>

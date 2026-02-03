@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3261</studentId>
+  <studentName>THOMAS DUNSTAN MBEZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RAU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3675.0218.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KARATU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0364.0896.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>hIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068 DAR</postalAddress>
+      <physicalAddress>DAR EAS SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DUNSTAN THOMAS MBEZI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O BOX 1975 MOSHI</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0754876674</telephone>
+      <mobile>0754876674</mobile>
+      <email>dtmbezi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MBEZI, THOMAS DUNSTAN</accountName><bankAccount>0152327970700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5573477918dee3635f4a99f02ef0a982</isaacompletechecksum></student>

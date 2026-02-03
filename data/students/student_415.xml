@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>415</studentId>
+  <studentName>Basiliana Emidi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Karatu Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0364-0005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilakala secondary School</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206-0508</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>University of Dar es Salaam</institutionName>
+      <specialization>Bachelor of Science (Zoology and Wildlife)</specialization>
+      <levelId>15</levelId>
+      <indexNumber>33321/T2001</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>University of Dar es Salaam</institutionName>
+      <specialization>Master of Science (Applied Zoology)</specialization>
+      <levelId>17</levelId>
+      <indexNumber>HD/T.467/2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>National Institute for Medical Research</employerName>
+      <postalAddress>9653 Dar es Salaam</postalAddress>
+      <physicalAddress>9653 Dar es Salaam</physicalAddress>
+      <telephone>00255222121400</telephone>
+      <email>hqs@nimr.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Amani Centre, NIMR</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>81 Muheza, Tanga</postalAddress>
+      <physicalAddress>81 Muheza, Tanga</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272641132</sponsorfax>
+      <mobile>00255272641132</mobile>
+      <email>amani@nimr.or.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Evarist Robert Kerenge</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>0713381254</postalAddress>
+      <physicalAddress>0713381254</physicalAddress>
+      <fax/>
+      <telephone>0713381254</telephone>
+      <mobile>0713381254</mobile>
+      <email>evarist88@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

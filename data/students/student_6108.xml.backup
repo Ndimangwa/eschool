@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6108</studentId>
+  <studentName>GOODLUCK MWAKYOMA</studentName>
+  <accademicHistory><institution><institutionName>IYUNGA TECH SECONDARY SCHOOL</institutionName><specialization>SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0112.0116.2008</indexNumber><award>ORDINARY CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>SCHOOL OF OPTOMETRY - KCMC</institutionName><specialization>OPTOMETRY</specialization><levelId>12</levelId><indexNumber>36578</indexNumber><award>DIPLOMA IN OPTOMETRY</award><grade>GPA 4.5</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DSM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222669039</fax><telephone>+2552226269036</telephone><mobile/><email/><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>GOODLUCK MWAKYOMA</accountName><bankAccount>0152209138200</bankAccount><bankName>CRDB BANK</bankName><branchName>AZIKIWE</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>609e4d19df082d44cec7f8428cda9137</isaacompletechecksum></student>

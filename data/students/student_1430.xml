@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1430</studentId>
+  <studentName>JEREMIA J.PYUZA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>GUMANGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0950.0083</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BIHAWANA SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0103.0619</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@helb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SARAH MHESA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.BOX.1077 SINGIDA</postalAddress>
+      <physicalAddress>MARERA-SINGIDA</physicalAddress>
+      <fax/>
+      <telephone>+225787186642</telephone>
+      <mobile>0787186642</mobile>
+      <email>pyuzajeremiaj@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

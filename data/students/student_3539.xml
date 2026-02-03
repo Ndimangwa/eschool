@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3539</studentId>
+  <studentName>HERIELLY OMBENI MSUYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AZANIA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0101-0187</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOYOLA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0800-0613</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAINI UNIVERSITY (KCM-College)</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/MD/0340</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MWANGA DISTRICT COUNCIL</employerName>
+      <postalAddress>P.O. BOX 176 MWANGA</postalAddress>
+      <physicalAddress>MWANGA, KILIMANJARO</physicalAddress>
+      <telephone>0222757652</telephone>
+      <email>info@mohsw.co.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MALAIKA EDUCATION FOUNDATION</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 8383 MOSHI</postalAddress>
+      <physicalAddress>KILIMANJARO</physicalAddress>
+      <fax/>
+      <sponsorfax>0763314119</sponsorfax>
+      <mobile>0763314119</mobile>
+      <email>malaikatz2015@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIAICHI MILTON MARANDU</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>P.O. BOX 8383 MOSHI</postalAddress>
+      <physicalAddress>MWANGA, KILIMANJARO</physicalAddress>
+      <fax/>
+      <telephone>0763314119</telephone>
+      <mobile>0763314119</mobile>
+      <email>malaikatz2015@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

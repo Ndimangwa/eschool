@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8065</studentId>
+  <studentName>KELVIN FREDRICK FARES</studentName>
+  <accademicHistory><institution><institutionName>MBAGALA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S2476.0239.2014</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>1.0</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>FREDRICK FARES TILLYA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 24076, DAR ES SALAAM</postalAddress><physicalAddress>P.O.BOX 24076, DAR ES SALAAM</physicalAddress><fax/><telephone>+255784411460</telephone><mobile>+255654096533</mobile><email>fredrickfarestillya@gmail.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>KELVIN FREDRICK FARES</accountName><bankAccount>40310047993</bankAccount><bankName>NMB</bankName><branchName>NELSON MANDELA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>03743e5df183d3af48f93fe8e0cbf977</isaacompletechecksum></student>

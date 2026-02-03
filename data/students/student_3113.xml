@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3113</studentId>
+  <studentName>fadhili nuhu nyalusi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>maguvani secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1691.0104.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>rungwe secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0149.0648.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NUHU IDDY NYALUSI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX1121 MAKAMBAKO</postalAddress>
+      <physicalAddress>MAKAMBAKO</physicalAddress>
+      <fax/>
+      <sponsorfax>0755305296</sponsorfax>
+      <mobile>0766410696</mobile>
+      <email>fadhilinyalusi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NUHU IDDY NYALUSI</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.O.BOX1121 MAKAMBAKO</postalAddress>
+      <physicalAddress>MAKAMBAKO</physicalAddress>
+      <fax/>
+      <telephone>0755305296</telephone>
+      <mobile>0766410696</mobile>
+      <email>fadhilinyalusi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NYALUSI, FADHILI NUHU</accountName><bankAccount>0152326672300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fad1a506b835d1ad5d1f76a3bb2b9f44</isaacompletechecksum></student>

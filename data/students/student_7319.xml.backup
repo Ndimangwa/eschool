@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7319</studentId>
+  <studentName>Alexander William Mbuya</studentName>
+  <accademicHistory><institution><institutionName>Mawenzi Secondary School</institutionName><specialization>Ordinary Level Secondary Education</specialization><levelId>4</levelId><indexNumber>S0328.0116.1996</indexNumber><award>Certificate of Secondary Education</award><grade>Pass</grade><startYear>1993</startYear><endYear>1996</endYear></institution><institution><institutionName>Ilboru Secondary School</institutionName><specialization>Advanced Secondary Education</specialization><levelId>8</levelId><indexNumber>S0110.0521.1999</indexNumber><award>Advanced Certificate of Secondary Examination</award><grade>Pass</grade><startYear>1997</startYear><endYear>1999</endYear></institution><institution><institutionName>University of Dar es Salaam</institutionName><specialization>Medicine</specialization><levelId>15</levelId><indexNumber>MD000455</indexNumber><award>Doctor of Medicine</award><grade>Pass</grade><startYear>1999</startYear><endYear>2005</endYear></institution><institution><institutionName>Muhimbili University of Health and Allied Sciences</institutionName><specialization>Community Medicine</specialization><levelId>17</levelId><indexNumber>Mmed000306</indexNumber><award>Master of Medicine</award><grade>GPA 4.0</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH AND SOCIAL WELFARE-KIBONG`OTO HOSP</employerName><postalAddress>P O Box 9083</postalAddress><physicalAddress>Dar es Salaam</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2007</startYear><endYear>2017</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>DAAD Scholarship</sponsorName><payerId>8</payerId><postalAddress>DAAD 200404.D-53134</postalAddress><physicalAddress>Bonn</physicalAddress><fax>+4922888298861</fax><telephone>+492288828861</telephone><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Alexander William Mbuya</accountName><bankAccount>40108000122</bankAccount><bankName>National Microfinance Bank</bankName><branchName>Hai</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cb6bd1a5c2fbb64fd3145c9d053db017</isaacompletechecksum></student>

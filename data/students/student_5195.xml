@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5195</studentId>
+  <studentName>JASPER KIMAMBO</studentName>
+  <accademicHistory><institution><institutionName>KOMAKYA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0926.0037.2004</indexNumber><award>CSE</award><grade>DIVISION THREE</grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>KIBITI HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0413.0567.2007</indexNumber><award>ACSE</award><grade>DIVISION4</grade><startYear>2005</startYear><endYear>2007</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName><specialization>SCIENCE</specialization><levelId>12</levelId><indexNumber>K 00165</indexNumber><award>DIPLOMA IN HEALTH LABORATORY SCIENCES</award><grade>PASS</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>KEFA OFFORO KIMAMBO</kinName><relationship>PARENT</relationship><postalAddress>P.O BOX 8194</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0654650514</telephone><mobile>0654650514</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JASPER KEFA KIMAMBO</accountName><bankAccount>5370293804189134</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5d0420d54f5092a64fdf0692f10096a9</isaacompletechecksum></student>

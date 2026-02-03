@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1532</studentId>
+  <studentName>John S Fimbo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Feza Boy's secondary Schools</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0189.0046.2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St.Mary Foret Secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1187-0685</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.o.box 76068</postalAddress>
+      <physicalAddress>Dares Salaam,Samora mwenge,</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Fabian John Fimbo</kinName>
+      <relationship>uncle</relationship>
+      <postalAddress>p.o.box dar</postalAddress>
+      <physicalAddress>Dar Es Salaam, Mexico beach</physicalAddress>
+      <fax/>
+      <telephone>+255767774504</telephone>
+      <mobile>0784774504</mobile>
+      <email>fabianfimbo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2888</studentId>
+  <studentName>KASSIAN G. MWALONGO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>META SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0443-0241</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBAHA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0119-0584</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>p.o.box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Emailinfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GEOFREY MWALONGO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>p.o.box 2766</postalAddress>
+      <physicalAddress>p.O.BOX 2766</physicalAddress>
+      <fax/>
+      <telephone>0754331759</telephone>
+      <mobile>0754331759</mobile>
+      <email>mwalongokassian01@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1833</studentId>
+  <studentName>ELIHURUMA EMMANUEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MORINGE SOKOINE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0409-0030</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LYMIUNGO SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125-0548</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MInistry of Health and Social Welfare</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 16700</postalAddress>
+      <physicalAddress>dar es Salaam Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>02223420005</sponsorfax>
+      <mobile>002552223420005</mobile>
+      <email>info@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EMMANUELI LOILOLE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1003</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0767357027</telephone>
+      <mobile>0767357020</mobile>
+      <email>elajaloi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5158</studentId>
+  <studentName>HAPPINESS DUNCAN KAJOKA</studentName>
+  <accademicHistory><institution><institutionName>SOLACE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0289.0035.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIAN GIRLS HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0248.0560.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JULLIANA JASSON MWAKANIEMBA</kinName><relationship>MOTHER</relationship><postalAddress>P.O BOX 6557</postalAddress><physicalAddress>MBEYA</physicalAddress><fax/><telephone>+255754261613</telephone><mobile>+255754261613</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HAPPINESS DUNCAN KAJOKA</accountName><bankAccount>0152434991100</bankAccount><bankName>CRDB BANK</bankName><branchName>BAGAMOYO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fa456320f0e08e26372e744084d20c1a</isaacompletechecksum></student>

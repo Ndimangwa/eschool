@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6915</studentId>
+  <studentName>ANGELA LYIMO</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY</institutionName><specialization>NURSING</specialization><levelId>15</levelId><indexNumber>K200004</indexNumber><award>NURSE OFFICER</award><grade>AB</grade><startYear>2013</startYear><endYear>2016</endYear></institution><institution><institutionName>IFUNDA TECH SECONDARY</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>S0108.0506.2009</indexNumber><award>SECONDARY CERTIFICATE</award><grade>DIVISION THREE</grade><startYear>2007</startYear><endYear>2009</endYear></institution><institution><institutionName>SONI DAY SECONDARY</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S0905.0008.2006</indexNumber><award>SECONDARY CERTIFICATE</award><grade>DIVISION THREE</grade><startYear>2002</startYear><endYear>2006</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ANGELA LYIMO</sponsorName><payerId>10</payerId><postalAddress>POBOX 560 MSINGA</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile>0759586391</mobile><email>angelalyimo89@gmail.com</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MATHEW LYIIMO</kinName><relationship>BROTHER</relationship><postalAddress>POBOX 560 MSINGA</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0754890401</telephone><mobile>0754890401</mobile><email></email><extraInformation></extraInformation></nextOfKin><nextOfKin><kinName>MATHEW LYIMO</kinName><relationship>BROTHER</relationship><postalAddress>POBOX 560 MSINGA</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0754890401</telephone><mobile>0754890401</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ANGELA GENES LYIMO</accountName><bankAccount>60508100744</bankAccount><bankName>NMB</bankName><branchName>MKWAWA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>46d5b030a73ac0d1610cd06b2eac9162</isaacompletechecksum></student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>835</studentId>
+  <studentName>NEEMA P ONESMO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. MAZINDE JUU</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0233.0029.2002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC COLLEGE</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RASE</employerName>
+      <postalAddress>P.O.BOX 3050 ARUSHA</postalAddress>
+      <physicalAddress>P.O.BOX 3050 ARUSHA</physicalAddress>
+      <telephone>0754075680</telephone>
+      <email>ras@arusha.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068  DSM</postalAddress>
+      <physicalAddress>P.O.BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669036</sponsorfax>
+      <mobile>0255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GABRIEL PROSPER MARANDU</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>P.O.BOX 3050 ARUSHA</postalAddress>
+      <physicalAddress>P.O.BOX 3050 ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0769215604</telephone>
+      <mobile>0769215604</mobile>
+      <email>neemaonesmo14@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ONESMO, NEEMA P</accountName><bankAccount>0152327719000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>ac6f018ec2a21a812dfff11b9dcc14e7</isaacompletechecksum></student>

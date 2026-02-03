@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4526</studentId>
+  <studentName>ALBERT PAUL</studentName>
+  <accademicHistory><institution><institutionName>ARUSHA DAY SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0781.0045.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>KIBAHA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0119.0556.2007</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2005</startYear><endYear>2007</endYear></institution><institution><institutionName>MUHIMBILI UNIVERSITY OF HEALTH AND ALLIED SCIENCES</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>MD001808</indexNumber><award>DOCTOR OF MEDICINE</award><grade>PASS</grade><startYear>2007</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MUHIMBILI ORTHOPAEDIC INSTITUTE</employerName><postalAddress>P.O. BOX 65474</postalAddress><physicalAddress>MUHIMBILI COMPLEX, KALENGA STREET, ILALA DISTRICT, DAR ES SALAAM</physicalAddress><fax>+255222151744</fax><telephone>+255222151298</telephone><mobile>+255222153359 </mobile><email>info@moi.ac.tz</email><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>ALBERT PAUL MACHA</sponsorName><payerId>1</payerId><postalAddress>P.O.BOX 38645</postalAddress><physicalAddress>MSISIRI B, KINONDONI DISTRICT, DAR ES SALAAM</physicalAddress><fax/><telephone>+255754928900</telephone><mobile>+255754928900</mobile><email>albert4lyf@yahoo.com</email><financedItem>FULL SELF SPONSERSHIP</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ALBERT PAUL MACHA</accountName><bankAccount>20910001855</bankAccount><bankName>NMB</bankName><branchName>MUHIMBILI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>572049bcb55c851c0c7a715790ab03dc</isaacompletechecksum></student>

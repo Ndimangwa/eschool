@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>772</studentId>
+  <studentName>JICHOLA JILYA JICHOLA MASANJA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SHINYANGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0152-031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SHINYANGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.152/521</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUCHS</institutionName>
+      <specialization>GENERAL PRACTITIONER</specialization>
+      <levelId>15</levelId>
+      <indexNumber>15804/T.94</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>GENERAL SURGERY</specialization>
+      <levelId>17</levelId>
+      <indexNumber>HD/MUH/T.32/2004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>JWTZ</employerName>
+      <postalAddress>P.O BOX 9203</postalAddress>
+      <physicalAddress>DFHQ</physicalAddress>
+      <telephone>00222150556</telephone>
+      <email>signalcentre@cats.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>TANZANIA PEOPLES DEFENCE FORCES</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 9203 DFHQ</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>02552150556</sponsorfax>
+      <mobile>02552150556</mobile>
+      <email>signalcentre@cats.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EDNA A MWAIJIBE</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>P.O BOX 78502</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>00255754755479</telephone>
+      <mobile>00255715755479</mobile>
+      <email>ednam@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

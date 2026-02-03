@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5983</studentId>
+  <studentName>GIDION JACKSON SILAYO</studentName>
+  <accademicHistory><institution><institutionName>TARAKEA SECONDARY SCHOOL</institutionName><specialization>SIENCE</specialization><levelId>4</levelId><indexNumber>S0142.0881.2016</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATIO</award><grade>DIVISION TREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>GALANOS SECONDARY SCHOOL</institutionName><specialization>CBA</specialization><levelId>8</levelId><indexNumber>S0142.0881.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>POINT 16</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JACKSON SILAYO</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 4</postalAddress><physicalAddress>TARAKEA ROMBO</physicalAddress><fax/><telephone/><mobile>0758088496</mobile><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELIAS SILAYO</kinName><relationship>UNCLE</relationship><postalAddress>P.O.BOX 4</postalAddress><physicalAddress>TARAKEA ROMBO</physicalAddress><fax></fax><telephone>0756557861</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin><nextOfKin><kinName>EFRAEM SILAYO</kinName><relationship>UNCLE</relationship><postalAddress>PO. BOX 4</postalAddress><physicalAddress>TARAKEA ROMBO</physicalAddress><fax></fax><telephone>0784921302</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GIDION JACKSON SILAYO</accountName><bankAccount>40610004096</bankAccount><bankName>NMB</bankName><branchName>TARAKEA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7a53326520b59a6a654bfa98a9463147</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1347</studentId>
+  <studentName>Alexander VC Malwa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Bangwe secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1419-0016-2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Sengerema secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0151-0505-2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>P.O.Box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Malwa</kinName>
+      <relationship>Partenal</relationship>
+      <postalAddress>P.O.Box 221 Sengerema</postalAddress>
+      <physicalAddress>P.O.Box 221 Sengerema</physicalAddress>
+      <fax/>
+      <telephone>00255752752372</telephone>
+      <mobile>0752752372</mobile>
+      <email>malwa.alexander@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

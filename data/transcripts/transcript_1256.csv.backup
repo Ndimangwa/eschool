@@ -1,0 +1,242 @@
+@-header,flags_!_0,,,,,,,,,,,,,
+@-header,studentId_!_1256,,,,,,,,,,,,,
+@-header,dateOfBirth_!_1990:8:25:00:00:00,,,,,,,,,,,,,
+@-header,sexId_!_1,,,,,,,,,,,,,
+@-header,sexName_!_Male,,,,,,,,,,,,,
+@-header,profileId_!_1,,,,,,,,,,,,,
+@-header,profileName_!_Kilimanjaro Christian Medical University College,,,,,,,,,,,,,
+@-header,profileCity_!_Moshi,,,,,,,,,,,,,
+@-header,profilePostalAddress_!_P.O Box 2240, Moshi,,,,,,,,,,,,,
+@-header,profileWebsite_!_www.kcmuco.ac.tz,,,,,,,,,,,,,
+@-header,profileCountryId_!_227,,,,,,,,,,,,,
+@-header,profileCountryName_!_Tanzania,,,,,,,,,,,,,
+@-header,systemName_!_University Management Information System,,,,,,,,,,,,,
+@-header,postalAddress_!_2240,,,,,,,,,,,,,
+@-header,physicalAddress_!_moshi,,,,,,,,,,,,,
+@-header,countryId_!_227,,,,,,,,,,,,,
+@-header,countryName_!_Tanzania,,,,,,,,,,,,,
+@-header,registrationNumber_!_TUMA/KCMUCo/MD.2012/2013/TZ/1106,,,,,,,,,,,,,
+@-header,fullname_!_Gaudence S Mathew,,,,,,,,,,,,,
+@-header,firstname_!_Gaudence,,,,,,,,,,,,,
+@-header,middlename_!_Silayo,,,,,,,,,,,,,
+@-header,lastname_!_Mathew,,,,,,,,,,,,,
+@-header,compilationTime_!_2018:04:10:15:52:41,,,,,,,,,,,,,
+@-header,fileType_!_transcript,,,,,,,,,,,,,
+@-header,courseId_!_9,,,,,,,,,,,,,
+@-header,courseCode_!_MD,,,,,,,,,,,,,
+@-header,courseName_!_Doctor of Medicine,,,,,,,,,,,,,
+@-header,duration_!_5,,,,,,,,,,,,,
+@-header,levelId_!_15,,,,,,,,,,,,,
+@-header,levelName_!_Bachelor Degree,,,,,,,,,,,,,
+@-header,levelCode_!_8,,,,,,,,,,,,,
+@-header,departmentId_!_2,,,,,,,,,,,,,
+@-header,departmentName_!_Faculty of Medicine,,,,,,,,,,,,,
+@-header,admissionYearId_!_4,,,,,,,,,,,,,
+@-header,admissionYearName_!_2012/2013,,,,,,,,,,,,,
+@-header,admissionYearNumber_!_4,,,,,,,,,,,,,
+@-header,currentBatchId_!_4,,,,,,,,,,,,,
+@-header,currentBatchName_!_2012/2013,,,,,,,,,,,,,
+@-header,currentBatchNumber_!_4,,,,,,,,,,,,,
+@-header,lastResultsCummulativeSemester_!_10,,,,,,,,,,,,,
+@-header,currentCummulativeSemester_!_10,,,,,,,,,,,,,
+@-header,allSemestersIncluded_!_1,,,,,,,,,,,,,
+@-header,numberOfSemestersPerYear_!_2,,,,,,,,,,,,,
+@-header,graduated_!_0,,,,,,,,,,,,,
+@-header,grade_0_id_!_1,,,,,,,,,,,,,
+@-header,grade_0_name_!_A,,,,,,,,,,,,,
+@-header,grade_0_point_!_5,,,,,,,,,,,,,
+@-header,grade_0_lowestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_0_highestMarks_!_101,,,,,,,,,,,,,
+@-header,grade_0_extraInformation_!_Excellent,,,,,,,,,,,,,
+@-header,grade_1_id_!_2,,,,,,,,,,,,,
+@-header,grade_1_name_!_B+,,,,,,,,,,,,,
+@-header,grade_1_point_!_4,,,,,,,,,,,,,
+@-header,grade_1_lowestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_1_highestMarks_!_80,,,,,,,,,,,,,
+@-header,grade_1_extraInformation_!_Very Good,,,,,,,,,,,,,
+@-header,grade_2_id_!_3,,,,,,,,,,,,,
+@-header,grade_2_name_!_B,,,,,,,,,,,,,
+@-header,grade_2_point_!_3,,,,,,,,,,,,,
+@-header,grade_2_lowestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_2_highestMarks_!_70,,,,,,,,,,,,,
+@-header,grade_2_extraInformation_!_Good,,,,,,,,,,,,,
+@-header,grade_3_id_!_4,,,,,,,,,,,,,
+@-header,grade_3_name_!_C,,,,,,,,,,,,,
+@-header,grade_3_point_!_2,,,,,,,,,,,,,
+@-header,grade_3_lowestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_3_highestMarks_!_60,,,,,,,,,,,,,
+@-header,grade_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,grade_4_id_!_5,,,,,,,,,,,,,
+@-header,grade_4_name_!_D,,,,,,,,,,,,,
+@-header,grade_4_point_!_1,,,,,,,,,,,,,
+@-header,grade_4_lowestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_4_highestMarks_!_50,,,,,,,,,,,,,
+@-header,grade_4_extraInformation_!_Supplimentary,,,,,,,,,,,,,
+@-header,grade_5_id_!_6,,,,,,,,,,,,,
+@-header,grade_5_name_!_E,,,,,,,,,,,,,
+@-header,grade_5_point_!_0,,,,,,,,,,,,,
+@-header,grade_5_lowestMarks_!_0,,,,,,,,,,,,,
+@-header,grade_5_highestMarks_!_40,,,,,,,,,,,,,
+@-header,grade_5_extraInformation_!_Supplementary,,,,,,,,,,,,,
+@-header,grade_6_id_!_7,,,,,,,,,,,,,
+@-header,grade_6_name_!_I,,,,,,,,,,,,,
+@-header,grade_6_point_!_0,,,,,,,,,,,,,
+@-header,grade_6_lowestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_highestMarks_!_1001,,,,,,,,,,,,,
+@-header,grade_6_extraInformation_!_Incomplete,,,,,,,,,,,,,
+@-header,award_0_id_!_1,,,,,,,,,,,,,
+@-header,award_0_name_!_First Class,,,,,,,,,,,,,
+@-header,award_0_lowestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_0_highestGPA_!_5.1,,,,,,,,,,,,,
+@-header,award_0_extraInformation_!_First Class,,,,,,,,,,,,,
+@-header,award_1_id_!_2,,,,,,,,,,,,,
+@-header,award_1_name_!_Upper Second,,,,,,,,,,,,,
+@-header,award_1_lowestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_1_highestGPA_!_4.4,,,,,,,,,,,,,
+@-header,award_1_extraInformation_!_Upper Second,,,,,,,,,,,,,
+@-header,award_2_id_!_3,,,,,,,,,,,,,
+@-header,award_2_name_!_Lower Second,,,,,,,,,,,,,
+@-header,award_2_lowestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_2_highestGPA_!_3.5,,,,,,,,,,,,,
+@-header,award_2_extraInformation_!_Lower Second,,,,,,,,,,,,,
+@-header,award_3_id_!_4,,,,,,,,,,,,,
+@-header,award_3_name_!_Pass,,,,,,,,,,,,,
+@-header,award_3_lowestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_3_highestGPA_!_2.7,,,,,,,,,,,,,
+@-header,award_3_extraInformation_!_Pass,,,,,,,,,,,,,
+@-header,award_4_id_!_5,,,,,,,,,,,,,
+@-header,award_4_name_!_No Award,,,,,,,,,,,,,
+@-header,award_4_lowestGPA_!_0.0,,,,,,,,,,,,,
+@-header,award_4_highestGPA_!_2.0,,,,,,,,,,,,,
+@-header,award_4_extraInformation_!_No Award,,,,,,,,,,,,,
+@-header,sem_1_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_1_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_1_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_1_totalModulePoints_!_210,,,,,,,,,,,,,
+@-header,sem_1_academicYearId_!_4,,,,,,,,,,,,,
+@-header,sem_1_academicYear_!_2012/2013,,,,,,,,,,,,,
+@-header,sem_1_gpa_!_3.5,,,,,,,,,,,,,
+@-header,sem_2_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_2_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_2_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_2_totalModulePoints_!_210,,,,,,,,,,,,,
+@-header,sem_2_academicYearId_!_4,,,,,,,,,,,,,
+@-header,sem_2_academicYear_!_2012/2013,,,,,,,,,,,,,
+@-header,sem_2_gpa_!_3.5,,,,,,,,,,,,,
+@-header,sem_3_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_3_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_3_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_3_totalModulePoints_!_209.6,,,,,,,,,,,,,
+@-header,sem_3_academicYearId_!_5,,,,,,,,,,,,,
+@-header,sem_3_academicYear_!_2013/2014,,,,,,,,,,,,,
+@-header,sem_3_gpa_!_3.4,,,,,,,,,,,,,
+@-header,sem_4_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_4_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_4_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_4_totalModulePoints_!_214,,,,,,,,,,,,,
+@-header,sem_4_academicYearId_!_5,,,,,,,,,,,,,
+@-header,sem_4_academicYear_!_2013/2014,,,,,,,,,,,,,
+@-header,sem_4_gpa_!_3.5,,,,,,,,,,,,,
+@-header,sem_5_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_5_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_5_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_5_totalModulePoints_!_225,,,,,,,,,,,,,
+@-header,sem_5_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_5_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_5_gpa_!_3.7,,,,,,,,,,,,,
+@-header,sem_6_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_6_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_6_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_6_totalModulePoints_!_240,,,,,,,,,,,,,
+@-header,sem_6_academicYearId_!_6,,,,,,,,,,,,,
+@-header,sem_6_academicYear_!_2014/2015,,,,,,,,,,,,,
+@-header,sem_6_gpa_!_4,,,,,,,,,,,,,
+@-header,sem_7_awardId_!_2,,,,,,,,,,,,,
+@-header,sem_7_awardName_!_Upper Second,,,,,,,,,,,,,
+@-header,sem_7_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_7_totalModulePoints_!_220,,,,,,,,,,,,,
+@-header,sem_7_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_7_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_7_gpa_!_3.6,,,,,,,,,,,,,
+@-header,sem_8_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_8_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_8_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_8_totalModulePoints_!_180,,,,,,,,,,,,,
+@-header,sem_8_academicYearId_!_7,,,,,,,,,,,,,
+@-header,sem_8_academicYear_!_2015/2016,,,,,,,,,,,,,
+@-header,sem_8_gpa_!_3,,,,,,,,,,,,,
+@-header,sem_9_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_9_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_9_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_9_totalModulePoints_!_195,,,,,,,,,,,,,
+@-header,sem_9_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_9_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_9_gpa_!_3.2,,,,,,,,,,,,,
+@-header,sem_10_awardId_!_3,,,,,,,,,,,,,
+@-header,sem_10_awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,sem_10_totalUnits_!_60,,,,,,,,,,,,,
+@-header,sem_10_totalModulePoints_!_195,,,,,,,,,,,,,
+@-header,sem_10_academicYearId_!_8,,,,,,,,,,,,,
+@-header,sem_10_academicYear_!_2016/2017,,,,,,,,,,,,,
+@-header,sem_10_gpa_!_3.2,,,,,,,,,,,,,
+@-header,gpa_!_3.4,,,,,,,,,,,,,
+@-header,awardId_!_3,,,,,,,,,,,,,
+@-header,awardName_!_Lower Second,,,,,,,,,,,,,
+@-header,cleared_!_,,,,,,,,,,,,,
+@-header,filename_!_transcript_1256.csv,,,,,,,,,,,,,
+@-business-logic-begin,,,,,,,,,,,,,,
+164,1,4,2012/2013,0,,,Anatomy,K8ANA1101,,72,2,B+,4,17
+165,1,4,2012/2013,0,,,Biochemistry,K8BC1102,,76,2,B+,4,8
+166,1,4,2012/2013,0,,,Physiology,K8PH1103,,69,3,B,3,16
+169,1,4,2012/2013,0,,,Psychology,K8PS 1106,,81,1,A,5,2.5
+621,1,4,2012/2013,0,,,Community Health,COH 201,,62,3,B,3,8.5
+622,1,4,2012/2013,0,,,Epidemiology and Biostatistics,KBBE4104	,,61,3,B,3,8
+612,2,4,2012/2013,0,,,Anatomy,ANA 104,,72,2,B+,4,17
+613,2,4,2012/2013,0,,,Biochemistry,BIN 104,,76,2,B+,4,8
+614,2,4,2012/2013,0,,,Physiology,PH 104,,69,3,B,3,16
+615,2,4,2012/2013,0,,,Community Health,COH 201,,62,3,B,3,8.5
+616,2,4,2012/2013,0,,,Epidemiology and Biostatistics,BEB246,,61,3,B,3,8
+617,2,4,2012/2013,0,,,Psychology,BPS128,,81,1,A,5,2.5
+625,3,5,2013/2014,0,,,Microbiology and Immunology  ,KBMI1105	,,76,2,B+,4,7.6
+626,3,5,2013/2014,0,,,Basic Pharmacology,BPH 201,,69,3,B,3,6
+627,3,5,2013/2014,0,,,Epidemiology and Biostatistics,EPIBIO 201,,64,3,B,3,4.7
+628,3,5,2013/2014,0,,,Basic Pathology,BPT 201,,77,2,B+,4,9.6
+629,3,5,2013/2014,0,,,Community Health,COH 201,,69,3,B,3,15.7
+630,3,5,2013/2014,0,,,Parasitology and Entomology,PENT 201,,79,2,B+,4,6.4
+631,3,5,2013/2014,0,,,Nursing Skills,NSK 201,,65,3,B,3,1
+632,3,5,2013/2014,0,,,Development Studies,DST 201,,60,3,B,3,3
+633,3,5,2013/2014,0,,,Foundation of Faith,FOF 201,,75,2,B+,4,3
+634,3,5,2013/2014,0,,,Sociology,SOS 201,,71,2,B+,4,3
+635,4,5,2013/2014,0,,,	Microbiology and Immunology ,KBMI205,,76,2,B+,4,12
+636,4,5,2013/2014,0,,,Basic Pharmacology,BPH 201,,69,3,B,3,7.5
+637,4,5,2013/2014,0,,,Epidemiology and Biostatistics,EPIBIO 201,,64,3,B,3,3.5
+638,4,5,2013/2014,0,,,Basic Pathology,BPT 201,,77,2,B+,4,10
+639,4,5,2013/2014,0,,,Community Health,COH 201,,69,3,B,3,10.5
+640,4,5,2013/2014,0,,,Parasitology and Entomology,PENT 201,,79,2,B+,4,12
+642,4,5,2013/2014,0,,,Development Studies,DST 201,,60,3,B,3,4.5
+563,5,6,2014/2015,0,,,Obstetrics and Gynaecology ,OBGY 301,,76,2,B+,4,15
+564,5,6,2014/2015,0,,,Paediatrics and Child Health,PCH 301,,60,3,B,3,15
+565,5,6,2014/2015,0,,,General Surgery,GES 301,,65,3,B,3,15
+566,5,6,2014/2015,0,,,Internal Medicine,INM 301,,81,1,A,5,15
+185,6,6,2014/2015,0,,,Dental,K8DE   3625,,74,2,B+,4,12
+186,6,6,2014/2015,0,,,Radiology,K8RA  3626,,74,2,B+,4,12
+188,6,6,2014/2015,0,,,Ophthalmology,K8OP 3628,,77,2,B+,4,12
+567,6,6,2014/2015,0,,,	Psychiatry,PT 427,,73,2,B+,4,12
+922,6,6,2014/2015,0,,,Clinical Laboratory,K8CL  3627,,71,2,B+,4,12
+189,7,7,2015/2016,0,,,Anesthesia,K8AN    4729,,81,1,A,5,10
+190,7,7,2015/2016,0,,,Orthopedic,K8OR   4730,,68,3,B,3,10
+191,7,7,2015/2016,0,,,Urology,K8UR   4731,,57,4,C,2,10
+193,7,7,2015/2016,0,,,Psychiatry,K8PC   4734,,71,2,B+,4,10
+364,7,7,2015/2016,0,,,Dermatology,DER 401,,71,2,B+,4,10
+559,7,7,2015/2016,0,,,Ear Nose and Throat,ENT 401,,75,2,B+,4,10
+194,8,7,2015/2016,0,,,Community Medicine,K8DM   4835,,62,3,B,3,20
+561,8,7,2015/2016,0,,,Research Methodology,KMRM 1103,,62,3,B,3,40
+196,9,8,2016/2017,0,,,Internal  Medicine,K8IM 5937,,66,3,B,3,15
+730,9,8,2016/2017,0,,, Obstetrics and Gynaecology,OBGY,,61,3,B,3,15
+732,9,8,2016/2017,0,,,General Surgery,GSR 300,,67,3,B,3,15
+733,9,8,2016/2017,0,,,Paediatrics and Childhealth,PCH 300,,70,2,B+,4,15
+201,10,8,2016/2017,0,,,Internal  Medicine,K8IM 51043,,66,3,B,3,15
+756,10,8,2016/2017,0,,,Paediatrics and Childhealth,PCH 300,,70,2,B+,4,15
+757,10,8,2016/2017,0,,, Obstetrics and Gynaecology,OBGY,,61,3,B,3,15
+758,10,8,2016/2017,0,,,General Surgery,GSR 300,,67,3,B,3,15
+@-business-logic-end,,,,,,,,,,,,,,

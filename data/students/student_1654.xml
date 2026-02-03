@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1654</studentId>
+  <studentName>EMMY N. MBILINYI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.GETRUDE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0270/0033</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MARIAN HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0248-0545</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLBS</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NURDIN MBILINYI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1027</postalAddress>
+      <physicalAddress>MAKAMBAKO-NJOMBE</physicalAddress>
+      <fax/>
+      <telephone>0754493091</telephone>
+      <mobile>0754493091</mobile>
+      <email>emmy2nyi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

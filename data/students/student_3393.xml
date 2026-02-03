@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3393</studentId>
+  <studentName>MARIA KISSANGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>usagara secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0345-0049</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MSALATOSECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0214-0584</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC</institutionName>
+      <specialization>doctor of medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>k160055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ras kilimanjaro</employerName>
+      <postalAddress>3054 moshi</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <telephone>+255784922553</telephone>
+      <email>raskilimanjaro@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>josephine kissanga</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>5778 tanga</postalAddress>
+      <physicalAddress>tanga</physicalAddress>
+      <fax/>
+      <sponsorfax>+255754487233</sponsorfax>
+      <mobile>+255754487233</mobile>
+      <email>waynejoo@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>daimon bolga mwasamila</kinName>
+      <relationship>husband</relationship>
+      <postalAddress>5778 tanga</postalAddress>
+      <physicalAddress>tanga</physicalAddress>
+      <fax/>
+      <telephone>+255766043009</telephone>
+      <mobile>+255766043009</mobile>
+      <email>waynejoo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

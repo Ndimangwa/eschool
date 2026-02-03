@@ -1,0 +1,40 @@
+CONTENT: University Management Information System
+1. Introduction
+2. Content
+	-- System
+		-User
+		-Job title
+		-Group
+		[System Policy]
+			. Authentication System
+			. Authorization System
+			. Accounting System (Logs)
+4. Approval Sequence
+5. Course & Modules
+6. Registration & Admission System
+7. Examination System
+8. Grading and Class of Award System
+9. Results System
+	-- Results Security
+		-- Level One Results System (Continuous Assessments) --dynamic
+		-- Level Two Results System (Semester/Year Results) -- dynamic
+		-- (*)Level Three Results (Transcript) -- static
+10. Accounts 
+	--Invoice & Payments
+11.Messaging System
+	-- SMS system
+	-- Email System
+	-- Local Messaging System
+12. Timetable System
+13. Attendance System
+	-- Staff Attendance
+	-- Student Attendance System
+
+BOTTOM LINE: Policy Based [Security], Pages Consistence & Easy to Use
+
+SUSTAINABILITY & WAY FORWARD
+	-- Backups (ICT Team Responsibility)
+	-- System Upgrades & updates [Supplier] , according to the client need
+	-- More than One Institution is using this system [reliable]
+	-- Server Virus Protection [Supplier Responsibility]
+	--  

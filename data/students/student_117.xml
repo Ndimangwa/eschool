@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>117</studentId>
+  <studentName>HELENA T KILAWE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IBUKONI SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0510.0005.1995</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NURSING TRAINING CENTRE HURUMA</institutionName>
+      <specialization>REGISTERED NURSE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DIPLOMA</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Tanzania Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX76068</postalAddress>
+      <physicalAddress>Dar es salaam tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>+2552227724323</sponsorfax>
+      <mobile>+2552227724323</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARYGONZAGA GAITANI</kinName>
+      <relationship>GUARDIAN</relationship>
+      <postalAddress>1053 DODOMA</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <telephone>+255763744214</telephone>
+      <mobile>+255763744214</mobile>
+      <email>salalagonzaga@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KILAWE, HELENA T</accountName><bankAccount>2098100755 </bankAccount><bankName> NMB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>74914e26cc48fed7e01dd1fdaf90ffc1</isaacompletechecksum></student>

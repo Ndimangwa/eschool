@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2152</studentId>
+  <studentName>GERALD RUGALABAMU KABYEMELA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LYAMAHORO</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0656-034</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC</institutionName>
+      <specialization>PAEDIATRIC NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>3445</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS KAGERA</employerName>
+      <postalAddress>299</postalAddress>
+      <physicalAddress>BUKOBA KAGERA</physicalAddress>
+      <telephone>+255282220215</telephone>
+      <email>ras@kagera.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD(HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RENATHA SCARION</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>1127</postalAddress>
+      <physicalAddress>BUKOBA KAGERA</physicalAddress>
+      <fax/>
+      <telephone>+255755325760</telephone>
+      <mobile>+255755325760</mobile>
+      <email>renasarion@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

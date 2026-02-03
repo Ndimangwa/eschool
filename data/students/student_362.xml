@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>362</studentId>
+  <studentName>Alfred C Ombella</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Manyara sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0693/0071/2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lyamungo sec school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0125/0753/2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Cyprian Philip Ombella</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 7119 Arusha</postalAddress>
+      <physicalAddress>Arusha Mianzini</physicalAddress>
+      <fax/>
+      <sponsorfax>0756289218</sponsorfax>
+      <mobile>0756289218</mobile>
+      <email>Alfredombella@rocketmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Cyprian Philip Ombella</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.O.Box 7119 Arusha</postalAddress>
+      <physicalAddress>Arusha Mianzini</physicalAddress>
+      <fax/>
+      <telephone>0756289218</telephone>
+      <mobile>0756289218</mobile>
+      <email>Alfredombella@rocketmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

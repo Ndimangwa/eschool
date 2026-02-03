@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>42</studentId>
+  <studentName>Gaudence A Kimario</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Useri Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO562-040</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Muhimbili School of Nursing</institutionName>
+      <specialization>Nursing diploma</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0023</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUMAIN UNIVERSITY KCMCUO</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2005/TU/BSN/0072</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Ministry of Health and Social Welfare</employerName>
+      <postalAddress>P.O Box 9083</postalAddress>
+      <physicalAddress>Samora Avenue Dar es Salaam</physicalAddress>
+      <telephone>0222120261</telephone>
+      <email>ps@moh.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Ministry of Health and Social Welfare</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 9083 </postalAddress>
+      <physicalAddress>Samora Avenue Dar</physicalAddress>
+      <fax/>
+      <sponsorfax>0222120261</sponsorfax>
+      <mobile>02221210262</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Samson Bazil Mushi</kinName>
+      <relationship>relative</relationship>
+      <postalAddress>P.O Box 12 Sanya juu</postalAddress>
+      <physicalAddress>Kibongoto</physicalAddress>
+      <fax/>
+      <telephone>0756312575</telephone>
+      <mobile>0756312575</mobile>
+      <email>samsonmushi@yahoo.ac.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

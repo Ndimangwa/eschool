@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1695</studentId>
+  <studentName>Nelson Goleha</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>J.K.Nyerere Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s1038/0280</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mzumbe Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0140/0527</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Ministry of Health</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9083</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222342000</sponsorfax>
+      <mobile>+255222342000</mobile>
+      <email>info@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Haruni Galena</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>P.O. Box245</postalAddress>
+      <physicalAddress>Mbozi</physicalAddress>
+      <fax/>
+      <telephone>0768420133</telephone>
+      <mobile>0712698011</mobile>
+      <email>gonzalezsita@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

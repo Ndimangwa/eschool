@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5787</studentId>
+  <studentName>NESISTA ODERO</studentName>
+  <accademicHistory><institution><institutionName>CHIEF WANZAGI SECONDARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4063.0033.2013</indexNumber><award>CSE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KILAKALA SECONDARY</institutionName><specialization>SCIENCE PCB</specialization><levelId>8</levelId><indexNumber>S0206.0610.2016</indexNumber><award>ACSE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JOHANES ODERO OGENDA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 250 RORYA</postalAddress><physicalAddress>MARA</physicalAddress><fax/><telephone>0784376341</telephone><mobile>0784376341</mobile><email/><financedItem>MY EDUCATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOHANES ODERO OGENDA</kinName><relationship>MY FATHER</relationship><postalAddress>P.O.BOX 250 RORYA</postalAddress><physicalAddress>MARA</physicalAddress><fax/><telephone>0784376341</telephone><mobile>0784376341</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NESISTA ODERO</accountName><bankAccount>0152201532600</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>dc450d68dd90b44d063ed78510720a80</isaacompletechecksum></student>

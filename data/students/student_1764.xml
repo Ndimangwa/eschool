@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1764</studentId>
+  <studentName>WENCESLAUS S. WANDI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>THOMAS MORE MACHRINA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1604-0018/2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TUSIIME SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2499-0694/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>KIMWERI ROAD, DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WANDI SAIDA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>71144-dar es salaam</postalAddress>
+      <physicalAddress>kitunda - mwanagati</physicalAddress>
+      <fax/>
+      <telephone>+255658273456</telephone>
+      <mobile>+255784273456</mobile>
+      <email>wandi@ukr.net</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

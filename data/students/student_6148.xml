@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6148</studentId>
+  <studentName>ANETH D. MUJWAHUZI</studentName>
+  <accademicHistory><institution><institutionName>BWERANYANGE GIRLS SECONDARY SCHOOL</institutionName><specialization>CERTIFICATE</specialization><levelId>4</levelId><indexNumber>S0196.0005.2010</indexNumber><award> CERTIFICATE OF SECONDARY EDUCATIO</award><grade>DIVISION THREE</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DAMASEN MUJWAHUZI</sponsorName><payerId>3</payerId><postalAddress>P O BOX KAGERA</postalAddress><physicalAddress>KAGERA</physicalAddress><fax/><telephone>0754398654</telephone><mobile/><email/><financedItem>SCHOOL FEES</financedItem><extraInformation>FATHER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>RUTH</kinName><relationship>MOTHER</relationship><postalAddress>KAGERA</postalAddress><physicalAddress>KAGERA</physicalAddress><fax></fax><telephone>0782917270</telephone><mobile></mobile><email></email><extraInformation>MOTHER</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>NICHOLAUSY NYEMBA NMB</accountName><bankAccount>NICHOLAUSY NYEMBA</bankAccount><bankName>NMB</bankName><branchName>MAWENZI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>db3ecfc119dc6ea8153eb0714d1fb4b3</isaacompletechecksum></student>

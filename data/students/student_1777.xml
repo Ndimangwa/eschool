@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1777</studentId>
+  <studentName>John Francis</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.ANTHONY'S SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0534-0162</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ILBORU SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0110-0625</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road, Mwenge,</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>JUDITH</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>227775 dsm</postalAddress>
+      <physicalAddress>MBAGALA</physicalAddress>
+      <fax/>
+      <telephone>+255754235462</telephone>
+      <mobile>+255754235462</mobile>
+      <email>jtofrancis@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

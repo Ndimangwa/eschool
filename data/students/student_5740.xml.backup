@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5740</studentId>
+  <studentName>MALIJA M MASUNGA</studentName>
+  <accademicHistory><institution><institutionName>TABORA BOYS SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0155.0047.2013</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TABORA BOYS SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0155.0542.2016</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>4</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>HESLB</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MDUMA MALIJA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 381 SIMIYU</postalAddress><physicalAddress>MDUMAMALIJA</physicalAddress><fax></fax><telephone>0763928397</telephone><mobile></mobile><email>malijamduma@gmail.com</email><extraInformation></extraInformation></nextOfKin><nextOfKin><kinName>NGOLO MAGOJA</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 381 SIMIYU</postalAddress><physicalAddress>NGOLOMAGOJA</physicalAddress><fax></fax><telephone>0683559606</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>STUDENT ACOUNT</accountName><bankAccount>0152327164400</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>64166930f8796843c90ea4943a988f89</isaacompletechecksum></student>

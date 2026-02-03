@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6358</studentId>
+  <studentName>CERTIFICATE OF SECONDARY SCHOOL EDUCATION</studentName>
+  <accademicHistory><institution><institutionName>MSANGENI SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0787.0074.2013</indexNumber><award>PASS</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SONGEA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE-PCB</specialization><levelId>8</levelId><indexNumber>S0219.0852.2016</indexNumber><award>PASS</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>UPENDO GERYSON MCHOMVU</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 11142 ARUSHA</postalAddress><physicalAddress>P.O.BOX 11142 ARUSHA</physicalAddress><fax/><telephone>0759925188</telephone><mobile>0759925188</mobile><email/><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MWAJUMA GERYSON MCHOMVU </kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 11142 ARUSHA</postalAddress><physicalAddress>P.O.BOX 11142 ARUSHA</physicalAddress><fax></fax><telephone>0759925188</telephone><mobile>0655925188</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MWAJUMA GERYSON</accountName><bankAccount>4211610966</bankAccount><bankName>NMB </bankName><branchName>ARUSHA MAKERT</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>4c0e56ad82022c92bd644448f1583939</isaacompletechecksum></student>

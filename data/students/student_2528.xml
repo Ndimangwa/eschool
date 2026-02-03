@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2528</studentId>
+  <studentName>Tima Mbwana</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Arusha secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0302/0202</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilakala girl's high school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206/0590</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students Loan's Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 78068</postalAddress>
+      <physicalAddress>Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669039</sponsorfax>
+      <mobile>+255222669038</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Salma Khatibu</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O BOX 7244</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <fax/>
+      <telephone>0714273201</telephone>
+      <mobile>0714273201</mobile>
+      <email>salmakhatibu@yahoo.ca</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

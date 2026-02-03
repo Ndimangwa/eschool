@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1901</studentId>
+  <studentName>Steven A Kabadi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>john paul ii kahama secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0461/0059</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>same secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0150/0862</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068  Dar es Salaam</postalAddress>
+      <physicalAddress>Sam Nujoma Road, Mwenge,</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>athaniel kabadi</kinName>
+      <relationship>father</relationship>
+      <postalAddress>2240 moshi</postalAddress>
+      <physicalAddress>kahama</physicalAddress>
+      <fax/>
+      <telephone>00255765808300</telephone>
+      <mobile>00255765808300</mobile>
+      <email>stephenskabadi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

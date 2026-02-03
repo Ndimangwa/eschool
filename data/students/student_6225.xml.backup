@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6225</studentId>
+  <studentName>WHITESON JOHN</studentName>
+  <accademicHistory><institution><institutionName>UMOJA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0631.0143.2011</indexNumber><award>PASS</award><grade>DIVISION THREE</grade><startYear>2008</startYear><endYear>2011</endYear></institution><institution><institutionName>EDMUND RISE SININ SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0629.0724.2014</indexNumber><award>PASS</award><grade>DIVISION FOUR</grade><startYear>2012</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JOHN WHITESON</sponsorName><payerId>3</payerId><postalAddress>PO BOX 148 TABORA</postalAddress><physicalAddress>PO BOX 148 TABORA</physicalAddress><fax/><telephone>0784545191</telephone><mobile/><email/><financedItem>WHITESON JOHN</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>WHITESON JOHN MRISHO</accountName><bankAccount>50910004548</bankAccount><bankName>NMB </bankName><branchName>IGUNGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5b13d39c0f4ecc55d4a4db98d08cfc40</isaacompletechecksum></student>

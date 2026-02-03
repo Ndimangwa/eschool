@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3899</studentId>
+  <studentName>MARIAM DAVID NYAVANGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST LUISE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0234.0023.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA GIRLS HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211.0596.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>helsb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>P.O BOX 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>IMELDA BRUNO KIVINGE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O BOX 546,NJOMBE</postalAddress>
+      <physicalAddress>P.O BOX 546,NJOMBE</physicalAddress>
+      <fax/>
+      <telephone>00255767244802</telephone>
+      <mobile>0767244802</mobile>
+      <email>nyavanga.mariam@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NYAVANGA, MARIAM DAVID</accountName><bankAccount>0152351233700</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f14cce33ab5c73556e905998b416c71b</isaacompletechecksum></student>

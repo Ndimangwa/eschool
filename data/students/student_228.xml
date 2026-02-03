@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>228</studentId>
+  <studentName>GELESTIANA BERTO MBILINYI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>mabatini</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1515/0028</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211/0688</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar</postalAddress>
+      <physicalAddress>Sam Nujoma Road,Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FESTO SANGA</kinName>
+      <relationship>BROUTHER</relationship>
+      <postalAddress>52</postalAddress>
+      <physicalAddress>njombe</physicalAddress>
+      <fax/>
+      <telephone>0767446020</telephone>
+      <mobile>0715446020</mobile>
+      <email>festorsanga@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

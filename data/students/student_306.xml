@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>306</studentId>
+  <studentName>MBONI EMMANUEL CHILALE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARANATHA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2655-0034</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211-0711</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255787101808</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIA EMMANUEL CHILALE</kinName>
+      <relationship>YOUNG BROTHER</relationship>
+      <postalAddress>172</postalAddress>
+      <physicalAddress>Mbeya</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0754417252</mobile>
+      <email>eliachilale@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

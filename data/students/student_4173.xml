@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4173</studentId>
+  <studentName>HAPPINESS JOHN KIMARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>WERUWERU SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0221-058</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>22041</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>BScNURSING</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>GSF</employerName>
+      <postalAddress>545</postalAddress>
+      <physicalAddress>MOHI</physicalAddress>
+      <telephone>00255272754377</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SELF SPONSOR</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3010</postalAddress>
+      <physicalAddress>MOHI</physicalAddress>
+      <fax/>
+      <sponsorfax>00255767562768</sponsorfax>
+      <mobile>00255767562768</mobile>
+      <email>happkimaro@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ARBOGAST</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>2439</postalAddress>
+      <physicalAddress>MARANGU</physicalAddress>
+      <fax/>
+      <telephone>00255755650349</telephone>
+      <mobile>00255755650349</mobile>
+      <email>Happkimaro@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

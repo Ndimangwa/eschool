@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>400</studentId>
+  <studentName>TUYISABE THEOPHILE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NUR</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>01/10325</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>E.S BYIMANA</institutionName>
+      <specialization>MCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>078/00</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NUR</institutionName>
+      <specialization>BACHELOR</specialization>
+      <levelId>15</levelId>
+      <indexNumber>10325</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>christian blind mission</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>66 gitarama</postalAddress>
+      <physicalAddress>kabgayi</physicalAddress>
+      <fax/>
+      <sponsorfax>00250788493650</sponsorfax>
+      <mobile>00250784730110</mobile>
+      <email>kabgeye@yahoo.fr</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mugabekazi sylvie</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>45 nyanza</postalAddress>
+      <physicalAddress>kigali</physicalAddress>
+      <fax/>
+      <telephone>00250788428785</telephone>
+      <mobile>00250738428785</mobile>
+      <email>symugabe7@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

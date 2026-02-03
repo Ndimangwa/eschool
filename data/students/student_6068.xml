@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6068</studentId>
+  <studentName>RAFAEL V. MASSAWE</studentName>
+  <accademicHistory><institution><institutionName>SOMSOM SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1513.0140.2008</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>SAME SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0150.0719.2011</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2009</startYear><endYear>2011</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DIPLOMA IN HEALTH LABORATORY SCIENCE</specialization><levelId>12</levelId><indexNumber>K180018</indexNumber><award>DIPLOMA IN HEALTH LABORATORY SCIENCE</award><grade>PASS</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 </postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>SCHOOL FEES AND ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CORNEL</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 8550</postalAddress><physicalAddress>MOSHI</physicalAddress><fax></fax><telephone>0786611522</telephone><mobile>0786611522</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>RAPHAEL VALENTINE MASSAWE</accountName><bankAccount>42910004816</bankAccount><bankName>NMB</bankName><branchName>HIMO</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d510901e272d812f9832a8f68e63cb57</isaacompletechecksum></student>

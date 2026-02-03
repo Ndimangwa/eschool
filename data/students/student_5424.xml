@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5424</studentId>
+  <studentName>ELIHAIKA</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>STUDENT</specialization><levelId>8</levelId><indexNumber>S0211.0678.2013</indexNumber><award>NONE</award><grade>3.13</grade><startYear>2011</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>82c38f3114f47e0b50c95c5d1d7e3b96</isaacompletechecksum></student>

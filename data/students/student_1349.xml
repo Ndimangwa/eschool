@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1349</studentId>
+  <studentName>SARAH CLEMENT</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWENGE SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0334-0071</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211/0608</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MVUMI CLINICAL OFFICER TRAINING CENTRE[MCOTC]</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CO/MV/06/33</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED SINGIDA RURAL</employerName>
+      <postalAddress>P.O BOX 27</postalAddress>
+      <physicalAddress>SINGIDA  RURAL</physicalAddress>
+      <telephone>00255272758770</telephone>
+      <email>sarahnkumbi@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>infro@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GOODLUCK DAVID TIKAE</kinName>
+      <relationship>SON</relationship>
+      <postalAddress>P.O BOX 1519 SINGIDA</postalAddress>
+      <physicalAddress>SINGIDA  RURAL</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0718769966</mobile>
+      <email>sarahnkumbi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

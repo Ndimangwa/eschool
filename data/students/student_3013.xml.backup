@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3013</studentId>
+  <studentName>TUNU NDANZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST.FRANCIS GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0239.0086</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.CHRISTINA GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.O255.0594</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER education student loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es salaam</postalAddress>
+      <physicalAddress>dares salaam-tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HARUNA NDANZI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1554-MBEYA</postalAddress>
+      <physicalAddress>FOREST-MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0754300869</telephone>
+      <mobile>0754300869</mobile>
+      <email>ndanzi.haruna@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

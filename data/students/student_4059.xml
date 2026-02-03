@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4059</studentId>
+  <studentName>MSHINDIEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KONDOA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0229-0070</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HAYDOM SCHOOL OF NURSING</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>16111</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KINONDONI MUNICIPAL COUNCIL</employerName>
+      <postalAddress>31902</postalAddress>
+      <physicalAddress>KINONDONI</physicalAddress>
+      <telephone>002552172525</telephone>
+      <email>ny@mail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELMAS LAURIAN MGISHA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3100</postalAddress>
+      <physicalAddress>DAR ES SAALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0717325914</sponsorfax>
+      <mobile>00255717325914</mobile>
+      <email>gishama2@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HELMAS LAURIAN MGISHA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>3100</postalAddress>
+      <physicalAddress>DAR ES SAALAM</physicalAddress>
+      <fax/>
+      <telephone>0717325914</telephone>
+      <mobile>00255717325914</mobile>
+      <email>gishma2@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

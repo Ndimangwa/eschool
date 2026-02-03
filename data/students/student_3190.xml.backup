@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3190</studentId>
+  <studentName>EVAREST ERNEST</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KALOLENI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1110-0111</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>RISAH STANDARD ACADEMY</institutionName>
+      <specialization>BCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U2921/592</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>RISAH STANDARD ACADEMY</institutionName>
+      <specialization>BCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U2921/592</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,Dar es salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRANCIS MUSEI</kinName>
+      <relationship>GRANDFATHER</relationship>
+      <postalAddress>424,ARUSHA</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>+255754628136</telephone>
+      <mobile>+255754628136</mobile>
+      <email>museiadvocate@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

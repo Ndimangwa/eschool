@@ -1,0 +1,29 @@
+--Change Names 
+	1. firstname
+	2. middlename
+	3. lastname
+	4. fullname
+--Change Marital
+	1. maritalId
+--Change Disability
+	1. student.disability
+--Change Course
+	1. student.courseId
+--Change Photo
+	1. photo
+--Change Citizenship
+	1. student.citizemshipId
+--Change Occupation
+	1. student.occupation
+--Change Religion
+	1. student.denominationId
+--Change Address 
+	1. student.physicalAddress
+	2. student.postalAddress
+--Chnage Employment 
+--Change Sponsor
+--Change Bank 
+--Change Next Of Kin 
+--Change Contacts
+	1. email
+	2. phone

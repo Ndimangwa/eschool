@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1088</studentId>
+  <studentName>MUJAHEED SHABIR SULEMAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JAFFERY HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0971/0022/2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JAFFERY HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0971/0511/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>FEDERATION OF KSI JAMAATS OF AFRICA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 6710 DAR</postalAddress>
+      <physicalAddress>OLYMPIO STREET, PLOT no. 8</physicalAddress>
+      <fax/>
+      <sponsorfax>0222150897</sponsorfax>
+      <mobile>0222150897</mobile>
+      <email>education@africafederation.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SHABIR SULEMAN</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 966 ARUSHA</postalAddress>
+      <physicalAddress>AMANI STREET, AREA 'E'</physicalAddress>
+      <fax/>
+      <telephone>0222548838</telephone>
+      <mobile>0754926036</mobile>
+      <email>shabbirsuleman413@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

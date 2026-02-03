@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1591</studentId>
+  <studentName>Sophia Omar Othman</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Tusiime</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.2499/0585</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tusiime</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.2499/0031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Msasani, Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Zainabu R Sabo</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>9080</postalAddress>
+      <physicalAddress>Magomeni</physicalAddress>
+      <fax/>
+      <telephone>00255714871873</telephone>
+      <mobile>0714871837</mobile>
+      <email>zainabusabo@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

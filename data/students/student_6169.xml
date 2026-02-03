@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6169</studentId>
+  <studentName>ELENO .M. LUSANGIJA</studentName>
+  <accademicHistory><institution><institutionName>KIBARA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0989.0011.2011</indexNumber><award>CERTIFICATE</award><grade>DIVISION THREE </grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MAIRA LUSANGIJA</sponsorName><payerId>3</payerId><postalAddress>S.L.P 44 MWANZA</postalAddress><physicalAddress>MWANZA</physicalAddress><fax/><telephone>0784879310</telephone><mobile>0763609195</mobile><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HAINES </kinName><relationship>MOTHER</relationship><postalAddress>S.L.P 44 MWANZA</postalAddress><physicalAddress>MWANZA</physicalAddress><fax></fax><telephone>0653635151</telephone><mobile>0683635151</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ELENO MAIRA </accountName><bankAccount>0152201527500</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>b6909b7a2abb136886803278d7e78d57</isaacompletechecksum></student>

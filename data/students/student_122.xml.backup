@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>122</studentId>
+  <studentName>DIANA MNGONGO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AGREY HIGH SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1623/0014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>HURUMA SCHOOL OF NURSING</institutionName>
+      <specialization>NURSE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>27919</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH</employerName>
+      <postalAddress>31902</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <telephone>+255222170173</telephone>
+      <email>info@mho.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NELSON ELLY</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>19</postalAddress>
+      <physicalAddress>NJOMBE</physicalAddress>
+      <fax/>
+      <sponsorfax>00255481568</sponsorfax>
+      <mobile>00255481568</mobile>
+      <email>riffti.nelson@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NELSON MNGONGO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>19</postalAddress>
+      <physicalAddress>njombe</physicalAddress>
+      <fax/>
+      <telephone>00255481568</telephone>
+      <mobile>00255481568</mobile>
+      <email>rifft.nelson@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

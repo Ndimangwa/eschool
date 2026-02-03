@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7985</studentId>
+  <studentName>Flora Modest</studentName>
+  <accademicHistory><institution><institutionName>Kisutu sec school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S0208.0062.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>division two  19 points</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>Tambaza </institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0347.0558.2015</indexNumber><award>CERTIFICATE AT CREDIT LEVEL</award><grade> 2.7 GPA</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT LOAN BODY</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX.76068</postalAddress><physicalAddress>SAM NUJOMA ROAD, MWENGE, DAR ES SALAAM</physicalAddress><fax>+255222669039</fax><telephone>+255222669036</telephone><mobile>+255222669037</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE, ACCOMODATION AND MEALS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>Tembo card express 0152212977200</accountName><bankAccount>Flora Modest</bankAccount><bankName>CRDB BANK</bankName><branchName>Azikiwe</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>8cdd933e54059dfc4d6097763ff8e456</isaacompletechecksum></student>

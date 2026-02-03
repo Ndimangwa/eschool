@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1394</studentId>
+  <studentName>SONIA JOSEPH KABIKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILAKALA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0206/0076</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MSALATO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0214/0567</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068  DAR ES SALAAM</postalAddress>
+      <physicalAddress>SAM NUJOMA ROAD</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CHRISTINE ALBERT</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>12889 DAR ES SALAAM</postalAddress>
+      <physicalAddress>KITUNDA</physicalAddress>
+      <fax/>
+      <telephone>00255715877588</telephone>
+      <mobile>+255715877588</mobile>
+      <email>christinealbert@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

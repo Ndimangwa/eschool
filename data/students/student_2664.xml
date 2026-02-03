@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2664</studentId>
+  <studentName>Albert E Masenga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Agape Lutheran Junior Seminary</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0184/0029</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Lutheran junior seminary</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0107/0538</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Elisante JOhn Masenga</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>8332</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>00255754463136</sponsorfax>
+      <mobile>0754463136</mobile>
+      <email>j.masenga@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Elisante John Masenga</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>8332</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>0754463136</telephone>
+      <mobile>0754463136</mobile>
+      <email>j.masenga@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

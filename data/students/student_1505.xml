@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1505</studentId>
+  <studentName>KISSA MKAUGALA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NDWIKA GIRLS SEC. SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0530/0023</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIGONSERA SEC.SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0120/0513</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255266938</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SOLOMON DAVIS MISANA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>p.o.box355</postalAddress>
+      <physicalAddress>masasi</physicalAddress>
+      <fax/>
+      <telephone>00255782558051</telephone>
+      <mobile>0782558051</mobile>
+      <email>dorothysolomon23@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4468</studentId>
+  <studentName>ABID MEHBOOB SADIQ</studentName>
+  <accademicHistory><institution><institutionName>INTERNATIONAL SCHOOL MOSHI</institutionName><specialization>SCIENCES</specialization><levelId>4</levelId><indexNumber>E0018776492.2007</indexNumber><award>IGCSE</award><grade>B.</grade><startYear>2006</startYear><endYear>2007</endYear></institution><institution><institutionName>INTERNATIONAL SCHOOLMOSHI</institutionName><specialization>SCIENCES</specialization><levelId>8</levelId><indexNumber>D000032.030.2009</indexNumber><award>DIPLOMA</award><grade>B.</grade><startYear>2007</startYear><endYear>2009</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>DOCTOR OF MEDICINE</specialization><levelId>15</levelId><indexNumber>K170015.2014</indexNumber><award>DEGREE</award><grade>B.</grade><startYear>2009</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5a9620b266ea72f997c35cb9087dcd7f</isaacompletechecksum></student>

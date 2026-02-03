@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>495</studentId>
+  <studentName>Victoria Kanuti Yohani</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Dareda Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0643-0030</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Imboru Secondary School</institutionName>
+      <specialization>HGK</specialization>
+      <levelId>8</levelId>
+      <indexNumber>P0368/0534</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Community Development Training Institute</institutionName>
+      <specialization>Bachelor Degree in Community Development</specialization>
+      <levelId>15</levelId>
+      <indexNumber>0023</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Diocese of Mbulu Development Office</employerName>
+      <postalAddress>49 Mbulu</postalAddress>
+      <physicalAddress>Mbulu</physicalAddress>
+      <telephone>00255754784500</telephone>
+      <email>dmddmbulu@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Victoria Kanuti</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>567 Babati</postalAddress>
+      <physicalAddress>Babati</physicalAddress>
+      <fax/>
+      <sponsorfax>0025586665417</sponsorfax>
+      <mobile>+255786665417</mobile>
+      <email>victoriadaffi@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Kanuti John Daffi</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>567 Babati</postalAddress>
+      <physicalAddress>Babati</physicalAddress>
+      <fax/>
+      <telephone>00255784698501</telephone>
+      <mobile>00255784698501</mobile>
+      <email>rosekanuti@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

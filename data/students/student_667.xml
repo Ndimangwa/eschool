@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>667</studentId>
+  <studentName>MAHDI MUSSA OMARY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYASAKA ISLAMIC SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1665.0096.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IHUNGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0109.0793.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MUSSA OMARY</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1103</postalAddress>
+      <physicalAddress>1103</physicalAddress>
+      <fax/>
+      <telephone>0767418632</telephone>
+      <mobile>0713418632</mobile>
+      <email>mahdimussa11@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>OMARY, MAHDI MUSSA</accountName><bankAccount>0152326530200</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>30b280317c7ccd811194829a8cf904ad</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3938</studentId>
+  <studentName>GEOFREY MUGANYIZI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>TANGA TECHINCAL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0156.0129.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TANGA TECHINICAL SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0156.0534.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.OBOX 76068</postalAddress>
+      <physicalAddress>Plot No8.Block road Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0767319385</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HENRYCO MUGANYIZI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 217 MWANZA</postalAddress>
+      <physicalAddress>NYASAKA MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0767319385</telephone>
+      <mobile>0767319385</mobile>
+      <email>geofmuga2@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUGANYIZI, GEOFREY</accountName><bankAccount>41710005670</bankAccount><bankName>NMB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>92cf515aa0da1b87c84f32e24625e298</isaacompletechecksum></student>

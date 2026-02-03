@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6564</studentId>
+  <studentName>mohamed kassim jabu</studentName>
+  <accademicHistory><institution><institutionName>mjimpya secondary school</institutionName><specialization>science</specialization><levelId>4</levelId><indexNumber>S2257.0149.2013</indexNumber><award>certificate of secondary education</award><grade>division two</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>lyamungo high school</institutionName><specialization>pcb</specialization><levelId>8</levelId><indexNumber>S0125.0926.2016</indexNumber><award>advanced certificate of secondary education</award><grade>division one</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>higher education students' loans board</sponsorName><payerId>2</payerId><postalAddress>p.o box 76068</postalAddress><physicalAddress>dar es salaam</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>mohamed kassim jabu</accountName><bankAccount>40310034261</bankAccount><bankName>nmb</bankName><branchName>nelson mandela</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0af81ca1ab39a238541aa2ba7d89ed35</isaacompletechecksum></student>

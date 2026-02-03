@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>92</studentId>
+  <studentName>Subira Mathiya</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Imboru Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0368-1999p0533-0055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Haydom school of nursing</institutionName>
+      <specialization>Diploma in nursing</specialization>
+      <levelId>8</levelId>
+      <indexNumber>NO;24404</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED MBULU</employerName>
+      <postalAddress>74</postalAddress>
+      <physicalAddress>Mulu</physicalAddress>
+      <telephone>0785951516</telephone>
+      <email>dmombulu@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Educatin Student Loan Boad</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>POBOX 76068</postalAddress>
+      <physicalAddress>POBOX76068</physicalAddress>
+      <fax/>
+      <sponsorfax>002552227724332</sponsorfax>
+      <mobile>0025222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Josephat Stanley</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>PO BOX 2555.</postalAddress>
+      <physicalAddress>Kilimamoja Arusha</physicalAddress>
+      <fax/>
+      <telephone>00255784468528</telephone>
+      <mobile>00255784946483</mobile>
+      <email>josephatstanley@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>832</studentId>
+  <studentName>ESTER R MAKUPA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KOLILA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0322-0003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL CENTRE</institutionName>
+      <specialization>NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>24O29</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DISTICT EXCUTIVE DIRECTOR HAI</employerName>
+      <postalAddress>27</postalAddress>
+      <physicalAddress>HAI kilimanjaro</physicalAddress>
+      <telephone>0787208975</telephone>
+      <email>haidistict@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX76068</postalAddress>
+      <physicalAddress>BOX76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669037</sponsorfax>
+      <mobile>+255222669039</mobile>
+      <email>info@helsb.go.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELITRUDER RICRARD MAKUPA</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>5010</postalAddress>
+      <physicalAddress>KINONDONI DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0754912430</telephone>
+      <mobile>0754914230</mobile>
+      <email>trudarich@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

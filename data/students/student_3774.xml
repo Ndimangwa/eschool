@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3774</studentId>
+  <studentName>ASTON GASPER KWAYU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>AGAPE LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0184-0055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AGAPE LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0184-0537</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,DAR ES SALAAM</postalAddress>
+      <physicalAddress>76068,DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222772432</sponsorfax>
+      <mobile>0255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>GASPER ERASTO KWAYU</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>22747 DAR ES SALAAM</postalAddress>
+      <physicalAddress>22747 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0754284476</telephone>
+      <mobile>0712311122</mobile>
+      <email>gasperkwayu@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

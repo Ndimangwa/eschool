@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7011</studentId>
+  <studentName>Rosemary Byego</studentName>
+  <accademicHistory><institution><institutionName>CHIEF WANZAGI SECONDARY SCHOOL</institutionName><specialization>SCIENCE SUBJECTS</specialization><levelId>4</levelId><indexNumber>S4063.0038.2013</indexNumber><award>NIL</award><grade>DIVISION I POINT 14</grade><startYear>2013</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 </postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0272977820</fax><telephone>0222772932</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem>STUDIES</financedItem><extraInformation>NIL</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>BYEGO NYAMBWEBWE</kinName><relationship>PARENTs</relationship><postalAddress>P.O.BOX 106113</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0713267570</fax><telephone>0713267570</telephone><mobile>0713267570</mobile><email></email><extraInformation>NIL</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ROSEMARY BYEGO</accountName><bankAccount>0152327148200</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>35fc916fabd6365f6c23d9847c6047dc</isaacompletechecksum></student>

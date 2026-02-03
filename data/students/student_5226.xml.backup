@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5226</studentId>
+  <studentName>ANGELBERT FRANK MWAGOLOMBE</studentName>
+  <accademicHistory><institution><institutionName>IVUMWE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0681.0050.2013</indexNumber><award>CSEE</award><grade>TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>UWATA SECONDARY BOYS</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S3905.0507.2016</indexNumber><award>ACSE</award><grade>TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>INfo@heslb.go.tz</email><financedItem>SCHOOL FEES, </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>ANGELBERT FRANK MWANGOLOMBE</accountName><bankAccount>0152577209200</bankAccount><bankName>CRDB BANK</bankName><branchName>MBEYA CITY</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3896d02e1d28892114702447787e51fd</isaacompletechecksum></student>

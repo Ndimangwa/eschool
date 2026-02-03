@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4504</studentId>
+  <studentName>MAGDALENA ALOYCE</studentName>
+  <accademicHistory><institution><institutionName>WERUWERU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0221.0103.1995</indexNumber><award>CSE</award><grade> DIVISION FOUR</grade><startYear>1992</startYear><endYear>1995</endYear></institution><institution><institutionName>KCMC SCHOOL OF NURSING</institutionName><specialization>DIPLOMA IN NURSING</specialization><levelId>12</levelId><indexNumber>09551</indexNumber><award>DIPLOMA IN NURSING</award><grade>PASS</grade><startYear>1997</startYear><endYear>2001</endYear></institution><institution><institutionName>KCMUCO</institutionName><specialization>BACHELOR OF SCIENCE IN NURSING</specialization><levelId>15</levelId><indexNumber>K0151</indexNumber><award>BACHELOR DEGREE</award><grade>PASS</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>RAS KILIMANJARO</employerName><postalAddress>P.O BOX 3070</postalAddress><physicalAddress>MOSHI</physicalAddress><fax>0272753248</fax><telephone>02727542367</telephone><mobile/><email>ras@kilimanjaro.go.tz</email><startYear>2011</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>RAS KILIMANJARO</sponsorName><payerId>10</payerId><postalAddress>P.O BOX 3070</postalAddress><physicalAddress>MOSHI</physicalAddress><fax>0272753248</fax><telephone>0272754236</telephone><mobile/><email>ras@kilimanjaro.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>TITUS MSOKA</kinName><relationship>HUSBAND</relationship><postalAddress>P.O BOX 3010</postalAddress><physicalAddress>LONGUO</physicalAddress><fax/><telephone>+225754091228</telephone><mobile>0754091228</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MAGDALENA  A  CHUWA</accountName><bankAccount>40301614848</bankAccount><bankName>NMB</bankName><branchName>MANDELA MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>94ac226e9484cf911cf36daa69445abb</isaacompletechecksum></student>

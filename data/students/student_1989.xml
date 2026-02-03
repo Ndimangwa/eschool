@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1989</studentId>
+  <studentName>OSEI ANTRHONY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DORSH INTERNATIONAL SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>501188034</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KUMASI POLYTECHNIC</institutionName>
+      <specialization>HND PRODUCTION ENGINEERING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>MPR05061352</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>ORTHOPAEDIC TRAINING CENTRE NSAWAM</employerName>
+      <postalAddress>OTC P.O. BOX 306</postalAddress>
+      <physicalAddress>NSAWAM</physicalAddress>
+      <telephone>00233244214907</telephone>
+      <email>liznewman3121@gmail.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ORTHOPAEDIC TRAINING CENTER</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>OTC P.O. BOX 306</postalAddress>
+      <physicalAddress>NSAWAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00233244214907</sponsorfax>
+      <mobile>00233244214907</mobile>
+      <email>liznewman3121@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>OSEI OWUSU JAMES</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>BOX A073</postalAddress>
+      <physicalAddress>ADUKROM</physicalAddress>
+      <fax/>
+      <telephone>00233245901430</telephone>
+      <mobile>00233245901430</mobile>
+      <email>osei.anthony85@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

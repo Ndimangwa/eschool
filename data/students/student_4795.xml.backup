@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4795</studentId>
+  <studentName>OLIVER.H.KESSY</studentName>
+  <accademicHistory><institution><institutionName>MRINGA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0526.0109.2013</indexNumber><award>CSE</award><grade>DIV 2</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>IFUNDA GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0276.0585.2016</indexNumber><award>ACSE</award><grade>DIV 3</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HAPPYFUN.S.KESSY</sponsorName><payerId>3</payerId><postalAddress>ARUSHA,1733</postalAddress><physicalAddress>ARUSHA,1733</physicalAddress><fax/><telephone>0754421761</telephone><mobile>0784769343</mobile><email>Kessyjacqueline24@yahoo.com</email><financedItem>He</financedItem><extraInformation>FATHER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>OLIVER.H. KESSY</accountName><bankAccount>00000</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6ef3b107d7a0c17b0191b353aeb3d34c</isaacompletechecksum></student>

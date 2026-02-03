@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1612</studentId>
+  <studentName>AGYEI NANA KWAKU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. PETER'S SECONDARY SCOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>621003317</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ACCRA POLYTECHNIC</institutionName>
+      <specialization>ENGINEERING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>01032814D</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ISPO</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 22-_24</postalAddress>
+      <physicalAddress>LUXENBOURG</physicalAddress>
+      <fax/>
+      <sponsorfax>003222131379</sponsorfax>
+      <mobile>003222131379</mobile>
+      <email>ispo@ispoint.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>BERNICE AGYEI</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>P.O. BOX 8690</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00233277160793</telephone>
+      <mobile>00233277160793</mobile>
+      <email>Aguakb@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

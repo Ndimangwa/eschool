@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2141</studentId>
+  <studentName>NEEMA GEORGE WASIRA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIRAENI GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.207/67</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHIMBILI SCHOOL OF NURSING</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>02266</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MUHIMBILI NATIONAL  HOSPITAL</employerName>
+      <postalAddress>65000, DAR ES SALAAM</postalAddress>
+      <physicalAddress>ILALA  DAR ES SALAAM</physicalAddress>
+      <telephone>00255222151367</telephone>
+      <email>info@mnh.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 ,DAR ES SAALAM</postalAddress>
+      <physicalAddress>MSASANI,DAR ES  SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SURE MARUMBO MABUSI</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>10190, DAR ES  SALAAM</postalAddress>
+      <physicalAddress>MTONI KIJICHI MBAGALA</physicalAddress>
+      <fax/>
+      <telephone>00255713608867</telephone>
+      <mobile>00255713608867</mobile>
+      <email>sure.mabusi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

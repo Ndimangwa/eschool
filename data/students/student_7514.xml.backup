@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7514</studentId>
+  <studentName>EPODOI JOSEPH</studentName>
+  <accademicHistory><institution><institutionName>TESO COLLEGE ALOET</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E0038.0035.1987</indexNumber><award>PASS</award><grade>DIVISION 0NE</grade><startYear>1984</startYear><endYear>1987</endYear></institution><institution><institutionName>TESO COLLEGE ALOET</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>E0038.0541.1990</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>1988</startYear><endYear>1990</endYear></institution><institution><institutionName>MAKERERE UNIVERSITY</institutionName><specialization>M.B.CH.B</specialization><levelId>15</levelId><indexNumber>E0090.0026.1995</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>1990</startYear><endYear>1995</endYear></institution><institution><institutionName>MAKERERE UNIVERSITY</institutionName><specialization>GENERAL SURGERY</specialization><levelId>17</levelId><indexNumber>E0098.1132.1998</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>1998</startYear><endYear>2001</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>MT. ELGON HOSPITAL MBALE UGANDA</sponsorName><payerId>9</payerId><postalAddress>P.OBOX 1147 MBALE</postalAddress><physicalAddress>PLOT 11-12 INDEPENDENCE AVENUE</physicalAddress><fax>+256454431230</fax><telephone>+256454431230</telephone><mobile>+256772511660</mobile><email>jcmbale@yahoomail.com</email><financedItem>FULL SPONSOR SHIP</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DR. CHEBET IRENE</kinName><relationship>WIFE</relationship><postalAddress>P.O.BOX 289 SOROTI</postalAddress><physicalAddress>SOROTI REGIONAL REFERRAL HOSPITAL UGANDA</physicalAddress><fax>+256772307600</fax><telephone>+256772307600</telephone><mobile>+256772307600</mobile><email>chebet2k@yahoo.com</email><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EPODOI JOSEPH</accountName><bankAccount>4510010674</bankAccount><bankName>CENTENARY BANK LTD</bankName><branchName>SOROTI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>88ec58c0af256f165bee0765cb9e4906</isaacompletechecksum></student>

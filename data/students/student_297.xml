@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>297</studentId>
+  <studentName>MAULIDI MBARUKU MSONGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MINAKI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0133-074</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155-0537</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SOKOINE UNIVERSITY OF AGRICULTURE</institutionName>
+      <specialization>B.Sc. BIOTECHNOLOGY AND LABORATORY SCIENCES</specialization>
+      <levelId>15</levelId>
+      <indexNumber>SUA10BLS3604</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>PRESIDENT OFFICE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9173</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255262668680</sponsorfax>
+      <mobile>00255262668680</mobile>
+      <email>maubls@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SHABANI MSONGA</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>50181</postalAddress>
+      <physicalAddress>ILALA</physicalAddress>
+      <fax/>
+      <telephone>00689089883</telephone>
+      <mobile>00689089883</mobile>
+      <email>msonga2004@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

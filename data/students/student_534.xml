@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>534</studentId>
+  <studentName>HUSNA EMAY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KILAKALA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0206.0041.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA GIRLS  HIGH SHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0220.0539.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DARESALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heisb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>SCHOLASTICA MUSSA MILLANZI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>400</postalAddress>
+      <physicalAddress>BABATI</physicalAddress>
+      <fax/>
+      <telephone>+255784306525</telephone>
+      <mobile>0784306525</mobile>
+      <email>husnaemay@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>EMAY, HUSNA</accountName><bankAccount>0152327638000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7929a4f13e91f5a0d5f39d3f1a0ba5e5</isaacompletechecksum></student>

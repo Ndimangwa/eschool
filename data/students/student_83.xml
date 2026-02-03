@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>83</studentId>
+  <studentName>latif ashiraf</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>lubiri secondary school uganda</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>U0041/022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>lubiri secondary school uganda</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>UOO41/521</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher education students loans board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o box 76068</postalAddress>
+      <physicalAddress> dar es salaam </physicalAddress>
+      <fax/>
+      <sponsorfax>00255222669036</sponsorfax>
+      <mobile>00255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>leonard mushi</kinName>
+      <relationship>guadian</relationship>
+      <postalAddress>mwanza</postalAddress>
+      <physicalAddress>lumala mwanza</physicalAddress>
+      <fax/>
+      <telephone>00255754470565</telephone>
+      <mobile>00255754470565</mobile>
+      <email>lasonhunk@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3272</studentId>
+  <studentName>CONSOLATA V TEMBA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>HOLY CROSS LAKE VIEW SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>U0739/025</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CALTEC ACADEMY MAKERERE SECONDARY SCHOOL</institutionName>
+      <specialization>BCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U0178/585</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>FR LEOPOLD TEMBA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po BOX 167 MARANGU</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>0784150808</sponsorfax>
+      <mobile>0778150808</mobile>
+      <email>tembaleo@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FR LEOPOLD TEMBA</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>PO BOX 167 MARANGU</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>0784150808</telephone>
+      <mobile>0784150808</mobile>
+      <email>tembaleo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

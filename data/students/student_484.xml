@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>484</studentId>
+  <studentName>Einoti Matayan</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Maasae Girls Lutheran sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0246-005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Maasae girls Lutheran Sec school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0246-0502</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMUCO</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/MD0432</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Good samaritan foundation</employerName>
+      <postalAddress>3010 Moshi</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <telephone>0270272754377</telephone>
+      <email>dirsec@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Light for the world </sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1120 Viena</postalAddress>
+      <physicalAddress>Austria</physicalAddress>
+      <fax/>
+      <sponsorfax>04318101300</sponsorfax>
+      <mobile>04318101300</mobile>
+      <email>info@light-for-the-world.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Fred E. Lihinda</kinName>
+      <relationship>Husband</relationship>
+      <postalAddress>6538 Moshi</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <telephone>0762183361</telephone>
+      <mobile>0762183361</mobile>
+      <email>wisdomsimba82@mail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

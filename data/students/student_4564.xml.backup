@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4564</studentId>
+  <studentName>ZUBEIDA MOHAMMED HUSSEIN</studentName>
+  <accademicHistory><institution><institutionName>KIDONGO CHEKUNDU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0700.0097.2000</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>1997</startYear><endYear>2000</endYear></institution><institution><institutionName>LUMUMBA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0326.0538.2003</indexNumber><award>ADAVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2001</startYear><endYear>2003</endYear></institution><institution><institutionName>DOKUZ EYLUL UNIVERSITY</institutionName><specialization>DEGREE OF MEDICINE</specialization><levelId>21</levelId><indexNumber>TIP 2D(2012)</indexNumber><award>DEGREEE</award><grade>PASS</grade><startYear>2005</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>REVOLUTIONARY GOVERMENT OF ZANZIBAR MINISTRY OF HEALTH</employerName><postalAddress>P.O BOX 236</postalAddress><physicalAddress>ZANZIBAR</physicalAddress><fax>0212231987</fax><telephone>0242233454</telephone><mobile/><email>afyasmz@zanlik.com</email><startYear>2014</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH ZANZIBAR THROUGH UNFPA</sponsorName><payerId>10</payerId><postalAddress>P.O.BOX 236</postalAddress><physicalAddress>ZANZIBAR</physicalAddress><fax>0242231987</fax><telephone>0212233454</telephone><mobile></mobile><email>afyasmz@zanlik.com</email><financedItem>MMED IN PAEDIATRICS</financedItem><extraInformation></extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>HALIMA KHAMIS HAMAD</kinName><relationship>MOTHER</relationship><postalAddress>P.O BOX 2060</postalAddress><physicalAddress>ZANZIBAR</physicalAddress><fax/><telephone>0777424202</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>IDD S OR ZUBEDA MOHAMED</accountName><bankAccount>0152416648500</bankAccount><bankName>CRDB</bankName><branchName>ZANZIBAR</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9f0993f10da9ccb32cd74b059af09ccf</isaacompletechecksum></student>

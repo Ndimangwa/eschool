@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3412</studentId>
+  <studentName>HELLEN CHARLES HIZA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>LWANDAI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0584-0015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KOROGWE GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0209-0570</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF DAR ES SALAAM</institutionName>
+      <specialization>MICROBIOLOGY</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2009-04-01276</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>IFAKARA HEALTH INSTITUTE</employerName>
+      <postalAddress>74 BAGAMOYO</postalAddress>
+      <physicalAddress>74 BAGAMOYO</physicalAddress>
+      <telephone>0713075781</telephone>
+      <email>hhiza@ihi.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>SWISS TPH</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>4002 basel</postalAddress>
+      <physicalAddress>57 SOCINSRASSE</physicalAddress>
+      <fax/>
+      <sponsorfax>0900575131</sponsorfax>
+      <mobile>0900575131</mobile>
+      <email>sebastien.gagneux@unibas.ch</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>CHARLES HIZA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>4266 zanzibar</postalAddress>
+      <physicalAddress>4266 zanzibar</physicalAddress>
+      <fax/>
+      <telephone>0766730755</telephone>
+      <mobile>0766730755</mobile>
+      <email>charles69@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

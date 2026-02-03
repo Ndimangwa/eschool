@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>920</studentId>
+  <studentName>BEATRICE MUSHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ANNAGAMAZO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1822/0004</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>EDMUND RICE SINON SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0629/0511</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>FAUSTINE MUSHI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 114</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <fax/>
+      <sponsorfax>+255767812451</sponsorfax>
+      <mobile>+255767812451</mobile>
+      <email>beatricemushi73@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FAUSTINE MUSHI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO BOX 114</postalAddress>
+      <physicalAddress>KARATU</physicalAddress>
+      <fax/>
+      <telephone>+255767812451</telephone>
+      <mobile>+255767812451</mobile>
+      <email>beatricemushi73@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

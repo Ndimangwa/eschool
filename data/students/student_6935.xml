@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6935</studentId>
+  <studentName>Deo Msanya</studentName>
+  <accademicHistory><institution><institutionName>KCMUCO</institutionName><specialization>MD</specialization><levelId>15</levelId><indexNumber>TUMA.0198</indexNumber><award>BACHELOR</award><grade>98</grade><startYear>1996</startYear><endYear>2008</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>a9beeb788839e11291a518741c14274e</isaacompletechecksum></student>

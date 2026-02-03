@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5529</studentId>
+  <studentName>WENSESLAUS HAMIS SHIJA</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>HEALTH LABORATORY SCIENCES</specialization><levelId>12</levelId><indexNumber>TU/KCMCo/DHLSc.2011/TZ/0181</indexNumber><award>DIPLOMA IN HEALTH LABORATORY SCIENCES</award><grade>B+</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1bc90cad3b75ae88cba79584b02796af</isaacompletechecksum></student>

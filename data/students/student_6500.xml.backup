@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6500</studentId>
+  <studentName>CSEE</studentName>
+  <accademicHistory><institution><institutionName>META SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0443.0219.2012</indexNumber><award>CSEE</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>KARATU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0364.0680.2015</indexNumber><award>ACSEE</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEE, MEANS AND ACCOMMODATION, RESEARCH, ALLOWANCE </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>INNOCENT JACKSON SANGA</accountName><bankAccount>0152327163500</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>84d114dd7a63ff182385368e2b3b5f0f</isaacompletechecksum></student>

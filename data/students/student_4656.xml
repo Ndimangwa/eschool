@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4656</studentId>
+  <studentName>Chabane Pilale Amisse</studentName>
+  <accademicHistory><institution><institutionName>Escola Secundaria da Texmoque</institutionName><specialization>none</specialization><levelId>4</levelId><indexNumber>S0345.0564.2002</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>13</grade><startYear>2002</startYear><endYear>2002</endYear></institution><institution><institutionName>Escola Secundaria de Nampula</institutionName><specialization>none</specialization><levelId>8</levelId><indexNumber>S0345.0587.2004</indexNumber><award>Certificate</award><grade>13</grade><startYear>2004</startYear><endYear>2004</endYear></institution><institution><institutionName>UNIVERSIDADE EDUARDO MONDLANE</institutionName><specialization>MEDICINE</specialization><levelId>15</levelId><indexNumber>P1005.0027.2011</indexNumber><award> CERTIFICATE</award><grade>13</grade><startYear>2005</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LIGHT FOR THE WORLD</sponsorName><payerId>8</payerId><postalAddress>ADDR Niederhofstr 26</postalAddress><physicalAddress>VIENA</physicalAddress><fax>+431810130015</fax><telephone>+258828973820</telephone><mobile>+258844923498</mobile><email>info@light-for-the-world.org</email><financedItem>studies</financedItem><extraInformation>the head office is in Viena.</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>pedro pilale amisse</kinName><relationship>brother</relationship><postalAddress>carrupeia.24</postalAddress><physicalAddress>namicopo</physicalAddress><fax></fax><telephone>+258846777727</telephone><mobile>+258846777727</mobile><email>betodahelena@gmail.com</email><extraInformation>is studying medice in Univeridade Lurio in Nampula</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>chabane Pilale Amisse</accountName><bankAccount>002273078710001</bankAccount><bankName>BCI</bankName><branchName>BCI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>30f5bcb9171f80793ec5e3444697d9be</isaacompletechecksum></student>

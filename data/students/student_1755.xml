@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1755</studentId>
+  <studentName>Frida w Baitani</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BENDEL MEMORIAL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.1757-0014/2009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.MARYGORETTI</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.1187-0558/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>P.O.Box 76068</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>WILSON BAITANI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>764</postalAddress>
+      <physicalAddress>P.O.Box 764</physicalAddress>
+      <fax/>
+      <telephone>00255767402336</telephone>
+      <mobile>00255767402336</mobile>
+      <email>wmbaitani@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

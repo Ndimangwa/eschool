@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4918</studentId>
+  <studentName>HUNAINA MOHAMEDAMIN ISMAIL</studentName>
+  <accademicHistory><institution><institutionName>ALMUNTAZIR ISLAMIC SEMINARY </institutionName><specialization>ORDINARY LEVEL</specialization><levelId>4</levelId><indexNumber>P0023.0104.2014</indexNumber><award>ORDINARY LEVEL</award><grade>MERIT</grade><startYear>2010</startYear><endYear>2014</endYear></institution><institution><institutionName>ALMUNTAZIR ISLAMIC SEMINARY</institutionName><specialization>ADVANCED LEVEL</specialization><levelId>8</levelId><indexNumber>P0023.0440.2016</indexNumber><award>ADVANCED LEVEL</award><grade>ABB</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT'S LOAN BOARD </sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>SAM NUJOMA ROAD, MWENGE, DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772433</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES, ACCOMODATION AND MEALS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>NAZMUDIN LODHI</kinName><relationship>UNCLE</relationship><postalAddress>P.O BOX 20622</postalAddress><physicalAddress>INDIRAGANDHI / UHURU ST, CITY CENTER, DAR ES SALAAM</physicalAddress><fax></fax><telephone>+255655400574</telephone><mobile>+255783400576</mobile><email>finance@tmjhospital.co.tz</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>HUNAINA MOHAMEDAMIN ISMAIL</accountName><bankAccount>0152327160400</bankAccount><bankName>CRDB </bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>cbc2fde950c2a028b80e19ec00295749</isaacompletechecksum></student>

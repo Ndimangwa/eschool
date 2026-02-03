@@ -1,0 +1,26 @@
+Algorithm:  
+"" + Anything = ""
+promise1 = compileBriefcase(database, conn, groupId, briefcaseList, bestCount, controlFlags)	{
+	
+}
+
+DataStructure
+
+[key=briefcaseId]ResultsFile
+	-- data('briefcaseId') = briefcaseId
+	-- data('weight') = weight
+	-- []ResultsDataLine 	---- marks = marks * weight --all marks for all transactions
+Major Step One
+//Step 1: get the entire list , from group
+//Step 2: Prepare the data structure above for the entire briefcase list 
+
+Major Step Two
+//step 3: mergeBriefCaseList(briefcaseList)
+		//Formula briefcase1 + briefcase2
+				data.weight = data.weight1 + data.weight2 
+				--[]ResultsDataLine , marks = marks1 + marks2 [If any missing, return ""]
+
+ bestCount = bestCount - sizeof(briefcaseList)
+ 
+
+		

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>707</studentId>
+  <studentName>ZAHIRI RICHARD MUNISI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BOLOTI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0723.0069.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MEATU SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0641.0555.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068 DSM</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>RICHARD ATHUMANI MUNISI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 57  Hai</postalAddress>
+      <physicalAddress>P.O.BOX 57 Hai</physicalAddress>
+      <fax/>
+      <telephone>0754926986</telephone>
+      <mobile>0754926986</mobile>
+      <email>munis@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MUNISI, ZAHIRI RICHARD</accountName><bankAccount>0152327641000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6916f5265b5cca5cc7749158e2e38ea9</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1228</studentId>
+  <studentName>DOREEN TUMWITIKEGE ELIAH</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MSOLWA ST GASPARE BERTONI SECONDARY SCHOOL.</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO729-0009-2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>AGAPE LUTHERAN JUNIOUR SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO184-0541-2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD (HESLB)</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>BOX 76068 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>LUCY ELIAH</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O. BOX 73 KYELA</postalAddress>
+      <physicalAddress>P.O BOX 73 KYELA</physicalAddress>
+      <fax/>
+      <telephone>+255754635093</telephone>
+      <mobile>0784635093</mobile>
+      <email>Lucyolotu@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

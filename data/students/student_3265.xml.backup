@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3265</studentId>
+  <studentName>Hajra Ramadhani Majala</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kihonda Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1222/0040/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Korogwe Girls Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0209/0578/2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 dar es salaam</postalAddress>
+      <physicalAddress>Plot No.8,Block No.46,Sam Nujoma</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Ramadhani Majala</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>6227 Morogoro</postalAddress>
+      <physicalAddress>6227 Morogoro</physicalAddress>
+      <fax/>
+      <telephone>+255718812785</telephone>
+      <mobile>+255718812785</mobile>
+      <email>hajramajala@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

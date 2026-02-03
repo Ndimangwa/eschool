@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3646</studentId>
+  <studentName>SESAGULI  EMMANUEL</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MAKAZI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2152-0036</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MILAMBO SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0132-0613</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>EMMANUEL VICENT</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO.BOX 1614</postalAddress>
+      <physicalAddress>TABORA</physicalAddress>
+      <fax/>
+      <sponsorfax>0785856542</sponsorfax>
+      <mobile>0785856542</mobile>
+      <email>sesaguliemmanuel@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EMMANUEL VICENT</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>PO.BOX 1614</postalAddress>
+      <physicalAddress>TABORA</physicalAddress>
+      <fax/>
+      <telephone>0789052239</telephone>
+      <mobile>0785856542</mobile>
+      <email>sesaguliemmanuel@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

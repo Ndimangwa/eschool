@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1310</studentId>
+  <studentName>ZEPHANIA MSUNZA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ilula secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0515/0213</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>minaki high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0133/0755</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>government grant</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>11478 Dar es salaam</postalAddress>
+      <physicalAddress>samora avenue daresalaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222342000</sponsorfax>
+      <mobile>0222342000</mobile>
+      <email>ps@mph.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Telesia mhando</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>P.O. box 47</postalAddress>
+      <physicalAddress>iringa</physicalAddress>
+      <fax/>
+      <telephone>0784114297</telephone>
+      <mobile>0785264651</mobile>
+      <email>zephapascal@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>45</studentId>
+  <studentName>ZENAIS S.MBUYA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>OLALENI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0499/022</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MVUMI MEDICAL TRAINING CENTRE</institutionName>
+      <specialization>CERTIFICATE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>10920</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Ras Kilimanjaro</employerName>
+      <postalAddress>3070</postalAddress>
+      <physicalAddress>Kilimanjaro Region</physicalAddress>
+      <telephone>+255027542367</telephone>
+      <email>raskilimanjaro@pmoralg.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Catherine Makundi</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>54Moshi</postalAddress>
+      <physicalAddress>Marangu</physicalAddress>
+      <fax/>
+      <sponsorfax>+255757612302</sponsorfax>
+      <mobile>+255713430618</mobile>
+      <email>cathmakundi@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mrs.Catherine Makundi</kinName>
+      <relationship>My Mother</relationship>
+      <postalAddress>54 Moshi</postalAddress>
+      <physicalAddress>Marangu</physicalAddress>
+      <fax/>
+      <telephone>+255757612302</telephone>
+      <mobile>+255713430618</mobile>
+      <email>cathmakundi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

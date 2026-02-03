@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7969</studentId>
+  <studentName>BRENDA NESPHORY URIO</studentName>
+  <accademicHistory><institution><institutionName>MKUU SECONDARY CHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0544.0014.2013</indexNumber><award>CSEE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068,DAR ES SALAM</postalAddress><physicalAddress>P.O.BOX 76068 DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+225222772433</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES, ACCOMODATION, MEALS,BOOKS AND STATIONARIES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>NESPHORY URIO</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX15729 ARUSHA</postalAddress><physicalAddress>P.O BOX 15729 ARUSHA</physicalAddress><fax>0785853533</fax><telephone>0752223022</telephone><mobile>0754089871</mobile><email>gideonnamnyaki88@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>BRENDA NESPHORY URIO</accountName><bankAccount>40810051777</bankAccount><bankName>NMB</bankName><branchName>CLOCK TOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3d3a467fc2077420b86b66d909454c4e</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5273</studentId>
+  <studentName>LEONARD FRANCE</studentName>
+  <accademicHistory><institution><institutionName>KASHAI SECONDARY SCHOOL</institutionName><specialization>ART AND SCIENCE</specialization><levelId>4</levelId><indexNumber>S3274.0083.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KALANGALALA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0706.0617.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O. BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEES,ACCOMODATION</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>LEONARD RUGARABAMU FRANCE</accountName><bankAccount>0152254939900</bankAccount><bankName>CRDB BANK</bankName><branchName>KIBAHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>520f287b55e33899adb50d06dae15de2</isaacompletechecksum></student>

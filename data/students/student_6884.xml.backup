@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6884</studentId>
+  <studentName>ROSEMARY</studentName>
+  <accademicHistory><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>MSc MIDWIFERY</specialization><levelId>15</levelId><indexNumber>K 0112</indexNumber><award>BACHELOR OF NURSING SCIENCE</award><grade>B+</grade><startYear>2006</startYear><endYear>2009</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e01a8f851b6a200d7cadddb928ab7d72</isaacompletechecksum></student>

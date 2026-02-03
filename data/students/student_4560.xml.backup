@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4560</studentId>
+  <studentName>EMMANUEL HENDRICK HAPUNDAM</studentName>
+  <accademicHistory><institution><institutionName>INSTITUTO PREUNIVERSITARIO VANGUARDIA DE LA HABANA</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>E0009.0170.1991</indexNumber><award>BACHILLER</award><grade>PASS</grade><startYear>1990</startYear><endYear>1991</endYear></institution><institution><institutionName>HIGHER INSTITUTE OF MEDCAL SCIENCES OF CAMAGUEY</institutionName><specialization>MEDICAL DOCTOR</specialization><levelId>15</levelId><indexNumber>EOO3.534.1997</indexNumber><award>DEGREE IN MEDCINE</award><grade>PASS</grade><startYear>1991</startYear><endYear>1997</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MINISTRY OF HEALTH</employerName><postalAddress>PRIVTE BAG 13198 WINDHOEK,NAMIIBIA</postalAddress><physicalAddress>MINISTERIAL BUILDING HARVEST STREET</physicalAddress><fax>0026461272286</fax><telephone>+2646120325331</telephone><mobile>+264814112997</mobile><email>ekambaru@hotmail.com</email><startYear>1997</startYear><endYear>2016</endYear><extraInformation>none</extraInformation></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>MINISTRY OF HEALTH AND SOCIAL SERVICES</sponsorName><payerId>10</payerId><postalAddress>PRIVTE BAG 13198 WINDHOEK,NAMIIBIA</postalAddress><physicalAddress>MINISTERIAL BUILDING HARVEST STREET</physicalAddress><fax>0061272286</fax><telephone>+264612032531</telephone><mobile>+264814112997</mobile><email>ekambaru@hotmail.com</email><financedItem>fuLL SPONSORSHIP</financedItem><extraInformation>none</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELIUD NUUKALA</kinName><relationship>WIFE</relationship><postalAddress>PO BOX 1475 OSHAKATI</postalAddress><physicalAddress>ERF 0793</physicalAddress><fax/><telephone>+264812175071</telephone><mobile>+264812175071</mobile><email>nuukala87@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EMMANUEL HENDRICK HAPUNDA</accountName><bankAccount>042443997</bankAccount><bankName>STANDARDA BANK</bankName><branchName>OSHAKATI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>52bad1a1084e1c26457985040ab51740</isaacompletechecksum></student>

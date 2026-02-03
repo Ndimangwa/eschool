@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3492</studentId>
+  <studentName>Shabani said</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BWIRU BOYS TECHNICAL SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0104/0115/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MWANZA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0333/0580/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>po box 76068 mwenge</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272758770</sponsorfax>
+      <mobile>00255787101808</mobile>
+      <email>Mailinfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>nicas athanas nibengo</kinName>
+      <relationship>uncle</relationship>
+      <postalAddress>6369 mwanza</postalAddress>
+      <physicalAddress>MWANZA,nyamagana</physicalAddress>
+      <fax/>
+      <telephone>00255272758770</telephone>
+      <mobile>0754803114</mobile>
+      <email>saidshabani75@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

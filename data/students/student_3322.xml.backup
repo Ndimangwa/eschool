@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3322</studentId>
+  <studentName>Henry Ngogo</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ivumwe secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0681-0110</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Njombe high school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0143-0654</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Edson</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>P.O.BOX 3877</postalAddress>
+      <physicalAddress>Mbeya</physicalAddress>
+      <fax/>
+      <telephone>0755202047</telephone>
+      <mobile>0755202047</mobile>
+      <email>ngogoedson@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

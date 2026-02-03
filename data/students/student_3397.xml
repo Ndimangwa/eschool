@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3397</studentId>
+  <studentName>EDWIN LUPEMBE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MOROGORO SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0131/0515</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAZENGO SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0332/0136</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K160023</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>REGIONAL ADMINISTRATIVE SECRETARY</employerName>
+      <postalAddress>P.O BOX 650</postalAddress>
+      <physicalAddress>MOROGORO</physicalAddress>
+      <telephone>0714898893</telephone>
+      <email>NBiddah@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ST. FRANCIS HOSPITAL</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 73</postalAddress>
+      <physicalAddress>ifakara</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272758770</sponsorfax>
+      <mobile>+255787101808</mobile>
+      <email>sfddh371@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FRANK LUPEMBE</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O BOX 145</postalAddress>
+      <physicalAddress>KILOSA</physicalAddress>
+      <fax/>
+      <telephone>0688645659</telephone>
+      <mobile>0688645659</mobile>
+      <email>NBIDDAH@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4990</studentId>
+  <studentName>Laurent Alphonce Kurwa</studentName>
+  <accademicHistory><institution><institutionName>TRUST PATRICK SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1792.0034.2013</indexNumber><award>CSE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MARIAN BOYS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S4213.0568.2016</indexNumber><award>ACSE</award><grade>DIVISION TWO </grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>ALPHONCE KULW MAZIKU</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 80426</postalAddress><physicalAddress>DARESSALAAM</physicalAddress><fax>0784294288</fax><telephone>0784294288</telephone><mobile>0754294288</mobile><email>alphoncemaziku@yahoo.co.uk</email><financedItem>ALL POSTGRADUATES REQUAMENTS</financedItem><extraInformation>IMMIGRATION OFFICER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ALPHONCE KULWA MAZIKU</kinName><relationship>PARENT</relationship><postalAddress>POBOX80426</postalAddress><physicalAddress>DARESSALAAM</physicalAddress><fax>0784294288</fax><telephone>0784294288</telephone><mobile>0754294288</mobile><email>alphoncemaziku@yahoo.co.uk</email><extraInformation>IMMIGRATION OFFICER</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>LAURENT ALPHONCE KURWA</accountName><bankAccount>0152327161700</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2572b9741e9e25c47396a8388d556106</isaacompletechecksum></student>

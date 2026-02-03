@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5877</studentId>
+  <studentName>GIVEN MWANKILI</studentName>
+  <accademicHistory><institution><institutionName>RUNGWE HIGH SCHOOL</institutionName><specialization>STUDENTS</specialization><levelId>8</levelId><indexNumber>S0149.0639.2014</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE POINT 12</grade><startYear>2012</startYear><endYear>2014</endYear></institution><institution><institutionName>KYELA SECONDARY SCHOOL</institutionName><specialization>STUDENT</specialization><levelId>4</levelId><indexNumber>S0757.0107.2011</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>MWENGE DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>GIVEN JOEL MWANKILI</accountName><bankAccount>0152204010700</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>55102515c0a0e46b2bc37d879a86bf65</isaacompletechecksum></student>

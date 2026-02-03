@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>300</studentId>
+  <studentName>paul kasubi nhiga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>nsumba sec school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0144/0104</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>minaki high school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0133/0596</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>bugando university college of health sciences</institutionName>
+      <specialization>md</specialization>
+      <levelId>15</levelId>
+      <indexNumber>saut/buchs/1294</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>permanent secretary ministry of health</employerName>
+      <postalAddress>2503456</postalAddress>
+      <physicalAddress>2503456</physicalAddress>
+      <telephone>0252503456</telephone>
+      <email>mohsw@ac.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>mbeya refferal hospital</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>419 mbeya</postalAddress>
+      <physicalAddress>419 mbeya</physicalAddress>
+      <fax/>
+      <sponsorfax>0252503456</sponsorfax>
+      <mobile>0252503456</mobile>
+      <email>mrh@ac.go.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>neema josephat simbi</kinName>
+      <relationship>wife</relationship>
+      <postalAddress>po box 419 mbeya</postalAddress>
+      <physicalAddress>419 mbeya</physicalAddress>
+      <fax/>
+      <telephone>0767598471</telephone>
+      <mobile>0767598471</mobile>
+      <email>info@nes.go.tz</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

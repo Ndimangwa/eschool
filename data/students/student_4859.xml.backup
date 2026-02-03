@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4859</studentId>
+  <studentName>SAID KHALFAN</studentName>
+  <accademicHistory><institution><institutionName>ANDERLEK RIGDES SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3861.0137.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIV 1 POINTS 10</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIBAHA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0119.0604.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIV 1 POINTS 9</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DARESALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>Tuition fees </financedItem><extraInformation>none</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>JOKHA K. SAID</kinName><relationship>SISTER</relationship><postalAddress>SLP 745 KAHAMA </postalAddress><physicalAddress>KAHAMA</physicalAddress><fax/><telephone>0759970929</telephone><mobile>0759970929</mobile><email>jokhajas@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SAID KHALFAN SAID</accountName><bankAccount>0152208048000</bankAccount><bankName>CRDB</bankName><branchName>KAHAMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5b062396c1f1f4924f40d077f7166ecc</isaacompletechecksum></student>

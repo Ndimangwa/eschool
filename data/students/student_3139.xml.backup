@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3139</studentId>
+  <studentName>Abdon  Tarimo  Julius</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Nanjara  Secondary  School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2841/OO95/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Muheza  High  School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S3804/0525/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box76068</postalAddress>
+      <physicalAddress>Dar-es-salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Julius  Melkiory  Tarimo</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O.Box153</postalAddress>
+      <physicalAddress>TARAKEA</physicalAddress>
+      <fax/>
+      <telephone>0763788174</telephone>
+      <mobile>0763788174</mobile>
+      <email>tarimojulius21@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

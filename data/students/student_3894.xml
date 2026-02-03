@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3894</studentId>
+  <studentName>KELLY ISSA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MBALIZI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0640.0152.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUTHERAN JUNIOR SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0107.0576.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BORD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIZABETH KAZINYINGI</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 4501</postalAddress>
+      <physicalAddress>MBYA TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>+255754052278</telephone>
+      <mobile>+255754052278</mobile>
+      <email>abducazz@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ISSA, KELLY</accountName><bankAccount>0152279668500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>56fc2ae1e075cd862db33f625f3f493d</isaacompletechecksum></student>

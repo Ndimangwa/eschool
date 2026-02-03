@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>926</studentId>
+  <studentName>DICKSON MAGIGE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBASILA SEC. SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0316-0210</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LUGOBA SEC. SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0549-0581</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINAELI MGONJA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>311</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>0683949586</sponsorfax>
+      <mobile>0683949586</mobile>
+      <email>dicksonmagige@yahoo.co.uk</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MINAELI  MGONJA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>311</postalAddress>
+      <physicalAddress>moshi</physicalAddress>
+      <fax/>
+      <telephone>0683949586</telephone>
+      <mobile>0683949586</mobile>
+      <email>dicksonmagige@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7234</studentId>
+  <studentName>jastin p simon</studentName>
+  <accademicHistory><institution><institutionName>KCMUCO</institutionName><specialization>OCCUPATIONAL THERAPY</specialization><levelId>4</levelId><indexNumber>S3490.0072.2014</indexNumber><award>FORM FOUR CERTIFICATE</award><grade>THREE</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9bef5ce0ca887cbba33af3a18755f457</isaacompletechecksum></student>

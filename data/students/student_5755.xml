@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5755</studentId>
+  <studentName>EVARISTO.M.MANGIA</studentName>
+  <accademicHistory><institution><institutionName>IVUMWE SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0681.0071.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>KIBAHA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0119.0577.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO BOX76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>Ma,Bs,tuition,Fpt,Sfr</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MICHAEL MANGIA</kinName><relationship>FATHER</relationship><postalAddress>PO BOX31</postalAddress><physicalAddress>MBEYA</physicalAddress><fax></fax><telephone>+255766941437</telephone><mobile>+255766941437</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EVARISTO MICHAEL MANGIA</accountName><bankAccount>0152327163200</bankAccount><bankName>CRDB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2117c81f3438fa822d756e24b17d8263</isaacompletechecksum></student>

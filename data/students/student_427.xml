@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>427</studentId>
+  <studentName>ABDULHAMID LUKAMBAGIRE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KINGS COLLEGE BUDO</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>U0004 152</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KINGS COLLEGE BUDO</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>U0004 573</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAKERERE UNIVERSITY KAMPALA</institutionName>
+      <specialization>BACHELOR OF SCIENCE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>00/U/1599</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ABDULHAMID LUKAMBAGIRE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2602 ARUSHA</postalAddress>
+      <physicalAddress>PLOT 4 PANGANI STREET ARUSHA</physicalAddress>
+      <fax/>
+      <sponsorfax>0658393677</sponsorfax>
+      <mobile>0767393677</mobile>
+      <email>lukhamid@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ARAFAH JUMA MCHINJA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>2602 ARUSHA</postalAddress>
+      <physicalAddress>PLOT 4 PANGANI STREET ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0782924804</telephone>
+      <mobile>0782924804</mobile>
+      <email>ahluka2@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

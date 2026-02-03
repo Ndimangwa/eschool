@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3104</studentId>
+  <studentName>rebecca augustino kashuta</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>kandoto girls science secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2315.0101.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>loleza secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0211.0681.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772342</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Wamkerya  Frola maube</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>P.O.Box 199</postalAddress>
+      <physicalAddress>Bagamoyo</physicalAddress>
+      <fax/>
+      <telephone>00255715080337</telephone>
+      <mobile>00255764918851</mobile>
+      <email>frolamaube@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KASHUTA, REBECCA AUGUSTINO</accountName><bankAccount>0152327966100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7bccac669c468837d5d95e69b44a60de</isaacompletechecksum></student>

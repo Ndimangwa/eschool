@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1078</studentId>
+  <studentName>ANNA VICENTY AKARO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BISMARCK SECONDARY   SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1194-0003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOUNT KILIMANJARO SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TZ015/0002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS'LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es salaam</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>VICENTY AKARO</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>719 MUSOMA</postalAddress>
+      <physicalAddress>MUSOMA</physicalAddress>
+      <fax/>
+      <telephone>0755374533</telephone>
+      <mobile>0784664633</mobile>
+      <email>vicentyakaro@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

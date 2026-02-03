@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7851</studentId>
+  <studentName>RUSSEL B HALAMA</studentName>
+  <accademicHistory><institution><institutionName>ST.JOSEPH MILLENIUM SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3674.0149.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ST.JOSEPH'S CATHEDRAL HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S4692.0594.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>RITHA B HALAMA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 72884 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0754222352</telephone><mobile>0715222352</mobile><email>rithahalama@yahoo.com</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>RITHA B HALAMA</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 72884 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>0754222352</telephone><mobile>0715222352</mobile><email>rithahalama@yahoo.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>RUSSEL BENEDICT HALAMA</accountName><bankAccount>0152212636100</bankAccount><bankName>CRDB BANK</bankName><branchName>CRDB KIJITONYAMA BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>64830fa613a3dda0e4b95dd43862e616</isaacompletechecksum></student>

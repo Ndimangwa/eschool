@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>30</studentId>
+  <studentName>JOHN CHALE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>DODOMA SCONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>88/306</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAZENGO</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>112/080</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMU</institutionName>
+      <specialization>HEALTH LABORATORY</specialization>
+      <levelId>15</levelId>
+      <indexNumber>TU/BSc.HLS/0031</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>MINISTRY OF HEALTH &amp; SOCIAL WELFARE</employerName>
+      <postalAddress>9083, DAR ES SALAAM</postalAddress>
+      <physicalAddress>SAMORA AVENUE</physicalAddress>
+      <telephone>0222120261</telephone>
+      <email>ps@moh.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MINISTRY OF HEALTH &amp; SOCIAL WELFARE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>9083, DAR ES SALAAM</postalAddress>
+      <physicalAddress>SAMORA AVENUE</physicalAddress>
+      <fax/>
+      <sponsorfax>0222120261</sponsorfax>
+      <mobile>0222120262</mobile>
+      <email>ps@moh.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DR TEREZA MGOGWE</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>9, BUMBULI. LUSHOTO.</postalAddress>
+      <physicalAddress>SQ 17</physicalAddress>
+      <fax/>
+      <telephone>0787488273</telephone>
+      <mobile>0787488273</mobile>
+      <email>mgogwe2@live.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

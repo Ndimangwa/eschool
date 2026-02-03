@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2194</studentId>
+  <studentName>UPENDO.K MASSAWE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>OSHARA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO750-0032</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NURSING TRAINING CENTRE-HAYDOM</institutionName>
+      <specialization>DIPLOMA IN NURSING</specialization>
+      <levelId>8</levelId>
+      <indexNumber>10159</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>G.S.F</employerName>
+      <postalAddress>box3010</postalAddress>
+      <physicalAddress>K.C.M.C MOSHI</physicalAddress>
+      <telephone>002550272754377</telephone>
+      <email>kcmcadmin@kcmc.ac.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522272432</sponsorfax>
+      <mobile>0025522272432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>YONA  A SAM</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>103</postalAddress>
+      <physicalAddress>LAWATE-SANYA JUU.</physicalAddress>
+      <fax/>
+      <telephone>00255767326882</telephone>
+      <mobile>00255767326882</mobile>
+      <email>samy@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

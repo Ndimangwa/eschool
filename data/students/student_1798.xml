@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1798</studentId>
+  <studentName>CLEMENT K MAINGU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ITAGA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0111/0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IHUNGO BOYS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0109-0546</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>william kabhaya</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>11426</postalAddress>
+      <physicalAddress>nyegezi mwanza</physicalAddress>
+      <fax/>
+      <sponsorfax>0786683907</sponsorfax>
+      <mobile>0786541800</mobile>
+      <email>cmaingu@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>william kabhaya</kinName>
+      <relationship>father</relationship>
+      <postalAddress>11426</postalAddress>
+      <physicalAddress>nyegezi mwanza</physicalAddress>
+      <fax/>
+      <telephone>0786683907</telephone>
+      <mobile>0786541800</mobile>
+      <email>cmaingu@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

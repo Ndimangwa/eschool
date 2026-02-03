@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>923</studentId>
+  <studentName>MARTHA MTEGA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>CAGLIERO GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0225/0047</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IFUND GIRLS HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0276/0580</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 Dar es salaam</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0222669037</sponsorfax>
+      <mobile>0222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALBERT MTEGA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>9103 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SA LAAM</physicalAddress>
+      <fax/>
+      <telephone>0786000652</telephone>
+      <mobile>0769420417</mobile>
+      <email>mtega@gapcogroup.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

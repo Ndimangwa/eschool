@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4013</studentId>
+  <studentName>MUSSA RAMADHAN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MWAKIBETE SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3138.0206.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIBITI  HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0413.0629.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.Box 76068 dar</postalAddress>
+      <physicalAddress>P.O.Box 76068 dar</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>KHALID KANYAWANA</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>p.o box 3346 mbeya</postalAddress>
+      <physicalAddress>p.o box 3346 mbeya</physicalAddress>
+      <fax/>
+      <telephone>0755223754</telephone>
+      <mobile>0755223754</mobile>
+      <email>mussar697@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>RAMADHAN, MUSSA</accountName><bankAccount>0152422874300</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>5977d155ef1be9b14efdf6833c1bf290</isaacompletechecksum></student>

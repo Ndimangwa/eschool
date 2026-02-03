@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3245</studentId>
+  <studentName>NEEMA GERVAS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST THOMAS AQUINAS SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1049.0048.2005</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA GIRLS SEC SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0220.0544.2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>SENGEREMA CLINICAL OFFICERS TRAINING CENTER</institutionName>
+      <specialization>DIPLOMA IN CLINICAL MEDICINE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>35770</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED KWIMBA</employerName>
+      <postalAddress>88</postalAddress>
+      <physicalAddress>NGUDU-KWIMBA</physicalAddress>
+      <telephone>0732980528</telephone>
+      <email>dedkwimba@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>HELENA ISMAIL</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>198</postalAddress>
+      <physicalAddress>KAKOLA-KAHAMA</physicalAddress>
+      <fax/>
+      <telephone>0754062287</telephone>
+      <mobile>0754062287</mobile>
+      <email>ismailh67@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>GERVAS, NEEMA</accountName><bankAccount>0152327966600</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>99093b3d429d545c66a15a4e16cf70db</isaacompletechecksum></student>

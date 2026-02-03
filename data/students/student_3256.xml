@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3256</studentId>
+  <studentName>GERALD JONATHAN ZAKAYO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BIHAWANA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0103.0024.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KWIRO SECONDARY SCHOOL</institutionName>
+      <specialization>PCM</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0123.0627.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EVA ELINIPENDA KISIMBO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>79</postalAddress>
+      <physicalAddress>TUriani</physicalAddress>
+      <fax/>
+      <telephone>0653534688</telephone>
+      <mobile>0653534688</mobile>
+      <email>Gerrymaggy.gm@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ZAKAYO, GERALD JONATHAN</accountName><bankAccount>0152204974500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>96353a9a6fe3eebfde9a3e1d63d44629</isaacompletechecksum></student>

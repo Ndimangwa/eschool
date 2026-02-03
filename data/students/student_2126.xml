@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2126</studentId>
+  <studentName>kwesiga ivan</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>lyc&#xE9;e de kigali</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S010113/054</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>lyc&#xE9;e de kigali</institutionName>
+      <specialization>MCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>0101013MCB/054</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>nziza ephrem</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>2630</postalAddress>
+      <physicalAddress>kigali</physicalAddress>
+      <fax/>
+      <sponsorfax>00752500165</sponsorfax>
+      <mobile>0752500165</mobile>
+      <email>kwesiga17ivan@yaho.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>nziza ephrem</kinName>
+      <relationship>father</relationship>
+      <postalAddress>2630</postalAddress>
+      <physicalAddress>kigali</physicalAddress>
+      <fax/>
+      <telephone>00752500165</telephone>
+      <mobile>0752500165</mobile>
+      <email>kwesiga17ivan@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

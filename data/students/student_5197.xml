@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5197</studentId>
+  <studentName>MONICA NTABAGO</studentName>
+  <accademicHistory><institution><institutionName>ARUSHA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0302.0189.2007</indexNumber><award>CSE</award><grade>DIVISION THREE</grade><startYear>2004</startYear><endYear>2007</endYear></institution><institution><institutionName>LONGIDO SECONDARY SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0857.0570.2010</indexNumber><award>ASE</award><grade>DIVISION FOUR</grade><startYear>2008</startYear><endYear>2010</endYear></institution><institution><institutionName>KCMC SCHOOL OF NURSING</institutionName><specialization>NURSE</specialization><levelId>12</levelId><indexNumber>32924</indexNumber><award>DIPLOMA IN NURSING</award><grade> FIRST CLASS</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax/><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MARY MALISA</kinName><relationship>MOTHER</relationship><postalAddress>PO BOX 13084 ARUSHA</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0754361534</telephone><mobile>0754361534</mobile><email>Moniqntabago@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>MONICA NTABAGO</accountName><bankAccount>3002111427754</bankAccount><bankName>EQUITY</bankName><branchName>ARUSHA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6c0d9ecd0d11f18e4c807eb4d535d41a</isaacompletechecksum></student>

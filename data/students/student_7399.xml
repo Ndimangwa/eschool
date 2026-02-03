@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7399</studentId>
+  <studentName>Waziri H Mcharo</studentName>
+  <accademicHistory><institution><institutionName>KCMUCo</institutionName><specialization>diploma in Health laboratory science</specialization><levelId>8</levelId><indexNumber>S1272.0077.2017</indexNumber><award>Certificate of secondary eduction</award><grade>Division two</grade><startYear>2015</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>0ce55ccb0cf7949c7f6f9c193d82102c</isaacompletechecksum></student>

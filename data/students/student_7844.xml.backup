@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7844</studentId>
+  <studentName>DAVID E. SHAMALE</studentName>
+  <accademicHistory><institution><institutionName>MARIAN BOYS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4213.0022.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ALPHA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S2549.0587.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESBL</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEE,MA, BS</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DOMINIC MALLYA</kinName><relationship>GUARDIAN</relationship><postalAddress>P.O.BOX 90320,DAR ES SALAAM</postalAddress><physicalAddress>MIKOCHENI B</physicalAddress><fax/><telephone>+255715905696</telephone><mobile>+255754905696</mobile><email>dominicmallya.dm@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>DAVID E. SHAMALE</accountName><bankAccount>23510015352</bankAccount><bankName>NMB</bankName><branchName>TEGETA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>986457e78169b643afc0cffb53e96a07</isaacompletechecksum></student>

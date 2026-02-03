@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6546</studentId>
+  <studentName>WAMBURA CHACHA</studentName>
+  <accademicHistory><institution><institutionName>SUBA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1105.0090.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MINAKI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0133.0741.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUITION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CHACHA KIHENGU</kinName><relationship>FATHER</relationship><postalAddress>P.0 BOX 5015</postalAddress><physicalAddress>DODOMA</physicalAddress><fax>+255262322116</fax><telephone>+255262322848</telephone><mobile>0754635306</mobile><email>rkihengu@yahoo.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>VENANCE WAMBURA CHACHA </accountName><bankAccount>40310047939</bankAccount><bankName>NMB</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>580672bba04c998d267330acf08950e4</isaacompletechecksum></student>

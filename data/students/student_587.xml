@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>587</studentId>
+  <studentName>ANASTAZIA MASSAWE BRUNO </studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISALE</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0795.0004.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA GIRLS </institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0220.0506.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Box 76068 Dar es salaam</postalAddress>
+      <physicalAddress>Box 76068 Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>002552772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>INOCENCIA MASSAWE BRUNO</kinName>
+      <relationship>SISTER</relationship>
+      <postalAddress>Box 243 Mkuu Rombo</postalAddress>
+      <physicalAddress>Box 103 Mkuu Rombo</physicalAddress>
+      <fax/>
+      <telephone>002552772433</telephone>
+      <mobile>0757320002</mobile>
+      <email>joram@baraka.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>BRUNO, ANASTAZIA M</accountName><bankAccount>0152489020100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2fa61d41116995c7f17fd4e16a85fcc9</isaacompletechecksum></student>

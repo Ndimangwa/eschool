@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5100</studentId>
+  <studentName>ALFAYO L NDEESE</studentName>
+  <accademicHistory><institution><institutionName>ARUSHA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0302.0242.2012</indexNumber><award>CSE</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>LYAMUNGO SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0125.0859.2015</indexNumber><award>ACSE</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>POBOX 76068</postalAddress><physicalAddress>DAR ES SALAAM  TANZANIA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem>TUITION FEE AND ACCOMMODATION </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>LEMBRIS NDEESE KIVUYO</kinName><relationship>FATHER</relationship><postalAddress>POBOX 548</postalAddress><physicalAddress>KIRIKA ARUSHA</physicalAddress><fax></fax><telephone>0753222891</telephone><mobile>0753222891</mobile><email>alfayonindeese@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ALFAYO L NDEESE</accountName><bankAccount>00000000000</bankAccount><bankName>CRDB BANK </bankName><branchName>MOSHI </branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e480536ba99778985fc0e2f1e1d1083b</isaacompletechecksum></student>

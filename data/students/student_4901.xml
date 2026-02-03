@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4901</studentId>
+  <studentName>ELIMRINGI.H.NGAO</studentName>
+  <accademicHistory><institution><institutionName>MAK0NGO HIGH SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S0731.0387.2005</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2002</startYear><endYear>2005</endYear></institution><institution><institutionName>PUGU HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0147.0763.2008</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION FOUR</grade><startYear>2006</startYear><endYear>2008</endYear></institution><institution><institutionName>EAST WEST INSTITUTE OF TECHNOLOGY</institutionName><specialization>SCIENCE</specialization><levelId>12</levelId><indexNumber>09BAU12CML160.2013</indexNumber><award>DIPLOMA IN MEDICAL LABORATORY</award><grade>SECOND CLASS</grade><startYear>2009</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 </postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+2552222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>DONALD NGAO MARIKI</kinName><relationship>UNCLE</relationship><postalAddress>P.O.BOX 2 MWIKA MSAE</postalAddress><physicalAddress>MWIKA MSAE</physicalAddress><fax></fax><telephone>0715907790</telephone><mobile>0715907790</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ELIMRINGI HANNINGTON NGAO</accountName><bankAccount>60910002250</bankAccount><bankName>NMB</bankName><branchName>KYELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2400731312aee2a0933b1f7353657a68</isaacompletechecksum></student>

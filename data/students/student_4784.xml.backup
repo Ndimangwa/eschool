@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4784</studentId>
+  <studentName>GABRIEL WILFRED MBWETE</studentName>
+  <accademicHistory><institution><institutionName>IRAMBO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0460.0042.1987</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION THREE</grade><startYear>1984</startYear><endYear>1987</endYear></institution><institution><institutionName>MEDICAL TRAINING CENTRE- TANGA</institutionName><specialization>CLINICAL MEDICINE</specialization><levelId>12</levelId><indexNumber>CO/TA.3384</indexNumber><award>DIPLOMA IN CLINICAL MEDICINE</award><grade>ORDINARY DIPLOMA</grade><startYear>1988</startYear><endYear>1991</endYear></institution><institution><institutionName>INTERNATIONAL MEDICAL AND TECHNOLOGICAL UNIVERSITY</institutionName><specialization>MEDICAL OFFICER</specialization><levelId>15</levelId><indexNumber>2006 CM 48</indexNumber><award>DEGREE OF MEDICINE</award><grade>GPA 3.0</grade><startYear>2006</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>MUHIMBILI NATIONAL HOSPITAL</employerName><postalAddress>P.O.BOX 65000</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222150534</fax><telephone>+255222151367</telephone><mobile/><email/><startYear>2013</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>GABRIEL MBWETE</sponsorName><payerId>1</payerId><postalAddress>P.O.BOX 65000</postalAddress><physicalAddress>TABATA DAR ES SALAAM</physicalAddress><fax/><telephone/><mobile>0713466719</mobile><email>mbwetegabriel@yahoo.com</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>GABRIEL W. MBWETE</accountName><bankAccount>20301606112</bankAccount><bankName>NMB</bankName><branchName>ILALA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>fed4fe4588e15b22a6b52dc8cea5b282</isaacompletechecksum></student>

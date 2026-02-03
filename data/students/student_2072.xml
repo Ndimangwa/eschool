@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2072</studentId>
+  <studentName>James Mziray</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Arusha Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S302/0189</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Moshi Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134/0558</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>Arusha Municipal Council</employerName>
+      <postalAddress>3013</postalAddress>
+      <physicalAddress>Arusha</physicalAddress>
+      <telephone>002550272508073</telephone>
+      <email>jam00086@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Rahel Mrema</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>188</postalAddress>
+      <physicalAddress>Monduli,Arusha</physicalAddress>
+      <fax/>
+      <telephone>0786925263</telephone>
+      <mobile>0786925263</mobile>
+      <email>jam00086@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

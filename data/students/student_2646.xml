@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2646</studentId>
+  <studentName>ADNAN MEHBOOB SADIQ</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. MARY'S SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>R039490</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST. MARY'S SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>D 0236 063 2</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0330</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MEHBOOB M. SADIQ</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. BOX 822, MOSHI</postalAddress>
+      <physicalAddress>LEMA ROAD, SHANTI TOWN, MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272753034</sponsorfax>
+      <mobile>0754306140</mobile>
+      <email>mehboob_sadiq@hotmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MEHBOOB M. SADIQ</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.o. BOX 822, MOSHI</postalAddress>
+      <physicalAddress>LEMA ROAD, SHANTI TOWN, MOSHI</physicalAddress>
+      <fax/>
+      <telephone>00255272753034</telephone>
+      <mobile>0754306140</mobile>
+      <email>mehboob_sadiq@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

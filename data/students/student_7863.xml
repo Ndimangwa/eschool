@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7863</studentId>
+  <studentName>SECONDARY</studentName>
+  <accademicHistory><institution><institutionName>MAUA SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0130.0021.2012</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>MOSHI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>4</levelId><indexNumber>S0134.0575.2016</indexNumber><award>CERTIFICATE IN ADVANCED SECONDARY EDUCATION</award><grade>GPA 1.7</grade><startYear>2013</startYear><endYear>2015</endYear></institution><institution><institutionName>INTERNATIONAL MEDICAL AND TECHNOLOGICAL UNIVERSITY </institutionName><specialization>MBBS</specialization><levelId>15</levelId><indexNumber>2015 CM 83</indexNumber><award>ACADEMIC TRANSCRIPT</award><grade>GPA 2.6</grade><startYear>2015</startYear><endYear>2016</endYear></institution><institution><institutionName>INTERNATIONAL MEDICAL AND TECHNOLOGICAL UNIVERSITY</institutionName><specialization>MBBS</specialization><levelId>15</levelId><indexNumber>2015 CM 83</indexNumber><award>ACADEMIC TRANSCRIPT</award><grade>2.4</grade><startYear>2016</startYear><endYear>2017</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR-ES-SALAAM</postalAddress><physicalAddress>Sam Nujoma </physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PETER MICHAEL MASSEU</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 2025 </postalAddress><physicalAddress>SHINYANGA</physicalAddress><fax></fax><telephone>0755860112</telephone><mobile>0755544012</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JOHN PETER MASEU</accountName><bankAccount>0152361565500</bankAccount><bankName>CRDB BANK </bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3493fd4cf0e4ab7b6262ef619053cfda</isaacompletechecksum></student>

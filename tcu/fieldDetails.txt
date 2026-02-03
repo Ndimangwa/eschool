@@ -1,0 +1,28 @@
+TCU_APPLICATION
+1. firstName
+2. secondName
+3. surname
+4. gender 
+5. nationality
+6. impairment
+7. dateOfBirth
+8. f4indexno
+9. f6indexno
+10. diplomaRegNo
+11. priority1    //same_as programme_code ie MD1 means Physics , programme_name ie Physics
+12. priority2
+13. priority3
+14. priority4
+15. priority5
+16. institution_code 
+17. institution_name
+18. applicant_category
+19. alevelPoints_gpa # for those years which were using GPA [BRN]
+20. Olevel_Points
+21. Olevel_Results
+22. OtherFormFourIndexNumbers 
+23. OtherFormSixIndexNumbers 
+24. diploma_name
+25. diploma_Institution
+26. diploma_graduation_year
+

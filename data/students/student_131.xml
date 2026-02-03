@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>131</studentId>
+  <studentName>ROZINA  P MOSHI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>OLOIRIEN SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3884-OO94</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILAKALA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0206-0586</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es saiaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522277243</sponsorfax>
+      <mobile>0025522277243</mobile>
+      <email>info@hesib.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PIUS BATHOLOMEO MOSHI</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>3071</postalAddress>
+      <physicalAddress>ARUSHA</physicalAddress>
+      <fax/>
+      <telephone>0752225762</telephone>
+      <mobile>0752225762</mobile>
+      <email>chengeneema@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2643</studentId>
+  <studentName>Joshua G. Gidabayda</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Dongobesh Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>so453-0055</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Moshi Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>so134-0551</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Kilimanjaro Christian Medical University College</institutionName>
+      <specialization>Doctor of medicine</specialization>
+      <levelId>15</levelId>
+      <indexNumber>K0287</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>RAS-Manyara</employerName>
+      <postalAddress>P. O Box 310</postalAddress>
+      <physicalAddress>Babati, Manyara</physicalAddress>
+      <telephone>0272530267</telephone>
+      <email>rasmanyara@manyara.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Haydom Lutheran Hospital</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O Box 9000</postalAddress>
+      <physicalAddress>haydom,Mbulu</physicalAddress>
+      <fax/>
+      <sponsorfax>0272533194</sponsorfax>
+      <mobile>0272533194</mobile>
+      <email>post@haydom.co.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>aneth Olotu</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>P. O Box 9000</postalAddress>
+      <physicalAddress>Haydom,Mbulu</physicalAddress>
+      <fax/>
+      <telephone>0789535381</telephone>
+      <mobile>0716081216</mobile>
+      <email>annejoggs@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

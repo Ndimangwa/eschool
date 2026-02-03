@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>859</studentId>
+  <studentName>Kelvin Kenan Ngimbudzi</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>IKUNA SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1331.0096.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIGONSERA SEC SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0120.0618.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students Loan Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O Box 76068</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222669037</sponsorfax>
+      <mobile>0255222669036</mobile>
+      <email>info@helsb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Kenan Ngimbudzi</kinName>
+      <relationship>father</relationship>
+      <postalAddress>P.O Box 97</postalAddress>
+      <physicalAddress>Njombe</physicalAddress>
+      <fax/>
+      <telephone>0763482087</telephone>
+      <mobile>0763482087</mobile>
+      <email>kenantn1993@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NGIMBUDZI, KELVIN KENAN</accountName><bankAccount>0152327717900</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2acb22e6dd9a85a29684fb0f547c0dda</isaacompletechecksum></student>

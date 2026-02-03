@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7920</studentId>
+  <studentName>JANETH K JACOB</studentName>
+  <accademicHistory><institution><institutionName>KATORO SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S1397.0050.2016</indexNumber><award>DIVISION TWO</award><grade>21</grade><startYear>2013</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>SUZANA SAMSONI</sponsorName><payerId>3</payerId><postalAddress>P.OBOX490</postalAddress><physicalAddress>GEITA</physicalAddress><fax>0742389601</fax><telephone>0742389601</telephone><mobile>0742389601</mobile><email>tonymaksa@gmail.com</email><financedItem>SHE</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>n/a</accountName><bankAccount>n/a</bankAccount><bankName>n/a</bankName><branchName>n/a</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7075676982057487c8fb6998654ceab9</isaacompletechecksum></student>

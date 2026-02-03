@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>311</studentId>
+  <studentName>Emmanuel Ngwiza Jacob</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Ngokolo secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1925.0077.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Moshi technical school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0135.0580.2013</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Sam Nujoma Road,Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Zacharia Ngwiza</kinName>
+      <relationship>uncle</relationship>
+      <postalAddress>1185</postalAddress>
+      <physicalAddress>SHINYANGA</physicalAddress>
+      <fax/>
+      <telephone>+255027273616</telephone>
+      <mobile>+255754672938</mobile>
+      <email>Emmanueljacob7@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>JACOB, EMMANUEL NG'WIZA</accountName><bankAccount>30710004325</bankAccount><bankName> NMB </bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>dca7d95eadba784bbd9d1f4a77510180</isaacompletechecksum></student>

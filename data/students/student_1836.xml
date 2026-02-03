@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1836</studentId>
+  <studentName>Gwamaka Edward</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mazwi Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0547/0096/2008</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Rungwe High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0149/0605/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068   	Dar es Salaam</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Edward Mwakatundu</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>114 Mbozi</postalAddress>
+      <physicalAddress>Kyela</physicalAddress>
+      <fax/>
+      <telephone>0754990536</telephone>
+      <mobile>0754990536</mobile>
+      <email>edwardmwakatundu@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

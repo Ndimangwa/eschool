@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3151</studentId>
+  <studentName>GOODLUCK ZENOBIUS NDUNGURU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MBINGA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0815.0138.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tosamaganga Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0158.0731.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O Box 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALFONSIA ZENOBIUS NDUNGURU</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P. O Box 50</postalAddress>
+      <physicalAddress>MBINGA</physicalAddress>
+      <fax/>
+      <telephone>0762709022</telephone>
+      <mobile>0767685919</mobile>
+      <email>goodluckndunguru69@Gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>NDUNGURU, GOODLUCK ZENOBIUS</accountName><bankAccount>0152297704500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c3541c393a97472350dc15a4a9063f4e</isaacompletechecksum></student>

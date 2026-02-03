@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3223</studentId>
+  <studentName>fatma y habib</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>WALI-UL-ASR GIRLS SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0254-0009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BAOBAB SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1599-0527</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAr ES SAALAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Sabry Abdallah Sharif</kinName>
+      <relationship>Brother</relationship>
+      <postalAddress>3394</postalAddress>
+      <physicalAddress>DAr ES SAALAM</physicalAddress>
+      <fax/>
+      <telephone>0717573030</telephone>
+      <mobile>0717573030</mobile>
+      <email>coby_hb@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

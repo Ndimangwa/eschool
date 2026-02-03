@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7982</studentId>
+  <studentName>JOSHUA R. ALPHONCE</studentName>
+  <accademicHistory><institution><institutionName>WINAM CAREER SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3777.0069.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2013</startYear><endYear>2010</endYear></institution><institution><institutionName>NDANDA SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0338.0869.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT'S LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>SAM NUJOMA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ALPHONCE MTANI</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 525 BUKOLI</postalAddress><physicalAddress>GEITA</physicalAddress><fax></fax><telephone>+255222772432</telephone><mobile>0752826040</mobile><email>alphonjr1@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>JOSHUA ROBERT ALPHONCE</accountName><bankAccount>23510014721</bankAccount><bankName>NMB</bankName><branchName>TEGETA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>34b5d873527855835941f0de708baa81</isaacompletechecksum></student>

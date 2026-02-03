@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7255</studentId>
+  <studentName>CRISTOVAO DANIEL MATSINHE</studentName>
+  <accademicHistory><institution><institutionName>EDUARDO MONDLANE UNIVERSITY</institutionName><specialization>MEDICINE</specialization><levelId>15</levelId><indexNumber>E2004.1611.0012</indexNumber><award>MEDICINE</award><grade>MEDICAL DOCTOR</grade><startYear>2004</startYear><endYear>2010</endYear></institution><institution><institutionName>MATOLA SECONDARY SCHOOL</institutionName><specialization>PRE-UNIVERSITY</specialization><levelId>4</levelId><indexNumber>E0002.0016.2002</indexNumber><award>SECONDARY LEVEL</award><grade>SECONDARY EDUCATION</grade><startYear>2000</startYear><endYear>2002</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>LIGHT FOR THE WORLD</sponsorName><payerId>8</payerId><postalAddress>NIEDERHOFSTRASSE 26, A-1120</postalAddress><physicalAddress>VIENNA AUSTRIA</physicalAddress><fax>+431810130015</fax><telephone>+431810130043</telephone><mobile/><email>s.schneider@light-for-the-world.org</email><financedItem>TRAINNING</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ARLETE AMERICO MUCIVAME</kinName><relationship>WIFE</relationship><postalAddress>PO BOX50</postalAddress><physicalAddress>MAPUTO</physicalAddress><fax></fax><telephone>+258827479672</telephone><mobile>+258827479672</mobile><email>arletovao@gmai.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>CRISTOVAO DANIEL MATSINHE</accountName><bankAccount>0252223576</bankAccount><bankName>CRDBB</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e7c3128c55b545082ca1039a43f3c91f</isaacompletechecksum></student>

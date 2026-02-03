@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>283</studentId>
+  <studentName>omega sanga</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ifunda techinical school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.0108/0182</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mzumbe secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s.0140/0530</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o box 76068;dar</postalAddress>
+      <physicalAddress>sam nujoma road,mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>godfrey seth sanga</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>p.o box 91,morogoro</postalAddress>
+      <physicalAddress>morogoro,kilosa</physicalAddress>
+      <fax/>
+      <telephone>0712710882</telephone>
+      <mobile>0712710882</mobile>
+      <email>tullyseth@yahoo.co.uk</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

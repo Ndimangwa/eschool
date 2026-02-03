@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3960</studentId>
+  <studentName>salama mohamed</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>umoja</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3439.0053.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>songea girls</institutionName>
+      <specialization>cbg</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0219.0642.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068,Dsm</postalAddress>
+      <physicalAddress>76068,Dsm</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>salama</kinName>
+      <relationship>aunt</relationship>
+      <postalAddress>92,mtwara</postalAddress>
+      <physicalAddress>92,mtwara</physicalAddress>
+      <fax/>
+      <telephone>0717235478</telephone>
+      <mobile>0717235478</mobile>
+      <email>mohamedsalama@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MOHAMED, SALAMA</accountName><bankAccount>0152489527100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3b0856839513d13ac3ba69d96c0afbad</isaacompletechecksum></student>

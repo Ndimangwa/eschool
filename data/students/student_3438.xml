@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3438</studentId>
+  <studentName>chantal rwassa ayoub</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>centre scolaire congolais de kigoma</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>73024</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>centre scolaire congolais de kigoma</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>73024</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>002552227724323</sponsorfax>
+      <mobile>002552227724323</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>chantal rwassa ayoub</kinName>
+      <relationship>single</relationship>
+      <postalAddress>p.o box 1024 kigoma</postalAddress>
+      <physicalAddress>kigoma</physicalAddress>
+      <fax/>
+      <telephone>00255758855561</telephone>
+      <mobile>00255758855561</mobile>
+      <email>chantalayub@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

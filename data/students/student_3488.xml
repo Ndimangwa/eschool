@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3488</studentId>
+  <studentName>PETER  GONDWE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KARONGA CCAP GIRLS OPEN</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>2640/0154</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>ALL MEDICAL LAB SCIENCES</specialization>
+      <levelId>8</levelId>
+      <indexNumber>DMLS000126</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068</postalAddress>
+      <physicalAddress>PLOT No.8,Block No.46,Sam Nujoma</physicalAddress>
+      <fax/>
+      <sponsorfax>0025522277432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ANNA LYAKUNDI</kinName>
+      <relationship>COUSIN</relationship>
+      <postalAddress>C/O box 105984</postalAddress>
+      <physicalAddress>Moshi,shanti town</physicalAddress>
+      <fax/>
+      <telephone>0657664216</telephone>
+      <mobile>0682063301</mobile>
+      <email>annalyakundi@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

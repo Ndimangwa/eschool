@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>614</studentId>
+  <studentName>ANGEL KAJELELO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>JANGWANI SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.02040018</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JANGWANI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0204-0504</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 76068</postalAddress>
+      <physicalAddress>PO BOX 76068 DSM</physicalAddress>
+      <fax/>
+      <sponsorfax>+2552222669039</sponsorfax>
+      <mobile>+255222669037</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ESTHER KAJELELO</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>PO BOX 25411</postalAddress>
+      <physicalAddress>PO BOX 25411 DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0755550908</telephone>
+      <mobile>002557550908</mobile>
+      <email>estherkajelelo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

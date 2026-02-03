@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4660</studentId>
+  <studentName>JULIANA DEUSDEDITH</studentName>
+  <accademicHistory><institution><institutionName>BWIRU SECONDARY</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0202.0520.2015</indexNumber><award>CREDIT</award><grade>CREDIT OF 1.7</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>749b5d674830cd4a5a5c81d4c7f40ee4</isaacompletechecksum></student>

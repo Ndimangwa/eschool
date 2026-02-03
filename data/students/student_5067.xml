@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5067</studentId>
+  <studentName>FAUSTA LUKUNDO NSHUSHI</studentName>
+  <accademicHistory><institution><institutionName>BROOKE BOND SECONDRY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1267.0004.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ALLIANCE GIRLS SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S4836.0509.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR-ES-ALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>RESPICH NSHUSHI</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 1166 MAKAMBAKO</postalAddress><physicalAddress>NJOMBE</physicalAddress><fax/><telephone>0768827281</telephone><mobile>0768827281</mobile><email>respich1@yahoo.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>FAUSTA LUKUNDO NSHUSHI</accountName><bankAccount>0152201533600</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>3b87767f87b361ad51a0013e527be5de</isaacompletechecksum></student>

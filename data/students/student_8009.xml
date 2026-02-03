@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>8009</studentId>
+  <studentName>solomon daudi banat</studentName>
+  <accademicHistory><institution><institutionName>KATESH SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1211.0096.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>three</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MKUU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0544.0748.2016</indexNumber><award>ACSEE</award><grade>DIVISION THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>DAUDI B THLANKA</sponsorName><payerId>3</payerId><postalAddress>KATESH</postalAddress><physicalAddress>KATESH</physicalAddress><fax/><telephone/><mobile>0684223957</mobile><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PRAYGOD HUMPHREY</kinName><relationship>BROTHER</relationship><postalAddress>MOSHI </postalAddress><physicalAddress>MAJENGO-MOSHI</physicalAddress><fax></fax><telephone>0657201153</telephone><mobile>0657201153</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName> DAUDI B THLANKA</accountName><bankAccount>410024932</bankAccount><bankName>NMB BANK</bankName><branchName>KATESH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>329f1fade8711d9fc429976552a2b911</isaacompletechecksum></student>

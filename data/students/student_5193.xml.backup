@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5193</studentId>
+  <studentName>DOREEN MTAJE MGAYO</studentName>
+  <accademicHistory><institution><institutionName>MARIA DE MATTIAS SECONDARY SCOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S4207.0017.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>HURUMA GIRLS SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0256.0515.2016</indexNumber><award>ADAVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068,dar es salaam</postalAddress><physicalAddress>sam nujoma Road,Mwenge,dar es salaam</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>DOREEN MGAYO</accountName><bankAccount>0152449373000</bankAccount><bankName>CRDB</bankName><branchName>DODOMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c93ebd3fbf79367df268d3617250c8fd</isaacompletechecksum></student>

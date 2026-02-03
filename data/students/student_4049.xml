@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4049</studentId>
+  <studentName>AGNETHA RWEGASIRA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>RONECA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0284.0002.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NGANZA HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0216.0692.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT'S LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>KIMWERI COMPLEX MSASANI</physicalAddress>
+      <fax/>
+      <sponsorfax>0222669036</sponsorfax>
+      <mobile>002555222669036</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>FERDINAND RWEGASIRA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>72. KYERWA</postalAddress>
+      <physicalAddress>length32</physicalAddress>
+      <fax/>
+      <telephone>00222669035</telephone>
+      <mobile>0784484891</mobile>
+      <email>tindama@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>RWEGASIRA, AGNETHA</accountName><bankAccount>0152432002000</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>084fac3b594a8a1bf06ef4c384a67e17</isaacompletechecksum></student>

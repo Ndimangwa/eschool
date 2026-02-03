@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5534</studentId>
+  <studentName>WENSESLAUS HAMIS SHIJA</studentName>
+  <accademicHistory><institution><institutionName>NYANG'HWALE SECONDARY SCHOOL</institutionName><specialization>CERTIFICATE OF SECONDARY EDUCATION</specialization><levelId>4</levelId><indexNumber>S0670.0126.2008</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2005</startYear><endYear>2008</endYear></institution><institution><institutionName>KILIMANJARO CHRISTIAN MEDICAL UNIVERSITY COLLEGE</institutionName><specialization>HEALTH LABORATORY SCIENCES</specialization><levelId>12</levelId><indexNumber>TU/KCMUCo/DHLSc.2011/TZ/0181</indexNumber><award>DIPLOMA IN HEALTH LABORATORY SCIENCES</award><grade>B+</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES AND ACCOMMODATION</financedItem><extraInformation>NONE</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MARTIN HAMIS SHIJA</kinName><relationship>BROTHER</relationship><postalAddress>P.O BOX 35886</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>0767203090</fax><telephone>0767203090</telephone><mobile>0767203090</mobile><email>marshaly.tz@gmail.com</email><extraInformation>NONE</extraInformation></nextOfKin><nextOfKin><kinName>PAULINA SAMWEL LUBEBA</kinName><relationship>MOTHER</relationship><postalAddress>NIL</postalAddress><physicalAddress>MWANZA</physicalAddress><fax>0752984480</fax><telephone>0752984480</telephone><mobile>0752984480</mobile><email>shijawenceslaus@yahoo.com</email><extraInformation>NONE</extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>WENCESLAUS HAMISI SHIJA</accountName><bankAccount>0152328056500</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>229f7116efc594e7d3b425b8112a453d</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>500</studentId>
+  <studentName>YEKONIA A TWEVE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST JOSEPH KILOCHA SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0190-0035</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>EAGLES SECONDARY SCHOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S2354-0574</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ALFRED BITIN TWEVE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>3851</postalAddress>
+      <physicalAddress>DER ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0784381103</sponsorfax>
+      <mobile>0784381103</mobile>
+      <email>yekonia2001@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALFRED BITIN TWEVE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>3851</postalAddress>
+      <physicalAddress>DAR ES SALAM</physicalAddress>
+      <fax/>
+      <telephone>0784381103</telephone>
+      <mobile>0784381103</mobile>
+      <email>yeonia2001@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

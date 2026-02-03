@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2543</studentId>
+  <studentName>TAMARA SHEDRACK</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MARIAN GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0248/0058</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIFUNGILO GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0224/0540</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HELSB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 76068</postalAddress>
+      <physicalAddress>Dar Es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272758770</sponsorfax>
+      <mobile>00255272758770</mobile>
+      <email>Info@heslb.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MRS BETTY MACHANGU</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O. BOX 2040 DSM</postalAddress>
+      <physicalAddress>MBEZI BEACH KAWE DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0784282554</telephone>
+      <mobile>0784282554</mobile>
+      <email>betrices@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

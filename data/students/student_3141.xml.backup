@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3141</studentId>
+  <studentName>MILKA AMOS</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ANDERLEK RIDGES SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.3861/0036</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ST.JOSEPH CATHEDRAL HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.4692/0531</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>AMOS KANUDA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 159</postalAddress>
+      <physicalAddress>NZEGA</physicalAddress>
+      <fax/>
+      <telephone>0687082913</telephone>
+      <mobile>0687082913</mobile>
+      <email>Milkaamos76@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

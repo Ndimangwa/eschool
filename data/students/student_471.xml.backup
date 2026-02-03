@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>471</studentId>
+  <studentName>EVA DEOGRATIUS BUBELWA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>BAOBAB SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1599/0036/2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BAOBAB SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1599/0537/2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>DEOGRATIUS BUBELWA CELESTINE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>104860, DARESSALAAM</postalAddress>
+      <physicalAddress>BAGAMOYO</physicalAddress>
+      <fax/>
+      <sponsorfax>0713310503</sponsorfax>
+      <mobile>0784565617</mobile>
+      <email>deocelestine@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>DEOGRATIUS BUBELWA CELESTINE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>104860, DARESSALAAM</postalAddress>
+      <physicalAddress>BAGAMOYO</physicalAddress>
+      <fax/>
+      <telephone>0784565617</telephone>
+      <mobile>0753791617</mobile>
+      <email>deocelestine@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

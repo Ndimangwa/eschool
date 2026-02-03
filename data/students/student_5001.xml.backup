@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5001</studentId>
+  <studentName>YOVITUS MWAKAJILA</studentName>
+  <accademicHistory><institution><institutionName>SAMORA MACHEL SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1361.0126.2013</indexNumber><award>PASS</award><grade>DIVISION1</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>PUGU SECONDARY</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0147.0824.2016</indexNumber><award>PASS</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>DAR ES SALAAM 76068</postalAddress><physicalAddress>DAR ES SALAAM 76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>INFo@heslb.go.tz</email><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>YOVITUS MWAKAJILA</accountName><bankAccount>0152427519500</bankAccount><bankName>CRDB</bankName><branchName>MBALIZI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>00928ca3417ba1e299354aa2c35a2d6f</isaacompletechecksum></student>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>414</studentId>
+  <studentName>Filemon Tenu</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Mbugwe Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0675033</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tosamaganga Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S01580551</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Mzumbe University</institutionName>
+      <specialization>BSc Applied Statistics</specialization>
+      <levelId>15</levelId>
+      <indexNumber>824/t.03</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KILIMANJARO CHRISTIAN MEDICAL COLLEGE</institutionName>
+      <specialization>Epidemiology and Applied Biostatistics</specialization>
+      <levelId>17</levelId>
+      <indexNumber>EAB002</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>NIMR</employerName>
+      <postalAddress>P.O.Box 81</postalAddress>
+      <physicalAddress>Muheza</physicalAddress>
+      <telephone>00255144320</telephone>
+      <email>amani@nimr.or.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Tanzania Commission for Science and Technology</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P. O. Box 4302</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222927543</sponsorfax>
+      <mobile>00255222927543</mobile>
+      <email>info@costech.or.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Leticia Nicodem</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>3010</postalAddress>
+      <physicalAddress>KCMC</physicalAddress>
+      <fax/>
+      <telephone>0255144320</telephone>
+      <mobile>+255784606614</mobile>
+      <email>filemonitenu@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

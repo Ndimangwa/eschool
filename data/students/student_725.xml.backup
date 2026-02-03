@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>725</studentId>
+  <studentName>SAID S PEMBE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SWILLA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1141/0127</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>RUNGWE SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S149/0811</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>seleman pembe</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>533 korogwe</postalAddress>
+      <physicalAddress>morogoro</physicalAddress>
+      <fax/>
+      <sponsorfax>0754595200</sponsorfax>
+      <mobile>0754595200</mobile>
+      <email>Pembe.osp.@Gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>said s pembe</kinName>
+      <relationship>single</relationship>
+      <postalAddress>533 korogwe</postalAddress>
+      <physicalAddress>morigoro</physicalAddress>
+      <fax/>
+      <telephone>0659140379</telephone>
+      <mobile>0659140379</mobile>
+      <email>Saidpembe9@Gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

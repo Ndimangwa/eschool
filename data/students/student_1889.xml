@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1889</studentId>
+  <studentName>EMANUEL MONDAY SAMKY</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PAKULA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S.0920-0091</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>JITEGEMEE HIGH SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S.0496-0702</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>EVA PASCHAL KIRENGA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 900 MOSHI</postalAddress>
+      <physicalAddress>KINONDONI</physicalAddress>
+      <fax/>
+      <sponsorfax>+255682433995</sponsorfax>
+      <mobile>+255714232922</mobile>
+      <email>vumiliakirenga@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>EVA PASCHAL KIRENGA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>P.O.BOX 900 MOSHI</postalAddress>
+      <physicalAddress>KINONDONI</physicalAddress>
+      <fax/>
+      <telephone>+255682433995</telephone>
+      <mobile>+255714232922</mobile>
+      <email>emanuelsamky@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4781</studentId>
+  <studentName>shedrack patrick mbilinyi</studentName>
+  <accademicHistory><institution><institutionName>HIGHLAND SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0312.0229.2013</indexNumber><award>CSE</award><grade>THREE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TUNDURU SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0404.0658.2016</indexNumber><award>ACSE</award><grade>THREE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>PATRICK MBILINYI</sponsorName><payerId>3</payerId><postalAddress>P.O BOX1680 IRINGA</postalAddress><physicalAddress>IRINGA</physicalAddress><fax/><telephone/><mobile>0754464642</mobile><email>mbilinyishadrack20@gmail.com</email><financedItem>everything</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>PATRICK MBILINYI</kinName><relationship>TANZANIA</relationship><postalAddress>P.O BOX1680</postalAddress><physicalAddress>IRINGA</physicalAddress><fax/><telephone>0757200266</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>SHEDRACK MBILINYI</accountName><bankAccount>0152203187000</bankAccount><bankName>CRDB BANK</bankName><branchName>IRINGA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>d2ac7dccc49e7cdb1fc01050e3463a0b</isaacompletechecksum></student>

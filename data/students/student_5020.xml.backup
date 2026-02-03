@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5020</studentId>
+  <studentName>BRIGHTON Z LAZARO</studentName>
+  <accademicHistory><institution><institutionName>NGOKOLO SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1925.0111.2012</indexNumber><award>PASS</award><grade>DIVISSION THREE</grade><startYear>2009</startYear><endYear>2012</endYear></institution><institution><institutionName>TUKUYU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S1043.0595.2015</indexNumber><award>PASS</award><grade>CREDIT</grade><startYear>2013</startYear><endYear>2015</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>CATHERINE MSAFIRI KILIMO</sponsorName><payerId>7</payerId><postalAddress>P.O.BOX 350</postalAddress><physicalAddress>P.O.BOX 350</physicalAddress><fax/><telephone/><mobile>0755730213</mobile><email>catherinebright51@gmail.com</email><financedItem>studies</financedItem><extraInformation>MY SISTER</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>CATHERINE MSAFIRI KILIMO</kinName><relationship> SISTER</relationship><postalAddress>P.O.BOX 350</postalAddress><physicalAddress>P.O.BOX 350</physicalAddress><fax/><telephone>0755730213</telephone><mobile>0755730213</mobile><email>catherinebright51@gmail.com</email><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>KILIMANJARO CHRITIAN MEDICAL COLLEGE</accountName><bankAccount>017101001339</bankAccount><bankName>NATIONAL BANK OF COMMERCE</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>6c81c50b5820ee7ea09cbe399439f9e5</isaacompletechecksum></student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6912</studentId>
+  <studentName>IMRAN HUSSEIN VERSI</studentName>
+  <accademicHistory><institution><institutionName>Al Muntazir Islamic Seminary</institutionName><specialization>O Levels</specialization><levelId>4</levelId><indexNumber>P0023.0034.2010</indexNumber><award>Merit</award><grade>A*,A*,A*,C,C,C,C,C,D</grade><startYear>2007</startYear><endYear>2010</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>KSIJ Dar es Salaam</sponsorName><payerId>8</payerId><postalAddress>P.O.Box 1787</postalAddress><physicalAddress>Morogor road, Mali street</physicalAddress><fax/><telephone/><mobile/><email>ksijhighereducation@gmail.com</email><financedItem>Tuition fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>Hussein Versi</kinName><relationship>Father</relationship><postalAddress>P.O.Box 1787</postalAddress><physicalAddress>Dar es Salaam</physicalAddress><fax></fax><telephone>+255778653233</telephone><mobile>0713315542</mobile><email>husseinversi@gmail.com</email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>None</accountName><bankAccount>None</bankAccount><bankName>None</bankName><branchName>None</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>12b026613c71d89695153164675c4f40</isaacompletechecksum></student>

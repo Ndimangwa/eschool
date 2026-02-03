@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>766</studentId>
+  <studentName>UPENDO MATHEW</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NEW HELLEN SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S2432.0023.2011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DONBOSCO DIDIA SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0883.0512.2014</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MATHEW SHADRACK</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>1331</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <sponsorfax>0784388120</sponsorfax>
+      <mobile>0784388120</mobile>
+      <email>Upendomathew@ymail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MATHEW SHADRACK</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>1331</postalAddress>
+      <physicalAddress>MWANZA</physicalAddress>
+      <fax/>
+      <telephone>0784388120</telephone>
+      <mobile>0784388120</mobile>
+      <email>Upendomathew@ymail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>MATHEW, UPENDO</accountName><bankAccount>0152327642100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e444bdbd15a368a35f56824f862cc01d</isaacompletechecksum></student>

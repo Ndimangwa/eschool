@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>223</studentId>
+  <studentName>Caroline Francis Masanje</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Marian Girls High School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0248/0012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Marian Girls High School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0248/0546</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068,Dar</postalAddress>
+      <physicalAddress>Sam Nujoma Road,Mwenge</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Francis Michael Masanje</kinName>
+      <relationship>Father</relationship>
+      <postalAddress>P.O.BOX 1,Njombe</postalAddress>
+      <physicalAddress>Njombe</physicalAddress>
+      <fax/>
+      <telephone>+255784367630</telephone>
+      <mobile>+255784367630</mobile>
+      <email>drfmasanje@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

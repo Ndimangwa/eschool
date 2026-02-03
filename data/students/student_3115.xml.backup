@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3115</studentId>
+  <studentName>DAVID MADETE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PAMBA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0546-0207</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>NSUMBA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0144-0641</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NOEL MADETE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>6161</postalAddress>
+      <physicalAddress>TANGA</physicalAddress>
+      <fax/>
+      <sponsorfax>0655908532</sponsorfax>
+      <mobile>0655908532</mobile>
+      <email>noelmadete@yahoo.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NOEL MADETE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>6161</postalAddress>
+      <physicalAddress>tanga</physicalAddress>
+      <fax/>
+      <telephone>0655908532</telephone>
+      <mobile>0655908532</mobile>
+      <email>Madetenoel@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

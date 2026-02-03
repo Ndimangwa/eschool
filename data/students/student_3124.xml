@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3124</studentId>
+  <studentName>Fabian A. Msakwa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Igowole Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0580-0010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Fabian A. Msakwa</institutionName>
+      <specialization>HGL</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0449-0511</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>St. Augustine University of Tanzania</institutionName>
+      <specialization>BA in Sociology</specialization>
+      <levelId>15</levelId>
+      <indexNumber>BASO 13080</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Fabian A. Msakwa</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>Mwanza</postalAddress>
+      <physicalAddress>Moshi</physicalAddress>
+      <fax/>
+      <sponsorfax>+255756494211</sponsorfax>
+      <mobile>+255756494211</mobile>
+      <email>fabian.msakwa@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Mary Mushi</kinName>
+      <relationship>Wife</relationship>
+      <postalAddress>Yohakimu Msakwa</postalAddress>
+      <physicalAddress>Iringa</physicalAddress>
+      <fax/>
+      <telephone>+255755533116</telephone>
+      <mobile>+255755533116</mobile>
+      <email>mrymushi@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

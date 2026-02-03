@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5553</studentId>
+  <studentName>VICENT YUSUPH</studentName>
+  <accademicHistory><institution><institutionName>BUPANDAGILA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0439.0092.2013</indexNumber><award>CSE</award><grade>DIVISION ONE POINT 14</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>LULUMBA HIGH SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0607.0597.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE POINT 8</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.0 BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM P.O BOX 76068</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile/><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>YUSUPH BUGUHI</kinName><relationship>PARENT</relationship><postalAddress>P.O BOX 139 SINGIDA</postalAddress><physicalAddress>SINGIDA</physicalAddress><fax></fax><telephone>0767749596</telephone><mobile>0753428319</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>VICENT YUSUPH</accountName><bankAccount>0152201527500</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>1935ae729c8d9ffdc9757afb19818231</isaacompletechecksum></student>

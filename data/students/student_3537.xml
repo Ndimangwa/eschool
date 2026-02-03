@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3537</studentId>
+  <studentName>EPIPHANIA FELIX MASSAWE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIRAENI GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S207/0020</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC SCHOOL OF NURSING</institutionName>
+      <specialization>REGISTERED NURSE</specialization>
+      <levelId>8</levelId>
+      <indexNumber>09732</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED MONDULI</employerName>
+      <postalAddress>BOX 1</postalAddress>
+      <physicalAddress>MONDULI</physicalAddress>
+      <telephone>002552538006</telephone>
+      <email>ded@mondulidistrict.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>LAPF</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 1501</postalAddress>
+      <physicalAddress>DODOMA</physicalAddress>
+      <fax/>
+      <sponsorfax>00255026232</sponsorfax>
+      <mobile>002552321069</mobile>
+      <email>info@lapftz.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>PETER FRANCIS SHEMAHONGE</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>Box 1</postalAddress>
+      <physicalAddress>MONDULI</physicalAddress>
+      <fax/>
+      <telephone>002552538006</telephone>
+      <mobile>002550784459092</mobile>
+      <email>pet8shemahonge@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

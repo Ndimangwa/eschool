@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3107</studentId>
+  <studentName>liberius m libent</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>sacred heart secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S4567.0077.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>tabora boys secondary school</institutionName>
+      <specialization>pcb</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155.0533.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher Education Students' Loans Board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>BOX 76068 Dar es Salaam</postalAddress>
+      <physicalAddress>Dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>libent rutakumwa benedicto</kinName>
+      <relationship>father</relationship>
+      <postalAddress>98,muleba</postalAddress>
+      <physicalAddress>bumbire,muleba</physicalAddress>
+      <fax/>
+      <telephone>0757466134</telephone>
+      <mobile>0757466134</mobile>
+      <email>liberiuslibent796@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>LIBENT, LIBERIUS M</accountName><bankAccount>0152489437400</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>2ca050f5e9b1740bf3b1a0239cefb72e</isaacompletechecksum></student>

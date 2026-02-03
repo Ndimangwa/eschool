@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2943</studentId>
+  <studentName>DINANIKE P KWAYU</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Kibosho Girls Secondary School</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0205.0031.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Bendel Memorial Secondary School</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S1757.0506.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGH EDUCATION STUDENT'S LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>76068</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>Emailinfo@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Dina</kinName>
+      <relationship>Student</relationship>
+      <postalAddress>70862</postalAddress>
+      <physicalAddress>78491</physicalAddress>
+      <fax/>
+      <telephone>0654639889</telephone>
+      <mobile>00255654639889</mobile>
+      <email>dynanike@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>KWAYU, DINANIKE P</accountName><bankAccount>0152327969500</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>c18458a93eb87fb4df2e923842137f75</isaacompletechecksum></student>

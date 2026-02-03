@@ -1,0 +1,159 @@
+Applicant Database
+
+EDIT profile add the following 
+	profile.profileCode //stands for Institution Code 
+	profile.$__ADMISSION_IS_OPEN 
+	profile.admissionAcademicYear
+	profile.admissionFee
+	profile.courseAdmissionLimit , default 3 # Number of Courses Allowed to Apply For 
+	course.authorityId 
+	Course.$__APPROVED_BY_REGULATORY 
+	
+preRequisiteSubjects 
+	subjectId 
+	subjectName
+	subjectCode 
+	extraFilter 
+	extraInformation
+	flags 
+
+gradeSystem
+	systemId 
+	systemName []
+	systemAbbreviation [GPA, Grade, Marks]
+	extraFilter 
+	extraInformation
+	flags 
+	
+regulatoryAuthority 
+	authorityId
+	authorityName # NECTA, National Ed 
+	authorityAbbreviation NECTA
+	extraFilter
+	extraInformation
+	flags 
+	
+
+applicantLogin 
+	loginId
+	firstname
+	middlename
+	lastname
+	formFourRegistrationNumber (*) -- used as username  or loginName 
+	password
+	email
+	phone
+	sexId # ref Sex 
+	qnSecurity
+	ansSecurity
+	extraFilter
+	extraInformation
+	flags
+applicants
+	applicantId 
+	loginId
+	admissionNumber
+	courseList , priority-- based  
+	admissionBatch , apply for which admissionYear , pref profile.currentAdmissionYear  ## Profile.$__ADMISSION_IS_OPEN 
+	disability
+	citizenshipId
+	xmlFile
+	xmlFileChecksum
+	applicationCounter # default.ZERO
+	extraFilter 
+	extraInformation
+	flags
+	
+	applicants::$__HAS_ALREADY_PAID_ADMISSION_FEE = 4
+		
+//Pages in the System
+1. New Application
+2. Pending Application 
+		firstname
+		middlename
+		lastname 
+		Form Four Index Number 
+		Admission Number
+	
+Page No 0: Instruction
+Page 1: Basic Data 
+	firstname
+	middlename
+	lastname 
+	Form Four Index Number 
+	
+Page 2: Generate Admission Number and admissionFee, Generate Approval Request make sure the status is 
+	[Upload the payment receipt(s)]
+	paymentReceipts
+		receipt 
+			amount 
+			scannedReceipt 
+			uploadTime
+
+[Now every page should be checked if hasAlreadyPaidAdmissionFee()]
+Page 3: Enter Selection of Programms you are joining [limit. profile.courseAdmissionLimit]
+		
+Page 4: Academic History
+	academicHistory
+		formFour 
+			indexNumber 
+			otherIndexNumbers
+				[] number 
+			points
+			transcript
+			resultsContainer
+				[] results 
+					subjectName 
+					subjectCode 
+					grade ie A 
+					point  4
+					required [0/1]
+		formSix 
+			indexNumber 
+			otherIndexNumbers
+				[] number 
+			points
+			transcript
+			resultsContainer
+				[] results 
+					subjectName 
+					subjectCode 
+					grade ie A 
+					point  4
+					required [0/1]
+		diploma 
+			diplomaName 
+			diplomaInstitution
+			graduationYear
+			indexNumber 
+			otherIndexNumbers
+				[] number 
+			points
+			transcript
+			resultsContainer
+				[] results 
+					subjectName 
+					subjectCode 
+					grade ie A 
+					point  4
+					required [0/1]
+				
+
+	academicHistory 
+		history 
+			institutionName 
+			indexNumber 
+			otherIndexNumbers
+				[] indexNumber 
+			graduationYear 
+			gradingSystem [GPA, Grade, Marks] 
+			grade [4.5, ]
+			levelName 
+			levelId 
+			resultsContainer
+				[] results 
+					subjectId ## preRequisiteSubjects
+					subjectName ## preRequisiteSubjects
+					subjectCode ## preRequisiteSubjects
+					grade ie C, 80
+					

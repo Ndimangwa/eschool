@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>344</studentId>
+  <studentName>GODFREY ADAM MACKENZIE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>NYEGEZI SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0146.0037.2010</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>CONSOLATA SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0174.0512</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>box 76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ASHA MUSTAPHA KAKWAYA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>822</postalAddress>
+      <physicalAddress>musoma</physicalAddress>
+      <fax/>
+      <telephone>+255784685188</telephone>
+      <mobile>+255784685188</mobile>
+      <email>mgodfreyadam@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

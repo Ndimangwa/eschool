@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5746</studentId>
+  <studentName>GIDION JACKSON SILAYO</studentName>
+  <accademicHistory><institution><institutionName>TARAKEA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0818.0103.2013</indexNumber><award>CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION THREE POINT 26</grade><startYear>2010</startYear><endYear>2013</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JACKSON SILAYO</sponsorName><payerId>3</payerId><postalAddress>P.O BOX 4</postalAddress><physicalAddress>TARAKEA ROMBO</physicalAddress><fax/><telephone/><mobile/><email/><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELIAS  SILAYO</kinName><relationship>UNCLE</relationship><postalAddress>P.O BOX 4</postalAddress><physicalAddress>TARAKEA ROMBO</physicalAddress><fax/><telephone>0756557861</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GIDION JACKSON SILAYO</accountName><bankAccount>40610004096</bankAccount><bankName>NMB</bankName><branchName>TARAKEA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>9a0b86477f2b831ea7a24664a0c0aeee</isaacompletechecksum></student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1786</studentId>
+  <studentName>TUMAINI EXUPERY MIRAI</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KIBOSHO GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0205/0128</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIFUNGILO GIRLS SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0224/0543</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>NEVILLE D. MTENGA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>PO BOX 7468</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <sponsorfax>02552753651</sponsorfax>
+      <mobile>0755395596</mobile>
+      <email>mtenganeville2015@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NEVILLE D. MTENGA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>POBOX 7468</postalAddress>
+      <physicalAddress>MOSHI</physicalAddress>
+      <fax/>
+      <telephone>02552753651</telephone>
+      <mobile>0755395596</mobile>
+      <email>mtenganeville2015@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

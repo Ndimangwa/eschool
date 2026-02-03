@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>432</studentId>
+  <studentName>Fat-hiya Farid Ahmed Mahmoud</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>sheikh khalifa bin zayed al-nahyan</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>106304/149</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>none</institutionName>
+      <specialization>none</specialization>
+      <levelId>8</levelId>
+      <indexNumber>none</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>none</institutionName>
+      <specialization>none</specialization>
+      <levelId>8</levelId>
+      <indexNumber>none</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>lugansk state medical university</institutionName>
+      <specialization>medical doctor</specialization>
+      <levelId>15</levelId>
+      <indexNumber>010787</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>none</institutionName>
+      <specialization>none</specialization>
+      <levelId>17</levelId>
+      <indexNumber>none</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>hussein abdallah said</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>229,kilifi,kenya</postalAddress>
+      <physicalAddress>229,kilifi,kenya</physicalAddress>
+      <fax/>
+      <sponsorfax>+254724992237</sponsorfax>
+      <mobile>+254733854402</mobile>
+      <email>mkilifi@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>fat-hiya farid ahmed mahmoud</kinName>
+      <relationship>married</relationship>
+      <postalAddress>229,kilifi,kenya</postalAddress>
+      <physicalAddress>229,kilifi,kenya</physicalAddress>
+      <fax/>
+      <telephone>+254724992237</telephone>
+      <mobile>+254733854402</mobile>
+      <email>mkilifi@hotmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

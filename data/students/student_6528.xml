@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6528</studentId>
+  <studentName>WOLTER E MAUKI</studentName>
+  <accademicHistory><institution><institutionName>MBEZI BEACH SECONDARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0938.0148.2012</indexNumber><award>certificate of secondary education</award><grade>three</grade><startYear>2009</startYear><endYear>2012</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>0684247993</mobile><email>info@heslb.go.tz</email><financedItem>tuition fee,food accommodation,stationery,</financedItem><extraInformation>dar es salaam</extraInformation></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ELIBARIKI MAUKI</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 60401 DAR ES SALAAM</postalAddress><physicalAddress>DINA KESSY</physicalAddress><fax></fax><telephone>0713319811</telephone><mobile></mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>WOLTER MAUKI</accountName><bankAccount>0152241593500</bankAccount><bankName>CRDB</bankName><branchName>HOLLAND TOWER</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>e3c4e6907607ad7359ea3aa5f56c668a</isaacompletechecksum></student>

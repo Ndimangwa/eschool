@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2496</studentId>
+  <studentName>Ntakilumo K Bihendwa</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>Murufiti secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1620-0058</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>Tarime secondary school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0352-0668</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O BOX 76068 MWENGE</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Pudensia Ntirubigwa</kinName>
+      <relationship>Mother</relationship>
+      <postalAddress>P.O .BOX 193,KASULU</postalAddress>
+      <physicalAddress>BUGAGA-KASULU</physicalAddress>
+      <fax/>
+      <telephone>0753036659</telephone>
+      <mobile>00255753036659</mobile>
+      <email>Pudensiahanya@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

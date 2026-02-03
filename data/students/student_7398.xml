@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7398</studentId>
+  <studentName>GABRIEL LEMBRIS</studentName>
+  <accademicHistory><institution><institutionName>ARUSHA CATHOLIC SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0171.0013.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION TWO</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TARAKEA HIGH SCHOOL</institutionName><specialization>CBG</specialization><levelId>8</levelId><indexNumber>S0818.0609.2016</indexNumber><award>ADVANCE CERTIFICATE OF SECONDARY SCHOOL</award><grade>DIVISION 4</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JACKSON </sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 9523</postalAddress><physicalAddress>SIMANJIRO</physicalAddress><fax/><telephone>+255767999924</telephone><mobile>0767999924</mobile><email>jacksonoleyamat@gmail.com</email><financedItem>UNCLE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>SARAH</kinName><relationship>MOTHER</relationship><postalAddress>P.O.BOX 9523</postalAddress><physicalAddress>SIMANJIRO</physicalAddress><fax></fax><telephone>+255768677778</telephone><mobile>0768677778</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GABRIEL LEMBRIS</accountName><bankAccount>035163000620</bankAccount><bankName>NBC</bankName><branchName>KIGOMA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7126e657763e1243f6f3e7ef6ad3b0cf</isaacompletechecksum></student>

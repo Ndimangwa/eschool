@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4454</studentId>
+  <studentName>BEATRICE ELIMRINGI MARINGO</studentName>
+  <accademicHistory><institution><institutionName>Kifungilo girl's secondary school</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0224.0011.2005</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2002</startYear><endYear>2005</endYear></institution><institution><institutionName>Kifungilo girl's secondary school</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0224.0503.2008</indexNumber><award>ADAVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2006</startYear><endYear>2008</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor/>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>f825ce2daa9daac23a9125ca2fbf317e</isaacompletechecksum></student>

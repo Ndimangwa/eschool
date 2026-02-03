@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3267</studentId>
+  <studentName>gilbet mark florence</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ubaa secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s.2844/0114</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>kigonsera secondary school</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s0120/0583</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>Higher education student loan board</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.O.BOX 76068 DSM</postalAddress>
+      <physicalAddress>Dar es Salaam Tanzania</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>mark florence mrosso</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>136mkuu rombo</postalAddress>
+      <physicalAddress>shinyanga</physicalAddress>
+      <fax/>
+      <telephone>0757869119</telephone>
+      <mobile>0757869119</mobile>
+      <email>markmrosso@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

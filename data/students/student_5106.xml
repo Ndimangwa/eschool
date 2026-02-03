@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5106</studentId>
+  <studentName>FLORIAN T QUWANGA</studentName>
+  <accademicHistory><institution><institutionName>BARGISH SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S3575.0087.2013</indexNumber><award>CSEE</award><grade>DIVISION ONE</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>SANU SEMINARY</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0168.0520.2016</indexNumber><award>ACSEE</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENT`S LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068 </postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem>TUTION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>SIMON</kinName><relationship>BROTHER</relationship><postalAddress>P.O.BOX 88 </postalAddress><physicalAddress>MBULU</physicalAddress><fax/><telephone>0688504444</telephone><mobile>0688504444</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>CHAP CHAP</accountName><bankAccount>41210004612</bankAccount><bankName>NMB</bankName><branchName>MBULU</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>977ec45b062cc5b5cd6614f57ac3f58f</isaacompletechecksum></student>

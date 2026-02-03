@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3986</studentId>
+  <studentName>JASPER JASSON WAMARA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PEACE SECONDARY SCOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1689/0163/2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MAGU SECONDARY SCOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0539/0585/2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>heslb</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068 DAR ES SALAAM</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MUGISHA JOHN ANDREW</kinName>
+      <relationship>UNCLE</relationship>
+      <postalAddress>p.O.BOX 1959 BUKOBA</postalAddress>
+      <physicalAddress>HAMUGEMBE,BUKOBA,KAGERA,TANZANIA</physicalAddress>
+      <fax/>
+      <telephone>0784302327</telephone>
+      <mobile>0754047766</mobile>
+      <email>Mugishajohn35@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

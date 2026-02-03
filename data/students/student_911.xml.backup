@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>911</studentId>
+  <studentName>VICTORIA MAIGE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MOSHI TECHNICAL SEC SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0135/0037</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>BWIRU GIRLS SEC SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0202/0550</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>dar es salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ELIZABETH MAIGE</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>254 maswa</postalAddress>
+      <physicalAddress>simiyu</physicalAddress>
+      <fax/>
+      <telephone>0782673772</telephone>
+      <mobile>0755658358</mobile>
+      <email>maigevictoria@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

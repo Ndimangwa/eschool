@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>470</studentId>
+  <studentName>MARTHA OSHOSEN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ZANAKI SEC. SCHOOL </institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s0222-0152</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DAR-ES-SALAAM PRIME HIGH SCHOOL</institutionName>
+      <specialization>HKL</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s1276-0508</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>DAR-ES-SALAAM PRIME HIGH SCHOOL</institutionName>
+      <specialization>HKL</specialization>
+      <levelId>8</levelId>
+      <indexNumber>s1276-0508</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>UNIVERSITY OF DAR-ES-SALAAM</institutionName>
+      <specialization>B.A SOCIOLOGY AND PHILOSOPHY</specialization>
+      <levelId>15</levelId>
+      <indexNumber>2006-04-07121</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>OSHOSENY HOSEA MWANGA</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 10591</postalAddress>
+      <physicalAddress>VIJIBWENI,KIGAMBONI</physicalAddress>
+      <fax/>
+      <sponsorfax>0715986059</sponsorfax>
+      <mobile>0715986059</mobile>
+      <email>mwangaombeni@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>OMBENI MWANGA</kinName>
+      <relationship>YOUNG SISTER</relationship>
+      <postalAddress>P.O.BOX 10591</postalAddress>
+      <physicalAddress>KURASINI,TEMEKE</physicalAddress>
+      <fax/>
+      <telephone>0712468371</telephone>
+      <mobile>0712468371</mobile>
+      <email>mwangaombeni@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5081</studentId>
+  <studentName>EMMANUEL BUBERWA</studentName>
+  <accademicHistory><institution><institutionName>MOSHI SEC0NDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0134.0017.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MOSHI SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0134.0546.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION EXAMINATION</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGHER EDUCATION STUDENTS' LOAN BOARD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR-ES-SALAAM</physicalAddress><fax>0222772432</fax><telephone>0222700286</telephone><mobile/><email>info@heslb.go.tz</email><financedItem>TUTION FEE</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>EMMANUEL DAVID BUBERWA</accountName><bankAccount>0152554285600</bankAccount><bankName>CRDB</bankName><branchName>MBUYUNI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>153e8f88022d871fbc989d939b06afdb</isaacompletechecksum></student>

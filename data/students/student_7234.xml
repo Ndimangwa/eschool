@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>7234</studentId>
+  <studentName>jastin p simon</studentName>
+  <accademicHistory><institution><institutionName>KCMUCO</institutionName><specialization>OCCUPATIONAL THERAPY</specialization><levelId>4</levelId><indexNumber>S3490.0072.2014</indexNumber><award>FORM FOUR CERTIFICATE</award><grade>THREE</grade><startYear>2011</startYear><endYear>2014</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>FATHER</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 38 UVINZA</postalAddress><physicalAddress>P.O.BOX 38 UVINZA</physicalAddress><fax></fax><telephone>0755536523</telephone><mobile></mobile><email></email><financedItem>SCHOOL FEE</financedItem><extraInformation></extraInformation></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks/>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>19eb86bc1de4b5cbc74905b7298115ed</isaacompletechecksum></student>

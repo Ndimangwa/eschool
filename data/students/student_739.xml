@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>739</studentId>
+  <studentName>SAMWEL MATAGE MARTIN</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>PUGU STATION SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1947/0182</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>ARUSHA MERU CENTER</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>P0303/0535</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>MARTIN MATAGE</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 40755</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>0784756122</sponsorfax>
+      <mobile>00255784756122</mobile>
+      <email>Martinmatage@gmail.com</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>MARTIN MATAGE</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>P.O.BOX 40755</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0784756122</telephone>
+      <mobile>00255784756122</mobile>
+      <email>Martinmatage@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

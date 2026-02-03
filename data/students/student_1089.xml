@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1089</studentId>
+  <studentName>Abbas F Mohamedali</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>mount kilimanjaro secondary school</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>s1112/0009</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>mount kilimanjaro school</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>TZ015/0015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>p.o.box 76068</postalAddress>
+      <physicalAddress>mwenge, dar es salaaam</physicalAddress>
+      <fax/>
+      <sponsorfax>0222772432</sponsorfax>
+      <mobile>0222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Zahra Mohamedali</kinName>
+      <relationship>mother</relationship>
+      <postalAddress>p.o.box 1052</postalAddress>
+      <physicalAddress>Mawenzi road h101</physicalAddress>
+      <fax/>
+      <telephone>0783485155</telephone>
+      <mobile>0783485155</mobile>
+      <email>zahara5221@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

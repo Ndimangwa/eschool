@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4731</studentId>
+  <studentName>S1009-0146</studentName>
+  <accademicHistory><institution><institutionName>BABATI DAY SEC.SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S1009.0146.2013</indexNumber><award>DIVISION THREE</award><grade>27</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>MKUU SEC SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0544.0800.2016</indexNumber><award>DIVISION THREE</award><grade>17</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>JENES JOSEPH</sponsorName><payerId>3</payerId><postalAddress>BOX 126 BABATI</postalAddress><physicalAddress>BOX 126</physicalAddress><fax/><telephone/><mobile>0785013195</mobile><email>www.josephjenes@gmail.com</email><financedItem>school fees</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins/>
+  <banks><bank><accountName>SIMON MASHA</accountName><bankAccount>4628113106035202</bankAccount><bankName>CRDB</bankName><branchName>BABATI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>41db1f27afa52a2fc9d09618aa023c7b</isaacompletechecksum></student>

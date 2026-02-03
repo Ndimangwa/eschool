@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>4072</studentId>
+  <studentName>MAHMOUD MOHAMED HAGAR</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KHARTOUM</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>0011</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KHARTOUM SECONDARY SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>01234567</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>ICRC</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>68 ICRC -sudan</postalAddress>
+      <physicalAddress>ICRC - SUDAN</physicalAddress>
+      <fax/>
+      <sponsorfax>+249912178952</sponsorfax>
+      <mobile>+249912178952</mobile>
+      <email>ssinha@icrc.org</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Yousif OSMAN</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>68  KHRTOUM</postalAddress>
+      <physicalAddress>NAPO SUDAN</physicalAddress>
+      <fax/>
+      <telephone>+249923070000</telephone>
+      <mobile>+249923070000</mobile>
+      <email>yousifpo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>294</studentId>
+  <studentName>RICHARD ALEXANDA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SLAHAMO SECONDARY  SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1401-0100</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MOSHI SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0134-0604</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>002552227724332</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALEXANDA CLEMENT</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>p.o.box 166 </postalAddress>
+      <physicalAddress>karatu</physicalAddress>
+      <fax/>
+      <telephone>00255766492444</telephone>
+      <mobile>00255766492444</mobile>
+      <email>richardalexander@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

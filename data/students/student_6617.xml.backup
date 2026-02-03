@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6617</studentId>
+  <studentName>GLADNESS N MKAWE</studentName>
+  <accademicHistory><institution><institutionName>EDMUND-RICE-SINON SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0629.0024.2004</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>3</grade><startYear>2001</startYear><endYear>2004</endYear></institution><institution><institutionName>HURUMA SCHOOL OF NURSING</institutionName><specialization>NURSING</specialization><levelId>12</levelId><indexNumber>27679</indexNumber><award>DIPLOMA</award><grade>PASS</grade><startYear>2008</startYear><endYear>2011</endYear></institution></accademicHistory>
+  <employmentHistory><employer><employerName>GSF KCMC</employerName><postalAddress>P.O BOX 3010</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone/><mobile/><email/><startYear>2011</startYear><endYear>2016</endYear><extraInformation/></employer></employmentHistory>
+  <financialSponsor><sponsor><sponsorName>GLADNESS NICHOLAUS MKAWE</sponsorName><payerId>1</payerId><postalAddress>P.O BOX 3010</postalAddress><physicalAddress>MOSHI</physicalAddress><fax/><telephone>0742711798</telephone><mobile/><email>gladymushy@gmail.com</email><financedItem>TUITION FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>NICHOLAUS MKAWE</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 617</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax/><telephone>0757666616</telephone><mobile/><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>GLADNESS NICHOLAUS MKAWE</accountName><bankAccount>42210000360</bankAccount><bankName>NMB</bankName><branchName>NELSON MANDELA</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>258107357cb9f344f4e0f3c60529911f</isaacompletechecksum></student>

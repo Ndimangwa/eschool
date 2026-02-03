@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>2035</studentId>
+  <studentName>ANTHONY MHIMBIRA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SWILLA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S1141/0016</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KIDUGALA LUTHERAN SEMINARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0167/0524</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENT'S LOAN BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR ES SAAAM , TANZANIA</physicalAddress>
+      <fax/>
+      <sponsorfax>0255222772432</sponsorfax>
+      <mobile>0255222772432</mobile>
+      <email>Info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>NURU NGELLAH</kinName>
+      <relationship>WIFE</relationship>
+      <postalAddress>187</postalAddress>
+      <physicalAddress>CHIMALA - MBEYA</physicalAddress>
+      <fax/>
+      <telephone>0763208805</telephone>
+      <mobile>0763208805</mobile>
+      <email>nrungellah@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

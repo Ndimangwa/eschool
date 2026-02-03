@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3981</studentId>
+  <studentName>GRAYSON ALOYCE</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>KISABA SECONDARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S3597.0087.2012</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LYAMUNGO SECONDARY</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0125.0890.2015</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>DAR-ES-SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222669036</sponsorfax>
+      <mobile>+255222669036</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ALOYCE SHEMALAMBA</kinName>
+      <relationship>FATHER</relationship>
+      <postalAddress>206</postalAddress>
+      <physicalAddress>LUSHOTO</physicalAddress>
+      <fax/>
+      <telephone>0787950097</telephone>
+      <mobile>0787950097</mobile>
+      <email>aloycegrayson@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks><bank><accountName>ALOYCE, GRAYSON</accountName><bankAccount>0152326961100</bankAccount><bankName>CRDB</bankName><branchName></branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>443b1cf67bc155b90fcc1b9b21e5deab</isaacompletechecksum></student>

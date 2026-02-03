@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>446</studentId>
+  <studentName>ALPHONCE LIYOYO</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST ANTHONYS SEC SCHOOL </institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0534-0060</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TAMBAZA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0347-0624</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>MUHAS</institutionName>
+      <specialization>DOCTOR OF MEDICINE</specialization>
+      <levelId>15</levelId>
+      <indexNumber>MD000254</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>President office-Public Service Management</employerName>
+      <postalAddress>P.O. Box 2483 DSM</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <telephone>00222118531</telephone>
+      <email>info@utumishi.go.tz</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>KCRI</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O. Box 2236 Moshi</postalAddress>
+      <physicalAddress>KCMC</physicalAddress>
+      <fax/>
+      <sponsorfax>00255272754201</sponsorfax>
+      <mobile>00255754572767</mobile>
+      <email>kcriadmin@kcri.ac.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>Stuart Liyoyo</kinName>
+      <relationship>brother</relationship>
+      <postalAddress>P.O. Box 1232 DSM</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <telephone>00255754430150</telephone>
+      <mobile>00255754430150</mobile>
+      <email>stuartliyoyo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

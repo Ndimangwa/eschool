@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>6584</studentId>
+  <studentName>Emmanuel melkiore tesha</studentName>
+  <accademicHistory><institution><institutionName>UCHIRA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0509.0108.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION(CSEE)</award><grade>DIVISION ONE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ILBORU HIGH SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0110.0593.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE</grade><startYear>2013</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>PO.BOX76068</postalAddress><physicalAddress>DARESSALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>Info@heslb.go.tz</email><financedItem/><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MELKIORE PARUO TESHA</kinName><relationship>FATHER</relationship><postalAddress>P.O BOX 3041</postalAddress><physicalAddress>ARUSHA</physicalAddress><fax></fax><telephone>0755775759</telephone><mobile>0755775759</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>EMMANUEL MELKIORE TESHA</accountName><bankAccount>0152327132900</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI BRANCH</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>156586670f8538f0b1f725365f3c4e3a</isaacompletechecksum></student>

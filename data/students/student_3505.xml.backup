@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>3505</studentId>
+  <studentName>AICHIWAKE MALISA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>MACHAME GIRLS SECONDARY SHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>SO212-0003</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>LOLEZA HIGH SCHOOL</institutionName>
+      <specialization>CBG</specialization>
+      <levelId>8</levelId>
+      <indexNumber>SO211/0505</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>KCMC MEDICAL TRAINING CENTRE MOSHI</institutionName>
+      <specialization>DIPLOMA IN PHYSIOTHERAPY</specialization>
+      <levelId>8</levelId>
+      <indexNumber>PT.KCMC/II/06/05</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>DED MOSHI DISTRICT COUNCIL</employerName>
+      <postalAddress>b0x 3003 MOSHI</postalAddress>
+      <physicalAddress>MOSHI RURAL</physicalAddress>
+      <telephone>00255272755172</telephone>
+      <email>mkurugenzimoshidc@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HIGHER EDUCATION STUDENTS' LOANS BOARD</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>boX 76068</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+225222772432</mobile>
+      <email>info@hesib.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>REFOMA L TENGA</kinName>
+      <relationship>HUSBAND</relationship>
+      <postalAddress>MOSHI RURAL</postalAddress>
+      <physicalAddress>BOX 663</physicalAddress>
+      <fax/>
+      <telephone>00255272758707</telephone>
+      <mobile>0714295596</mobile>
+      <email>kiwonyi75@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

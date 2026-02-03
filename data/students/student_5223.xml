@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5223</studentId>
+  <studentName>ABDULLA MWITA ABDULLA</studentName>
+  <accademicHistory><institution><institutionName>KUSINI SECONDARY SCHOOL</institutionName><specialization>SCIENCE </specialization><levelId>4</levelId><indexNumber>S4250.0027.2013</indexNumber><award>NO</award><grade>DIVISION THREE </grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>TUMEKUJA SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>8</levelId><indexNumber>S0382.0553.2016</indexNumber><award>PHYSIC AWARD</award><grade>DIVISION ONE</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HESLB</sponsorName><payerId>2</payerId><postalAddress>P.O BOX 76068 DAR ES SALAAM</postalAddress><physicalAddress>DAR ES SALAAM TANZANIA</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>TUITION FEES </financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>MWITA ABDALLA MTAONA</kinName><relationship>PARENT</relationship><postalAddress>PO BOX 18 MAKUNDUCHI ZANZIBAR</postalAddress><physicalAddress>ZANZIBAR</physicalAddress><fax/><telephone>0777493475</telephone><mobile>0777493475</mobile><email/><extraInformation/></nextOfKin></nextOfKins>
+  <banks><bank><accountName>ABDULLA MWITA ABDULLA</accountName><bankAccount>0152327162600</bankAccount><bankName>CRDB BANK</bankName><branchName>MOSHI</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>59f8464b0b2c46bf45d09a46c3ba9294</isaacompletechecksum></student>

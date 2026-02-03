@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1381</studentId>
+  <studentName>BARNABA BARAKA</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>SABASABA SECONDARY SCHOOL</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0528/0082</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>IYUNGA SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0112/0512</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory/>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>GOVERNMENT GRANT</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>76068</postalAddress>
+      <physicalAddress>Dar es Salaam</physicalAddress>
+      <fax/>
+      <sponsorfax>+255222772432</sponsorfax>
+      <mobile>+255222772433</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>TATU OMARI MGONJA</kinName>
+      <relationship>MOTHER</relationship>
+      <postalAddress>573</postalAddress>
+      <physicalAddress>MTWARA</physicalAddress>
+      <fax/>
+      <telephone>+255716164230</telephone>
+      <mobile>+255786965820</mobile>
+      <email>tatumo@yahoo.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

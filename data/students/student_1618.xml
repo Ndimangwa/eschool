@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>1618</studentId>
+  <studentName>KELVIN KIDEKA IDD</studentName>
+  <accademicHistory>
+    <institution>
+      <institutionName>ST. JOHN'S JUNIOR SEMINARY</institutionName>
+      <specialization>Certificate of Secondary Education</specialization>
+      <levelId>4</levelId>
+      <indexNumber>S0192/0024</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>TABORA BOYS' SECONDARY SCHOOL</institutionName>
+      <specialization>PCB</specialization>
+      <levelId>8</levelId>
+      <indexNumber>S0155/0568</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+    <institution>
+      <institutionName>COTC KILOSA</institutionName>
+      <specialization>CLINICAL OFFICER</specialization>
+      <levelId>8</levelId>
+      <indexNumber>CO/KL/09/15</indexNumber>
+      <award/>
+      <grade/>
+      <startYear/>
+      <endYear/>
+    </institution>
+  </accademicHistory>
+  <employmentHistory>
+    <employer>
+      <employerName>KOROGWE TOWN DIRECTOR</employerName>
+      <postalAddress>P.O.BOX 615</postalAddress>
+      <physicalAddress>KOROGWE TOWN</physicalAddress>
+      <telephone>0272650050</telephone>
+      <email>ktc_td@yahoo.com</email>
+      <mobile/>
+      <fax/>
+      <startYear/>
+      <endYear/>
+      <extraInformation/>
+    </employer>
+  </employmentHistory>
+  <financialSponsor>
+    <sponsor>
+      <sponsorName>HESLB</sponsorName>
+      <payerId>11</payerId>
+      <postalAddress>P.O.BOX 76068</postalAddress>
+      <physicalAddress>MWENGE, DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <sponsorfax>00255222772432</sponsorfax>
+      <mobile>00255222772432</mobile>
+      <email>info@heslb.go.tz</email>
+      <financedItem/>
+      <extraInformation/>
+    </sponsor>
+  </financialSponsor>
+  <nextOfKins>
+    <nextOfKin>
+      <kinName>ZEPHANIAH PETER</kinName>
+      <relationship>BROTHER</relationship>
+      <postalAddress>P.O.BOX 31740</postalAddress>
+      <physicalAddress>DAR ES SALAAM</physicalAddress>
+      <fax/>
+      <telephone>0653162644</telephone>
+      <mobile>0653162644</mobile>
+      <email>zepter58@gmail.com</email>
+      <extraInformation/>
+    </nextOfKin>
+  </nextOfKins>
+  <banks/>
+  <subjects/>
+  <results/>
+</student>

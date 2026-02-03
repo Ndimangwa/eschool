@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<student>
+  <studentId>5110</studentId>
+  <studentName>YOHANA Z KAZULA</studentName>
+  <accademicHistory><institution><institutionName>MOSHI TECHNICAL SECONDARY SCHOOL</institutionName><specialization>SCIENCE</specialization><levelId>4</levelId><indexNumber>S0135.0182.2013</indexNumber><award>CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE, POINT 11</grade><startYear>2010</startYear><endYear>2013</endYear></institution><institution><institutionName>ILBORU SECONDARY SCHOOL</institutionName><specialization>PCB</specialization><levelId>8</levelId><indexNumber>S0110.0720.2016</indexNumber><award>ADVANCED CERTIFICATE OF SECONDARY EDUCATION</award><grade>DIVISION ONE,POINT 8</grade><startYear>2014</startYear><endYear>2016</endYear></institution></accademicHistory>
+  <employmentHistory/>
+  <financialSponsor><sponsor><sponsorName>HIGH EDUCATION STUDENTS' LOANS BORD</sponsorName><payerId>2</payerId><postalAddress>P.O.BOX 76068</postalAddress><physicalAddress>DAR ES SALAAM</physicalAddress><fax>+255222700286</fax><telephone>+255222772432</telephone><mobile>+255222772432</mobile><email>info@heslb.go.tz</email><financedItem>FEES,STATIONARY,SPECIAL FACULT REQUIREMENTS,RESEARCH,MEALS</financedItem><extraInformation/></sponsor><sponsor><sponsorName>ZACHARIA KAZULA</sponsorName><payerId>3</payerId><postalAddress>P.O.BOX 237 MUSOMA</postalAddress><physicalAddress>MWANZA</physicalAddress><fax/><telephone>0757403364</telephone><mobile>0757403364</mobile><email/><financedItem>FEES</financedItem><extraInformation/></sponsor></financialSponsor>
+  <nextOfKins><nextOfKin><kinName>ZACHARIA KAZULA</kinName><relationship>FATHER</relationship><postalAddress>P.O.BOX 237 MUSOMA</postalAddress><physicalAddress>MWANZA</physicalAddress><fax></fax><telephone>0757403364</telephone><mobile>0757403364</mobile><email></email><extraInformation></extraInformation></nextOfKin></nextOfKins>
+  <banks><bank><accountName>YOHANA ZACHARIA KAZULA</accountName><bankAccount>5370293823020419</bankAccount><bankName>CRDB</bankName><branchName>KCMC</branchName></bank></banks>
+  <subjects/>
+  <results/>
+<isaacompletechecksum>7ec97c19769aca9812c4d6bbf8988f29</isaacompletechecksum></student>
