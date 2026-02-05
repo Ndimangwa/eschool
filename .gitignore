@@ -1,5 +1,2 @@
 vendor/*
-config.php
-data/students/photo/*
-data/instructors/photo/*
-data/users/photo/*
+data*
